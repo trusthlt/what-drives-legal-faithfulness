@@ -327,3 +327,21 @@ run successfully on the curated inputs. GPU generation,
 fine-tuning, the full Polars report, dataset regression, and Bayesian MCMC require
 dependencies or hardware unavailable in the restructuring environment and were
 not executed as part of this reorganization.
+
+## Contact
+
+Yassine Thlija: [yassine.thlija@stud.tu-darmstadt.de](mailto:yassine.thlija@stud.tu-darmstadt.de)
+
+## Citation
+
+```bibtex
+@inproceedings{Thlija.et.al.2026.Faithful,
+  title     = {What Drives an {LLM}{'}s Legal Reasoning? Measuring Faithfulness at the Concept Level},
+  author    = {Thlija, Yassine and Held, Lena and Habernal, Ivan},
+  booktitle = {Proceedings of the Natural Legal Language Processing Workshop 2026},
+  publisher = {Association for Computational Linguistics},
+  address   = {Budapest, Hungary},
+  pages     = {303--320},
+  doi       = {10.18653/2026.nllp-1.26}
+}
+```
