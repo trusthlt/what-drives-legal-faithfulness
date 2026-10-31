@@ -1,0 +1,7791 @@
+{
+  "dataset_faithfulness_mean": 0.298306284371977,
+  "num_questions_used": 192,
+  "question_faithfulness": {
+    "1. Answers and objections": {
+      "faithfulness": 0.6217562115628703,
+      "num_concepts": 5,
+      "concepts_used": [
+        "accident location",
+        "allegation",
+        "court",
+        "defendant",
+        "plaintiff"
+      ],
+      "CE_values": [
+        0.00020151941857862537,
+        0.019716751827170847,
+        0.0008708685197032587,
+        0.0007244973423886749,
+        0.00044835492634354184
+      ],
+      "EE_values": [
+        0.0,
+        4.0,
+        1.6,
+        3.8,
+        0.0
+      ]
+    },
+    "1. Bad words": {
+      "faithfulness": 0.48661368908934816,
+      "num_concepts": 14,
+      "concepts_used": [
+        "alleged_conduct",
+        "alleged_effect",
+        "alleged_victim",
+        "alleged_victim_location",
+        "alleged_victim_status",
+        "call_origin",
+        "claim",
+        "court",
+        "defendant",
+        "defendant_residence",
+        "plaintiff",
+        "plaintiff_residence",
+        "statute",
+        "statute_condition"
+      ],
+      "CE_values": [
+        1.5248865555249704e-05,
+        5.8482132202716344e-05,
+        2.212187712817818e-05,
+        0.00013475400608813803,
+        0.00012442018698044345,
+        0.016639008973848998,
+        0.00012895946953656563,
+        0.0005953267056718993,
+        0.0002763937446343123,
+        0.016123053529213508,
+        0.00035006442566379607,
+        0.00021325841960944926,
+        0.00017483871332183657,
+        0.004978846159492293
+      ],
+      "EE_values": [
+        2.2,
+        2.8,
+        1.5,
+        3.4,
+        2.75,
+        4.0,
+        1.0,
+        1.5,
+        3.4,
+        3.4,
+        1.25,
+        1.4,
+        4.0,
+        4.0
+      ]
+    },
+    "1. Elementary principles": {
+      "faithfulness": 0.34782568896000926,
+      "num_concepts": 11,
+      "concepts_used": [
+        "claim",
+        "court",
+        "current_arm_usage",
+        "damages",
+        "defendant",
+        "defendant's_motion",
+        "defendant's_treatment",
+        "plaintiff",
+        "plaintiff's_complaint",
+        "plaintiff's_condition",
+        "stage_of_case"
+      ],
+      "CE_values": [
+        0.003273900095008756,
+        0.0001609603812008959,
+        0.013040015537512335,
+        0.002052526459420511,
+        0.0002799323401622393,
+        0.017411034617130144,
+        0.003988989706970122,
+        0.0003442220212800391,
+        0.004438688987734567,
+        0.08521589093216292,
+        0.013848448780628454
+      ],
+      "EE_values": [
+        4.0,
+        0.5,
+        1.6,
+        1.6,
+        2.6,
+        4.0,
+        3.4,
+        0.8,
+        0.8,
+        3.4,
+        4.0
+      ]
+    },
+    "1. Gone, but not forgotten": {
+      "faithfulness": 0.7789535993951116,
+      "num_concepts": 10,
+      "concepts_used": [
+        "agreed fee",
+        "court",
+        "current location of hiring party",
+        "hired party",
+        "hiring party",
+        "location of hiring",
+        "location of non-payment",
+        "reason for service location visit",
+        "service",
+        "service location"
+      ],
+      "CE_values": [
+        0.0005334798877462516,
+        0.025506677511398988,
+        0.0008777794245103257,
+        0.0016962046962280218,
+        0.003188998279850021,
+        0.015792470995860477,
+        0.0006797288047822638,
+        0.002214112630435101,
+        0.0007523644275277173,
+        0.125853271764231
+      ],
+      "EE_values": [
+        0.2,
+        2.4,
+        0.6,
+        0.4,
+        2.6,
+        0.6,
+        0.0,
+        1.6,
+        0.6,
+        4.0
+      ]
+    },
+    "1. Late, or too late": {
+      "faithfulness": 0.46008232667744026,
+      "num_concepts": 10,
+      "concepts_used": [
+        "additional claim",
+        "basis of motion",
+        "date of amendment",
+        "date of filing",
+        "date of motion to dismiss",
+        "date of service",
+        "destination",
+        "injuries",
+        "property damage",
+        "relationship"
+      ],
+      "CE_values": [
+        0.0012884599298802113,
+        0.00879975298675102,
+        0.007036766475421466,
+        0.008375256621343696,
+        0.01026916866581629,
+        0.0031500897915483135,
+        0.0009164063465899532,
+        0.000774358788040472,
+        0.001954322856027156,
+        0.0038957033527600347
+      ],
+      "EE_values": [
+        2.4,
+        1.75,
+        3.2,
+        1.4,
+        4.0,
+        3.2,
+        0.0,
+        1.2,
+        2.0,
+        0.2
+      ]
+    },
+    "1. Law and facts": {
+      "faithfulness": 0.451376009850788,
+      "num_concepts": 6,
+      "concepts_used": [
+        "claim",
+        "defendant's_denial",
+        "legal_rule",
+        "location",
+        "plaintiff's_position",
+        "procedural_action"
+      ],
+      "CE_values": [
+        0.0003161922985264965,
+        0.0044546464165167105,
+        0.002718519949797977,
+        0.0001877911200830972,
+        0.004997939275849526,
+        0.0029549587825623393
+      ],
+      "EE_values": [
+        1.5,
+        1.75,
+        4.0,
+        0.5,
+        2.5,
+        4.0
+      ]
+    },
+    "1. Life before Erie": {
+      "faithfulness": 0.4940465179822656,
+      "num_concepts": 13,
+      "concepts_used": [
+        "alleged duty",
+        "applicable law",
+        "court",
+        "defendant",
+        "injury cause",
+        "injury location",
+        "jurisdiction basis",
+        "person",
+        "railroad awareness",
+        "state",
+        "state case law",
+        "state law",
+        "year"
+      ],
+      "CE_values": [
+        0.002219661907379617,
+        0.036622300818487656,
+        0.0037040594829889023,
+        0.00021769732666800012,
+        0.00047861335101684034,
+        0.0008942415636474593,
+        0.01445714154697669,
+        0.007822324140652653,
+        0.00037961177930608925,
+        0.02685048019262866,
+        0.008172241717418403,
+        0.036628758106933335,
+        0.0006673365350210297
+      ],
+      "EE_values": [
+        3.0,
+        3.0,
+        3.0,
+        0.6,
+        0.2,
+        1.0,
+        3.3333333333333335,
+        0.2,
+        1.0,
+        3.6,
+        4.0,
+        3.4,
+        3.4
+      ]
+    },
+    "1. Line-up": {
+      "faithfulness": null,
+      "num_concepts": 1,
+      "concepts_used": [
+        "jurisdiction_basis"
+      ],
+      "CE_values": [
+        0.011829659752246086
+      ],
+      "EE_values": [
+        4.0
+      ]
+    },
+    "1. Making a federal case": {
+      "faithfulness": 0.40416260614950406,
+      "num_concepts": 10,
+      "concepts_used": [
+        "allegation",
+        "claim",
+        "counterclaim",
+        "court",
+        "defendant",
+        "defendant's former role",
+        "defendant's response",
+        "jurisdiction basis",
+        "motion",
+        "plaintiff"
+      ],
+      "CE_values": [
+        0.0007304942411529398,
+        0.0009349145545908825,
+        0.001530346592226713,
+        0.005872549615728798,
+        0.011060524603373605,
+        0.0009679035772957512,
+        0.029942761199024316,
+        0.050210978679497885,
+        0.007998126016459458,
+        0.006622692559364367
+      ],
+      "EE_values": [
+        0.8,
+        3.6,
+        3.0,
+        2.75,
+        2.0,
+        0.75,
+        2.6,
+        4.0,
+        3.75,
+        3.6
+      ]
+    },
+    "1. Missing in action": {
+      "faithfulness": 0.3403742065368066,
+      "num_concepts": 9,
+      "concepts_used": [
+        "alleged_infringement",
+        "alleged_source",
+        "defendant",
+        "defendant's_claim",
+        "disclosure_omission",
+        "disclosure_phase",
+        "new_evidence",
+        "plaintiff",
+        "timing_of_letter"
+      ],
+      "CE_values": [
+        0.002246124298160542,
+        0.0005095772449291477,
+        0.0008705809848959048,
+        0.0006951073886326473,
+        0.16197550632930705,
+        0.002725038020825236,
+        0.005689553807105218,
+        0.02487358457432301,
+        0.0009082654772372678
+      ],
+      "EE_values": [
+        1.75,
+        3.0,
+        1.6,
+        3.6666666666666665,
+        4.0,
+        3.8,
+        3.8,
+        0.8,
+        1.0
+      ]
+    },
+    "1. Moving Marla": {
+      "faithfulness": 0.26494168870032225,
+      "num_concepts": 7,
+      "concepts_used": [
+        "destination",
+        "duration",
+        "institution",
+        "origin",
+        "plan",
+        "preferred job locations",
+        "purpose"
+      ],
+      "CE_values": [
+        0.010935563071874165,
+        0.008830259403862431,
+        0.0021297454761311754,
+        0.04770916252228713,
+        0.007016742154576441,
+        0.0021141319404419773,
+        0.00041839086539058605
+      ],
+      "EE_values": [
+        3.6,
+        2.0,
+        0.25,
+        2.75,
+        4.0,
+        2.2,
+        2.0
+      ]
+    },
+    "1. Objection, objection": {
+      "faithfulness": 0.46281672604663165,
+      "num_concepts": 12,
+      "concepts_used": [
+        "allegation",
+        "claim",
+        "counsel's reaction",
+        "court",
+        "defendant",
+        "evidence admitted",
+        "ground for motion",
+        "injury",
+        "motion filed",
+        "plaintiff",
+        "timing of motion",
+        "verdict"
+      ],
+      "CE_values": [
+        0.0004851878804382672,
+        0.0010908559710449844,
+        0.002053564741375351,
+        0.0008968181248274898,
+        0.003964311039961444,
+        0.004773437620793502,
+        0.030804992232042756,
+        0.0010348308471098049,
+        0.004592372570654011,
+        0.012161958487274287,
+        0.0032636194436944164,
+        0.002346966476777626
+      ],
+      "EE_values": [
+        0.8,
+        0.4,
+        0.6,
+        0.75,
+        2.4,
+        4.0,
+        3.8,
+        0.0,
+        3.2,
+        0.4,
+        2.2,
+        2.6
+      ]
+    },
+    "1. Patent medicine": {
+      "faithfulness": 0.14591701797322004,
+      "num_concepts": 9,
+      "concepts_used": [
+        "alleged agreement",
+        "claim",
+        "company",
+        "court",
+        "court change",
+        "defendant",
+        "defendant's conduct",
+        "defendant's defense",
+        "defendant's reason"
+      ],
+      "CE_values": [
+        0.0006811566809245353,
+        0.0014280046323355503,
+        0.00011161082549856327,
+        0.07027236495976288,
+        0.0013745123187142879,
+        0.012104605278312348,
+        0.0006676520712240182,
+        0.016697527882522878,
+        0.0045791927681590365
+      ],
+      "EE_values": [
+        0.6,
+        1.25,
+        0.2,
+        2.0,
+        3.5,
+        3.2,
+        0.4,
+        3.6,
+        4.0
+      ]
+    },
+    "1. Potpourri": {
+      "faithfulness": 0.2035651239701287,
+      "num_concepts": 16,
+      "concepts_used": [
+        "alleged_reason_for_discharge",
+        "breach_of_duty",
+        "contract_violation",
+        "court",
+        "damages_sought_1",
+        "damages_sought_2",
+        "defendant",
+        "defendant_ownership",
+        "legal_claim_1",
+        "plaintiff",
+        "plaintiff_occupation",
+        "property_title",
+        "relationship",
+        "remedy_sought_1",
+        "remedy_sought_2",
+        "venture"
+      ],
+      "CE_values": [
+        0.00020223975593696735,
+        0.0030366591106413903,
+        0.0013810835142688182,
+        0.008467172382702086,
+        0.0007374215687568198,
+        0.004627331821695755,
+        0.0026595787917551984,
+        0.0003807300592634528,
+        0.000654965866857034,
+        0.001307861924616092,
+        0.00047628623012429205,
+        0.00036084965510243134,
+        0.0011108525341378501,
+        0.0007514010195896994,
+        0.0014615418435293796,
+        0.0019943747465088224
+      ],
+      "EE_values": [
+        0.6,
+        1.8,
+        1.8,
+        1.5,
+        0.2,
+        0.6,
+        3.4,
+        0.8,
+        1.2,
+        1.2,
+        0.2,
+        0.5,
+        2.8,
+        1.75,
+        1.2,
+        0.8
+      ]
+    },
+    "1. Redistricting": {
+      "faithfulness": 0.2742745480149737,
+      "num_concepts": 9,
+      "concepts_used": [
+        "claim_against_defendant1",
+        "claim_against_defendant2",
+        "construction_status",
+        "defendant1_residence",
+        "defendant2_residence",
+        "financing_status",
+        "negotiations_location",
+        "plaintiff_residence",
+        "project_location"
+      ],
+      "CE_values": [
+        0.053894566295022824,
+        0.004148988738914647,
+        0.0391554151702458,
+        0.08034435247158826,
+        0.7829325917166045,
+        0.0033305832208434254,
+        0.241267280319647,
+        0.05590658760199644,
+        0.9441397863921114
+      ],
+      "EE_values": [
+        1.0,
+        1.2,
+        2.3333333333333335,
+        1.0,
+        1.4,
+        2.75,
+        2.2,
+        1.0,
+        2.6
+      ]
+    },
+    "1. Ruin and res judicata": {
+      "faithfulness": -0.8545477263164185,
+      "num_concepts": 6,
+      "concepts_used": [
+        "first_claim_basis",
+        "first_claim_outcome",
+        "first_claim_type",
+        "plaintiff",
+        "second_claim_basis",
+        "second_claim_type"
+      ],
+      "CE_values": [
+        0.0005955785271746066,
+        0.0005023538480980893,
+        0.0007948368524760245,
+        0.002429543608579137,
+        0.00033208013288038704,
+        0.0002701175016775051
+      ],
+      "EE_values": [
+        3.5,
+        2.5,
+        1.75,
+        0.75,
+        4.0,
+        4.0
+      ]
+    },
+    "1. Service without a smile": {
+      "faithfulness": 0.3789448522224865,
+      "num_concepts": 10,
+      "concepts_used": [
+        "claim",
+        "court",
+        "defendant",
+        "defendant's receipt",
+        "jurisdiction",
+        "legal context",
+        "plaintiff",
+        "service method",
+        "service recipient",
+        "service timing"
+      ],
+      "CE_values": [
+        0.0009848294411521333,
+        0.02340577098890785,
+        0.013194758365340006,
+        0.003970569004835983,
+        0.018054875748380307,
+        0.02891081938408395,
+        0.0016088256113800732,
+        0.003179835531103544,
+        0.0015018836122236531,
+        0.003919070197214195
+      ],
+      "EE_values": [
+        1.8,
+        3.0,
+        3.2,
+        3.75,
+        2.3333333333333335,
+        4.0,
+        0.2,
+        4.0,
+        1.0,
+        4.0
+      ]
+    },
+    "1. Something special": {
+      "faithfulness": 0.23654479234904677,
+      "num_concepts": 11,
+      "concepts_used": [
+        "cause_of_action",
+        "challenge_type",
+        "court_location",
+        "defendant",
+        "defendant_location",
+        "defendant_occupation",
+        "motion_filed",
+        "motion_ground",
+        "plaintiff",
+        "procedure_model",
+        "timing_of_motion"
+      ],
+      "CE_values": [
+        0.00011012802842912486,
+        0.013994070109540882,
+        0.0018438733211057902,
+        0.016692312021785158,
+        0.0005139437213250319,
+        0.0002583452762942989,
+        0.0010999025112916193,
+        0.125885802594911,
+        6.306821251172171e-05,
+        0.005328069631162221,
+        0.0005593185167105868
+      ],
+      "EE_values": [
+        0.4,
+        4.0,
+        4.0,
+        3.0,
+        1.4,
+        0.0,
+        3.0,
+        2.75,
+        0.2,
+        2.2,
+        2.2
+      ]
+    },
+    "1. The long arm of collateral estoppel": {
+      "faithfulness": 0.6842415993451048,
+      "num_concepts": 9,
+      "concepts_used": [
+        "case outcome",
+        "defendant's claim",
+        "defendant's state",
+        "initial court",
+        "new court",
+        "new court's statute",
+        "plaintiff",
+        "plaintiff's argument",
+        "plaintiff's state"
+      ],
+      "CE_values": [
+        0.0007565256761061188,
+        0.0,
+        0.00012215855472673688,
+        0.000571899242017503,
+        0.012068996532618703,
+        0.005461274819568898,
+        0.0003840957328488958,
+        0.008927518959827357,
+        0.00020363797559629798
+      ],
+      "EE_values": [
+        1.0,
+        1.75,
+        1.0,
+        3.0,
+        3.0,
+        3.75,
+        1.0,
+        3.0,
+        0.75
+      ]
+    },
+    "1. This and that": {
+      "faithfulness": 0.14790000728695646,
+      "num_concepts": 10,
+      "concepts_used": [
+        "cause_of_action_1",
+        "cause_of_action_2",
+        "context_1",
+        "context_2",
+        "developer",
+        "location",
+        "official",
+        "purpose_1",
+        "statute_1",
+        "subject_2"
+      ],
+      "CE_values": [
+        0.0001546683654728155,
+        0.1248338542855324,
+        0.0003851440013101597,
+        0.0002371879111396527,
+        0.04507671293361523,
+        0.0002783092176446796,
+        0.00058291654436238,
+        0.00011668533087032221,
+        0.0012706121793496627,
+        0.0005300982441014939
+      ],
+      "EE_values": [
+        3.5,
+        3.5,
+        3.0,
+        1.4,
+        0.4,
+        0.4,
+        1.8,
+        1.6,
+        3.75,
+        3.4
+      ]
+    },
+    "1. Time past and time future": {
+      "faithfulness": 0.24285874634546478,
+      "num_concepts": 8,
+      "concepts_used": [
+        "claim",
+        "injury",
+        "interrogatory",
+        "machine",
+        "manufacturer",
+        "safety guard",
+        "time frame",
+        "time of suit"
+      ],
+      "CE_values": [
+        0.0009528695648828878,
+        0.002165812804827945,
+        0.002948893260150634,
+        0.0013201224354475888,
+        0.0037756956415737186,
+        0.002025577192898522,
+        0.003794016859609304,
+        0.00020066437159889199
+      ],
+      "EE_values": [
+        4.0,
+        1.4,
+        4.0,
+        2.2,
+        1.4,
+        4.0,
+        4.0,
+        1.0
+      ]
+    },
+    "1. Too short and too plain": {
+      "faithfulness": -0.3527187038906148,
+      "num_concepts": 8,
+      "concepts_used": [
+        "accident date",
+        "accident location",
+        "basis of jurisdiction",
+        "court",
+        "damages demanded",
+        "defendant",
+        "injured party",
+        "injury type"
+      ],
+      "CE_values": [
+        0.00225590195100313,
+        0.00011420092355386197,
+        0.005631864404203374,
+        0.00048780612591753543,
+        0.0014099856845473178,
+        0.016255160158453432,
+        0.02268426407791302,
+        0.0028166683774428804
+      ],
+      "EE_values": [
+        3.4,
+        3.75,
+        0.3333333333333333,
+        0.25,
+        0.25,
+        0.25,
+        0.5,
+        0.25
+      ]
+    },
+    "1. Triggering Rule 11": {
+      "faithfulness": null,
+      "num_concepts": 1,
+      "concepts_used": [
+        "rule"
+      ],
+      "CE_values": [
+        0.1569548101531049
+      ],
+      "EE_values": [
+        4.0
+      ]
+    },
+    "1. Unnoticed notice": {
+      "faithfulness": null,
+      "num_concepts": 2,
+      "concepts_used": [
+        "case",
+        "court"
+      ],
+      "CE_values": [
+        0.009854884887873913,
+        0.014307115810772385
+      ],
+      "EE_values": [
+        4.0,
+        4.0
+      ]
+    },
+    "10. Aggravation of damages": {
+      "faithfulness": 0.033235264669700705,
+      "num_concepts": 7,
+      "concepts_used": [
+        "claims",
+        "court",
+        "damages",
+        "defendants",
+        "jurisdiction",
+        "plaintiff",
+        "relationship"
+      ],
+      "CE_values": [
+        0.0023030100098927098,
+        0.0007759655672630806,
+        0.0008473745464961626,
+        0.03466088164507179,
+        0.0055401214911404185,
+        0.007679631843444939,
+        0.23919266078831294
+      ],
+      "EE_values": [
+        3.6,
+        0.75,
+        4.0,
+        3.6,
+        4.0,
+        2.0,
+        3.0
+      ]
+    },
+    "10. Cold, cruel world": {
+      "faithfulness": 0.3242646127091413,
+      "num_concepts": 15,
+      "concepts_used": [
+        "accident with",
+        "age",
+        "claim",
+        "class",
+        "corporation",
+        "corporation size",
+        "corporation's business reach",
+        "corporation's office in",
+        "court where sued",
+        "destination",
+        "mode of transportation",
+        "person",
+        "purpose of travel",
+        "residence",
+        "status"
+      ],
+      "CE_values": [
+        0.002940184446049203,
+        0.00026482850815842825,
+        0.003470580179217916,
+        0.0008646834360956627,
+        0.003635868695178312,
+        0.002067901872412122,
+        0.0045056282280387895,
+        0.005958678813094548,
+        0.01549515910720934,
+        0.0670751240265508,
+        0.01264670716193025,
+        0.0081094116656624,
+        0.0006227218705651405,
+        0.016633582095890692,
+        0.00042589853346236783
+      ],
+      "EE_values": [
+        3.8,
+        0.4,
+        4.0,
+        2.75,
+        2.0,
+        2.75,
+        2.25,
+        1.4,
+        4.0,
+        3.6,
+        0.6,
+        1.6,
+        1.0,
+        1.4,
+        0.25
+      ]
+    },
+    "10. Defendant in denial": {
+      "faithfulness": 0.40947222696481206,
+      "num_concepts": 8,
+      "concepts_used": [
+        "Cardozo's claim",
+        "Hooper's conduct",
+        "Lopes' evidence",
+        "Lopes' knowledge of signal",
+        "Lopes' perspective",
+        "Lopes' witness status",
+        "accident location",
+        "involved parties"
+      ],
+      "CE_values": [
+        0.0012592823377032033,
+        0.00343937193686107,
+        0.006198847198703785,
+        0.00924055239361244,
+        0.0028634168410176376,
+        0.008783268991282563,
+        0.002408122113383698,
+        0.008614353666285643
+      ],
+      "EE_values": [
+        0.75,
+        3.0,
+        3.2,
+        4.0,
+        3.25,
+        2.6666666666666665,
+        0.4,
+        1.0
+      ]
+    },
+    "10. First Principles": {
+      "faithfulness": -0.4313693268204456,
+      "num_concepts": 13,
+      "concepts_used": [
+        "Faithful_argument",
+        "Faithful_motion",
+        "brochure_content",
+        "claimed_return",
+        "court_type",
+        "investment_amount",
+        "investment_firm",
+        "investor",
+        "judge_finding",
+        "judgment",
+        "second_claim_basis",
+        "second_investor",
+        "trial_type"
+      ],
+      "CE_values": [
+        0.014197005423733502,
+        0.0036878585636158576,
+        0.015503402898196206,
+        0.012927057186192761,
+        0.004322147510567075,
+        0.002838275366587316,
+        0.03619916901195544,
+        0.07175783749581219,
+        0.0026126556083563243,
+        0.0035686698145801035,
+        0.007001394117306819,
+        0.0770836359133334,
+        0.001212373828949849
+      ],
+      "EE_values": [
+        4.0,
+        2.0,
+        3.4,
+        3.6,
+        0.4,
+        0.0,
+        1.2,
+        0.2,
+        4.0,
+        2.75,
+        2.8,
+        1.2,
+        3.0
+      ]
+    },
+    "10. Gag order": {
+      "faithfulness": -0.06494239738847632,
+      "num_concepts": 11,
+      "concepts_used": [
+        "allegation",
+        "analysis finding",
+        "analysis property type",
+        "analysis subject",
+        "analysis timing",
+        "analyst",
+        "defendant",
+        "objection basis",
+        "property type",
+        "role",
+        "witness"
+      ],
+      "CE_values": [
+        0.0014914321607524602,
+        0.017397195965482445,
+        0.01728886029067461,
+        0.01591394585367551,
+        0.016257835550561758,
+        0.023346295768762612,
+        0.0011533531331622525,
+        0.0189403648593008,
+        0.001933870181551044,
+        0.0011434401083995106,
+        0.001413766965105255
+      ],
+      "EE_values": [
+        2.5,
+        2.2,
+        3.2,
+        2.4,
+        2.4,
+        2.4,
+        2.75,
+        4.0,
+        3.0,
+        2.75,
+        3.25
+      ]
+    },
+    "10. Removing all doubt": {
+      "faithfulness": -0.42955264978463964,
+      "num_concepts": 12,
+      "concepts_used": [
+        "amended_claim",
+        "court_venue",
+        "damages_sought",
+        "defendant_corporation_state",
+        "defendant_principal_place_of_business",
+        "initial_claim",
+        "plaintiff",
+        "plaintiff_employer",
+        "plaintiff_residence",
+        "reason_for_claim",
+        "removal_destination",
+        "time_between_amendment_and_removal"
+      ],
+      "CE_values": [
+        0.0033397190345999003,
+        0.0012885846316329902,
+        0.0004604109961249607,
+        0.0009138956578387037,
+        0.00248078195058808,
+        0.016700041028136103,
+        0.0383845148175911,
+        0.024924927765708496,
+        0.003688917628499955,
+        0.004583121862878796,
+        0.00316229940293717,
+        0.0033654070274739844
+      ],
+      "EE_values": [
+        4.0,
+        2.0,
+        1.0,
+        1.2,
+        3.6,
+        1.6,
+        0.4,
+        2.2,
+        2.0,
+        1.75,
+        3.75,
+        2.2
+      ]
+    },
+    "10. Second thoughts": {
+      "faithfulness": -0.014110359040232546,
+      "num_concepts": 12,
+      "concepts_used": [
+        "alleged violation",
+        "applicable law",
+        "defendant",
+        "defendant's role",
+        "plaintiff",
+        "plaintiff's action",
+        "plaintiff's claim",
+        "plaintiff's state",
+        "property status",
+        "property type",
+        "tenancy status",
+        "time elapsed"
+      ],
+      "CE_values": [
+        0.0002474648576114622,
+        0.0009254984095468186,
+        0.00022836082345725783,
+        0.00012361080048158292,
+        0.048096805658587434,
+        0.00316326678299681,
+        0.006368709968591432,
+        0.0006529552618601709,
+        7.662750771433352e-05,
+        0.0008234025051794287,
+        0.002523332851827171,
+        0.009580676467477973
+      ],
+      "EE_values": [
+        2.8,
+        3.2,
+        0.6,
+        0.25,
+        1.2,
+        3.75,
+        4.0,
+        0.0,
+        0.75,
+        0.0,
+        1.25,
+        0.8
+      ]
+    },
+    "11. A Mottley reprise": {
+      "faithfulness": -0.381298928873967,
+      "num_concepts": 10,
+      "concepts_used": [
+        "Mottleys' claim",
+        "constitution",
+        "constitutional claim",
+        "contracted passes",
+        "court",
+        "court holding",
+        "parties",
+        "state supreme court",
+        "statute",
+        "statute timing"
+      ],
+      "CE_values": [
+        0.00017678077267425506,
+        0.0001992524193912239,
+        0.0009034050529892441,
+        0.0001645249782425882,
+        0.00034274118223580834,
+        0.0023001123922209306,
+        0.006655372626017018,
+        0.0005537037904753674,
+        0.00039050867841070605,
+        5.76418251632011e-05
+      ],
+      "EE_values": [
+        1.4,
+        1.5,
+        3.75,
+        1.2,
+        2.0,
+        3.4,
+        0.2,
+        2.75,
+        3.4,
+        1.6666666666666667
+      ]
+    },
+    "11. Close to the line": {
+      "faithfulness": -0.04417880486745648,
+      "num_concepts": 16,
+      "concepts_used": [
+        "aquifer_use",
+        "collection_locations",
+        "company",
+        "court_location",
+        "distance_to_border",
+        "driver_conduct",
+        "groundwater_flow",
+        "landfill_lining",
+        "plaintiff",
+        "plaintiff_health_issue",
+        "plaintiff_location",
+        "plaintiff_water_source",
+        "storage_location",
+        "waste_spillage",
+        "waste_type",
+        "well_contaminants"
+      ],
+      "CE_values": [
+        0.0006646969162428375,
+        0.0006239275281291394,
+        0.012567731347743184,
+        0.0008493645035582209,
+        0.00024643954291397863,
+        0.000918787675247904,
+        0.0004410550745556501,
+        0.0004259452599066981,
+        0.0006736794687184378,
+        0.0002911291213707765,
+        0.000769281923494426,
+        0.00041644105651536995,
+        0.008150399714349187,
+        0.0006496637439940279,
+        0.0003745703111989514,
+        0.0015546661529071862
+      ],
+      "EE_values": [
+        1.4,
+        1.0,
+        1.2,
+        3.0,
+        3.8,
+        2.4,
+        4.0,
+        1.4,
+        0.2,
+        1.4,
+        3.75,
+        3.0,
+        3.6,
+        2.6,
+        1.0,
+        4.0
+      ]
+    },
+    "11. Investment in litigation": {
+      "faithfulness": 0.3957179662552475,
+      "num_concepts": 9,
+      "concepts_used": [
+        "Carmichael_claims",
+        "Carmichael_claims_basis",
+        "Faithful_defenses",
+        "Faithful_response",
+        "claimed_rate_of_return",
+        "investment_amount",
+        "judge_finding_2",
+        "legal_standard",
+        "trial_type"
+      ],
+      "CE_values": [
+        0.00035245405514583005,
+        0.0012766965063995912,
+        0.00028489291875547076,
+        0.0003251041945165326,
+        0.0020574369007999634,
+        5.084818522126635e-05,
+        0.001168727744784951,
+        0.0005558776755309726,
+        4.755810845835691e-05
+      ],
+      "EE_values": [
+        2.2,
+        3.25,
+        1.3333333333333333,
+        1.0,
+        1.5,
+        0.0,
+        3.6666666666666665,
+        4.0,
+        1.25
+      ]
+    },
+    "11. Stooges do the math": {
+      "faithfulness": 0.9323199904397628,
+      "num_concepts": 3,
+      "concepts_used": [
+        "assumption",
+        "claims",
+        "court"
+      ],
+      "CE_values": [
+        5.876862982227041e-05,
+        0.008519462846493523,
+        0.0007477328150720258
+      ],
+      "EE_values": [
+        2.6,
+        4.0,
+        2.0
+      ]
+    },
+    "12. Flaky Filbert": {
+      "faithfulness": 0.3119239915941462,
+      "num_concepts": 12,
+      "concepts_used": [
+        "Filbert's decision",
+        "current location",
+        "first firm's initial offer",
+        "first firm's later offer",
+        "first summer clerkship location",
+        "original home",
+        "person",
+        "plan after law school",
+        "purpose of move",
+        "second firm's offer",
+        "second summer clerkship location",
+        "third year offer from first firm"
+      ],
+      "CE_values": [
+        0.01953941144782645,
+        0.07679238846252721,
+        0.0002367502405746839,
+        0.0006444141689982565,
+        0.026178556575686934,
+        0.14893767018809229,
+        0.011522906290529045,
+        0.024361405405160897,
+        0.0031401771307622566,
+        0.0017625495217797789,
+        0.0006588070703745881,
+        0.005900710881818996
+      ],
+      "EE_values": [
+        2.6,
+        2.8,
+        1.0,
+        1.8,
+        0.6,
+        2.6,
+        1.2,
+        3.0,
+        3.0,
+        2.4,
+        2.0,
+        1.8
+      ]
+    },
+    "2. A sense of outrage": {
+      "faithfulness": 0.6366026039672164,
+      "num_concepts": 10,
+      "concepts_used": [
+        "claim",
+        "employee",
+        "employer",
+        "employment status",
+        "legal representation",
+        "legal standard",
+        "mayor",
+        "motion",
+        "political affiliation",
+        "time since mayor's inauguration"
+      ],
+      "CE_values": [
+        0.0024808740515672293,
+        0.01785516872137985,
+        0.00010796910022113882,
+        0.0008324897139643092,
+        0.006896179703863266,
+        0.800495548113321,
+        0.009249317914598917,
+        0.0024151680078422764,
+        0.0006426424142883451,
+        0.00038500624865624004
+      ],
+      "EE_values": [
+        1.2,
+        1.4,
+        1.25,
+        3.4,
+        1.25,
+        4.0,
+        1.4,
+        2.0,
+        3.2,
+        1.4
+      ]
+    },
+    "2. Appealing options": {
+      "faithfulness": 0.3905588949534492,
+      "num_concepts": 13,
+      "concepts_used": [
+        "case_dismissal",
+        "claim",
+        "court's_jurisdictional_ruling",
+        "defendant",
+        "defendant's_action",
+        "defendant's_belief",
+        "defendant's_response",
+        "final_judgment",
+        "interlocutory_appeals",
+        "jurisdictional_approach",
+        "location",
+        "plaintiff",
+        "trial_outcome"
+      ],
+      "CE_values": [
+        0.037986523395006674,
+        0.0006363930278025912,
+        0.019238332426819053,
+        0.007388776146099604,
+        0.004690658177860567,
+        0.003137270707842146,
+        0.004581012379822794,
+        0.0018732589146468054,
+        0.0025751022038400066,
+        0.005730714564017387,
+        0.026071488341527914,
+        0.015246746260964408,
+        0.001665277733821488
+      ],
+      "EE_values": [
+        4.0,
+        0.75,
+        4.0,
+        3.4,
+        2.4,
+        3.8,
+        3.0,
+        1.6666666666666667,
+        4.0,
+        4.0,
+        3.6,
+        1.2,
+        2.0
+      ]
+    },
+    "2. Authority on point": {
+      "faithfulness": -0.20100652244334846,
+      "num_concepts": 10,
+      "concepts_used": [
+        "alleged_neglect",
+        "defendant",
+        "defendant_employee",
+        "defendant_employee_role",
+        "defendant_employee_status",
+        "defendant_type",
+        "legal_theory",
+        "location",
+        "patient_belief",
+        "plaintiff"
+      ],
+      "CE_values": [
+        0.0034422850357762286,
+        0.0020413644228907788,
+        0.0010996961342424946,
+        0.003287347249042347,
+        0.0008403067029781114,
+        0.0010913148999113673,
+        0.0038875094483477976,
+        0.015227493337779528,
+        0.004706337677192636,
+        0.01817059635676516
+      ],
+      "EE_values": [
+        1.6,
+        1.25,
+        1.4,
+        1.0,
+        1.0,
+        0.75,
+        4.0,
+        0.8,
+        3.75,
+        0.8
+      ]
+    },
+    "2. Contact sports": {
+      "faithfulness": 0.3569287828546977,
+      "num_concepts": 11,
+      "concepts_used": [
+        "Neff's return to Oregon",
+        "bill amount",
+        "claim against",
+        "court where sued",
+        "location of meeting",
+        "payment status",
+        "person met",
+        "residence of Neff",
+        "role of person met",
+        "service of process location",
+        "work done"
+      ],
+      "CE_values": [
+        0.0007046193583333081,
+        3.1186423498332725e-05,
+        0.00012925939891562195,
+        0.010488768947408945,
+        0.007092132587216982,
+        0.00036184442672877043,
+        0.005608242049741325,
+        0.0010528823584251268,
+        0.00028338069767728656,
+        0.0005934075066614118,
+        0.0004530109674441588
+      ],
+      "EE_values": [
+        1.75,
+        0.0,
+        0.75,
+        2.5,
+        4.0,
+        1.75,
+        1.25,
+        2.2,
+        1.4,
+        2.8,
+        3.8
+      ]
+    },
+    "2. Disclosure and protection": {
+      "faithfulness": 0.39621851053039275,
+      "num_concepts": 8,
+      "concepts_used": [
+        "accident_type",
+        "alleged_cause",
+        "defendant",
+        "disclosure_deadline",
+        "document_purpose",
+        "document_type",
+        "plaintiff",
+        "witness"
+      ],
+      "CE_values": [
+        0.0005493345831476338,
+        0.0022382389229825914,
+        0.020931815335065045,
+        0.0015301455698134778,
+        0.02609064319070555,
+        0.0038902820224609976,
+        0.0012553537407000862,
+        0.04522973275119642
+      ],
+      "EE_values": [
+        0.2,
+        0.4,
+        1.0,
+        1.5,
+        4.0,
+        4.0,
+        0.2,
+        2.2
+      ]
+    },
+    "2. Dispelling the fog": {
+      "faithfulness": 0.5667656759614075,
+      "num_concepts": 9,
+      "concepts_used": [
+        "action_type",
+        "amended_complaint",
+        "defendant",
+        "judge_decision",
+        "motion_filed",
+        "plaintiff",
+        "plaintiff_representation",
+        "response_to_amended_complaint",
+        "venue_objection"
+      ],
+      "CE_values": [
+        0.00281414383249488,
+        0.0026605555410347623,
+        0.0029584496640007616,
+        0.000588351016873224,
+        0.015285146759370885,
+        0.0009078678072601167,
+        0.0006817695303043568,
+        0.029562356439253475,
+        0.0018202994692049492
+      ],
+      "EE_values": [
+        1.0,
+        2.8,
+        2.2,
+        1.75,
+        3.0,
+        0.8,
+        2.5,
+        4.0,
+        4.0
+      ]
+    },
+    "2. Double trouble": {
+      "faithfulness": 0.5514687998536689,
+      "num_concepts": 5,
+      "concepts_used": [
+        "claim",
+        "defendant",
+        "motion",
+        "plaintiff",
+        "rule"
+      ],
+      "CE_values": [
+        0.002740524067640883,
+        0.0010222969375078923,
+        0.015262212152987717,
+        0.0019111576342816655,
+        0.002274314466230927
+      ],
+      "EE_values": [
+        2.4,
+        1.2,
+        4.0,
+        3.4,
+        3.8
+      ]
+    },
+    "2. Food for thought": {
+      "faithfulness": 0.6247140474297711,
+      "num_concepts": 15,
+      "concepts_used": [
+        "contract_breach_year",
+        "contract_duration",
+        "contract_negotiator",
+        "contract_subject",
+        "contract_type",
+        "defendant",
+        "initial_defense",
+        "initial_notification",
+        "judgment",
+        "judgment_remedy",
+        "mistake_detail",
+        "negotiator_authority",
+        "negotiator_role",
+        "plaintiff",
+        "second_defense"
+      ],
+      "CE_values": [
+        0.00018801330989636966,
+        0.00016663404750051638,
+        0.0020230976428900144,
+        0.00017573372234970524,
+        0.0005132253368429018,
+        0.003348654175415921,
+        0.006435900863773691,
+        0.0004980140195665407,
+        0.0038008508789642063,
+        0.0011301389318028317,
+        0.0031284266775500873,
+        0.00032973218611250763,
+        0.0002652058320323106,
+        0.002465045387186048,
+        0.00846831032735812
+      ],
+      "EE_values": [
+        0.5,
+        0.6,
+        3.0,
+        0.4,
+        0.25,
+        2.0,
+        2.8,
+        0.4,
+        2.4,
+        0.75,
+        2.75,
+        3.8,
+        1.4,
+        0.2,
+        3.8
+      ]
+    },
+    "2. Gone, but not forgotten": {
+      "faithfulness": 0.7110560623457239,
+      "num_concepts": 10,
+      "concepts_used": [
+        "beneficiary_residence",
+        "insurance_company",
+        "insurance_company_location",
+        "insurance_company_operations",
+        "jurisdictional_statute",
+        "purchaser_death_location",
+        "purchaser_residence",
+        "suit_against",
+        "suit_basis",
+        "suit_location"
+      ],
+      "CE_values": [
+        0.11097326285968541,
+        0.0038998140188426606,
+        0.0003093012464395268,
+        0.002679240010204862,
+        0.15479597293119282,
+        0.0019892458047725157,
+        0.0010048992848820638,
+        0.0019563374795153942,
+        0.0024290017682040374,
+        0.22586241073586835
+      ],
+      "EE_values": [
+        3.4,
+        0.8,
+        1.2,
+        3.0,
+        4.0,
+        0.4,
+        2.0,
+        1.6,
+        3.2,
+        3.75
+      ]
+    },
+    "2. Issues and answers": {
+      "faithfulness": 0.33804525941759067,
+      "num_concepts": 7,
+      "concepts_used": [
+        "allegation",
+        "claim",
+        "location",
+        "party",
+        "position",
+        "role",
+        "status"
+      ],
+      "CE_values": [
+        0.0007984269708318549,
+        0.06348932880385398,
+        0.005175586191948819,
+        0.021652581377969413,
+        0.0020395040371744507,
+        0.02351146245960801,
+        0.005144113452875591
+      ],
+      "EE_values": [
+        3.0,
+        3.75,
+        1.5,
+        1.0,
+        3.0,
+        1.0,
+        1.5
+      ]
+    },
+    "2. Judging the jury": {
+      "faithfulness": 0.41645632142504374,
+      "num_concepts": 8,
+      "concepts_used": [
+        "alleged conduct",
+        "claim",
+        "defendant",
+        "defendant's testimony",
+        "expert testimony",
+        "jury verdict",
+        "motion",
+        "plaintiff"
+      ],
+      "CE_values": [
+        0.0047021984446044204,
+        0.008689899654871266,
+        0.023315720103535192,
+        0.003287214824800753,
+        0.003050482548815315,
+        0.005402398485595417,
+        0.23185928566974776,
+        0.012935920319780409
+      ],
+      "EE_values": [
+        1.8,
+        1.2,
+        0.8,
+        4.0,
+        2.25,
+        3.8,
+        4.0,
+        0.4
+      ]
+    },
+    "2. Later, or too late": {
+      "faithfulness": 0.7425411130138236,
+      "num_concepts": 15,
+      "concepts_used": [
+        "amended_counterclaim_type",
+        "answer_to_counterclaim_claims",
+        "answer_to_counterclaim_date",
+        "complaint_service_date",
+        "contract_enforceability_issue",
+        "counterclaim_delivery_issue",
+        "counterclaim_type",
+        "court_type",
+        "defendant",
+        "defendant_occupation",
+        "injury_location",
+        "injury_occasion",
+        "jurisdiction_basis",
+        "misrepresentation_basis",
+        "plaintiff_occupation"
+      ],
+      "CE_values": [
+        0.00153572045398182,
+        0.0012024219168524821,
+        0.0022373075879355336,
+        0.0033134573759610315,
+        0.0033680120523006687,
+        0.0006670751603471917,
+        0.0005552678834420122,
+        0.00011324243814406047,
+        0.0010045690246417692,
+        8.09507927369097e-05,
+        0.00011667145868076356,
+        4.988193790907713e-05,
+        0.00010062714998330274,
+        0.001604212688177195,
+        0.0003708289737396279
+      ],
+      "EE_values": [
+        2.75,
+        3.25,
+        3.75,
+        1.25,
+        3.75,
+        0.25,
+        0.75,
+        0.0,
+        0.75,
+        0.0,
+        0.0,
+        0.25,
+        0.3333333333333333,
+        1.25,
+        0.25
+      ]
+    },
+    "2. Mailing it in": {
+      "faithfulness": 0.7365056816423261,
+      "num_concepts": 6,
+      "concepts_used": [
+        "cause of action",
+        "court type",
+        "defendant",
+        "plaintiff",
+        "service location",
+        "service method"
+      ],
+      "CE_values": [
+        0.000480102939470351,
+        0.0002476389524066723,
+        0.0071354063351016205,
+        0.004944604861841803,
+        0.0010758735371407457,
+        0.046894710725846084
+      ],
+      "EE_values": [
+        0.0,
+        1.75,
+        2.0,
+        0.0,
+        1.25,
+        3.2
+      ]
+    },
+    "2. My state, or yours": {
+      "faithfulness": -0.24136932936416028,
+      "num_concepts": 15,
+      "concepts_used": [
+        "claim",
+        "counterclaim",
+        "court_location",
+        "court_type",
+        "damages_claimed",
+        "defendant_residences",
+        "defendant_response",
+        "defendants",
+        "plaintiff",
+        "plaintiff_residence",
+        "plaintiff_status",
+        "removal_consent",
+        "removal_court",
+        "removal_filing",
+        "removal_period"
+      ],
+      "CE_values": [
+        0.0011870693155529564,
+        0.2941347148317881,
+        0.0006464184599421038,
+        0.004304513085562822,
+        0.00028722482334360145,
+        0.0002355733191711024,
+        0.0023360754888801906,
+        0.003726309529209294,
+        0.001766252818899616,
+        0.0026235889182757597,
+        0.0004921512867692156,
+        0.006442823603667509,
+        0.017971580097703832,
+        0.00852774110295682,
+        3.796103808070063e-05
+      ],
+      "EE_values": [
+        0.4,
+        0.2,
+        1.0,
+        1.75,
+        0.8,
+        0.8,
+        0.0,
+        1.4,
+        0.6,
+        0.4,
+        0.4,
+        1.6666666666666667,
+        0.8,
+        3.2,
+        1.0
+      ]
+    },
+    "2. Olefsky’s plea for relief": {
+      "faithfulness": 0.08126242648168581,
+      "num_concepts": 9,
+      "concepts_used": [
+        "additional claim",
+        "cause of action",
+        "defendant",
+        "defendant incorporation",
+        "landfill lining status",
+        "plaintiff",
+        "plaintiff location",
+        "pollutant origin",
+        "violation type"
+      ],
+      "CE_values": [
+        0.003929227266455345,
+        0.0007153087247938945,
+        0.0025832292348173503,
+        0.0004893611375081283,
+        0.00041360611728157113,
+        0.017622420638518824,
+        0.001596850468267483,
+        0.0002350457792893466,
+        0.0020452420607856275
+      ],
+      "EE_values": [
+        3.25,
+        4.0,
+        1.0,
+        0.4,
+        1.3333333333333333,
+        1.6,
+        1.0,
+        0.75,
+        0.4
+      ]
+    },
+    "2. Pocketbook policies": {
+      "faithfulness": 0.5132789144676383,
+      "num_concepts": 8,
+      "concepts_used": [
+        "basis",
+        "court",
+        "defendant",
+        "motion",
+        "plaintiff",
+        "recovery",
+        "statute",
+        "year"
+      ],
+      "CE_values": [
+        0.001516879132269349,
+        0.01846098379203891,
+        0.0005777830600784302,
+        0.0033833489365111317,
+        0.00191133079845654,
+        0.0007273096601165974,
+        0.0026719527257538208,
+        0.00048391478456761
+      ],
+      "EE_values": [
+        2.25,
+        3.8,
+        0.4,
+        4.0,
+        0.4,
+        2.25,
+        4.0,
+        0.4
+      ]
+    },
+    "2. Reconstruction": {
+      "faithfulness": 0.47047876837815733,
+      "num_concepts": 11,
+      "concepts_used": [
+        "court",
+        "defendant",
+        "first claim",
+        "first claim basis",
+        "first verdict",
+        "joinder policy",
+        "legal approach",
+        "plaintiff",
+        "second claim",
+        "second claim basis",
+        "second claim consequence"
+      ],
+      "CE_values": [
+        0.0005632973747806083,
+        0.008642846261897541,
+        0.001739407978782433,
+        0.001007207162972275,
+        0.0018300286447567686,
+        0.0004911996787425148,
+        0.08083384885755385,
+        0.030620577281775307,
+        0.03351319303447789,
+        0.000716883359323964,
+        0.024198886525161986
+      ],
+      "EE_values": [
+        1.5,
+        1.4,
+        3.0,
+        2.2,
+        2.0,
+        1.6666666666666667,
+        4.0,
+        0.8,
+        3.25,
+        3.4,
+        3.2
+      ]
+    },
+    "2. Separation anxiety": {
+      "faithfulness": 0.36587178012482113,
+      "num_concepts": 8,
+      "concepts_used": [
+        "current_claim",
+        "defendant_status",
+        "incident_type",
+        "initial_claim",
+        "initial_judgment",
+        "parties",
+        "residency",
+        "vehicles_involved"
+      ],
+      "CE_values": [
+        0.002433917490014116,
+        0.01586371870303077,
+        0.030001806976936458,
+        0.00014507142396585622,
+        0.007851348013166191,
+        0.005032083563332195,
+        0.0008146062522099655,
+        0.003920165845968
+      ],
+      "EE_values": [
+        4.0,
+        2.5,
+        3.5,
+        1.0,
+        0.6,
+        3.6,
+        0.6,
+        2.6
+      ]
+    },
+    "2. The out-of-state advantage": {
+      "faithfulness": 0.39037352263578906,
+      "num_concepts": 17,
+      "concepts_used": [
+        "amount_in_controversy",
+        "company1",
+        "company1_business",
+        "company1_location",
+        "company1_status",
+        "company2",
+        "company2_location",
+        "contract_purpose",
+        "contract_status",
+        "contract_type",
+        "court_type",
+        "diversity",
+        "legal_action",
+        "location",
+        "removal_basis",
+        "removal_destination",
+        "year"
+      ],
+      "CE_values": [
+        0.001828710615104047,
+        0.012702860818424986,
+        0.0012390657062374575,
+        0.0004703233065414163,
+        0.0010331513736295062,
+        0.00025133313631075106,
+        0.0005569292598355878,
+        0.0007683233661806849,
+        0.0023079141686042593,
+        0.00022707211741133894,
+        0.0032261262945086737,
+        0.08059922910763014,
+        0.003986588566543049,
+        0.000733730679448034,
+        0.05022004051372652,
+        0.000911375042470921,
+        0.0005165390831463007
+      ],
+      "EE_values": [
+        2.4,
+        0.8,
+        1.2,
+        1.8,
+        0.0,
+        1.0,
+        0.8,
+        0.5,
+        4.0,
+        2.2,
+        3.75,
+        3.5,
+        2.0,
+        1.2,
+        3.5,
+        3.4,
+        3.2
+      ]
+    },
+    "2. This, that, and the other": {
+      "faithfulness": 0.1971434655198644,
+      "num_concepts": 22,
+      "concepts_used": [
+        "additional_claim_against",
+        "additional_claim_amount",
+        "additional_claim_ground",
+        "court_type",
+        "crossclaim_against",
+        "crossclaim_amount",
+        "crossclaim_basis",
+        "crossclaim_ground",
+        "damage_cause",
+        "damage_consequence",
+        "damage_type",
+        "damages_claimed",
+        "jurisdiction_basis",
+        "person1",
+        "person1_state",
+        "person2",
+        "person2_state",
+        "person3",
+        "person3_occupation",
+        "person3_state",
+        "work_location",
+        "work_type"
+      ],
+      "CE_values": [
+        0.013957628513854837,
+        0.0010319827461255328,
+        0.003324960404670051,
+        0.0018053333061369887,
+        0.014648556437767649,
+        0.002126245780266764,
+        0.0034503675507567846,
+        0.00344684284398816,
+        0.0024959192646386943,
+        0.002800135418547853,
+        0.0026035018531920815,
+        0.0004080919964713729,
+        0.0027725607611212805,
+        0.00435530048223063,
+        0.0010804103571060081,
+        0.03189761273568229,
+        0.0004114189117252825,
+        0.004114019885162804,
+        0.0013348758842351123,
+        0.0007257223679941552,
+        0.0020969500426892833,
+        0.0040784543195820375
+      ],
+      "EE_values": [
+        3.0,
+        1.2,
+        1.8,
+        0.8,
+        2.6666666666666665,
+        1.4,
+        3.0,
+        3.0,
+        3.0,
+        0.75,
+        1.4,
+        3.0,
+        3.6666666666666665,
+        0.8,
+        0.4,
+        1.8,
+        1.8,
+        1.6,
+        0.8,
+        0.6,
+        1.2,
+        2.5
+      ]
+    },
+    "2. Try, try again": {
+      "faithfulness": 0.5212280974949409,
+      "num_concepts": 5,
+      "concepts_used": [
+        "basis_for_claim",
+        "neighboring_state_holding",
+        "other_states_holdings",
+        "plaintiff",
+        "previous_case_outcome"
+      ],
+      "CE_values": [
+        0.0005370726947378004,
+        0.0006531396826283337,
+        0.0006401520937015821,
+        0.0001837008063576976,
+        0.0005089067695571615
+      ],
+      "EE_values": [
+        1.5,
+        2.3333333333333335,
+        2.75,
+        1.3333333333333333,
+        3.5
+      ]
+    },
+    "2. Venue exercises": {
+      "faithfulness": 0.3177276810148132,
+      "num_concepts": 17,
+      "concepts_used": [
+        "action_type",
+        "activity",
+        "activity_location",
+        "allegation_1",
+        "allegation_2",
+        "court_type",
+        "defendant_1",
+        "defendant_1_residence",
+        "defendant_1_visit",
+        "defendant_1_visit_duration",
+        "injury_location",
+        "manufacturer",
+        "manufacturer_location",
+        "manufacturer_sales_area",
+        "plaintiff",
+        "plaintiff_residence",
+        "purchase_location"
+      ],
+      "CE_values": [
+        0.0014047855035568355,
+        0.0014452286011774362,
+        0.00014376012625268929,
+        0.0007225072246075425,
+        0.0008537905196344351,
+        0.06271941803626377,
+        0.0002927113799332195,
+        0.001429644276316354,
+        0.00014376012625268929,
+        0.0011182961028993724,
+        0.4453183363382199,
+        0.0015734623842356401,
+        0.0009014600775841588,
+        0.07533760967364744,
+        0.0010142851329827032,
+        0.7776400168908938,
+        0.0009221272193275275
+      ],
+      "EE_values": [
+        2.5,
+        0.0,
+        0.2,
+        2.4,
+        1.75,
+        2.2,
+        1.0,
+        3.0,
+        1.0,
+        0.2,
+        4.0,
+        2.0,
+        1.75,
+        1.25,
+        1.0,
+        1.6,
+        0.5
+      ]
+    },
+    "2. Wedding plans": {
+      "faithfulness": 0.5177500235068336,
+      "num_concepts": 20,
+      "concepts_used": [
+        "apartment_lease_duration",
+        "bank_account_location",
+        "basis_for_suit",
+        "court_type",
+        "current_location",
+        "education_plan",
+        "employment_status",
+        "fiancee_occupation",
+        "health_coverage_source",
+        "injury_location",
+        "injury_timing",
+        "intended_return_location",
+        "job_application_address",
+        "possible_education_duration",
+        "registration_location",
+        "residence",
+        "suit_timing",
+        "surgeon_location",
+        "taxes_paid",
+        "wedding_date"
+      ],
+      "CE_values": [
+        0.001257844560541637,
+        0.0017968249347350795,
+        0.0013697122326808517,
+        0.0010466823968739091,
+        0.061327865654007184,
+        0.0012027835205386766,
+        0.0170202731157001,
+        0.0006406293239126505,
+        0.007298480347360567,
+        0.0011552246662129733,
+        0.0005773459094966497,
+        0.33763838257829804,
+        0.0011844456872589014,
+        0.002300632313629632,
+        0.0016199212067412004,
+        0.00030703655893835513,
+        0.00039252611210361223,
+        0.0015801521746148612,
+        0.003244295410061012,
+        0.0003444078685345249
+      ],
+      "EE_values": [
+        1.5,
+        1.2,
+        0.0,
+        0.0,
+        2.2,
+        3.4,
+        1.5,
+        2.6,
+        1.0,
+        0.2,
+        0.25,
+        4.0,
+        1.6666666666666667,
+        3.0,
+        1.8,
+        1.4,
+        1.4,
+        0.2,
+        2.0,
+        2.4
+      ]
+    },
+    "2. Weight of authority": {
+      "faithfulness": 0.5503999850909124,
+      "num_concepts": 18,
+      "concepts_used": [
+        "accident_location",
+        "actual_crane_rating",
+        "buyer",
+        "buyer_location",
+        "buyer_operations",
+        "court_location",
+        "crane_destination",
+        "defendant_1",
+        "defendant_2",
+        "defendant_2_advice",
+        "defendant_2_citizenship",
+        "defendant_2_role",
+        "defendant_2_work_location",
+        "delivery_location",
+        "plaintiff",
+        "seller",
+        "seller_location",
+        "seller_sales_volume"
+      ],
+      "CE_values": [
+        0.06270139776205431,
+        0.0005446510818391364,
+        0.02708230514867253,
+        0.004178602155666913,
+        0.006146410358722348,
+        0.03464365172820644,
+        0.057548180944158984,
+        0.1501498840611368,
+        0.0022572329797642373,
+        0.0009684725799396888,
+        0.0001941527202024682,
+        0.00025339122839572144,
+        0.0004921511149956114,
+        0.0031060616965426775,
+        0.0017127140532561503,
+        0.2293073576642919,
+        0.002984535194717669,
+        0.014068674063605364
+      ],
+      "EE_values": [
+        3.4,
+        0.25,
+        3.0,
+        1.8,
+        2.6,
+        2.6,
+        3.2,
+        4.0,
+        1.6,
+        1.0,
+        1.0,
+        0.8,
+        0.4,
+        2.8,
+        0.2,
+        2.6,
+        1.6,
+        2.4
+      ]
+    },
+    "3. A Mottley matter": {
+      "faithfulness": 0.4049410370480094,
+      "num_concepts": 9,
+      "concepts_used": [
+        "alleged agreement",
+        "claim",
+        "legal action",
+        "location",
+        "parties",
+        "precedent",
+        "reason for denial",
+        "statute applicability",
+        "year"
+      ],
+      "CE_values": [
+        0.0003072119080488689,
+        0.000503363154089779,
+        0.007498136566070558,
+        9.349844317096883e-05,
+        0.0004404531862051427,
+        0.006878932163142856,
+        0.03489220300383856,
+        0.00022321255931219747,
+        6.360089418015454e-05
+      ],
+      "EE_values": [
+        1.6,
+        2.2,
+        2.25,
+        0.6,
+        0.6,
+        4.0,
+        3.2,
+        4.0,
+        0.2
+      ]
+    },
+    "3. A plausible sense of outrage": {
+      "faithfulness": 0.5247654095176538,
+      "num_concepts": 11,
+      "concepts_used": [
+        "defendant",
+        "defendant_plea",
+        "defendant_representation",
+        "firing_authority",
+        "firing_context",
+        "firing_reason",
+        "firing_timing",
+        "legal_action",
+        "legal_motion",
+        "legal_standard",
+        "person_fired"
+      ],
+      "CE_values": [
+        0.011944192599058562,
+        0.026303349017801993,
+        0.002693272520309646,
+        0.007407378523102916,
+        0.0006507703980651266,
+        0.08279633729182351,
+        0.0026699856999914872,
+        0.0014042586274887706,
+        0.0130370734270147,
+        0.020887448480781112,
+        0.04205566928285237
+      ],
+      "EE_values": [
+        1.2,
+        3.8,
+        0.2,
+        0.8,
+        0.8,
+        3.6,
+        1.2,
+        1.0,
+        3.5,
+        4.0,
+        1.0
+      ]
+    },
+    "3. Branches of the decision tree": {
+      "faithfulness": -0.08908870366332008,
+      "num_concepts": 4,
+      "concepts_used": [
+        "court",
+        "evidence",
+        "issue",
+        "statute"
+      ],
+      "CE_values": [
+        0.006688323441566857,
+        0.009432288306265923,
+        0.0009159063444013625,
+        0.0004445077857799795
+      ],
+      "EE_values": [
+        3.6,
+        3.6,
+        3.25,
+        4.0
+      ]
+    },
+    "3. Default positions": {
+      "faithfulness": -0.12524592718847757,
+      "num_concepts": 13,
+      "concepts_used": [
+        "Ito's action in enforcement",
+        "Ito's response",
+        "argument",
+        "defendant",
+        "defendant's home",
+        "defense",
+        "enforcement action location",
+        "initial claim",
+        "initial court",
+        "initial judgment",
+        "jurisdiction approach",
+        "plaintiff",
+        "service of process"
+      ],
+      "CE_values": [
+        0.012558620145067657,
+        0.0013932483307421148,
+        0.0022543071584565123,
+        0.009566053135926872,
+        0.003936674065218967,
+        0.002320805637295349,
+        0.005663418349241299,
+        0.0009641844341818483,
+        0.02799069665578411,
+        0.0010578630965670842,
+        0.0005628757720443678,
+        0.03407023474088589,
+        0.0008365276383131686
+      ],
+      "EE_values": [
+        4.0,
+        2.0,
+        3.6,
+        2.4,
+        2.8,
+        4.0,
+        3.0,
+        0.4,
+        3.8,
+        3.25,
+        2.25,
+        0.75,
+        3.0
+      ]
+    },
+    "3. Evidence of allegations": {
+      "faithfulness": -0.05342399373581531,
+      "num_concepts": 7,
+      "concepts_used": [
+        "alleged cause of death",
+        "beneficiary",
+        "fuentes' claim",
+        "insurance company",
+        "physician's prognosis",
+        "policy owner",
+        "witness to alleged suicide"
+      ],
+      "CE_values": [
+        0.09182305086822196,
+        0.005652595496000687,
+        0.04221813099733192,
+        0.0003184858011139658,
+        0.001194476579737703,
+        0.1698561127769682,
+        0.005278378834919394
+      ],
+      "EE_values": [
+        4.0,
+        1.6,
+        3.4,
+        1.6,
+        1.6,
+        1.25,
+        3.8
+      ]
+    },
+    "3. Fighting an uphill battle": {
+      "faithfulness": 0.9999999999999998,
+      "num_concepts": 2,
+      "concepts_used": [
+        "location",
+        "rule"
+      ],
+      "CE_values": [
+        0.0012547173471158322,
+        0.012517979364562403
+      ],
+      "EE_values": [
+        0.8,
+        4.0
+      ]
+    },
+    "3. Found facts": {
+      "faithfulness": 0.2739199446608076,
+      "num_concepts": 8,
+      "concepts_used": [
+        "accident_location",
+        "car_description",
+        "defendant",
+        "defendant_residence_distance",
+        "defendant_vehicle_location",
+        "driver_description",
+        "license_plate_partial",
+        "plaintiff"
+      ],
+      "CE_values": [
+        0.00018025888190584683,
+        9.264807854085863e-05,
+        0.021428834604454425,
+        0.00018281668213541622,
+        0.00027685363124414655,
+        0.0003509644269429702,
+        0.0002632701662488475,
+        0.002408370532151558
+      ],
+      "EE_values": [
+        2.4,
+        3.8,
+        3.4,
+        1.8,
+        1.8,
+        3.4,
+        3.4,
+        1.8
+      ]
+    },
+    "3. Foundering fathers": {
+      "faithfulness": null,
+      "num_concepts": 1,
+      "concepts_used": [
+        "amount"
+      ],
+      "CE_values": [
+        0.0004763254059475003
+      ],
+      "EE_values": [
+        0.2
+      ]
+    },
+    "3. Gone, but not forgotten": {
+      "faithfulness": -0.06032087462139325,
+      "num_concepts": 12,
+      "concepts_used": [
+        "accident_type",
+        "initial_claim_amount",
+        "initial_court",
+        "initial_outcome",
+        "parties",
+        "second_lawsuit_basis",
+        "second_lawsuit_court",
+        "second_lawsuit_defendants",
+        "second_lawsuit_plaintiff",
+        "states",
+        "time_between_lawsuits",
+        "vehicles_involved"
+      ],
+      "CE_values": [
+        0.00021127997205180275,
+        0.00017949867724007543,
+        0.051580423875046105,
+        0.00037293162449462817,
+        0.00997040778061496,
+        0.0010205902442436854,
+        0.00010896769022345684,
+        0.014110172206346056,
+        0.0008421120179873538,
+        0.00019468431327304724,
+        0.0002318777718069692,
+        0.0013331178645897826
+      ],
+      "EE_values": [
+        3.5,
+        0.6,
+        1.0,
+        1.0,
+        2.5,
+        4.0,
+        0.75,
+        3.6666666666666665,
+        3.3333333333333335,
+        0.6,
+        0.0,
+        2.0
+      ]
+    },
+    "3. Issues and arguments": {
+      "faithfulness": 0.16551487414213215,
+      "num_concepts": 11,
+      "concepts_used": [
+        "defendant",
+        "initial_allegation",
+        "initial_claim",
+        "initial_outcome",
+        "motion_to_strike_ground",
+        "new_defense_1",
+        "new_defense_2",
+        "new_witness",
+        "plaintiff",
+        "subsequent_claim",
+        "unlitigated_issue"
+      ],
+      "CE_values": [
+        0.046572763543288605,
+        0.05885278984042455,
+        0.0017573006194757134,
+        0.020340640237227894,
+        0.0,
+        0.05376293454954478,
+        0.01704527659768013,
+        0.0024781460549880016,
+        0.014804142239360399,
+        0.003709475066751353,
+        0.007600814368882199
+      ],
+      "EE_values": [
+        1.2,
+        3.6,
+        2.0,
+        4.0,
+        4.0,
+        3.2,
+        2.8,
+        1.2,
+        1.0,
+        1.6,
+        3.5
+      ]
+    },
+    "3. Manufacturing venue": {
+      "faithfulness": 0.5953856318096612,
+      "num_concepts": 10,
+      "concepts_used": [
+        "alleged negligence",
+        "alleged negligence location",
+        "defendant",
+        "defendant's factory location",
+        "defendant's other contacts with Illinois",
+        "defendant's principal place of business",
+        "incident",
+        "incident location",
+        "incident location district",
+        "plaintiff"
+      ],
+      "CE_values": [
+        0.00025327558866903037,
+        0.0064917164939899364,
+        0.0007697339723159332,
+        0.03913095153049713,
+        0.005131090137850726,
+        0.038381836888428195,
+        0.00042592188480028935,
+        0.0014526818953143963,
+        0.0013582943609626189,
+        0.00033611468779177567
+      ],
+      "EE_values": [
+        2.8,
+        4.0,
+        2.2,
+        3.8,
+        1.8,
+        3.8,
+        1.4,
+        3.2,
+        3.0,
+        1.0
+      ]
+    },
+    "3. Minimum, or miscellaneous": {
+      "faithfulness": 0.28841345548702874,
+      "num_concepts": 7,
+      "concepts_used": [
+        "Morales residence",
+        "New York business percentage",
+        "accident location",
+        "court",
+        "occupation",
+        "residence",
+        "work location"
+      ],
+      "CE_values": [
+        0.11916621250824652,
+        0.008463423288421519,
+        0.06037260848344385,
+        0.07151248160249297,
+        0.0021136173937178517,
+        0.03139726345956852,
+        0.00020753445499622797
+      ],
+      "EE_values": [
+        0.6666666666666666,
+        1.8,
+        4.0,
+        2.75,
+        0.2,
+        0.3333333333333333,
+        0.6
+      ]
+    },
+    "3. Not gone, and not forgotten": {
+      "faithfulness": 0.40194031030121574,
+      "num_concepts": 11,
+      "concepts_used": [
+        "beneficiary residence",
+        "court location",
+        "death location",
+        "policy renewal",
+        "purchase method",
+        "purchaser",
+        "residence",
+        "second beneficiary residence",
+        "second purchaser",
+        "second suit basis",
+        "statute basis"
+      ],
+      "CE_values": [
+        0.0011159620282263387,
+        0.0009189197791805692,
+        0.00022679138648778527,
+        0.0003225666364236178,
+        0.0002652392162923055,
+        0.0004326525455469127,
+        0.0004622700360328204,
+        0.00019708354711658652,
+        0.0022284855624057375,
+        0.004016303265486802,
+        0.004016303265486802
+      ],
+      "EE_values": [
+        2.5,
+        2.5,
+        0.5,
+        3.0,
+        3.5,
+        1.5,
+        2.25,
+        3.0,
+        2.5,
+        3.5,
+        3.0
+      ]
+    },
+    "3. Professor’s delight": {
+      "faithfulness": 0.1981415589412728,
+      "num_concepts": 17,
+      "concepts_used": [
+        "account_type",
+        "alleged_amount",
+        "alleged_breach",
+        "amended_claim",
+        "amended_claim_basis",
+        "defendant",
+        "defendant_citizenship",
+        "defendant_response",
+        "initial_court",
+        "plaintiff",
+        "plaintiff_incorporation",
+        "plaintiff_office_location",
+        "plaintiff_principal_place",
+        "remand_motion",
+        "removal_destination",
+        "time_until_amendment",
+        "time_until_removal"
+      ],
+      "CE_values": [
+        0.00015267365245972154,
+        0.00010368824326269173,
+        0.000238604738718716,
+        0.001001533335924698,
+        0.0007550987865090663,
+        0.00350945902015206,
+        0.0018834008643817566,
+        0.0004207287398206674,
+        0.0010711724521677952,
+        0.006523044820494015,
+        0.00032055936957933127,
+        0.0006442698352110331,
+        0.001400331447509246,
+        0.0010664653463326986,
+        0.0029924263241889078,
+        0.00013312155233091477,
+        0.0008573931421229703
+      ],
+      "EE_values": [
+        0.4,
+        0.4,
+        0.5,
+        4.0,
+        1.6,
+        2.4,
+        1.0,
+        0.25,
+        1.75,
+        0.8,
+        0.75,
+        0.2,
+        0.8,
+        3.0,
+        3.5,
+        0.6,
+        3.4
+      ]
+    },
+    "3. Relevance and discretion": {
+      "faithfulness": 1.0,
+      "num_concepts": 2,
+      "concepts_used": [
+        "court",
+        "requested discovery"
+      ],
+      "CE_values": [
+        0.0003292684766637199,
+        0.0023738136536762397
+      ],
+      "EE_values": [
+        2.2,
+        4.0
+      ]
+    },
+    "3. Repeat performance": {
+      "faithfulness": 0.3681015257073816,
+      "num_concepts": 9,
+      "concepts_used": [
+        "accident context",
+        "alleged harm",
+        "claim",
+        "defendant",
+        "first motion",
+        "first motion outcome",
+        "motion timing",
+        "plaintiff",
+        "second motion"
+      ],
+      "CE_values": [
+        0.0002887251082192954,
+        0.00031262028302590956,
+        0.0005877753152523227,
+        0.0016799297566074298,
+        0.0010660860324352003,
+        0.0012883787694532734,
+        0.009176002082023993,
+        0.0005609583335739405,
+        0.04407194678896145
+      ],
+      "EE_values": [
+        0.2,
+        0.25,
+        2.8,
+        3.2,
+        3.8,
+        1.0,
+        3.75,
+        0.2,
+        3.2
+      ]
+    },
+    "3. Roadblock": {
+      "faithfulness": 0.6857529082282464,
+      "num_concepts": 12,
+      "concepts_used": [
+        "additional_claim",
+        "contracting_parties",
+        "initial_claim",
+        "initial_contract_outcome",
+        "initial_contract_purpose",
+        "initial_recovery",
+        "joinder_rules",
+        "legal_standard",
+        "location",
+        "school_parking_lot_contract_status",
+        "second_claim",
+        "second_claim_cause"
+      ],
+      "CE_values": [
+        0.0155943468618626,
+        0.0036756255688275164,
+        0.006654070355525171,
+        0.00042728268588832245,
+        0.011483477856389784,
+        0.00021393481841506888,
+        0.002711488480478348,
+        0.01864915339044442,
+        0.0027622961210464463,
+        0.0008023388575834719,
+        0.0017164504912735893,
+        0.001160808510969362
+      ],
+      "EE_values": [
+        2.8,
+        2.25,
+        2.25,
+        1.6,
+        3.4,
+        0.6,
+        1.6666666666666667,
+        4.0,
+        0.8,
+        1.75,
+        3.6,
+        2.2
+      ]
+    },
+    "3. Service, but not notice": {
+      "faithfulness": 0.6642947357262223,
+      "num_concepts": 11,
+      "concepts_used": [
+        "cause of action",
+        "court",
+        "defendant",
+        "judgment timing",
+        "judgment type",
+        "mail handling",
+        "plaintiff",
+        "post-judgment action",
+        "relief motion",
+        "service method",
+        "service recipient"
+      ],
+      "CE_values": [
+        0.0003915975739343149,
+        0.000416527823394487,
+        0.0010462750470262533,
+        7.306380455903467e-05,
+        0.0015519570360711607,
+        0.0021659763126909313,
+        0.0007371762568915583,
+        0.00029525674539877643,
+        0.002387488246075685,
+        0.0003506490772347443,
+        0.0001478050546494326
+      ],
+      "EE_values": [
+        0.0,
+        1.6,
+        3.8,
+        2.0,
+        4.0,
+        4.0,
+        0.6,
+        1.4,
+        4.0,
+        3.8,
+        1.8
+      ]
+    },
+    "3. The latest news": {
+      "faithfulness": 0.06543858808891159,
+      "num_concepts": 10,
+      "concepts_used": [
+        "agreement",
+        "disclosure oversight",
+        "discovery timeline",
+        "dispute",
+        "document",
+        "document relevance",
+        "document status",
+        "parties",
+        "profit sharing",
+        "realization of oversight"
+      ],
+      "CE_values": [
+        0.0001592028235131392,
+        0.002726447496029057,
+        0.0001438059414206116,
+        0.00015008519562255808,
+        0.0007100208976600257,
+        0.005374751000125311,
+        0.0007882352795009512,
+        0.0013896427008319833,
+        0.00027533765209800375,
+        0.00014674029971414296
+      ],
+      "EE_values": [
+        1.8,
+        4.0,
+        3.8,
+        3.2,
+        3.4,
+        2.75,
+        2.4,
+        0.4,
+        1.8,
+        3.2
+      ]
+    },
+    "3. The quality of contacts": {
+      "faithfulness": 0.5451979205997993,
+      "num_concepts": 12,
+      "concepts_used": [
+        "accident location",
+        "court where sued",
+        "defendant",
+        "defendant's employer",
+        "defendant's role",
+        "employer's annual manufacturing value",
+        "employer's headquarters state",
+        "employer's incorporation state",
+        "employer's manufacturing state",
+        "employer's sales distribution",
+        "injured party",
+        "injured party's state"
+      ],
+      "CE_values": [
+        0.006275636222577484,
+        0.027692221312987625,
+        0.000316854968762071,
+        0.01286547206177062,
+        0.00531555462566802,
+        0.00042074700678956204,
+        0.0009966695129393064,
+        0.002071387920239948,
+        0.004237211263962449,
+        0.001227736968360869,
+        0.0030611289468449343,
+        0.03763736216337139
+      ],
+      "EE_values": [
+        1.0,
+        3.8,
+        1.0,
+        3.8,
+        0.8,
+        1.0,
+        3.8,
+        4.0,
+        1.25,
+        1.0,
+        1.4,
+        3.75
+      ]
+    },
+    "3. The state of the law": {
+      "faithfulness": 0.4063521273244148,
+      "num_concepts": 9,
+      "concepts_used": [
+        "Pennsylvania Supreme Court precedent",
+        "court after removal",
+        "court of original suit",
+        "injury location",
+        "injury year",
+        "jurisdiction for removal",
+        "other states' standard",
+        "precedent standard",
+        "trespasser"
+      ],
+      "CE_values": [
+        0.1157487311922465,
+        0.002893915482806827,
+        0.0003862658532027179,
+        0.0006205667950550608,
+        0.00023733671574957839,
+        0.004176109616411335,
+        0.0008902644562513253,
+        0.00030163628493291416,
+        0.0009210362622111423
+      ],
+      "EE_values": [
+        4.0,
+        3.6666666666666665,
+        1.6,
+        3.2,
+        1.0,
+        3.6666666666666665,
+        1.0,
+        4.0,
+        1.2
+      ]
+    },
+    "3. The ungrateful guest": {
+      "faithfulness": 0.38621000312585285,
+      "num_concepts": 6,
+      "concepts_used": [
+        "expert testimony",
+        "location",
+        "plane condition",
+        "time of day",
+        "weather conditions",
+        "witnesses"
+      ],
+      "CE_values": [
+        0.004276962060786956,
+        0.0012785314899285546,
+        0.008826101460065757,
+        0.0006316914733120116,
+        0.0,
+        0.0016251664458156827
+      ],
+      "EE_values": [
+        2.0,
+        1.0,
+        2.5,
+        1.0,
+        2.5,
+        2.5
+      ]
+    },
+    "3. This, that, and another other": {
+      "faithfulness": 0.18552673636339315,
+      "num_concepts": 8,
+      "concepts_used": [
+        "cause of third-party claim",
+        "damage amount",
+        "damage type",
+        "hired party",
+        "hiring party",
+        "subcontractor",
+        "third-party claim",
+        "work type"
+      ],
+      "CE_values": [
+        0.036935049366393094,
+        0.00037751471485031286,
+        0.00024652324225863585,
+        0.013323292891174008,
+        0.006216362781672441,
+        0.09095814218000513,
+        0.000565851460975789,
+        0.0004587874591092126
+      ],
+      "EE_values": [
+        2.2,
+        2.8,
+        1.4,
+        0.8,
+        1.0,
+        2.6,
+        3.2,
+        2.25
+      ]
+    },
+    "4. A jury of your miserly peers": {
+      "faithfulness": 0.309424840671458,
+      "num_concepts": 12,
+      "concepts_used": [
+        "accident_type",
+        "court",
+        "damages_assessed",
+        "defendant",
+        "disability",
+        "evidence_support",
+        "injury_type",
+        "judge_assessment",
+        "medical_bills",
+        "pain_suffering",
+        "plaintiff",
+        "verdict"
+      ],
+      "CE_values": [
+        0.0011020421680374782,
+        0.061603763936051346,
+        0.0006976515034891105,
+        0.019660997758435377,
+        0.000575051139183355,
+        0.5178634937161671,
+        0.003649079802043232,
+        0.056200692441089654,
+        0.0018633601386774268,
+        0.0021497206134423823,
+        0.010039949112594381,
+        0.006991194081752362
+      ],
+      "EE_values": [
+        0.4,
+        2.5,
+        4.0,
+        1.0,
+        3.0,
+        4.0,
+        1.75,
+        4.0,
+        3.0,
+        3.75,
+        0.2,
+        4.0
+      ]
+    },
+    "4. A matter of life and death": {
+      "faithfulness": -0.1692590498226339,
+      "num_concepts": 10,
+      "concepts_used": [
+        "Carello's state of mind",
+        "Fuentes' conversation with Carello",
+        "alleged cause of death",
+        "beneficiary",
+        "insurance company",
+        "physician's diagnosis",
+        "policy owner",
+        "time since diagnosis",
+        "witness",
+        "witness account"
+      ],
+      "CE_values": [
+        0.004618339460104213,
+        0.0002456912678844513,
+        0.03459678451515971,
+        0.03259991731335625,
+        0.0016512084252384778,
+        0.0014653152790831117,
+        0.04692505618224177,
+        0.00035110468418760065,
+        0.0009323716113414488,
+        0.004318214940470462
+      ],
+      "EE_values": [
+        3.4,
+        2.75,
+        4.0,
+        1.8,
+        1.6,
+        2.0,
+        0.75,
+        1.4,
+        2.2,
+        3.8
+      ]
+    },
+    "4. Blind faith": {
+      "faithfulness": 0.5671901820521619,
+      "num_concepts": 11,
+      "concepts_used": [
+        "alleged_reason_for_firing",
+        "client",
+        "client_annual_salary",
+        "client_employment_status",
+        "court_type",
+        "discovery_outcome",
+        "employer",
+        "lawyer",
+        "motion_filed",
+        "replacement_employee_age",
+        "statute_claimed"
+      ],
+      "CE_values": [
+        0.00024252049727346286,
+        0.0108748977678113,
+        0.00014119998015895622,
+        0.0001895582825743073,
+        0.0002551551394172338,
+        0.022658948636673126,
+        0.0007061066167583953,
+        0.3264778478655111,
+        0.09071491040957921,
+        0.0001278078115010413,
+        0.00033778080549726387
+      ],
+      "EE_values": [
+        1.6,
+        3.4,
+        0.2,
+        0.2,
+        0.2,
+        4.0,
+        0.8,
+        3.8,
+        3.4,
+        1.4,
+        1.0
+      ]
+    },
+    "4. Confidential chat": {
+      "faithfulness": null,
+      "num_concepts": 1,
+      "concepts_used": [
+        "contract exclusivity"
+      ],
+      "CE_values": [
+        0.005618922399802169
+      ],
+      "EE_values": [
+        2.0
+      ]
+    },
+    "4. Exceptions, exceptions": {
+      "faithfulness": 0.12941813883450537,
+      "num_concepts": 13,
+      "concepts_used": [
+        "claim_amount",
+        "claim_type",
+        "defendant",
+        "defendant_principal_place",
+        "defendant_state",
+        "impleaded_party",
+        "impleaded_party_state",
+        "impleaded_role",
+        "indemnification_basis",
+        "jurisdiction_basis",
+        "motion",
+        "plaintiff",
+        "plaintiff_state"
+      ],
+      "CE_values": [
+        0.0008305550040488855,
+        0.0006334321682031537,
+        0.18991272199418988,
+        0.0004484595770136634,
+        0.003706916981427588,
+        0.11890019026131876,
+        0.0016901714404190596,
+        0.0005742493991730134,
+        0.002022225311424209,
+        0.05816016242291359,
+        0.006646899862177266,
+        0.001822070650341789,
+        0.0003641841476890266
+      ],
+      "EE_values": [
+        0.75,
+        0.25,
+        1.3333333333333333,
+        1.2,
+        2.2,
+        3.6,
+        3.8,
+        2.8,
+        1.75,
+        4.0,
+        4.0,
+        0.6,
+        2.0
+      ]
+    },
+    "4. Hedging bets": {
+      "faithfulness": -0.04179729751375788,
+      "num_concepts": 11,
+      "concepts_used": [
+        "activity",
+        "additional claim",
+        "alleged defect",
+        "defendant",
+        "defense considered",
+        "discovery schedule",
+        "injured person",
+        "legal theory",
+        "location",
+        "product",
+        "trial timing"
+      ],
+      "CE_values": [
+        0.0006797931858506545,
+        0.0014383993287112058,
+        0.0013554555945600637,
+        0.0040209185892244505,
+        0.0009773094897074096,
+        0.0009014442211200865,
+        0.05591750054041867,
+        0.03648256852536796,
+        0.00041752967906549137,
+        0.002066611274399265,
+        0.00021777510994867651
+      ],
+      "EE_values": [
+        0.25,
+        4.0,
+        0.4,
+        0.2,
+        2.0,
+        3.6,
+        0.0,
+        4.0,
+        0.0,
+        0.6,
+        3.25
+      ]
+    },
+    "4. Here and there": {
+      "faithfulness": 0.37690677476452045,
+      "num_concepts": 18,
+      "concepts_used": [
+        "Tawney_and_Hughes_offices",
+        "Vermont_long-arm_statute_conditions",
+        "company",
+        "company_customers",
+        "company_location",
+        "company_major_customers",
+        "company_minor_customers",
+        "contract_negotiation_location",
+        "contract_negotiation_party",
+        "contract_purpose",
+        "firms_in_Vermont",
+        "lawsuit_claim",
+        "lawsuit_court",
+        "lawsuit_damages_sought",
+        "lawsuit_defendant",
+        "lawsuit_plaintiff",
+        "system_status",
+        "systems_installed_in_Vermont"
+      ],
+      "CE_values": [
+        0.003354563447105508,
+        0.05292750945432573,
+        0.008732359350250192,
+        0.0016841551091810957,
+        0.0003365778519438191,
+        0.006210650920521784,
+        0.009154760822919012,
+        0.03964257324064318,
+        0.06371846555168223,
+        0.0013966294181838694,
+        0.0008487139364840231,
+        0.0022865301097308405,
+        0.15546217617106514,
+        0.0025593647801041017,
+        0.009747172869836257,
+        0.03895058844939618,
+        0.009999242483487084,
+        0.16085803485184536
+      ],
+      "EE_values": [
+        3.0,
+        4.0,
+        1.0,
+        0.4,
+        0.8,
+        0.6,
+        0.6,
+        2.4,
+        2.2,
+        4.0,
+        3.2,
+        3.75,
+        3.0,
+        0.2,
+        1.0,
+        1.6666666666666667,
+        1.0,
+        3.25
+      ]
+    },
+    "4. Hostage-taking": {
+      "faithfulness": -0.05920152896735822,
+      "num_concepts": 11,
+      "concepts_used": [
+        "asset_location",
+        "asset_seized",
+        "asset_value",
+        "defendant",
+        "defendant_asset",
+        "defendant_claim",
+        "defendant_residence",
+        "dispute_amount",
+        "legal_action",
+        "plaintiff",
+        "plaintiff_claim"
+      ],
+      "CE_values": [
+        0.0003755374817926537,
+        0.005342199427218828,
+        0.0009673472754067598,
+        0.06307379167490997,
+        0.011737314733451805,
+        0.000738560553077594,
+        0.001240503994915985,
+        0.00039542862848587366,
+        0.001345043308010453,
+        0.0005602600686879082,
+        0.0011135357542823676
+      ],
+      "EE_values": [
+        3.75,
+        3.8,
+        2.0,
+        2.2,
+        3.6,
+        3.8,
+        2.0,
+        0.8,
+        4.0,
+        1.0,
+        2.4
+      ]
+    },
+    "4. Just deserts": {
+      "faithfulness": -0.5009756392872458,
+      "num_concepts": 5,
+      "concepts_used": [
+        "alleged cause of injury",
+        "alleged injury",
+        "alleged negligence",
+        "defendant",
+        "plaintiff"
+      ],
+      "CE_values": [
+        0.0014167651522851796,
+        0.0009097201534621312,
+        0.0021138698247985897,
+        0.008559255716874877,
+        0.012751753472082655
+      ],
+      "EE_values": [
+        1.75,
+        1.0,
+        3.6,
+        1.0,
+        0.8
+      ]
+    },
+    "4. Late, or never": {
+      "faithfulness": 0.710929910465506,
+      "num_concepts": 14,
+      "concepts_used": [
+        "court_location",
+        "defendant",
+        "defendant's_assets_in_court_location",
+        "defendant's_defense",
+        "defendant's_location",
+        "defendant's_response",
+        "judgment_amount",
+        "new_suit_location",
+        "payment_status",
+        "plaintiff",
+        "plaintiff's_claim",
+        "service_location",
+        "trial_type",
+        "verdict"
+      ],
+      "CE_values": [
+        0.0017526413779055316,
+        0.002625032020590096,
+        0.0004877840093273403,
+        0.0025828645407111016,
+        0.001284652623277437,
+        0.001088910136145906,
+        9.326691794141222e-05,
+        0.0019049469085509665,
+        0.00020622941263831191,
+        0.0013897496622821493,
+        0.00016162469508381957,
+        0.00013749673561790608,
+        0.00031604124398518143,
+        0.0004423685622052221
+      ],
+      "EE_values": [
+        2.0,
+        2.6,
+        0.25,
+        4.0,
+        0.6,
+        4.0,
+        0.2,
+        2.2,
+        1.0,
+        0.2,
+        0.4,
+        0.4,
+        0.6666666666666666,
+        0.6666666666666666
+      ]
+    },
+    "4. Making a federal case, part 2": {
+      "faithfulness": 0.41592706683162994,
+      "num_concepts": 11,
+      "concepts_used": [
+        "alleged_failure",
+        "case_type",
+        "client",
+        "court_type",
+        "defendant",
+        "defendant's_argument",
+        "lawyer",
+        "patent_status",
+        "reason_for_invalidity",
+        "subsequent_claim",
+        "subsequent_court"
+      ],
+      "CE_values": [
+        0.007152748143444583,
+        0.42212247857445795,
+        0.0019261732601317904,
+        0.0004981878834252234,
+        0.0003605675686330329,
+        0.16410636818336646,
+        0.003845806672806326,
+        0.002266299842219207,
+        0.004266961034630759,
+        0.002671822878395475,
+        0.002788961050685073
+      ],
+      "EE_values": [
+        3.6,
+        3.5,
+        1.8,
+        3.0,
+        1.0,
+        3.5,
+        1.2,
+        3.0,
+        1.8,
+        3.75,
+        1.8
+      ]
+    },
+    "4. Marital discord": {
+      "faithfulness": 0.4816601998730065,
+      "num_concepts": 9,
+      "concepts_used": [
+        "agreement",
+        "alleged issue",
+        "claimant",
+        "contract status",
+        "defendants",
+        "demand",
+        "plaintiff",
+        "property",
+        "relationship"
+      ],
+      "CE_values": [
+        4.620779136228499e-05,
+        0.0003535140101573466,
+        0.01261974384346543,
+        0.00018685725350467194,
+        0.01208689431311971,
+        0.00010474008577271291,
+        0.015655336574802607,
+        0.0008638613849779397,
+        0.0008089570506056621
+      ],
+      "EE_values": [
+        3.4,
+        0.8,
+        3.0,
+        1.75,
+        3.0,
+        2.6,
+        2.5,
+        0.75,
+        1.2
+      ]
+    },
+    "4. Onofrio’s revenge": {
+      "faithfulness": -0.1150464065200888,
+      "num_concepts": 8,
+      "concepts_used": [
+        "Brainard's Oregon office",
+        "Rivera's residence",
+        "court",
+        "damages sought",
+        "defendant 1",
+        "defendant 2",
+        "residence",
+        "work location"
+      ],
+      "CE_values": [
+        0.014898257461246567,
+        0.03185727006464192,
+        0.0053642514050061645,
+        0.014965072193212026,
+        0.02578266294221244,
+        0.0016008516667448069,
+        0.058644669621826184,
+        0.004423653865796576
+      ],
+      "EE_values": [
+        0.8,
+        0.0,
+        1.4,
+        1.2,
+        3.8,
+        4.0,
+        1.75,
+        0.75
+      ]
+    },
+    "4. Pipe dreams": {
+      "faithfulness": 1.0,
+      "num_concepts": 2,
+      "concepts_used": [
+        "joinder rules",
+        "second lawsuit court"
+      ],
+      "CE_values": [
+        0.02967085357631237,
+        0.0023078300439818844
+      ],
+      "EE_values": [
+        3.0,
+        1.0
+      ]
+    },
+    "4. Places of business": {
+      "faithfulness": 0.18658532023288799,
+      "num_concepts": 12,
+      "concepts_used": [
+        "allegation",
+        "damage",
+        "defendant1_factories",
+        "defendant1_incorporation",
+        "defendant1_principal_place",
+        "defendant2_regular_visits",
+        "defendant2_residence",
+        "defendants",
+        "manufacturing_location",
+        "plaintiff",
+        "plaintiff_incorporation",
+        "plaintiff_principal_place"
+      ],
+      "CE_values": [
+        0.0011998645703179861,
+        0.0011889825007487132,
+        0.015205391475959885,
+        0.005659787432000657,
+        0.4725584878723134,
+        0.016663172762734452,
+        0.10432549354209525,
+        0.004006874343376228,
+        0.5749084388689202,
+        0.03251615686098744,
+        0.1771700312494637,
+        0.22637445453097196
+      ],
+      "EE_values": [
+        0.2,
+        0.0,
+        2.8,
+        1.8,
+        4.0,
+        0.25,
+        2.4,
+        3.25,
+        0.75,
+        0.0,
+        0.0,
+        0.5
+      ]
+    },
+    "4. Replay": {
+      "faithfulness": 0.19016077231777934,
+      "num_concepts": 8,
+      "concepts_used": [
+        "court",
+        "defendant",
+        "defendant's conduct",
+        "doctrine applied",
+        "outcome",
+        "plaintiff",
+        "remedy sought",
+        "statute of limitations status"
+      ],
+      "CE_values": [
+        0.002030934984909871,
+        0.0,
+        0.0012877924325088205,
+        0.0012099533318524105,
+        0.0004708835273979908,
+        3.9918385000546824e-05,
+        0.00016537765450123205,
+        0.0002625753964843335
+      ],
+      "EE_values": [
+        2.25,
+        0.2,
+        0.6,
+        4.0,
+        4.0,
+        0.75,
+        1.4,
+        4.0
+      ]
+    },
+    "4. Return to sender": {
+      "faithfulness": 0.43031956441857505,
+      "num_concepts": 10,
+      "concepts_used": [
+        "action moved to",
+        "basis of claims",
+        "claims",
+        "court type",
+        "defendant",
+        "defendant's state",
+        "plaintiff",
+        "plaintiff's state",
+        "statute",
+        "statute provision"
+      ],
+      "CE_values": [
+        0.014053950398245672,
+        0.00091899767869178,
+        0.005368338521209151,
+        0.001382221281560371,
+        0.0016545121714614114,
+        0.0012027049145204468,
+        0.0012012069272968678,
+        0.0014549334506280612,
+        0.0024182144874696793,
+        0.0024859246586555013
+      ],
+      "EE_values": [
+        3.4,
+        2.2,
+        4.0,
+        3.0,
+        0.6,
+        0.8,
+        0.2,
+        0.4,
+        4.0,
+        4.0
+      ]
+    },
+    "4. Rolling risks": {
+      "faithfulness": 0.7069921662952354,
+      "num_concepts": 14,
+      "concepts_used": [
+        "defendant_contacts_with_illinois",
+        "illinois_long_arm_statute_criterion",
+        "illinois_supreme_court_interpretation",
+        "incident_consequence",
+        "incident_location",
+        "incident_type",
+        "incident_victim",
+        "manufacturer",
+        "manufacturer_location",
+        "product",
+        "product_destination",
+        "purchaser",
+        "purchaser_location",
+        "purchaser_operation_area"
+      ],
+      "CE_values": [
+        0.028454818747960298,
+        0.024291667400551317,
+        0.017149501209817654,
+        0.004291506698129482,
+        0.03457727328962006,
+        0.006759726430821322,
+        0.0003111055911220215,
+        0.0007776504849502062,
+        0.0012740388547662846,
+        0.0004608275910707345,
+        0.0003249005774660014,
+        0.03030482996161816,
+        0.0003249005774660014,
+        0.0043288740560412636
+      ],
+      "EE_values": [
+        3.0,
+        3.0,
+        3.2,
+        2.0,
+        4.0,
+        1.0,
+        0.2,
+        1.8,
+        1.2,
+        1.8,
+        1.8,
+        1.6,
+        1.4,
+        2.25
+      ]
+    },
+    "4. Served, but not satisfied": {
+      "faithfulness": 0.6070034366549708,
+      "num_concepts": 5,
+      "concepts_used": [
+        "conduct after accident",
+        "defendant's state",
+        "legal action",
+        "location of accident",
+        "plaintiff's state"
+      ],
+      "CE_values": [
+        0.00023389810998126744,
+        0.010726627864286992,
+        0.002111519184347888,
+        0.17839750967226706,
+        0.06893165922167815
+      ],
+      "EE_values": [
+        0.2,
+        2.4,
+        1.8,
+        3.6,
+        0.4
+      ]
+    },
+    "4. Singing the blues": {
+      "faithfulness": null,
+      "num_concepts": 1,
+      "concepts_used": [
+        "alibi evidence"
+      ],
+      "CE_values": [
+        0.004484143960392002
+      ],
+      "EE_values": [
+        4.0
+      ]
+    },
+    "4. Supplementing the Erie doctrine": {
+      "faithfulness": 0.04354874461113648,
+      "num_concepts": 10,
+      "concepts_used": [
+        "court",
+        "defendant",
+        "defendant's state",
+        "employment law in Texas",
+        "employment law in many states",
+        "first claim",
+        "jurisdiction basis",
+        "plaintiff",
+        "plaintiff's state",
+        "second claim"
+      ],
+      "CE_values": [
+        0.0026014272046985245,
+        0.00023253893381401276,
+        0.4672643061589263,
+        0.0006364733018175804,
+        0.013544062920113878,
+        0.0015900258178215068,
+        0.013654462181191325,
+        0.0014120391336021384,
+        0.4672643061589263,
+        0.00081559096041412
+      ],
+      "EE_values": [
+        3.6,
+        0.5,
+        3.0,
+        4.0,
+        1.0,
+        2.6,
+        3.3333333333333335,
+        0.0,
+        2.0,
+        3.75
+      ]
+    },
+    "4. Verdicts and decisions": {
+      "faithfulness": 0.48458837449287884,
+      "num_concepts": 9,
+      "concepts_used": [
+        "accident",
+        "defense",
+        "initial_claim",
+        "legal_standard",
+        "parties",
+        "second_claim",
+        "specific_findings",
+        "trial",
+        "verdict"
+      ],
+      "CE_values": [
+        0.004278597519451409,
+        0.011796076264219472,
+        0.005812186049231678,
+        0.012083910996474838,
+        0.083172546142529,
+        0.00970099474841778,
+        0.5817354261005822,
+        0.007608989844428526,
+        0.03022798929899008
+      ],
+      "EE_values": [
+        1.3333333333333333,
+        1.8,
+        1.4,
+        3.25,
+        1.4,
+        2.2,
+        3.4,
+        1.75,
+        3.4
+      ]
+    },
+    "5. A case for dissection": {
+      "faithfulness": -0.005904513328249417,
+      "num_concepts": 4,
+      "concepts_used": [
+        "claims",
+        "court",
+        "parties",
+        "surgery"
+      ],
+      "CE_values": [
+        0.0007705283697662123,
+        0.00020651569971738182,
+        0.0,
+        0.010772127020072825
+      ],
+      "EE_values": [
+        4.0,
+        0.25,
+        2.2,
+        2.0
+      ]
+    },
+    "5. Alleged allegations": {
+      "faithfulness": 0.6846897370420646,
+      "num_concepts": 4,
+      "concepts_used": [
+        "allegation",
+        "defendant",
+        "evidence found",
+        "plaintiff"
+      ],
+      "CE_values": [
+        0.05802587816155336,
+        0.00320372029001526,
+        0.27544408473736814,
+        0.01601022777365089
+      ],
+      "EE_values": [
+        4.0,
+        0.6,
+        4.0,
+        2.0
+      ]
+    },
+    "5. Among the missing": {
+      "faithfulness": 0.3636752956499501,
+      "num_concepts": 6,
+      "concepts_used": [
+        "claim",
+        "defendant",
+        "defendant's response",
+        "plaintiff",
+        "timing of venue realization",
+        "venue issue"
+      ],
+      "CE_values": [
+        0.0013419603178292704,
+        0.10683258738202064,
+        0.025569341402230945,
+        0.014259074551734285,
+        0.0013002485870154724,
+        0.013770841598695044
+      ],
+      "EE_values": [
+        0.0,
+        3.2,
+        3.6,
+        0.6,
+        2.6,
+        4.0
+      ]
+    },
+    "5. Better late than never": {
+      "faithfulness": 0.3742207206535959,
+      "num_concepts": 7,
+      "concepts_used": [
+        "alleged_issue_men_suits",
+        "alleged_issue_women_dresses",
+        "amended_claim_date",
+        "claim_filing_date",
+        "limitation_period",
+        "purchase_date_men_suits",
+        "purchase_date_women_dresses"
+      ],
+      "CE_values": [
+        4.7231278785444324e-05,
+        4.608094070109305e-05,
+        0.00019157962637227844,
+        0.0035491527290167,
+        0.000496888734741014,
+        0.0004304605691474365,
+        0.00013522381687492438
+      ],
+      "EE_values": [
+        1.2,
+        2.6,
+        3.2,
+        3.8,
+        4.0,
+        3.0,
+        4.0
+      ]
+    },
+    "5. Business principals": {
+      "faithfulness": 0.16478865943088933,
+      "num_concepts": 14,
+      "concepts_used": [
+        "El Paso plant employees",
+        "El Paso plant location",
+        "Tennessee factory employees",
+        "Tennessee factory location",
+        "Tennessee factory purpose",
+        "court",
+        "defendant",
+        "defendant's business",
+        "defendant's incorporation",
+        "headquarters employees",
+        "headquarters location",
+        "legal action",
+        "plaintiffs",
+        "plaintiffs' location"
+      ],
+      "CE_values": [
+        0.00023036587913423043,
+        0.0013318831453501872,
+        0.000293202846988181,
+        0.0005376804743795302,
+        0.0002884959899233358,
+        0.021847049402017853,
+        0.00244457193867911,
+        0.0004084917746352304,
+        0.03611210196751741,
+        0.0005020649758002595,
+        0.003847968803518679,
+        0.001225759503256349,
+        0.000324973118725115,
+        0.025416699090404518
+      ],
+      "EE_values": [
+        3.4,
+        0.2,
+        1.4,
+        1.4,
+        0.8,
+        0.8,
+        3.0,
+        0.4,
+        2.0,
+        1.6,
+        4.0,
+        0.25,
+        2.6,
+        3.4
+      ]
+    },
+    "5. Contracts and contacts": {
+      "faithfulness": 0.5838037872249031,
+      "num_concepts": 12,
+      "concepts_used": [
+        "Boyarin's action",
+        "Boyarin's motion",
+        "Boyarin's role",
+        "Compu-Drive's business",
+        "Compu-Drive's location",
+        "Lawsuit location",
+        "MediSoft's business",
+        "MediSoft's location",
+        "MediSoft's response",
+        "Mercy Hospital's location",
+        "Mercy Hospital's plan",
+        "Mercy Hospital's response"
+      ],
+      "CE_values": [
+        0.011178352187134356,
+        0.011982022264047073,
+        0.0180682546387888,
+        0.0029072795018039326,
+        0.010358857172610298,
+        0.129243426700732,
+        0.006546952883991901,
+        0.004793382084526617,
+        0.003416488047367248,
+        0.1396366104062784,
+        0.0038811920808962375,
+        0.028816693422500237
+      ],
+      "EE_values": [
+        4.0,
+        3.4,
+        1.0,
+        0.4,
+        0.4,
+        3.8,
+        1.6,
+        1.0,
+        1.8,
+        3.8,
+        2.6,
+        2.0
+      ]
+    },
+    "5. Dim prospects for partnership": {
+      "faithfulness": 0.6039649034871301,
+      "num_concepts": 3,
+      "concepts_used": [
+        "person",
+        "reaction",
+        "situation"
+      ],
+      "CE_values": [
+        0.0011934207540267602,
+        0.002757704127084231,
+        0.0019505247817972898
+      ],
+      "EE_values": [
+        1.8,
+        2.8,
+        3.4
+      ]
+    },
+    "5. Encore, encore": {
+      "faithfulness": 0.5932571385393969,
+      "num_concepts": 3,
+      "concepts_used": [
+        "driver",
+        "evidence",
+        "finding"
+      ],
+      "CE_values": [
+        0.0034716769829151793,
+        0.0007577530303275227,
+        0.0013834848938911056
+      ],
+      "EE_values": [
+        4.0,
+        3.8,
+        3.4
+      ]
+    },
+    "5. Fine distinctions": {
+      "faithfulness": null,
+      "num_concepts": 2,
+      "concepts_used": [
+        "allegations",
+        "procedural context"
+      ],
+      "CE_values": [
+        0.013634466354698168,
+        0.013927971978608601
+      ],
+      "EE_values": [
+        4.0,
+        4.0
+      ]
+    },
+    "5. Immaterial materials": {
+      "faithfulness": null,
+      "num_concepts": 1,
+      "concepts_used": [
+        "defendant"
+      ],
+      "CE_values": [
+        0.2844467510251633
+      ],
+      "EE_values": [
+        2.0
+      ]
+    },
+    "5. Jurisdictional asymmetry": {
+      "faithfulness": 0.721914601292864,
+      "num_concepts": 10,
+      "concepts_used": [
+        "claim type",
+        "court where sued",
+        "damages sought",
+        "defendant",
+        "defendant's action",
+        "defendant's preferred court",
+        "defendant's state",
+        "destination court",
+        "plaintiff",
+        "plaintiff's state"
+      ],
+      "CE_values": [
+        0.0006719630879484819,
+        0.2518332316657918,
+        9.111720410841226e-05,
+        0.002208378818967887,
+        0.10351512636377103,
+        0.01694425180064581,
+        0.0006354106695737622,
+        0.0020419372066813107,
+        0.001279526558448789,
+        0.0004043458215835728
+      ],
+      "EE_values": [
+        0.2,
+        4.0,
+        0.2,
+        1.6,
+        4.0,
+        1.25,
+        0.4,
+        3.4,
+        0.2,
+        0.4
+      ]
+    },
+    "5. Mix and match": {
+      "faithfulness": 0.8382204308728238,
+      "num_concepts": 7,
+      "concepts_used": [
+        "agreement_date",
+        "alleged_agreement",
+        "defense",
+        "delivery_date",
+        "party1",
+        "party2",
+        "timing_of_statute"
+      ],
+      "CE_values": [
+        9.555308872351604e-06,
+        4.809811206693307e-05,
+        0.0014820895978559217,
+        0.00019779907387774943,
+        9.583515472819549e-05,
+        0.00011863699948444267,
+        0.0005872073554980384
+      ],
+      "EE_values": [
+        1.2,
+        0.6,
+        4.0,
+        1.8,
+        0.2,
+        1.0,
+        4.0
+      ]
+    },
+    "5. Part I or Part II": {
+      "faithfulness": 0.17530469213442285,
+      "num_concepts": 6,
+      "concepts_used": [
+        "case_type",
+        "defendant",
+        "filing_date",
+        "jurisdiction",
+        "plaintiff",
+        "service_date"
+      ],
+      "CE_values": [
+        0.010427784682913615,
+        0.00131046760197131,
+        0.005587630719515326,
+        0.013336798007066627,
+        0.002040403527997189,
+        0.0014237394143022972
+      ],
+      "EE_values": [
+        3.5,
+        0.0,
+        4.0,
+        1.0,
+        0.0,
+        3.6
+      ]
+    },
+    "5. Predicting the present": {
+      "faithfulness": -0.06566289058401235,
+      "num_concepts": 6,
+      "concepts_used": [
+        "emporia_law_1911",
+        "jurisdiction_basis_hardy",
+        "laurel_claim",
+        "lawsuit_type_laurel",
+        "neighboring_state_liability_2000",
+        "restatement_2001"
+      ],
+      "CE_values": [
+        0.00424058313710145,
+        0.0003480331310804952,
+        0.014965000942080652,
+        0.01361434316305271,
+        0.009786846963809246,
+        0.06666960260122526
+      ],
+      "EE_values": [
+        4.0,
+        1.6666666666666667,
+        2.6666666666666665,
+        2.3333333333333335,
+        1.6666666666666667,
+        2.3333333333333335
+      ]
+    },
+    "5. Procedure and substance": {
+      "faithfulness": 0.5162849334545376,
+      "num_concepts": 6,
+      "concepts_used": [
+        "defendant",
+        "first claim basis",
+        "injury cause",
+        "place",
+        "plaintiff",
+        "second claim basis"
+      ],
+      "CE_values": [
+        0.0012748242448899633,
+        0.04627876625643896,
+        0.0003304491920562545,
+        0.0005010516037087205,
+        0.01647744644632212,
+        0.36100304534918165
+      ],
+      "EE_values": [
+        2.0,
+        3.8,
+        0.8,
+        0.4,
+        0.6,
+        3.0
+      ]
+    },
+    "5. Reasonable inquiry": {
+      "faithfulness": -0.05816633589752617,
+      "num_concepts": 13,
+      "concepts_used": [
+        "cause of action",
+        "defendants",
+        "engine manufacturer",
+        "engine type",
+        "information location",
+        "information requested",
+        "injury",
+        "plaintiff",
+        "plane owner",
+        "respondent",
+        "respondent's knowledge",
+        "respondent's role",
+        "time period"
+      ],
+      "CE_values": [
+        0.0002614457273793091,
+        0.011714364732590314,
+        0.026906757949464857,
+        0.000132716826887875,
+        0.0025155185654838394,
+        0.00033729273599832706,
+        0.00020827056742981145,
+        0.001075453534758452,
+        0.00045022812182966756,
+        0.0008499433035928357,
+        0.0005282843283995511,
+        0.00024210067374884011,
+        0.00012419428244449758
+      ],
+      "EE_values": [
+        0.0,
+        0.8,
+        1.6,
+        1.6,
+        2.8,
+        2.4,
+        0.25,
+        0.0,
+        0.0,
+        4.0,
+        4.0,
+        3.0,
+        1.0
+      ]
+    },
+    "5. Reprise": {
+      "faithfulness": 0.36050531404401326,
+      "num_concepts": 7,
+      "concepts_used": [
+        "accident_parties",
+        "defense",
+        "initial_claim",
+        "legal_standard",
+        "subsequent_action",
+        "trial_type",
+        "verdict"
+      ],
+      "CE_values": [
+        0.23088459547298548,
+        0.009418967960197533,
+        0.008873585903386817,
+        0.017255071174245643,
+        0.009213045961953218,
+        0.005268619714555519,
+        0.251870757384891
+      ],
+      "EE_values": [
+        2.4,
+        3.0,
+        1.4,
+        3.5,
+        3.0,
+        2.3333333333333335,
+        4.0
+      ]
+    },
+    "5. Shades of Gray": {
+      "faithfulness": 0.7261613184217268,
+      "num_concepts": 11,
+      "concepts_used": [
+        "accident_consequence",
+        "alleged_neglect",
+        "buyer",
+        "car_model",
+        "court",
+        "jurisdiction_basis",
+        "location_of_accident",
+        "location_of_sale",
+        "seller",
+        "seller_type",
+        "statute_provision"
+      ],
+      "CE_values": [
+        0.0008908472872108073,
+        8.924273048325267e-05,
+        0.002691260692732759,
+        0.00020270636508571427,
+        0.0038643822209535918,
+        0.00031466324048810335,
+        0.02704563592092879,
+        0.002548891835249787,
+        0.0013620948427023995,
+        0.002548891835249787,
+        0.013746865499277713
+      ],
+      "EE_values": [
+        2.6,
+        1.2,
+        0.8,
+        0.2,
+        1.0,
+        2.8,
+        4.0,
+        0.8,
+        1.0,
+        0.8,
+        4.0
+      ]
+    },
+    "5. The exception that proves the rule": {
+      "faithfulness": 0.4418269333943104,
+      "num_concepts": 17,
+      "concepts_used": [
+        "compensatory_damages_claimed",
+        "court",
+        "defendant",
+        "defendant_principal_place",
+        "defendant_state",
+        "direct_claim_against_third_party",
+        "direct_claim_compensatory_damages",
+        "jurisdiction_basis",
+        "motion_to_dismiss_basis",
+        "plaintiff",
+        "plaintiff_state",
+        "punitive_damages_claimed",
+        "third_party_defendant",
+        "third_party_defendant_claim",
+        "third_party_defendant_claim_type",
+        "third_party_defendant_role",
+        "third_party_defendant_state"
+      ],
+      "CE_values": [
+        9.397174486241185e-05,
+        0.000135311548520298,
+        0.0007831974964297302,
+        2.5687659275250535e-05,
+        3.9884581021182135e-05,
+        0.01914727993783329,
+        0.00019045532694740195,
+        0.03494142563960442,
+        0.000992487005111868,
+        0.034568872447467994,
+        7.447878520569186e-05,
+        7.317806657961023e-05,
+        0.02747109244260744,
+        3.4483231539617566e-05,
+        0.0004952236200794656,
+        2.358861926948558e-05,
+        8.947330246021048e-05
+      ],
+      "EE_values": [
+        0.8,
+        1.75,
+        1.3333333333333333,
+        2.0,
+        2.4,
+        4.0,
+        2.6,
+        3.6666666666666665,
+        3.75,
+        2.4,
+        3.4,
+        1.0,
+        3.4,
+        1.5,
+        1.0,
+        0.2,
+        4.0
+      ]
+    },
+    "5. The federal shuffle": {
+      "faithfulness": 0.49505959049008175,
+      "num_concepts": 16,
+      "concepts_used": [
+        "Ace Corporation's incorporation",
+        "Ace Corporation's large operations",
+        "Ace Corporation's office in Texas",
+        "Ace Corporation's other offices in Texas",
+        "Ace Corporation's principal place of business",
+        "Ace employees involved",
+        "Ace's claim",
+        "Connors' claim",
+        "Connors' profession",
+        "Connors' residence",
+        "Contract negotiation location",
+        "Contract negotiation method",
+        "Contract price",
+        "Court for the action",
+        "Work location",
+        "Work purpose"
+      ],
+      "CE_values": [
+        0.0013638243060510836,
+        0.00032297180972852747,
+        0.009537179273523377,
+        0.0005013519105653909,
+        0.09825107376712593,
+        0.0016613371989138645,
+        0.0004792568020261831,
+        0.0018423890654882078,
+        0.001245476702657043,
+        0.05083759083616376,
+        0.0009053547631608565,
+        0.0009669993981732683,
+        0.0010222921254727198,
+        0.029704968971858908,
+        0.00329287300930323,
+        0.0015730496027440465
+      ],
+      "EE_values": [
+        3.0,
+        0.6,
+        2.8,
+        0.25,
+        4.0,
+        1.5,
+        0.2,
+        1.2,
+        0.0,
+        2.5,
+        3.4,
+        1.25,
+        0.0,
+        4.0,
+        3.75,
+        3.0
+      ]
+    },
+    "5. The voice of experience": {
+      "faithfulness": 0.12586272045537686,
+      "num_concepts": 5,
+      "concepts_used": [
+        "emergency brake",
+        "injury cause",
+        "motion basis",
+        "verdict",
+        "wheels direction"
+      ],
+      "CE_values": [
+        0.0003285355941743153,
+        0.0030224371369399865,
+        0.003698588636277676,
+        0.0020379080478310197,
+        0.0011363751499860162
+      ],
+      "EE_values": [
+        2.5,
+        1.25,
+        3.75,
+        2.25,
+        2.75
+      ]
+    },
+    "5. Tricks of the trade": {
+      "faithfulness": -0.06247616210485606,
+      "num_concepts": 11,
+      "concepts_used": [
+        "Loman's action",
+        "Loman's lawyer",
+        "Loman's legal action",
+        "Loman's role",
+        "Loman's stance",
+        "Sanders Abrasives' role",
+        "discovery request",
+        "dispute",
+        "document sent to lawyer",
+        "negotiations topic",
+        "parties involved"
+      ],
+      "CE_values": [
+        0.0013034946519126446,
+        0.011163285866344002,
+        0.0011868326077146942,
+        0.0006771613872122111,
+        0.003026403636051498,
+        0.00037981201782811934,
+        0.005141881322762265,
+        0.0003232940133224432,
+        0.001974562472837406,
+        0.0012457611454663267,
+        0.0
+      ],
+      "EE_values": [
+        3.6,
+        0.8,
+        1.2,
+        1.0,
+        3.25,
+        1.0,
+        3.2,
+        2.4,
+        3.5,
+        1.8,
+        1.0
+      ]
+    },
+    "5. Variation": {
+      "faithfulness": 0.033654562302060265,
+      "num_concepts": 12,
+      "concepts_used": [
+        "alleged wrong",
+        "defendant",
+        "defendant's arguments",
+        "defendant's origin",
+        "defendant's response in initial court",
+        "defendant's response in subsequent court",
+        "initial court",
+        "initial court's jurisdiction approach",
+        "initial judgment",
+        "plaintiff",
+        "subsequent claim",
+        "subsequent court"
+      ],
+      "CE_values": [
+        0.0067355819022895886,
+        0.0017824091086576883,
+        0.0041479691935827935,
+        0.00034699097270237864,
+        0.0043615216238423425,
+        0.033075546666757945,
+        0.005118893656398724,
+        0.00033828663390938894,
+        0.00020710704219177277,
+        0.0019909512059424882,
+        0.0008655375731748956,
+        0.0034906947583993944
+      ],
+      "EE_values": [
+        1.4,
+        2.6,
+        4.0,
+        3.2,
+        3.4,
+        3.0,
+        3.2,
+        2.75,
+        2.6,
+        0.4,
+        4.0,
+        3.2
+      ]
+    },
+    "6. A matter of convenience": {
+      "faithfulness": 0.4929231986127198,
+      "num_concepts": 15,
+      "concepts_used": [
+        "car delivered",
+        "car purchase agreement",
+        "car purchased",
+        "car type",
+        "communication after deposit",
+        "deposit cashed",
+        "deposit sent",
+        "distance from wisconsin border",
+        "fein's home state",
+        "fein's location during meeting",
+        "lawsuit basis",
+        "lawsuit location",
+        "lawsuit reason",
+        "lonergan's location",
+        "lonergan's role"
+      ],
+      "CE_values": [
+        0.040153646767423716,
+        0.001189954499370176,
+        0.00021583155541284727,
+        0.00024019312896903446,
+        0.003530876470417275,
+        0.002894477448652062,
+        0.006237069785223319,
+        0.0011643873594945754,
+        0.028348051429224377,
+        0.0019132941497356174,
+        0.0006563280956127277,
+        0.01646753947306344,
+        0.0011652577670834112,
+        0.04368668087380826,
+        0.00035330817025728623
+      ],
+      "EE_values": [
+        0.6666666666666666,
+        1.75,
+        0.2,
+        0.25,
+        2.2,
+        1.3333333333333333,
+        1.75,
+        1.0,
+        2.6,
+        1.2,
+        1.2,
+        4.0,
+        1.5,
+        3.8,
+        1.6
+      ]
+    },
+    "6. A matter of opinion": {
+      "faithfulness": -0.6939957719350629,
+      "num_concepts": 3,
+      "concepts_used": [
+        "Omniplex's interpretation",
+        "contract clause",
+        "parties"
+      ],
+      "CE_values": [
+        0.0008827883749395943,
+        0.0018343158758325386,
+        0.0029796002158410744
+      ],
+      "EE_values": [
+        2.75,
+        4.0,
+        0.25
+      ]
+    },
+    "6. Amendment rights": {
+      "faithfulness": 0.4326546260607774,
+      "num_concepts": 11,
+      "concepts_used": [
+        "amended claim",
+        "amendment motion date",
+        "amendment reason",
+        "amendment timing",
+        "breach of contract suit filing date",
+        "discovery duration",
+        "firing date",
+        "firing reason",
+        "limitations period for breach of contract",
+        "limitations period for civil rights claim",
+        "position"
+      ],
+      "CE_values": [
+        0.0002386446947031195,
+        0.00015675470110052372,
+        0.001100755787516837,
+        0.0002613891140807581,
+        9.312786361229418e-05,
+        0.0002925749596179286,
+        0.00016595150839580843,
+        0.00010905972800089253,
+        0.0005907077722375224,
+        0.0009855143377560758,
+        0.00012554808406527315
+      ],
+      "EE_values": [
+        3.8,
+        2.6,
+        4.0,
+        3.0,
+        1.8,
+        2.0,
+        1.8,
+        3.4,
+        0.6,
+        4.0,
+        1.0
+      ]
+    },
+    "6. Any port in a storm": {
+      "faithfulness": 0.198269585262849,
+      "num_concepts": 6,
+      "concepts_used": [
+        "accident_location",
+        "court_location",
+        "legal_claim",
+        "person_involved",
+        "residency",
+        "service_of_process_location"
+      ],
+      "CE_values": [
+        0.005303862377538989,
+        0.001126008870923224,
+        0.0037340832598914374,
+        0.000972506257052859,
+        0.011733781299511435,
+        0.0005894152344781448
+      ],
+      "EE_values": [
+        4.0,
+        1.6,
+        1.2,
+        1.6,
+        1.5,
+        1.0
+      ]
+    },
+    "6. At home and abroad": {
+      "faithfulness": -0.06883980073281089,
+      "num_concepts": 7,
+      "concepts_used": [
+        "Toussaint's status",
+        "defendant1",
+        "defendant2",
+        "defendant3",
+        "jurisdiction",
+        "plaintiff1",
+        "plaintiff2"
+      ],
+      "CE_values": [
+        0.003517100489060933,
+        0.02625416308266955,
+        0.00038633360260228403,
+        0.002608732765620291,
+        0.04260083004572526,
+        0.016138861553390837,
+        0.0018775247272248105
+      ],
+      "EE_values": [
+        3.4,
+        0.6,
+        4.0,
+        2.8,
+        4.0,
+        1.8,
+        2.0
+      ]
+    },
+    "6. Deference due": {
+      "faithfulness": -0.022649756514122474,
+      "num_concepts": 8,
+      "concepts_used": [
+        "action",
+        "appeal",
+        "judgment",
+        "legal principle",
+        "railway",
+        "similar contract",
+        "state law",
+        "year"
+      ],
+      "CE_values": [
+        0.002841271665370671,
+        0.005263162470909996,
+        3.5676709564857685e-05,
+        0.0003124581255733924,
+        0.0002927383330720617,
+        0.0002955638190034322,
+        0.0006843260462333864,
+        0.00011166073246550174
+      ],
+      "EE_values": [
+        0.25,
+        2.5,
+        1.0,
+        2.75,
+        0.25,
+        3.0,
+        4.0,
+        1.75
+      ]
+    },
+    "6. Details, details": {
+      "faithfulness": 0.5936470498045101,
+      "num_concepts": 14,
+      "concepts_used": [
+        "Curley's service location",
+        "Curley's service method",
+        "Fields' role",
+        "Larry's recipient",
+        "Larry's service location",
+        "Moe's service location",
+        "West's location",
+        "West's response",
+        "West's service location",
+        "West's service method",
+        "claim",
+        "court",
+        "defendants",
+        "plaintiff"
+      ],
+      "CE_values": [
+        0.003808520526066352,
+        0.04277555790740503,
+        0.03623899334080838,
+        0.024873624918339426,
+        0.010812729562288815,
+        0.026802955967101236,
+        0.01771738432994512,
+        0.026805617733231948,
+        0.01150627160044599,
+        0.12059398257028564,
+        0.0024355353591836637,
+        0.02913875206295094,
+        0.006896871178031743,
+        0.004981583478313472
+      ],
+      "EE_values": [
+        1.6,
+        3.8,
+        4.0,
+        4.0,
+        1.6,
+        3.6,
+        2.5,
+        2.5,
+        3.0,
+        4.0,
+        0.0,
+        2.2,
+        2.6,
+        0.2
+      ]
+    },
+    "6. Dueling amendments": {
+      "faithfulness": 0.5833265764114796,
+      "num_concepts": 10,
+      "concepts_used": [
+        "alleged conduct",
+        "claim",
+        "conduct location",
+        "court type",
+        "defendant",
+        "defendant's motion",
+        "defendant's state",
+        "plaintiff",
+        "plaintiff's state",
+        "removal basis"
+      ],
+      "CE_values": [
+        0.00021624534182692966,
+        0.0008322078422874035,
+        0.0003174829752164222,
+        0.030849804643054837,
+        0.0024457450093343493,
+        0.004434236912960573,
+        0.0002797169643197651,
+        0.0008581495827382454,
+        0.00025685484392337724,
+        0.0010543648392834337
+      ],
+      "EE_values": [
+        0.4,
+        0.2,
+        3.5,
+        4.0,
+        1.2,
+        4.0,
+        1.4,
+        0.2,
+        0.4,
+        1.5
+      ]
+    },
+    "6. Eager anticipation": {
+      "faithfulness": -0.019379782145139433,
+      "num_concepts": 11,
+      "concepts_used": [
+        "company_response",
+        "complainant",
+        "complaint_type",
+        "demand",
+        "discovery_request",
+        "investigation_outcome",
+        "investigation_subject",
+        "investigator",
+        "legal_action",
+        "product",
+        "time_elapsed"
+      ],
+      "CE_values": [
+        0.00029836303626988857,
+        0.011863960011294382,
+        0.00019455509567936489,
+        0.0005008239262859508,
+        0.0002566646384200445,
+        0.008811849957761362,
+        0.0006483499250857934,
+        0.003668654944294745,
+        0.00037548134483660555,
+        0.00037629289104063106,
+        0.0003040586609547908
+      ],
+      "EE_values": [
+        3.4,
+        2.0,
+        1.8,
+        3.4,
+        3.6,
+        3.8,
+        3.8,
+        2.8,
+        3.0,
+        2.0,
+        1.4
+      ]
+    },
+    "6. Feeling the heat": {
+      "faithfulness": 0.408532377735082,
+      "num_concepts": 14,
+      "concepts_used": [
+        "affected property",
+        "claim",
+        "court",
+        "damages sought",
+        "defendant",
+        "injury",
+        "injury type",
+        "jurisdiction",
+        "plaintiff",
+        "property location",
+        "property status",
+        "third-party claim",
+        "third-party defendant",
+        "third-party defendant's role"
+      ],
+      "CE_values": [
+        0.0007293339756622015,
+        0.001021188261279219,
+        0.00012086276121245923,
+        0.0002853272011045881,
+        0.0025862674046558975,
+        0.0025982439388642464,
+        0.0005014322443573204,
+        0.0007825581757499683,
+        0.00023847043939471854,
+        0.00029542407209599906,
+        0.006674262237051971,
+        0.003393858324218646,
+        0.02576010055031333,
+        0.011222775838384899
+      ],
+      "EE_values": [
+        3.2,
+        2.25,
+        1.2,
+        0.4,
+        1.6,
+        1.5,
+        1.5,
+        1.25,
+        1.2,
+        1.4,
+        4.0,
+        4.0,
+        3.6,
+        0.75
+      ]
+    },
+    "6. Inherent contradiction": {
+      "faithfulness": -0.03913215521980748,
+      "num_concepts": 8,
+      "concepts_used": [
+        "Carello's statement to Allen",
+        "Fuentes' response",
+        "beneficiary",
+        "cause of death",
+        "evidence for cause of death",
+        "insurance company",
+        "policy owner",
+        "policy type"
+      ],
+      "CE_values": [
+        0.004578904205827702,
+        0.16336217346556925,
+        0.1953537114956807,
+        0.019128013501005358,
+        0.0775027208880234,
+        0.015316383326320557,
+        0.017822014304771868,
+        0.0015067170259655237
+      ],
+      "EE_values": [
+        2.8,
+        3.8,
+        1.2,
+        4.0,
+        3.4,
+        1.6,
+        1.5,
+        2.5
+      ]
+    },
+    "6. Justice delayed": {
+      "faithfulness": 0.04144966432777842,
+      "num_concepts": 12,
+      "concepts_used": [
+        "claim",
+        "court",
+        "defendant",
+        "evidence admitted in retrial",
+        "evidence offered by",
+        "final judgment",
+        "ground for new trial",
+        "initial verdict",
+        "new trial granted",
+        "plaintiff",
+        "retrial verdict",
+        "transaction"
+      ],
+      "CE_values": [
+        0.0001437592727531962,
+        0.0001481227029186652,
+        0.004381856809856041,
+        0.0013743548557192597,
+        0.0028685499506204727,
+        0.004190470315823293,
+        0.006669913522743403,
+        0.010330280880834871,
+        0.003071735562363445,
+        0.01559204440356286,
+        0.0036630071638463248,
+        6.575679360004311e-05
+      ],
+      "EE_values": [
+        0.4,
+        2.75,
+        0.8,
+        3.0,
+        2.0,
+        2.0,
+        4.0,
+        3.5,
+        3.6666666666666665,
+        0.6,
+        2.5,
+        0.4
+      ]
+    },
+    "6. Limiting the limits": {
+      "faithfulness": 1.0,
+      "num_concepts": 2,
+      "concepts_used": [
+        "bill_sponsor",
+        "proposed_amendment"
+      ],
+      "CE_values": [
+        0.012109393374895557,
+        0.012797986810740266
+      ],
+      "EE_values": [
+        0.2,
+        4.0
+      ]
+    },
+    "6. Limits on limitations": {
+      "faithfulness": 0.3554861510592512,
+      "num_concepts": 7,
+      "concepts_used": [
+        "claim",
+        "defendant",
+        "legislation",
+        "limitations_period",
+        "plaintiff",
+        "state_limitations_period",
+        "time_since_alleged_fraud"
+      ],
+      "CE_values": [
+        0.0211805553168462,
+        0.0005655515027534848,
+        0.04337094164571867,
+        0.001804669845713993,
+        0.001410416190529863,
+        0.0035332686203402687,
+        0.0002494220639696507
+      ],
+      "EE_values": [
+        2.0,
+        0.6,
+        4.0,
+        4.0,
+        1.0,
+        2.0,
+        4.0
+      ]
+    },
+    "6. Now, or never": {
+      "faithfulness": 0.5180366058253834,
+      "num_concepts": 11,
+      "concepts_used": [
+        "alleged_conduct",
+        "cause_of_action",
+        "complaint_omission",
+        "defendant",
+        "defendant_response",
+        "legal_discovery",
+        "motion_filed",
+        "motion_outcome",
+        "plaintiff",
+        "subsequent_motion",
+        "time_elapsed"
+      ],
+      "CE_values": [
+        0.0003907832989758968,
+        0.011286785156012643,
+        0.00021284067881581546,
+        0.007418789523695087,
+        0.0005240252894504544,
+        0.00017442486311117914,
+        0.0019354419284379476,
+        0.00042673297124378676,
+        0.0012666506333383965,
+        0.00544408555005798,
+        0.00021977659061839412
+      ],
+      "EE_values": [
+        1.0,
+        3.75,
+        4.0,
+        3.4,
+        1.2,
+        4.0,
+        1.4,
+        1.0,
+        1.0,
+        4.0,
+        1.0
+      ]
+    },
+    "6. Patent medicine": {
+      "faithfulness": -0.41179940391575853,
+      "num_concepts": 8,
+      "concepts_used": [
+        "defendant",
+        "defense_1",
+        "motion",
+        "motion_outcome",
+        "new_alleged_infringement",
+        "new_defense",
+        "patent_claimed",
+        "plaintiff"
+      ],
+      "CE_values": [
+        0.0016518702261594386,
+        0.003966191440882348,
+        0.0012086101036114455,
+        0.004205745448583708,
+        5.268928180731543e-05,
+        0.0023115416444936462,
+        0.0007382478496842651,
+        0.02599630282395401
+      ],
+      "EE_values": [
+        3.0,
+        4.0,
+        1.75,
+        3.0,
+        0.75,
+        3.75,
+        3.5,
+        1.0
+      ]
+    },
+    "6. Pleading for relief": {
+      "faithfulness": 0.4890892474644621,
+      "num_concepts": 9,
+      "concepts_used": [
+        "alleged_act",
+        "alleged_act_perpetrator",
+        "alleged_impact",
+        "defendants",
+        "plaintiff",
+        "preventive_measure_sought",
+        "property_relationship",
+        "relief_sought",
+        "timing_of_interference"
+      ],
+      "CE_values": [
+        0.00013255673456895507,
+        0.052685456871425534,
+        0.0132284610792991,
+        0.040987742377219,
+        0.015134345932009572,
+        0.00306372439081685,
+        0.0004926104217527341,
+        0.022026844447917943,
+        0.002986643783762529
+      ],
+      "EE_values": [
+        1.8,
+        3.75,
+        4.0,
+        3.4,
+        2.2,
+        2.5,
+        2.0,
+        4.0,
+        4.0
+      ]
+    },
+    "6. Procedural blasphemy": {
+      "faithfulness": 0.4850345845833011,
+      "num_concepts": 13,
+      "concepts_used": [
+        "defendant",
+        "defendant's argument in second suit",
+        "defendant's home",
+        "defendant's response",
+        "initial claim",
+        "initial court",
+        "initial court rules",
+        "initial court's jurisdiction rule",
+        "litigation focus",
+        "plaintiff",
+        "second claim",
+        "second court",
+        "verdict"
+      ],
+      "CE_values": [
+        0.016389544299413993,
+        0.09278330132798687,
+        0.004033700925385636,
+        0.0017209604017763562,
+        0.003788640315420494,
+        0.005189775383704964,
+        0.0005330127003504985,
+        0.00010635031822212877,
+        0.006865389555005954,
+        0.01235007705086976,
+        0.0009372154440317102,
+        0.003459614381485275,
+        0.0009338819718505926
+      ],
+      "EE_values": [
+        3.4,
+        4.0,
+        0.8,
+        2.2,
+        1.4,
+        3.0,
+        1.8,
+        2.25,
+        3.6666666666666665,
+        1.0,
+        3.2,
+        2.8,
+        1.8
+      ]
+    },
+    "6. Shaffer survivors": {
+      "faithfulness": null,
+      "num_concepts": 1,
+      "concepts_used": [
+        "case"
+      ],
+      "CE_values": [
+        0.01710875324385608
+      ],
+      "EE_values": [
+        3.2
+      ]
+    },
+    "6. The unsafe harbor": {
+      "faithfulness": 0.41031125829620313,
+      "num_concepts": 9,
+      "concepts_used": [
+        "basis of claim",
+        "claim",
+        "court",
+        "defendant",
+        "dismissal order",
+        "grounds for dismissal",
+        "motion to dismiss",
+        "plaintiff",
+        "sanctions motion"
+      ],
+      "CE_values": [
+        0.0062492339864758046,
+        0.004065978260164993,
+        0.00201017697305289,
+        0.01946788430818469,
+        0.004716909047448465,
+        0.0019087298057534523,
+        0.003942019663580823,
+        0.005695135982155327,
+        0.006047399229027586
+      ],
+      "EE_values": [
+        0.4,
+        1.2,
+        2.2,
+        3.2,
+        1.25,
+        1.0,
+        2.4,
+        0.6,
+        4.0
+      ]
+    },
+    "6. Through the roof": {
+      "faithfulness": 0.7186202901706795,
+      "num_concepts": 12,
+      "concepts_used": [
+        "company",
+        "damage caused",
+        "first lawsuit",
+        "first lawsuit outcome",
+        "job",
+        "joinder possibility",
+        "leak consequence",
+        "location",
+        "products owner",
+        "second lawsuit",
+        "time until leak",
+        "warehouse owner"
+      ],
+      "CE_values": [
+        0.0010983711099224055,
+        0.0003334867066546368,
+        0.003422557327679951,
+        0.0013652065477715843,
+        0.00033203431696336,
+        0.006331826934861682,
+        0.0005897890648776953,
+        0.001034768383838794,
+        0.022858685096041872,
+        0.016105089077543103,
+        0.0001603908688556985,
+        0.012530200578815239
+      ],
+      "EE_values": [
+        0.8,
+        1.4,
+        3.8,
+        1.75,
+        0.2,
+        2.6666666666666665,
+        3.0,
+        0.4,
+        3.8,
+        4.0,
+        0.6,
+        3.2
+      ]
+    },
+    "6. Wish I had a nickel": {
+      "faithfulness": 0.15864843516805657,
+      "num_concepts": 17,
+      "concepts_used": [
+        "claim",
+        "court",
+        "damages sought",
+        "defendant",
+        "defendant's principal place of business",
+        "defendant's state",
+        "impleader rule",
+        "motion",
+        "new claim",
+        "new claim's basis",
+        "plaintiff",
+        "plaintiff's state",
+        "statute",
+        "third party",
+        "third party's action",
+        "third party's role",
+        "third party's state"
+      ],
+      "CE_values": [
+        0.00040269905277668804,
+        0.0010162629174373602,
+        0.000133671072625302,
+        0.11587078825576173,
+        0.0003964942673991955,
+        4.9520198349461395e-05,
+        0.00023185675184341477,
+        0.005735464517196481,
+        0.00043327437706721413,
+        0.013295921013004886,
+        0.002907123304791079,
+        0.00010548219960321254,
+        0.0005626373668617922,
+        0.21719141544527643,
+        0.0005671002271476786,
+        0.00046146263991558693,
+        0.00019056726416553547
+      ],
+      "EE_values": [
+        2.2,
+        2.0,
+        0.8,
+        2.0,
+        1.4,
+        2.6,
+        3.5,
+        3.6,
+        4.0,
+        3.6666666666666665,
+        3.4,
+        2.0,
+        2.8,
+        3.4,
+        1.2,
+        0.8,
+        3.4
+      ]
+    },
+    "6. Your court or mine": {
+      "faithfulness": 0.5366468834847214,
+      "num_concepts": 9,
+      "concepts_used": [
+        "claim amount",
+        "claim origin",
+        "claim type",
+        "defendant",
+        "defendant's state",
+        "initial filing location",
+        "plaintiff",
+        "plaintiff's state",
+        "removal destination"
+      ],
+      "CE_values": [
+        0.0022093174666309636,
+        0.09501441034452475,
+        0.0031094774541309484,
+        0.0021648713053530784,
+        0.07038668943233964,
+        0.002346587185400409,
+        0.012361519626897665,
+        0.0220986770005486,
+        0.09695856075377186
+      ],
+      "EE_values": [
+        0.0,
+        1.75,
+        0.2,
+        1.2,
+        3.2,
+        4.0,
+        0.3333333333333333,
+        1.0,
+        4.0
+      ]
+    },
+    "6. Your verdict or mine": {
+      "faithfulness": 0.3495835209372405,
+      "num_concepts": 5,
+      "concepts_used": [
+        "Sills's motion for judgment notwithstanding the verdict",
+        "appeals court's conclusion",
+        "ground for granting motion",
+        "jury verdict",
+        "trial judge's decision on motion for judgment as a matter of law"
+      ],
+      "CE_values": [
+        0.05641566413065001,
+        0.04136672084249501,
+        0.016115211968122697,
+        0.08960752295059962,
+        0.0016675129111055926
+      ],
+      "EE_values": [
+        2.4,
+        4.0,
+        4.0,
+        3.6666666666666665,
+        1.6666666666666667
+      ]
+    },
+    "7. A matter of procedure": {
+      "faithfulness": -0.02184478232985004,
+      "num_concepts": 14,
+      "concepts_used": [
+        "cause of injury",
+        "court",
+        "defendant",
+        "disputed fact",
+        "injury location",
+        "injury severity",
+        "judge's decision",
+        "judgment",
+        "jurisdiction",
+        "jury finding",
+        "motion",
+        "plaintiff",
+        "rule",
+        "state law"
+      ],
+      "CE_values": [
+        0.0003467840500127599,
+        0.0027611907504539166,
+        0.0026760613413752874,
+        0.0014983212364849717,
+        0.014097763293805141,
+        0.0005648823063955684,
+        0.0009735529488424269,
+        0.0011112556620208644,
+        0.0004799288337909331,
+        0.0006332257010208163,
+        0.010382100791886728,
+        0.0010548775181457477,
+        0.0038962671903438515,
+        0.004339210858783805
+      ],
+      "EE_values": [
+        0.25,
+        3.0,
+        0.75,
+        1.0,
+        0.0,
+        0.75,
+        3.0,
+        2.25,
+        2.25,
+        2.75,
+        3.25,
+        0.75,
+        4.0,
+        4.0
+      ]
+    },
+    "7. A switch in time": {
+      "faithfulness": 0.2053158732466603,
+      "num_concepts": 11,
+      "concepts_used": [
+        "answer_timing",
+        "claim_type",
+        "damages_sought",
+        "defendant",
+        "defendant_state",
+        "initial_court",
+        "objection_raised",
+        "plaintiff",
+        "plaintiff_state",
+        "removal_court",
+        "removal_timing"
+      ],
+      "CE_values": [
+        0.0005544453955123901,
+        0.0015497540563694956,
+        0.003685276558910386,
+        0.01475551439083204,
+        0.0003637167338356142,
+        0.024914013538610738,
+        0.03443172025150407,
+        0.005903955885261398,
+        0.047986309178187456,
+        0.0023239928009606086,
+        0.00016995215726690904
+      ],
+      "EE_values": [
+        2.5,
+        0.2,
+        0.2,
+        1.6,
+        1.2,
+        2.0,
+        4.0,
+        0.0,
+        0.8,
+        3.3333333333333335,
+        1.6
+      ]
+    },
+    "7. A venue medley": {
+      "faithfulness": 0.6913377976673436,
+      "num_concepts": 11,
+      "concepts_used": [
+        "accident_location",
+        "action_type",
+        "court_filing_location",
+        "defendant1",
+        "defendant1_occupation",
+        "defendant1_residence",
+        "defendant2",
+        "defendant2_principal_place_of_business",
+        "injury_cause",
+        "motion",
+        "plaintiff"
+      ],
+      "CE_values": [
+        0.014391622945322367,
+        0.00018552527838133236,
+        0.004941634247814802,
+        0.0015042803657779012,
+        6.68452973756776e-05,
+        0.00022090074020589528,
+        9.826961559626502e-05,
+        0.0005240415173481045,
+        6.587067576111475e-05,
+        0.004848790692908517,
+        0.0005143083300292304
+      ],
+      "EE_values": [
+        4.0,
+        1.4,
+        4.0,
+        1.4,
+        0.4,
+        2.2,
+        1.6,
+        3.2,
+        0.6,
+        4.0,
+        0.4
+      ]
+    },
+    "7. Barely reasonable": {
+      "faithfulness": -1.0000000000000002,
+      "num_concepts": 2,
+      "concepts_used": [
+        "case",
+        "court"
+      ],
+      "CE_values": [
+        0.2977382417482001,
+        0.008813034661839298
+      ],
+      "EE_values": [
+        3.2,
+        3.4
+      ]
+    },
+    "7. Black and White": {
+      "faithfulness": 0.24096464774245088,
+      "num_concepts": 8,
+      "concepts_used": [
+        "action taken by Darrow",
+        "actual arresting officer",
+        "arrested person",
+        "arresting officer listed in report",
+        "injury",
+        "time of suit filing",
+        "time when Black answers interrogatories",
+        "time when officers became aware of the lawsuit"
+      ],
+      "CE_values": [
+        0.007979463226333508,
+        0.01850460120505959,
+        0.009888875816548844,
+        0.03709863514590094,
+        0.00016076958798409623,
+        0.0011693354402564692,
+        0.0010975858203213624,
+        0.003954092699435941
+      ],
+      "EE_values": [
+        4.0,
+        4.0,
+        0.2,
+        3.0,
+        0.25,
+        3.6,
+        1.8,
+        3.8
+      ]
+    },
+    "7. Comedy of errors": {
+      "faithfulness": 0.26839067883639006,
+      "num_concepts": 7,
+      "concepts_used": [
+        "Emporia Supreme Court decision",
+        "appeal status",
+        "court",
+        "injured parties",
+        "timing of appeal hearing",
+        "trial judge's decision",
+        "type of action"
+      ],
+      "CE_values": [
+        0.004352556109269807,
+        0.005742083334422068,
+        0.008703954817886236,
+        0.0024367774545163926,
+        0.0013954975070863702,
+        0.011365461157547618,
+        0.004594252955347432
+      ],
+      "EE_values": [
+        4.0,
+        2.5,
+        2.3333333333333335,
+        0.25,
+        3.6666666666666665,
+        3.6666666666666665,
+        1.0
+      ]
+    },
+    "7. Concurrents": {
+      "faithfulness": 0.991417679758324,
+      "num_concepts": 4,
+      "concepts_used": [
+        "defendant",
+        "jurisdiction",
+        "plaintiff",
+        "statute"
+      ],
+      "CE_values": [
+        0.0017552608891401437,
+        0.026356389585061517,
+        0.004912963820341707,
+        0.023810888817651067
+      ],
+      "EE_values": [
+        1.2,
+        4.0,
+        1.2,
+        4.0
+      ]
+    },
+    "7. Full disclosure": {
+      "faithfulness": 0.3467016761222315,
+      "num_concepts": 11,
+      "concepts_used": [
+        "alleged_injury",
+        "court_location",
+        "defendant",
+        "defendant_principal_place_of_business",
+        "documents_location",
+        "documents_possession",
+        "documents_relationship",
+        "plaintiff",
+        "request_content",
+        "request_scope",
+        "request_type"
+      ],
+      "CE_values": [
+        0.0006979128909811596,
+        0.012911726438201977,
+        0.01716470757949799,
+        0.012233321914477742,
+        0.0011007436389327621,
+        0.08891206092173665,
+        0.06307140128661476,
+        0.00037705741606771303,
+        0.027003292777280474,
+        0.023626399072545236,
+        0.010611557879274862
+      ],
+      "EE_values": [
+        0.0,
+        0.4,
+        1.25,
+        0.4,
+        0.4,
+        1.4,
+        2.0,
+        0.0,
+        2.6,
+        3.2,
+        3.0
+      ]
+    },
+    "7. If at first you don’t succeed": {
+      "faithfulness": 0.3963522878222762,
+      "num_concepts": 12,
+      "concepts_used": [
+        "defendant",
+        "defendant's home",
+        "defendant's response",
+        "initial claim",
+        "initial court",
+        "initial court ruling",
+        "initial defense",
+        "initial judgment",
+        "plaintiff",
+        "second claim",
+        "second court",
+        "second defense"
+      ],
+      "CE_values": [
+        0.003657844081065924,
+        0.000651882327891883,
+        0.009479749394280384,
+        0.00014312922039030402,
+        0.033642946010931,
+        0.0011603894964801855,
+        0.0021406320984000454,
+        0.001112810751231424,
+        0.005306506987832188,
+        0.004348330474776848,
+        0.004855584065429638,
+        0.00723733254580624
+      ],
+      "EE_values": [
+        2.4,
+        0.6,
+        3.6,
+        0.4,
+        3.8,
+        4.0,
+        4.0,
+        2.0,
+        1.0,
+        3.0,
+        2.0,
+        4.0
+      ]
+    },
+    "7. Interim finality": {
+      "faithfulness": 0.49071987422287044,
+      "num_concepts": 11,
+      "concepts_used": [
+        "alternative_motion",
+        "alternative_motion_ground",
+        "court",
+        "defendant",
+        "judge_decision",
+        "law",
+        "motion_outcome",
+        "motion_rule",
+        "motion_type",
+        "plaintiff",
+        "verdict"
+      ],
+      "CE_values": [
+        0.002120325890773863,
+        0.0022583066972137033,
+        0.000646658007037192,
+        0.004606197463737858,
+        0.09346093969039108,
+        0.00027348156146590367,
+        0.0004345028481375803,
+        0.0004020721088183574,
+        0.014897684518168024,
+        0.008870991597194972,
+        0.0010769425989895168
+      ],
+      "EE_values": [
+        3.4,
+        2.6,
+        2.0,
+        0.6,
+        4.0,
+        0.5,
+        1.6666666666666667,
+        3.6666666666666665,
+        2.0,
+        0.8,
+        1.4
+      ]
+    },
+    "7. More slings and arrows": {
+      "faithfulness": null,
+      "num_concepts": 1,
+      "concepts_used": [
+        "Jasper's quantum meruit claim"
+      ],
+      "CE_values": [
+        0.053652223051374584
+      ],
+      "EE_values": [
+        3.3333333333333335
+      ]
+    },
+    "7. One end of the spectrum": {
+      "faithfulness": 0.29867706119086274,
+      "num_concepts": 14,
+      "concepts_used": [
+        "company",
+        "court",
+        "distributor",
+        "distributor_location",
+        "injured_person",
+        "injury_location",
+        "location",
+        "other_contacts",
+        "product",
+        "purchaser",
+        "reseller",
+        "reseller_location",
+        "sale_amount",
+        "sale_year"
+      ],
+      "CE_values": [
+        0.013031173161522048,
+        0.0032138496704674975,
+        0.0032715116726511157,
+        0.0034963539229970683,
+        0.00010626454618196387,
+        0.001692147280988467,
+        0.0006242740196107974,
+        0.08792359015687244,
+        0.0003114636906001317,
+        0.00017462566967702317,
+        0.0017186775662361643,
+        0.003638898541446578,
+        0.0037618770599226145,
+        6.704790936987995e-05
+      ],
+      "EE_values": [
+        2.8,
+        2.4,
+        3.0,
+        3.6,
+        0.4,
+        4.0,
+        1.4,
+        3.2,
+        0.4,
+        0.8,
+        2.4,
+        3.6,
+        1.25,
+        0.6666666666666666
+      ]
+    },
+    "7. Presumptuous presumptions": {
+      "faithfulness": 0.20403245608020099,
+      "num_concepts": 14,
+      "concepts_used": [
+        "alleged conduct",
+        "court",
+        "defendant",
+        "defendant's request",
+        "defendant's request details",
+        "location of fire",
+        "plaintiff",
+        "plaintiff's response",
+        "witness",
+        "witness activity",
+        "witness interview",
+        "witness location",
+        "witness residence",
+        "witness statement"
+      ],
+      "CE_values": [
+        0.0020214305845493584,
+        0.0004007402247510924,
+        0.0460947675729195,
+        0.014106522376103305,
+        0.0,
+        0.00022926922326792587,
+        0.02866595684150817,
+        0.04956249645079896,
+        0.0006889301821529866,
+        0.005136076533015379,
+        0.014547047027144766,
+        0.001589313387539104,
+        0.0004088033313042977,
+        0.0004922133002919993
+      ],
+      "EE_values": [
+        0.6,
+        0.0,
+        1.3333333333333333,
+        3.2,
+        3.6,
+        0.75,
+        1.25,
+        3.5,
+        3.0,
+        0.2,
+        3.75,
+        0.0,
+        1.6,
+        3.6
+      ]
+    },
+    "7. Procedural defects": {
+      "faithfulness": -0.3695712912329885,
+      "num_concepts": 9,
+      "concepts_used": [
+        "cause",
+        "claim",
+        "court",
+        "defendant",
+        "plaintiff",
+        "service document",
+        "service location",
+        "service method",
+        "summons inclusion"
+      ],
+      "CE_values": [
+        0.0034546514822813646,
+        0.0020420209170883175,
+        0.0007955787621196489,
+        0.1285278410285153,
+        0.050602241433786076,
+        0.00848172877735402,
+        0.0012832050119732927,
+        0.0033272124503213297,
+        0.0034126247924567994
+      ],
+      "EE_values": [
+        0.0,
+        0.25,
+        2.4,
+        1.0,
+        0.2,
+        3.0,
+        3.8,
+        4.0,
+        3.3333333333333335
+      ]
+    },
+    "7. Round One": {
+      "faithfulness": 0.6675950741110084,
+      "num_concepts": 11,
+      "concepts_used": [
+        "defendant",
+        "defendant_role",
+        "initial_claim",
+        "initial_court",
+        "initial_outcome",
+        "initial_statute",
+        "plaintiff",
+        "preclusion_approach",
+        "preclusion_outcome",
+        "second_claim",
+        "second_court"
+      ],
+      "CE_values": [
+        0.000114784504378724,
+        0.0002871426127559613,
+        0.0005633533043192842,
+        0.0002984877601567228,
+        0.001931623528321967,
+        6.165748697830719e-05,
+        0.000575285976234036,
+        0.004518171065217762,
+        0.051057322347558026,
+        0.07948530888263636,
+        0.10371305526226521
+      ],
+      "EE_values": [
+        0.6,
+        0.4,
+        1.4,
+        2.6,
+        2.75,
+        1.75,
+        0.8,
+        2.0,
+        4.0,
+        3.4,
+        3.0
+      ]
+    },
+    "7. Second time around": {
+      "faithfulness": 0.3613290063171101,
+      "num_concepts": 9,
+      "concepts_used": [
+        "allegation",
+        "argument for motion",
+        "defendant",
+        "false statements",
+        "investment",
+        "motion for judgment as a matter of law",
+        "motion for judgment notwithstanding the verdict",
+        "role",
+        "verdict"
+      ],
+      "CE_values": [
+        0.008029752926846326,
+        0.031996108599866305,
+        0.002570570464223405,
+        0.002667244915932508,
+        0.0004042657377746588,
+        0.0019266290805462077,
+        0.0,
+        0.0033218530968409056,
+        0.009047238569840549
+      ],
+      "EE_values": [
+        1.4,
+        3.8,
+        1.8,
+        1.2,
+        0.25,
+        4.0,
+        4.0,
+        0.2,
+        2.5
+      ]
+    },
+    "7. Smith’s amendment": {
+      "faithfulness": 1.0,
+      "num_concepts": 2,
+      "concepts_used": [
+        "bill_content",
+        "bill_proposer"
+      ],
+      "CE_values": [
+        0.14609299907997172,
+        0.004805054794905956
+      ],
+      "EE_values": [
+        4.0,
+        0.2
+      ]
+    },
+    "7. Speaking of motions": {
+      "faithfulness": -0.43369292547641447,
+      "num_concepts": 10,
+      "concepts_used": [
+        "alleged cause",
+        "defendant",
+        "driver",
+        "employment status",
+        "evidence",
+        "injured party",
+        "legal action",
+        "legal authority cited",
+        "reason for motion",
+        "supervisor's statement"
+      ],
+      "CE_values": [
+        0.00028881360579688527,
+        0.005617049457766081,
+        0.002052606168179457,
+        0.0005098102035638033,
+        0.001138899084376888,
+        0.0031439482989851575,
+        0.005245158283317108,
+        0.005311726208739749,
+        0.0029599134544054198,
+        0.0003815920056112096
+      ],
+      "EE_values": [
+        1.8,
+        2.25,
+        3.4,
+        4.0,
+        4.0,
+        0.6,
+        3.5,
+        1.2,
+        2.5,
+        4.0
+      ]
+    },
+    "7. Special delivery": {
+      "faithfulness": 0.4736949606875625,
+      "num_concepts": 11,
+      "concepts_used": [
+        "claim",
+        "company",
+        "company_industry",
+        "company_location",
+        "company_type",
+        "court",
+        "law",
+        "plaintiff",
+        "plaintiff_location",
+        "plaintiff_role",
+        "service_method"
+      ],
+      "CE_values": [
+        0.0005660450013972608,
+        0.017371402373404253,
+        0.0006489266856872524,
+        0.0023425240186372262,
+        0.004555825987198935,
+        0.027259103152196543,
+        0.009000220207616198,
+        0.0029351897741991084,
+        0.03544653907788437,
+        0.002394582727989289,
+        0.026646324742567156
+      ],
+      "EE_values": [
+        0.8,
+        0.8,
+        0.4,
+        2.0,
+        1.0,
+        2.0,
+        1.0,
+        0.5,
+        1.5,
+        2.25,
+        4.0
+      ]
+    },
+    "7. Switching switches": {
+      "faithfulness": 0.38899820989713774,
+      "num_concepts": 13,
+      "concepts_used": [
+        "alleged_infringement_object",
+        "alleged_infringement_product",
+        "amalgamated_argument",
+        "damages_awarded",
+        "defendant",
+        "defense_1",
+        "defense_2",
+        "plaintiff",
+        "second_lawsuit_alleged_infringement_product",
+        "second_lawsuit_defense",
+        "time_between_lawsuits",
+        "trial_type",
+        "verdict"
+      ],
+      "CE_values": [
+        0.00035048465511307986,
+        0.00012021456962058337,
+        0.0,
+        0.0009605726903618616,
+        0.010320221979693317,
+        0.00637000560978853,
+        0.0009382253787957595,
+        0.002213220615420077,
+        0.00011621600306487056,
+        0.00042876463741508734,
+        9.899066543687495e-05,
+        0.009964052679506607,
+        0.0025337563023774515
+      ],
+      "EE_values": [
+        1.0,
+        2.0,
+        4.0,
+        1.5,
+        3.0,
+        4.0,
+        3.6,
+        1.0,
+        1.0,
+        4.0,
+        0.2,
+        3.6666666666666665,
+        4.0
+      ]
+    },
+    "7. The consistency hobgoblin": {
+      "faithfulness": 0.08149071307127449,
+      "num_concepts": 10,
+      "concepts_used": [
+        "alleged harm",
+        "defendant",
+        "defendant's facility type",
+        "exposure",
+        "first claim",
+        "plaintiff",
+        "plaintiff's former role",
+        "second claim",
+        "third claim",
+        "timing of third claim"
+      ],
+      "CE_values": [
+        0.000620999604338767,
+        0.0021093007505884227,
+        0.0005334423810960174,
+        0.003531231396441948,
+        0.0002963648533273447,
+        0.015963650911015207,
+        0.0010382429357328833,
+        0.00026371466874353577,
+        0.0012528683532834993,
+        0.0002658815463237677
+      ],
+      "EE_values": [
+        0.8,
+        1.0,
+        0.4,
+        0.75,
+        3.2,
+        2.4,
+        0.25,
+        3.75,
+        3.2,
+        2.0
+      ]
+    },
+    "8. A distinction with a difference?": {
+      "faithfulness": 0.3245886068911085,
+      "num_concepts": 15,
+      "concepts_used": [
+        "company",
+        "company_contacts_in_state",
+        "company_location",
+        "court",
+        "customer",
+        "customer_location",
+        "injured_person",
+        "injured_person_role",
+        "injury_location",
+        "product",
+        "purchaser",
+        "quantity_sold",
+        "rebate_condition",
+        "reseller",
+        "reseller_location"
+      ],
+      "CE_values": [
+        0.0027467827060072506,
+        0.009297087022288857,
+        0.00014420957078056993,
+        0.0017239095872307742,
+        0.05309571085619018,
+        0.0001560132561192059,
+        0.00016995169554895133,
+        7.174370026449741e-05,
+        0.0036711275502240037,
+        0.0008115987751711149,
+        2.75369955724467e-05,
+        0.014310138572457215,
+        0.031156731336810704,
+        0.00037294067496041285,
+        0.00015509535152240684
+      ],
+      "EE_values": [
+        1.0,
+        2.8,
+        1.0,
+        1.4,
+        1.6,
+        1.4,
+        0.4,
+        0.5,
+        3.5,
+        1.2,
+        0.25,
+        1.25,
+        4.0,
+        2.2,
+        2.6
+      ]
+    },
+    "8. Another switch": {
+      "faithfulness": 0.46102255253346003,
+      "num_concepts": 13,
+      "concepts_used": [
+        "claim",
+        "court",
+        "damages sought",
+        "defendant",
+        "defendant's action",
+        "defendant's state",
+        "motion",
+        "plaintiff",
+        "plaintiff's state",
+        "removal destination",
+        "rule",
+        "timing of motion renewal",
+        "timing of removal"
+      ],
+      "CE_values": [
+        0.000964714461866864,
+        0.03144280526224342,
+        0.000843141885580732,
+        0.01814039378573458,
+        0.048424798960352136,
+        0.00015043537207050318,
+        0.010798335508875623,
+        0.001494978876880891,
+        0.024481161952135493,
+        0.00428401229578226,
+        0.004999735704185579,
+        0.02974365010070442,
+        0.0008779498614714981
+      ],
+      "EE_values": [
+        0.0,
+        2.75,
+        0.0,
+        1.2,
+        4.0,
+        0.0,
+        3.6,
+        0.0,
+        0.0,
+        1.3333333333333333,
+        4.0,
+        0.6,
+        0.6
+      ]
+    },
+    "8. By the numbers": {
+      "faithfulness": null,
+      "num_concepts": 1,
+      "concepts_used": [
+        "amount in controversy"
+      ],
+      "CE_values": [
+        0.050746141470537486
+      ],
+      "EE_values": [
+        4.0
+      ]
+    },
+    "8. Double trouble": {
+      "faithfulness": 0.22761756594259708,
+      "num_concepts": 16,
+      "concepts_used": [
+        "contract_states",
+        "defendant",
+        "injury_cause",
+        "injury_location",
+        "injury_type",
+        "jurisdiction_claim",
+        "jurisdiction_interpretation",
+        "legal_action",
+        "manufacturer",
+        "manufacturing_location",
+        "minimum_sales_requirement",
+        "plaintiff",
+        "reseller",
+        "reseller_location",
+        "wholesaler",
+        "wholesaler_location"
+      ],
+      "CE_values": [
+        7.559365022582017e-05,
+        0.08786879412990735,
+        0.0011572451439661583,
+        0.0040199546859281095,
+        0.00010512640053853819,
+        0.01065248891032876,
+        0.16204530611302925,
+        0.0027363834445122293,
+        0.1722139465320991,
+        0.00037216278661824514,
+        9.911764181872622e-05,
+        0.0008994932954375389,
+        0.0007130419041939728,
+        0.00040667979648656026,
+        0.0006804824425063185,
+        0.0003010083023707725
+      ],
+      "EE_values": [
+        3.6,
+        3.0,
+        1.6,
+        3.6,
+        0.5,
+        3.6,
+        4.0,
+        3.2,
+        1.8,
+        0.6,
+        1.6,
+        0.4,
+        2.25,
+        3.6,
+        2.6,
+        1.8
+      ]
+    },
+    "8. Exceeding the limits": {
+      "faithfulness": -1.0000000000000002,
+      "num_concepts": 2,
+      "concepts_used": [
+        "concept",
+        "value"
+      ],
+      "CE_values": [
+        0.0,
+        0.0026391041148215097
+      ],
+      "EE_values": [
+        0.25,
+        0.2
+      ]
+    },
+    "8. Gimme, Gimme": {
+      "faithfulness": 0.3046913340397727,
+      "num_concepts": 11,
+      "concepts_used": [
+        "basis_for_return",
+        "case_type",
+        "defendant",
+        "disclosed_document",
+        "documents_format",
+        "documents_type",
+        "memo_content",
+        "memo_purpose",
+        "memo_timing",
+        "plaintiff",
+        "request_for_return"
+      ],
+      "CE_values": [
+        0.11905778373721095,
+        0.0007292324455340059,
+        0.015334587249690772,
+        0.001899295305470658,
+        0.0019362886525679808,
+        0.0007924273398877009,
+        0.000558775636454011,
+        0.000961794017172491,
+        0.0006343357138561283,
+        0.01320984120477562,
+        0.00601882245817644
+      ],
+      "EE_values": [
+        4.0,
+        0.5,
+        0.4,
+        2.6,
+        1.75,
+        0.4,
+        3.0,
+        4.0,
+        3.8,
+        0.6,
+        3.75
+      ]
+    },
+    "8. Here we go again": {
+      "faithfulness": 0.36627279450259753,
+      "num_concepts": 10,
+      "concepts_used": [
+        "alleged_infringement",
+        "defendant",
+        "defense",
+        "judgment",
+        "later_sales",
+        "logo_usage",
+        "market_area",
+        "plaintiff",
+        "sales_in_market_area",
+        "trademark_validity"
+      ],
+      "CE_values": [
+        0.011444552221567735,
+        0.0030240776668142033,
+        0.01768060267806682,
+        0.015403540429005609,
+        0.000611905415370605,
+        0.0004956677817514842,
+        0.0007180015523559868,
+        0.004789322734885749,
+        0.11747564773863241,
+        0.008287420056719457
+      ],
+      "EE_values": [
+        1.25,
+        2.4,
+        3.8,
+        4.0,
+        1.0,
+        1.6,
+        2.8,
+        1.0,
+        3.5,
+        4.0
+      ]
+    },
+    "8. Impersonal jurisdiction": {
+      "faithfulness": 0.17331394711692705,
+      "num_concepts": 9,
+      "concepts_used": [
+        "defendant",
+        "defendant's objection",
+        "defendant's property in second court",
+        "defendant's residence",
+        "initial claim",
+        "initial court",
+        "initial judgment",
+        "plaintiff",
+        "second court"
+      ],
+      "CE_values": [
+        0.0018735679831303053,
+        0.009990702593570435,
+        0.004174472124751132,
+        0.001448715132017774,
+        0.004225476700399292,
+        0.0012437012087676363,
+        0.0007095537169783692,
+        0.0033277164335018495,
+        0.0018939354960713834
+      ],
+      "EE_values": [
+        3.0,
+        4.0,
+        2.0,
+        0.8,
+        1.2,
+        2.2,
+        4.0,
+        0.8,
+        4.0
+      ]
+    },
+    "8. Insulation from liability": {
+      "faithfulness": 0.1926773027409288,
+      "num_concepts": 13,
+      "concepts_used": [
+        "alleged_breach",
+        "alleged_contract_evidence",
+        "alleged_contract_signature",
+        "alleged_payment_refusal",
+        "alleged_work_completion",
+        "alternative_claim",
+        "contract_purpose",
+        "defendant",
+        "defendant_contract_denial_claim",
+        "defendant_contract_denial_evidence",
+        "defendant_contract_denial_reason",
+        "motion_support",
+        "plaintiff"
+      ],
+      "CE_values": [
+        0.00048046405827014104,
+        0.01189486246682116,
+        0.0016400317880893307,
+        0.0006616988985265221,
+        0.0003706729306910553,
+        0.0003432431420588365,
+        0.0001447575946972744,
+        0.0015257747848469337,
+        0.002616314867632051,
+        0.0005184085675844503,
+        0.0009509415791598587,
+        0.0007339688962674634,
+        0.014058838027343744
+      ],
+      "EE_values": [
+        1.25,
+        3.8,
+        3.5,
+        0.8,
+        1.25,
+        1.5,
+        0.4,
+        1.4,
+        0.2,
+        2.6,
+        3.5,
+        3.4,
+        1.4
+      ]
+    },
+    "8. International incident": {
+      "faithfulness": 0.7812891117400265,
+      "num_concepts": 14,
+      "concepts_used": [
+        "accident_location",
+        "alleged_negligence1",
+        "alleged_negligence2",
+        "court_venue",
+        "defendant1_residence",
+        "defendant1_vehicle",
+        "defendant2_residence",
+        "defendant2_vehicle",
+        "defendants",
+        "plaintiff",
+        "plaintiff_residence",
+        "plaintiff_status",
+        "repair_location",
+        "service_location"
+      ],
+      "CE_values": [
+        0.004067218845452147,
+        0.00012484281807950045,
+        0.0017745806349258974,
+        0.029172045902969342,
+        0.0008757833700989089,
+        0.00013253751134539968,
+        0.016574543522115043,
+        6.857141781543201e-05,
+        0.010713523616699541,
+        0.0003466762610581017,
+        0.0006121001336834173,
+        0.0001707120978834291,
+        0.0004227955679797324,
+        0.0021165546502515814
+      ],
+      "EE_values": [
+        2.25,
+        0.2,
+        0.8,
+        4.0,
+        3.0,
+        0.0,
+        3.4,
+        0.0,
+        2.8,
+        0.25,
+        0.25,
+        0.0,
+        0.8,
+        2.25
+      ]
+    },
+    "8. Polymolysorbate": {
+      "faithfulness": 0.26673035649028515,
+      "num_concepts": 16,
+      "concepts_used": [
+        "alleged_conduct",
+        "alleged_damage",
+        "alleged_violation",
+        "damage_amount",
+        "defendant_1",
+        "defendant_1_response",
+        "defendant_1_role",
+        "defendant_1_state",
+        "defendant_2",
+        "defendant_2_allegation",
+        "defendant_2_response",
+        "defendant_2_state",
+        "defendant_2_type",
+        "hazardous_material",
+        "plaintiff",
+        "plaintiff_state"
+      ],
+      "CE_values": [
+        0.0011689893750417928,
+        0.00024537149992878606,
+        0.004900233743572532,
+        0.005759900522753,
+        0.0013396576953884996,
+        0.0031898745324008488,
+        0.00018829727218572578,
+        0.0009380929560343157,
+        0.014914994552054146,
+        0.0006921916002633789,
+        0.0007230279576709691,
+        0.0009377054325016669,
+        0.004139883665176049,
+        0.005021753709451641,
+        0.001169490081357953,
+        0.009749456561875584
+      ],
+      "EE_values": [
+        1.6,
+        2.2,
+        4.0,
+        0.6,
+        2.8,
+        0.8,
+        1.2,
+        1.6,
+        3.8,
+        1.2,
+        2.25,
+        2.0,
+        1.0,
+        1.4,
+        0.4,
+        0.6
+      ]
+    },
+    "8. Reversal of fortune": {
+      "faithfulness": 0.30254372000030855,
+      "num_concepts": 5,
+      "concepts_used": [
+        "appellate_court_finding_1",
+        "motion_50a",
+        "motion_50b",
+        "trial_type",
+        "verdict"
+      ],
+      "CE_values": [
+        0.4992732336114614,
+        0.0015022829354671193,
+        0.0,
+        0.0013578247489095785,
+        0.0020961216386743645
+      ],
+      "EE_values": [
+        3.6666666666666665,
+        3.0,
+        4.0,
+        1.5,
+        3.5
+      ]
+    },
+    "8. Round Two": {
+      "faithfulness": 0.5345298720805691,
+      "num_concepts": 12,
+      "concepts_used": [
+        "Emporia claim preclusion rules",
+        "Emporia jurisdiction for second claim",
+        "basis for second claim",
+        "defendant",
+        "defendant role",
+        "federal claim preclusion rules",
+        "first claim",
+        "first court",
+        "first outcome",
+        "plaintiff",
+        "second claim",
+        "second court"
+      ],
+      "CE_values": [
+        0.09031694927894182,
+        0.009249358218623098,
+        0.062341569746094276,
+        0.0023157392846640777,
+        0.0009026968393730541,
+        0.07374663317872136,
+        0.0021267141630966365,
+        0.012752132045424715,
+        0.0011283993802279886,
+        0.0039509849281633294,
+        0.012967221307202776,
+        0.006339751618046089
+      ],
+      "EE_values": [
+        3.3333333333333335,
+        2.5,
+        4.0,
+        1.6,
+        0.6,
+        2.5,
+        1.6,
+        1.8,
+        0.75,
+        0.6,
+        4.0,
+        3.6
+      ]
+    },
+    "8. Something special": {
+      "faithfulness": 0.2088115114614881,
+      "num_concepts": 9,
+      "concepts_used": [
+        "court type",
+        "defendant",
+        "defendant's response",
+        "jurisdiction approach",
+        "plaintiff",
+        "plaintiff's argument",
+        "post-removal motion",
+        "removal action",
+        "time before removal"
+      ],
+      "CE_values": [
+        0.0031716642044435977,
+        0.0017499320840808521,
+        0.005156849931952643,
+        0.10833503108440001,
+        0.001118008753962572,
+        0.0005186573004296423,
+        0.0004716354818103739,
+        0.03448499875634388,
+        0.0009449138193085173
+      ],
+      "EE_values": [
+        3.6666666666666665,
+        4.0,
+        4.0,
+        3.5,
+        0.8,
+        3.0,
+        2.6,
+        2.4,
+        1.2
+      ]
+    },
+    "8. Supplementing supplemental jurisdiction": {
+      "faithfulness": 0.20345778234633904,
+      "num_concepts": 10,
+      "concepts_used": [
+        "alleged_breach",
+        "alleged_misconduct",
+        "court_type",
+        "damages_sought",
+        "defendant",
+        "defendant_principal_place",
+        "defendant_state",
+        "jurisdiction_basis",
+        "plaintiff",
+        "plaintiff_state"
+      ],
+      "CE_values": [
+        0.0001067896055888936,
+        0.0005956772630205388,
+        0.00017870987815763866,
+        0.00018245522008221348,
+        0.00036731765941365414,
+        0.00012572273995995858,
+        6.083409957648601e-05,
+        0.0014442415373117582,
+        0.0038590537872570706,
+        0.0001851062005174979
+      ],
+      "EE_values": [
+        2.2,
+        2.6,
+        1.6,
+        3.8,
+        1.2,
+        2.2,
+        2.0,
+        4.0,
+        2.6,
+        3.2
+      ]
+    },
+    "8. Technical fouls": {
+      "faithfulness": 0.2038051274690499,
+      "num_concepts": 4,
+      "concepts_used": [
+        "claim",
+        "communication",
+        "defendant",
+        "plaintiff"
+      ],
+      "CE_values": [
+        0.00027860305132983637,
+        0.0109943005992671,
+        0.0005165673244366315,
+        0.002991503656173232
+      ],
+      "EE_values": [
+        0.2,
+        2.0,
+        3.0,
+        0.5
+      ]
+    },
+    "8. The judge’s judgment": {
+      "faithfulness": 0.37547004578004334,
+      "num_concepts": 12,
+      "concepts_used": [
+        "allegation",
+        "basis for motion",
+        "court",
+        "defendant",
+        "defendant's role",
+        "false statements about",
+        "investment target",
+        "judge",
+        "motion",
+        "plaintiff",
+        "plaintiff's role",
+        "trial type"
+      ],
+      "CE_values": [
+        0.00036231361163008524,
+        0.006004859929771275,
+        0.00011063749723945543,
+        0.03046840170524501,
+        0.00012150618958414814,
+        0.0002960744188276202,
+        3.200120713280111e-05,
+        2.8631640729845236e-05,
+        0.0,
+        0.044060578566007286,
+        6.106340450516594e-05,
+        0.008071299889183921
+      ],
+      "EE_values": [
+        2.75,
+        3.6,
+        1.25,
+        3.4,
+        1.0,
+        1.4,
+        0.2,
+        3.2,
+        3.75,
+        3.0,
+        0.8,
+        4.0
+      ]
+    },
+    "8. Ups and downs": {
+      "faithfulness": null,
+      "num_concepts": 1,
+      "concepts_used": [
+        "legal theory"
+      ],
+      "CE_values": [
+        0.0009224316234224548
+      ],
+      "EE_values": [
+        1.3333333333333333
+      ]
+    },
+    "8. Wrong turn": {
+      "faithfulness": -0.6120258631759874,
+      "num_concepts": 4,
+      "concepts_used": [
+        "claims",
+        "driver",
+        "incident",
+        "other driver"
+      ],
+      "CE_values": [
+        0.00010221630308496687,
+        0.014840323263518473,
+        0.00015228952050875925,
+        0.0019478098145483186
+      ],
+      "EE_values": [
+        4.0,
+        1.5,
+        2.0,
+        2.25
+      ]
+    },
+    "8. Yes, no, and maybe": {
+      "faithfulness": 0.10155295609000234,
+      "num_concepts": 6,
+      "concepts_used": [
+        "AE's response to cell phone use",
+        "AE's response to negligence",
+        "cause of accident",
+        "conduct",
+        "employee status",
+        "scope of employment"
+      ],
+      "CE_values": [
+        0.003772877204326075,
+        0.009288730207492149,
+        0.0004000009501330229,
+        0.0019136840221037868,
+        0.021215619655466846,
+        0.003067841794497865
+      ],
+      "EE_values": [
+        3.0,
+        2.75,
+        2.2,
+        1.4,
+        2.6666666666666665,
+        4.0
+      ]
+    },
+    "8. Your law or mine": {
+      "faithfulness": 0.4620382238084903,
+      "num_concepts": 13,
+      "concepts_used": [
+        "Rhode Island choice-of-law rule",
+        "Rhode Island tort law",
+        "Vermont choice-of-law rule",
+        "Vermont tort law",
+        "activity",
+        "basis for jurisdiction",
+        "citizenship",
+        "court",
+        "document",
+        "injury",
+        "location",
+        "terrain",
+        "waiver"
+      ],
+      "CE_values": [
+        0.01151433539807511,
+        0.003998623878751307,
+        0.009227755085212402,
+        0.0021826888483118313,
+        0.00010907585282194752,
+        0.0005266980473116641,
+        0.002491229223209264,
+        0.04440237307279072,
+        0.0002950282017624376,
+        0.000550645488330105,
+        0.0420126793744881,
+        0.00038993142234250547,
+        0.0007600560342778985
+      ],
+      "EE_values": [
+        4.0,
+        3.0,
+        1.5,
+        3.25,
+        1.0,
+        1.0,
+        0.75,
+        4.0,
+        2.0,
+        3.5,
+        3.5,
+        2.0,
+        4.0
+      ]
+    },
+    "9. Between two extremes": {
+      "faithfulness": 0.38115850790677347,
+      "num_concepts": 14,
+      "concepts_used": [
+        "annual_sales_to_distributor",
+        "company",
+        "court",
+        "customer",
+        "customer_location",
+        "distributor",
+        "distributor_location",
+        "injured_person",
+        "injury_location",
+        "location",
+        "other_contacts_in_maryland",
+        "product",
+        "resale_in_maryland",
+        "resale_states"
+      ],
+      "CE_values": [
+        0.00017145208617784806,
+        0.002518425947417648,
+        0.0009485005647941953,
+        0.00011184486996909462,
+        0.0001530092739202392,
+        0.001373471647022043,
+        0.00012577414563185718,
+        3.6395148835463695e-05,
+        0.00015577486798618132,
+        4.6926414114414504e-05,
+        0.005464444276305875,
+        0.00020784506374221166,
+        0.002006340674763353,
+        0.0005169287567439283
+      ],
+      "EE_values": [
+        3.2,
+        1.4,
+        1.0,
+        1.0,
+        3.2,
+        2.8,
+        3.0,
+        0.4,
+        3.2,
+        1.6,
+        3.8,
+        1.2,
+        4.0,
+        2.6
+      ]
+    },
+    "9. Problems, problems.": {
+      "faithfulness": 0.28732532492568524,
+      "num_concepts": 7,
+      "concepts_used": [
+        "action",
+        "claim",
+        "court",
+        "defendants",
+        "employee",
+        "employer",
+        "location"
+      ],
+      "CE_values": [
+        5.687386653202488e-05,
+        0.00010746256281871764,
+        0.0023715651675964345,
+        0.0032461690081060845,
+        0.00302034019361554,
+        0.0017041012939987363,
+        0.0012510992659459032
+      ],
+      "EE_values": [
+        1.0,
+        2.75,
+        3.25,
+        4.0,
+        1.0,
+        3.0,
+        3.25
+      ]
+    },
+    "9. Removal malpractice": {
+      "faithfulness": 0.478165154743566,
+      "num_concepts": 13,
+      "concepts_used": [
+        "Ivens answer timing",
+        "cause of injuries",
+        "claim",
+        "court",
+        "damages sought",
+        "defendant locations",
+        "defendants",
+        "plaintiff",
+        "plaintiff location",
+        "remand ground",
+        "remand motion timing",
+        "removal court",
+        "removal notice timing"
+      ],
+      "CE_values": [
+        0.001763784445553938,
+        0.0004994373668765589,
+        0.0003364344895052883,
+        0.0017077433068367722,
+        0.010012898029260392,
+        0.00044486139288730717,
+        0.0918012198973672,
+        0.0028430079099306996,
+        0.0002681915470474994,
+        0.057364851123071915,
+        0.03702479649106126,
+        0.0005559551498159378,
+        0.0012219964507694753
+      ],
+      "EE_values": [
+        1.0,
+        1.2,
+        0.75,
+        1.5,
+        2.0,
+        1.4,
+        2.2,
+        0.6,
+        3.0,
+        4.0,
+        2.2,
+        2.25,
+        2.4
+      ]
+    },
+    "9. Removing the objections": {
+      "faithfulness": 0.4313508490123022,
+      "num_concepts": 8,
+      "concepts_used": [
+        "court type",
+        "defendant",
+        "jurisdiction approach",
+        "objections raised",
+        "plaintiff",
+        "removal to",
+        "response to complaint",
+        "time before answer due"
+      ],
+      "CE_values": [
+        0.0036078904191831117,
+        0.002375358667778302,
+        0.3631779223707743,
+        0.003560243170108916,
+        0.0048995986244094155,
+        0.0029170848154981706,
+        0.21340722599890216,
+        0.001138442408969406
+      ],
+      "EE_values": [
+        3.3333333333333335,
+        3.5,
+        3.5,
+        3.25,
+        0.0,
+        1.75,
+        3.5,
+        1.4
+      ]
+    },
+    "9. St. Paul misery": {
+      "faithfulness": -0.06940573346298566,
+      "num_concepts": 6,
+      "concepts_used": [
+        "alleged cause",
+        "court",
+        "damages demanded",
+        "defendant",
+        "injury",
+        "plaintiff"
+      ],
+      "CE_values": [
+        0.0001469088111427809,
+        0.00024181564744041157,
+        0.004829491717948511,
+        0.0038400216052653533,
+        0.0005737419805981229,
+        0.0007906162379939739
+      ],
+      "EE_values": [
+        2.0,
+        3.25,
+        3.0,
+        1.6,
+        3.8,
+        1.0
+      ]
+    },
+    "9. Substance and procedure": {
+      "faithfulness": 0.06227411448343219,
+      "num_concepts": 9,
+      "concepts_used": [
+        "defendant",
+        "defendant_claim",
+        "defendant_evidence",
+        "jurisdiction_basis",
+        "location_of_sale",
+        "plaintiff",
+        "plaintiff_claim",
+        "plaintiff_product",
+        "product_sold"
+      ],
+      "CE_values": [
+        0.0006102568184064869,
+        0.0003678318726164291,
+        0.0005282012097984013,
+        0.0015905620774549214,
+        0.0008035715412863375,
+        0.0007751547545551871,
+        0.004370574740242212,
+        8.511393703817577e-05,
+        0.00035989781523823713
+      ],
+      "EE_values": [
+        2.8,
+        3.8,
+        2.4,
+        4.0,
+        4.0,
+        0.8,
+        2.6,
+        1.0,
+        3.8
+      ]
+    },
+    "9. Sufficient information": {
+      "faithfulness": 0.5997637339356366,
+      "num_concepts": 4,
+      "concepts_used": [
+        "AE's_knowledge",
+        "Adair's_employment_status",
+        "accident_involved",
+        "allegation"
+      ],
+      "CE_values": [
+        0.4159160010511887,
+        0.013470157610406335,
+        0.003184645613739556,
+        0.04652952469307231
+      ],
+      "EE_values": [
+        3.75,
+        1.0,
+        0.0,
+        4.0
+      ]
+    },
+    "9. Tagging along": {
+      "faithfulness": 0.46285860599795803,
+      "num_concepts": 13,
+      "concepts_used": [
+        "claim 1",
+        "claim 2",
+        "claim 3",
+        "court",
+        "defendant",
+        "defendant incorporation",
+        "defendant principal place of business",
+        "design creation time",
+        "design ownership claim",
+        "jurisdiction",
+        "lawsuit basis",
+        "plaintiff",
+        "plaintiff citizenship"
+      ],
+      "CE_values": [
+        0.03858506829225963,
+        0.07638083787302809,
+        0.05231090967961385,
+        0.20674986793450065,
+        0.0010267080741098895,
+        0.00349193226654052,
+        0.007741703598437124,
+        0.2404368842899973,
+        0.00438010808803348,
+        0.5568032091603051,
+        0.1728741268622403,
+        0.11095282300167869,
+        0.004264456805254336
+      ],
+      "EE_values": [
+        4.0,
+        3.0,
+        3.0,
+        4.0,
+        0.4,
+        0.4,
+        1.4,
+        1.0,
+        2.6,
+        4.0,
+        4.0,
+        0.6,
+        0.4
+      ]
+    },
+    "9. Triple play": {
+      "faithfulness": 0.3214899365604191,
+      "num_concepts": 13,
+      "concepts_used": [
+        "defendant",
+        "defense 1",
+        "defense 2",
+        "defense 3",
+        "election year",
+        "initial action",
+        "initial position",
+        "initial reason",
+        "new position",
+        "plaintiff",
+        "subsequent action",
+        "subsequent reason",
+        "trial outcome"
+      ],
+      "CE_values": [
+        0.00047190690879657496,
+        0.0003427624347374007,
+        0.0006687379218316298,
+        0.0001231980873914225,
+        1.6304306561167143e-05,
+        0.0003480660077006279,
+        6.161262229880394e-05,
+        0.00751670988029111,
+        0.00046976860732964195,
+        0.00015673050379840168,
+        0.00038912162122022866,
+        0.0009999328854676422,
+        0.03047218537320887
+      ],
+      "EE_values": [
+        2.0,
+        1.75,
+        4.0,
+        1.5,
+        0.8,
+        1.5,
+        0.2,
+        3.2,
+        1.4,
+        1.2,
+        1.2,
+        3.2,
+        2.6666666666666665
+      ]
+    },
+    "9. Your witness": {
+      "faithfulness": 0.23347681932677292,
+      "num_concepts": 13,
+      "concepts_used": [
+        "age",
+        "claim",
+        "deposition status",
+        "discovery stage",
+        "employer",
+        "employment duration",
+        "law",
+        "person",
+        "status",
+        "supervisor",
+        "supervisor destination",
+        "supervisor status",
+        "time since filing suit"
+      ],
+      "CE_values": [
+        0.000579959097005043,
+        0.0011368099102804766,
+        0.00922114082110201,
+        0.0037201747430571455,
+        0.0008878714997863039,
+        0.00013028694625393956,
+        0.0004554872035131132,
+        0.0044929579617037745,
+        0.0025789010788582058,
+        0.0014997333840863617,
+        0.000536548359685316,
+        0.0003767149658835808,
+        0.00021768203763676845
+      ],
+      "EE_values": [
+        0.2,
+        0.4,
+        3.25,
+        1.75,
+        0.2,
+        0.5,
+        0.75,
+        0.8,
+        0.25,
+        3.8,
+        4.0,
+        3.8,
+        0.4
+      ]
+    }
+  }
+}

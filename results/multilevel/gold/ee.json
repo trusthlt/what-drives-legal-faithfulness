@@ -1,0 +1,2734 @@
+{
+  "28": {
+    "country_ban": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason_for_ban": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "disease_status": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "challenge": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "9": {
+    "country": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "role": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "accusation": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "status": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "protected role": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "shielded status": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "potential intervener": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "123": {
+    "drone_autonomy": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "drone_deployer": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "target_struck": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "target_misidentification_reason": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "algorithm_designer": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "34": {
+    "location": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "status": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "conduct": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "targets": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty status": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "139": {
+    "regulations": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "location": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "investors": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "comparison": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "defense": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "146": {
+    "launching state": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "registration state": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "operating state": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "object": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "target": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "damage": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "27": {
+    "vessel type": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "vessel origin": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "vessel destination": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "prior notification": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "cited justification": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "detaining country": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "detention allegation": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "8": {
+    "resolution": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "Country Z's response": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "150": {
+    "country": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "cause of uninhabitability": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "government status": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "host country": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "population status": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "protection status": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "deportation reason": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal claim": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "international law": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "State M's argument": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "State M's suggestion": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "147": {
+    "territory": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "occupying state": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "resources extracted": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "purpose": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "plaintiffs": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "allegations": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "forum": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "127": {
+    "country": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "status": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "action": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "145": {
+    "state_r": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "state_s": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "discovery": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "location": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "claims_submitted": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "drilling_operations": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "agreement": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "56": {
+    "soldier's role": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "order": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "context": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "defense claim": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "55": {
+    "state": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "state_type": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "baseline_method": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "enclosed_waters_status": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "ship_status": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "ship_action": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "115": {
+    "border zone location": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "victims": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "conduct": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "complaint mechanism": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "144": {
+    "state providing data": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "state receiving data": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "type of data": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "purpose of data": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "context of data use": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "accusation": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "10": {
+    "investor": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "dispute resolution clause": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "tribunal": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "tribunal's reason": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "21": {
+    "investor country": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "taxing country": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "tax type": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty provision": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "110": {
+    "state sending forces": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "state receiving forces": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "consent for intervention": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "claimed justification": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "threat to nationals": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "protest by receiving state": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "134": {
+    "attacker": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "attacker's base": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "State B's response": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "State B's justification": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "State C's action": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "State C's target": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "State C's relationship with A": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "State D's relationship with B": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "State D's action": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "State D's accusation": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "24": {
+    "organization_type": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "action": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason_for_exclusion": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "expelled_state": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "forum": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "111": {
+    "state": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "status": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "timing": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "government": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "action": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty clause": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "challenge": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "forum": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "48": {
+    "commanders": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "ethnicity": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "plan": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "awareness": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "order-issuer": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "7": {
+    "role": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "employer": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "location": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "cause of death": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "53": {
+    "organ": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "action": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "member state": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "decision": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "42": {
+    "location": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "target": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "actor": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "method": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "result": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "6": {
+    "deploying country": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "deploying country's action": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "target country": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "target country's consent": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "deploying country's claim": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "target country's involvement": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "4": {
+    "orders": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "interpretation": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "41": {
+    "imported goods": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "fees": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "domestic goods": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "comparison": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "purpose": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "126": {
+    "pollutant source": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "pollutant type": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "pollutant destination": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "harm": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal status in source state": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "5": {
+    "location": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "conduct": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "protest": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "13": {
+    "investment_treaty_provision": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "dispute_parties": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "dispute_subject": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "State_claim": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "46": {
+    "warship country": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "territorial sea": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "prior notice": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "conduct": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "protest": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "91": {
+    "former head of state": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "accusation": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "conflict type": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "travel destination": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal basis": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "domestic implementation": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "19": {
+    "warship": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "zone": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "distance": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "notification": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "demand": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "93": {
+    "attack_origin": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "attackers": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "denial": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "forum": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "137": {
+    "location": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "actor": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "action": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "basis": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "protest": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason for protest": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "17": {
+    "role": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "country": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "reports": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "source of reports": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "action taken": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "investigation initiated by": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "113": {
+    "armed group location": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "target of attack": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "attack method": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "State Y’s claim": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "State X’s defense": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "forum": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "138": {
+    "state with power grid failure": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "cause of failure": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "hacking group location": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "State B's response": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "State A's response": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "target of counter-operation": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "complaint filed by": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "complaint recipient": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "allegation": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "106": {
+    "territory": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "occupying_state": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "measures": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "basis_for_measures": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal_instrument_cited": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "alleged_violation": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "14": {
+    "rebel leader's role": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "conduct": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "purpose": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "location": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "referral source": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "135": {
+    "states": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "agreement": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "agreement terms": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "challenger": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "challenge basis": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "142": {
+    "regime": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "sanctions": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "result": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "court": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "violation": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal principle invoked": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "132": {
+    "state_actor": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "target": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "object_destroyed": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "alleged_use": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "condemnation_source": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "condemnation_type": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "32": {
+    "role": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "charge": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "defense": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "fear": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "23": {
+    "executive role": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "support provided": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "recipient": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "regime activity": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "executive's knowledge": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "executive's involvement": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "35": {
+    "country": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "product": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "requirement": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "purpose": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "label design": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "cost": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "131": {
+    "country of origin": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "country of interception": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "asylum seekers": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "action taken": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "casualties": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "128": {
+    "corporation_license_state": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "vessel_destination": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "waste_type": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "waste_disposal_method": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "environmental_impact": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "state_responsibility_claim": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "44": {
+    "time_elapsed": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "accused_claim": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "tribunal_established_for": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "107": {
+    "rebel group's territory control": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "recognition status": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "victims of atrocities": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal action": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "94": {
+    "installing state": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "device location": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "installation purpose": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "notification status": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "protest": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal basis cited": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal basis cited by H": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "77": {
+    "crimes": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "jurisdiction": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "118": {
+    "installing state": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "objecting state": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "activity": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "location": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "objection basis": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim basis": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "counterclaim basis": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "120": {
+    "state": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "action": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "resource": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "location": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "objection": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "assertion": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "116": {
+    "pipeline_origin": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "pipeline_destination": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "pipeline_route": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "suspension_reason": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "suspension_actor": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "suspension_effect": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "invoked_treaty": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "accused_violation": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "149": {
+    "military presence": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "autonomous government": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "government actions": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "cyberattacks": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "economic impact": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal claim": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "defense": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "52": {
+    "state": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "weapon": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "context": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "civilian presence": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty status": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "108": {
+    "company": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "state": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "action": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "company_claim": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "state_defense": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "125": {
+    "disputed maritime zone": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "state asserting historic claim": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "state asserting UNCLOS EEZ rights": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "arrested fishermen": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "arresting state": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "12": {
+    "coastal state": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "claimed area": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "other state": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "other state's argument": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "30": {
+    "armed force": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "target": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "civilians present": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "situation": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "117": {
+    "country_phasing_out_coal": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "targets": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "investor_country": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "investor_status": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "action_taken": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim_filed": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim_basis": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "15": {
+    "tariff rate": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "imported goods": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "exporting country": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "importing country": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "alleged violation": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "forum": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "40": {
+    "role": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "location": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "conduct": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "awareness": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "22": {
+    "country_closing_airspace": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "country_affected": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason_for_closure": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "international_agreement": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "complaint_venue": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "114": {
+    "diplomat's state": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "host state": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "diplomat's role": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "conduct": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "status": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "basis for arrest": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal basis for immunity claim": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "26": {
+    "country": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "alleged crimes": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "alleged perpetrators": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "domestic investigation status": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "ICC consideration": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "143": {
+    "asylum seeker status": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "accusation": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "home country": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "risk in home country": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "State A claim": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "45": {
+    "investor's action": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "local remedies used": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason for bypassing local remedies": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "investor's argument": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "3": {
+    "violation": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "act": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "defense": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "context": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "141": {
+    "ship flag": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "ship location": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "destination": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "hostages": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "prosecutor": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "jurisdiction basis": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "protestor": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "36": {
+    "investor's state": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "defendant state": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "forum": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "cause of action": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "duration of case": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "justification for delay": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "arbitration mechanism": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "92": {
+    "state conducting strike": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "state where strike occurred": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "target of strike": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "accusation against target": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "consent from State B": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal basis cited by State A": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "test cited by State A": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "33": {
+    "fishing vessel origin": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "fishing location": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "pursuit location": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "seizing authority": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "vessel status": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "normalized": false,
+      "max_importance": null
+    },
+    "protestor": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "normalized": false,
+      "max_importance": null
+    }
+  }
+}

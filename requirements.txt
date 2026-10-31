@@ -1,0 +1,8 @@
+# Recompute the primary metrics and tables from saved results (CPU).
+numpy
+scipy
+pandas
+polars
+PyYAML
+matplotlib
+statsmodels

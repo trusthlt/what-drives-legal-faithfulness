@@ -1,0 +1,7968 @@
+{
+  "28": {
+    "country_ban": {
+      "EE": 2.75,
+      "EE_raw": 2.75,
+      "importance_sum": 11.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason_for_ban": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "disease_status": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "challenge": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "9": {
+    "country": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "role": {
+      "EE": 2.75,
+      "EE_raw": 2.75,
+      "importance_sum": 11.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "accusation": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "action": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        2.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "status of top generals": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "potential intervener": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        4.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "123": {
+    "drone_autonomy": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 6.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        3.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "drone_deployer": {
+      "EE": 3.6666666666666665,
+      "EE_raw": 3.6666666666666665,
+      "importance_sum": 11.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "target_struck": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        1.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "target_misidentification_reason": {
+      "EE": 3.25,
+      "EE_raw": 3.25,
+      "importance_sum": 13.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "algorithm_designer": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "34": {
+    "location": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "status": {
+      "EE": 1.25,
+      "EE_raw": 1.25,
+      "importance_sum": 5.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        2.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "conduct": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty party": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 4.0,
+      "total": 1,
+      "scores": [
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "139": {
+    "regulations": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "location": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "investors": {
+      "EE": 3.6666666666666665,
+      "EE_raw": 3.6666666666666665,
+      "importance_sum": 11.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 2.5,
+      "EE_raw": 2.5,
+      "importance_sum": 10.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        3.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "comparison": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "defense": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "146": {
+    "launch state": {
+      "EE": 2.75,
+      "EE_raw": 2.75,
+      "importance_sum": 11.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "registration state": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "operator state": {
+      "EE": 0.3333333333333333,
+      "EE_raw": 0.3333333333333333,
+      "importance_sum": 1.0,
+      "total": 3,
+      "scores": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "object type": {
+      "EE": 1.3333333333333333,
+      "EE_raw": 1.3333333333333333,
+      "importance_sum": 4.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        0.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "target type": {
+      "EE": 0.6666666666666666,
+      "EE_raw": 0.6666666666666666,
+      "importance_sum": 2.0,
+      "total": 3,
+      "scores": [
+        0.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "damage type": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "38": {
+    "resolution": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "requirement": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        2.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "country": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "action": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason": {
+      "EE": 2.75,
+      "EE_raw": 2.75,
+      "importance_sum": 11.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "27": {
+    "vessel type": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "vessel origin": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "importance_sum": 0.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "vessel destination": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "prior notification": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "cited justification": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 8.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        3.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "detaining country": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "detention allegation": {
+      "EE": 3.3333333333333335,
+      "EE_raw": 3.3333333333333335,
+      "importance_sum": 10.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "8": {
+    "resolution": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "Country Z's response": {
+      "EE": 1.5,
+      "EE_raw": 1.5,
+      "importance_sum": 6.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "16": {
+    "organization": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 9.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "resolution": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "target": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "compliance": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        3.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "argument": {
+      "EE": 2.75,
+      "EE_raw": 2.75,
+      "importance_sum": 11.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "violation": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 8.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        2.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "150": {
+    "country": {
+      "EE": 1.25,
+      "EE_raw": 1.25,
+      "importance_sum": 5.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "cause of uninhabitability": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 6.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        0.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "government status": {
+      "EE": 0.6666666666666666,
+      "EE_raw": 0.6666666666666666,
+      "importance_sum": 2.0,
+      "total": 3,
+      "scores": [
+        0.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "host country": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "population status": {
+      "EE": 1.6666666666666667,
+      "EE_raw": 1.6666666666666667,
+      "importance_sum": 5.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "protection status": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 8.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        1.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "action by host country": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason for deportation": {
+      "EE": 0.6666666666666666,
+      "EE_raw": 0.6666666666666666,
+      "importance_sum": 2.0,
+      "total": 3,
+      "scores": [
+        0.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal claim": {
+      "EE": 3.3333333333333335,
+      "EE_raw": 3.3333333333333335,
+      "importance_sum": 10.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal basis": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "host country's argument": {
+      "EE": 2.5,
+      "EE_raw": 2.5,
+      "importance_sum": 10.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        3.0,
+        3.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "host country's suggestion": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "147": {
+    "territory": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "occupying state": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "resources extracted": {
+      "EE": 3.5,
+      "EE_raw": 3.5,
+      "importance_sum": 14.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        4.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "purpose": {
+      "EE": 3.25,
+      "EE_raw": 3.25,
+      "importance_sum": 13.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "plaintiffs": {
+      "EE": 1.6666666666666667,
+      "EE_raw": 1.6666666666666667,
+      "importance_sum": 5.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "allegations": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "forum": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "127": {
+    "country": {
+      "EE": 0.25,
+      "EE_raw": 0.25,
+      "importance_sum": 1.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "status": {
+      "EE": 3.6666666666666665,
+      "EE_raw": 3.6666666666666665,
+      "importance_sum": 11.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "action": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty": {
+      "EE": 3.6666666666666665,
+      "EE_raw": 3.6666666666666665,
+      "importance_sum": 11.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "119": {
+    "state_imposing_sanctions": {
+      "EE": 2.5,
+      "EE_raw": 2.5,
+      "importance_sum": 10.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        2.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "targeted_companies_nationality": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "targeted_project_type": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 6.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "targeted_project_location": {
+      "EE": 0.25,
+      "EE_raw": 0.25,
+      "importance_sum": 1.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "sanctions_justification": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "challenge_basis": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "145": {
+    "state_r": {
+      "EE": 1.3333333333333333,
+      "EE_raw": 1.3333333333333333,
+      "importance_sum": 4.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "state_s": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "discovery": {
+      "EE": 0.5,
+      "EE_raw": 0.5,
+      "importance_sum": 2.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "location": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claims_submitted_to": {
+      "EE": 1.3333333333333333,
+      "EE_raw": 1.3333333333333333,
+      "importance_sum": 4.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "agreement": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "action": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "56": {
+    "soldier's role": {
+      "EE": 1.3333333333333333,
+      "EE_raw": 1.3333333333333333,
+      "importance_sum": 4.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "order": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "context": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 9.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        1.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "defense claim": {
+      "EE": 3.25,
+      "EE_raw": 3.25,
+      "importance_sum": 13.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        2.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "55": {
+    "state": {
+      "EE": 0.25,
+      "EE_raw": 0.25,
+      "importance_sum": 1.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "state_type": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "baselines": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "enclosed_waters_status": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "ship": {
+      "EE": 1.25,
+      "EE_raw": 1.25,
+      "importance_sum": 5.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        2.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "ship_action": {
+      "EE": 1.5,
+      "EE_raw": 1.5,
+      "importance_sum": 6.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        0.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "115": {
+    "border zone location": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "victims": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "importance_sum": 0.0,
+      "total": 3,
+      "scores": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "conduct": {
+      "EE": 2.6666666666666665,
+      "EE_raw": 2.6666666666666665,
+      "importance_sum": 8.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "complaint mechanism": {
+      "EE": 2.6666666666666665,
+      "EE_raw": 2.6666666666666665,
+      "importance_sum": 8.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "140": {
+    "location": {
+      "EE": 1.25,
+      "EE_raw": 1.25,
+      "importance_sum": 5.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "casualties": {
+      "EE": 2.3333333333333335,
+      "EE_raw": 2.3333333333333335,
+      "importance_sum": 7.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "target": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "damage": {
+      "EE": 2.6666666666666665,
+      "EE_raw": 2.6666666666666665,
+      "importance_sum": 8.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "alleged purpose": {
+      "EE": 2.75,
+      "EE_raw": 2.75,
+      "importance_sum": 11.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        3.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "conflict type": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 4.0,
+      "total": 2,
+      "scores": [
+        1.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "perpetrator": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "conduct": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "144": {
+    "state providing data": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "state receiving data": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        4.0,
+        1.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "type of data": {
+      "EE": 1.5,
+      "EE_raw": 1.5,
+      "importance_sum": 6.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        3.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "purpose of data": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "context of use": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "accusation": {
+      "EE": 2.25,
+      "EE_raw": 2.25,
+      "importance_sum": 9.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "10": {
+    "investor": {
+      "EE": 0.6666666666666666,
+      "EE_raw": 0.6666666666666666,
+      "importance_sum": 2.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "dispute resolution clause": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "tribunal": {
+      "EE": 3.6666666666666665,
+      "EE_raw": 3.6666666666666665,
+      "importance_sum": 11.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "tribunal's reason": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "21": {
+    "investor country": {
+      "EE": 0.25,
+      "EE_raw": 0.25,
+      "importance_sum": 1.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "taxing country": {
+      "EE": 1.5,
+      "EE_raw": 1.5,
+      "importance_sum": 6.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "tax type": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty provision": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "124": {
+    "state providing support": {
+      "EE": 2.5,
+      "EE_raw": 2.5,
+      "importance_sum": 10.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "recipient of support": {
+      "EE": 3.3333333333333335,
+      "EE_raw": 3.3333333333333335,
+      "importance_sum": 10.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "location of recipient": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "type of support": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "purpose of support": {
+      "EE": 2.25,
+      "EE_raw": 2.25,
+      "importance_sum": 9.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "conduct of recipient": {
+      "EE": 2.5,
+      "EE_raw": 2.5,
+      "importance_sum": 10.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        4.0,
+        3.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "action taken by location of recipient": {
+      "EE": 2.75,
+      "EE_raw": 2.75,
+      "importance_sum": 11.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        4.0,
+        3.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "basis for action": {
+      "EE": 3.3333333333333335,
+      "EE_raw": 3.3333333333333335,
+      "importance_sum": 10.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "argument of state providing support": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "29": {
+    "investor country": {
+      "EE": 0.5,
+      "EE_raw": 0.5,
+      "importance_sum": 2.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "host country": {
+      "EE": 1.25,
+      "EE_raw": 1.25,
+      "importance_sum": 5.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "favorable procedures country": {
+      "EE": 2.75,
+      "EE_raw": 2.75,
+      "importance_sum": 11.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        3.0,
+        2.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "procedural rights": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "109": {
+    "state_refusing_overflight": {
+      "EE": 2.75,
+      "EE_raw": 2.75,
+      "importance_sum": 11.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        4.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "state_in_crisis": {
+      "EE": 2.6666666666666665,
+      "EE_raw": 2.6666666666666665,
+      "importance_sum": 8.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        1.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "type_of_aircraft": {
+      "EE": 2.5,
+      "EE_raw": 2.5,
+      "importance_sum": 10.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        2.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "purpose_of_flight": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "crisis_in_state": {
+      "EE": 2.5,
+      "EE_raw": 2.5,
+      "importance_sum": 10.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        3.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "conflict_in_state": {
+      "EE": 2.5,
+      "EE_raw": 2.5,
+      "importance_sum": 10.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        3.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "aircraft_origin": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "aircraft_operator": {
+      "EE": 2.75,
+      "EE_raw": 2.75,
+      "importance_sum": 11.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "state_t_claim": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        2.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "state_r_claim": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "110": {
+    "state sending forces": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "importance_sum": 0.0,
+      "total": 3,
+      "scores": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "state receiving forces": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "consent for intervention": {
+      "EE": 3.6666666666666665,
+      "EE_raw": 3.6666666666666665,
+      "importance_sum": 11.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claimed justification": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "threat to nationals": {
+      "EE": 1.5,
+      "EE_raw": 1.5,
+      "importance_sum": 6.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "protest by receiving state": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 4.0,
+      "total": 2,
+      "scores": [
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "134": {
+    "attacker": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "attacked state": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "terrorist group's base": {
+      "EE": 1.3333333333333333,
+      "EE_raw": 1.3333333333333333,
+      "importance_sum": 4.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "State B's response": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        2.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "State B's justification": {
+      "EE": 0.5,
+      "EE_raw": 0.5,
+      "importance_sum": 2.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "State C's action": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "State C's target": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        0.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "State C's relationship to A": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "State D's relationship to B": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "importance_sum": 0.0,
+      "total": 3,
+      "scores": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "State D's action": {
+      "EE": 0.5,
+      "EE_raw": 0.5,
+      "importance_sum": 2.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "State D's accusation": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        1.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "24": {
+    "organization_type": {
+      "EE": 3.6666666666666665,
+      "EE_raw": 3.6666666666666665,
+      "importance_sum": 11.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "action": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason": {
+      "EE": 1.5,
+      "EE_raw": 1.5,
+      "importance_sum": 6.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "expelled_state_claim": {
+      "EE": 2.5,
+      "EE_raw": 2.5,
+      "importance_sum": 10.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        1.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "forum": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "133": {
+    "location": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "tension level": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "attribution basis": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        3.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "accused party": {
+      "EE": 1.3333333333333333,
+      "EE_raw": 1.3333333333333333,
+      "importance_sum": 4.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "evidence type": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 9.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "action": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "method": {
+      "EE": 2.3333333333333335,
+      "EE_raw": 2.3333333333333335,
+      "importance_sum": 7.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "25": {
+    "target": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "strike result": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        2.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "111": {
+    "state": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "status": {
+      "EE": 0.6666666666666666,
+      "EE_raw": 0.6666666666666666,
+      "importance_sum": 2.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        0.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty": {
+      "EE": 3.3333333333333335,
+      "EE_raw": 3.3333333333333335,
+      "importance_sum": 10.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "timing": {
+      "EE": 0.6666666666666666,
+      "EE_raw": 0.6666666666666666,
+      "importance_sum": 2.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "government": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "action": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty clause": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "challenge": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "forum": {
+      "EE": 1.3333333333333333,
+      "EE_raw": 1.3333333333333333,
+      "importance_sum": 4.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "48": {
+    "commanders": {
+      "EE": 1.3333333333333333,
+      "EE_raw": 1.3333333333333333,
+      "importance_sum": 4.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "ethnic group": {
+      "EE": 2.6666666666666665,
+      "EE_raw": 2.6666666666666665,
+      "importance_sum": 8.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        1.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "orders issued": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 9.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "awareness of plan": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "7": {
+    "role": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "employer": {
+      "EE": 2.5,
+      "EE_raw": 2.5,
+      "importance_sum": 10.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        3.0,
+        2.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "location": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "cause of death": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "53": {
+    "organ": {
+      "EE": 3.5,
+      "EE_raw": 3.5,
+      "importance_sum": 14.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "action": {
+      "EE": 3.6666666666666665,
+      "EE_raw": 3.6666666666666665,
+      "importance_sum": 11.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "member state": {
+      "EE": 3.25,
+      "EE_raw": 3.25,
+      "importance_sum": 13.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "decision": {
+      "EE": 3.25,
+      "EE_raw": 3.25,
+      "importance_sum": 13.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "42": {
+    "location": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "target": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "actor": {
+      "EE": 0.25,
+      "EE_raw": 0.25,
+      "importance_sum": 1.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "method": {
+      "EE": 1.25,
+      "EE_raw": 1.25,
+      "importance_sum": 5.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "result": {
+      "EE": 3.25,
+      "EE_raw": 3.25,
+      "importance_sum": 13.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "6": {
+    "country deploying drones": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "target country": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "consent for surveillance": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "purpose of deployment": {
+      "EE": 2.5,
+      "EE_raw": 2.5,
+      "importance_sum": 10.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        0.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claimed justification": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "involvement of target country": {
+      "EE": 3.5,
+      "EE_raw": 3.5,
+      "importance_sum": 14.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "4": {
+    "orders": {
+      "EE": 2.5,
+      "EE_raw": 2.5,
+      "importance_sum": 10.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        3.0,
+        3.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "interpretation": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "41": {
+    "imported dairy products": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "domestic dairy products": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "country": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 1.25,
+      "EE_raw": 1.25,
+      "importance_sum": 5.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        2.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "112": {
+    "location": {
+      "EE": 0.3333333333333333,
+      "EE_raw": 0.3333333333333333,
+      "importance_sum": 1.0,
+      "total": 3,
+      "scores": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "event": {
+      "EE": 3.25,
+      "EE_raw": 3.25,
+      "importance_sum": 13.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        4.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "cause": {
+      "EE": 3.6666666666666665,
+      "EE_raw": 3.6666666666666665,
+      "importance_sum": 11.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "source": {
+      "EE": 3.5,
+      "EE_raw": 3.5,
+      "importance_sum": 14.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "casualties": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "impact": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "consideration": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "126": {
+    "pollutant source": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "pollutant type": {
+      "EE": 1.5,
+      "EE_raw": 1.5,
+      "importance_sum": 6.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "pollutant destination": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "pollutant effect": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "damage": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "State A's claim": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "121": {
+    "exporting_state": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "exported_materials": {
+      "EE": 1.5,
+      "EE_raw": 1.5,
+      "importance_sum": 6.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        2.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "importing_state": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal_basis": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "challenge_forum": {
+      "EE": 1.6666666666666667,
+      "EE_raw": 1.6666666666666667,
+      "importance_sum": 5.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "60": {
+    "investor status": {
+      "EE": 2.3333333333333335,
+      "EE_raw": 2.3333333333333335,
+      "importance_sum": 7.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "denied right": {
+      "EE": 3.25,
+      "EE_raw": 3.25,
+      "importance_sum": 13.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "judgment characteristic": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "location": {
+      "EE": 2.75,
+      "EE_raw": 2.75,
+      "importance_sum": 11.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        3.0,
+        4.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "remedy sought": {
+      "EE": 3.25,
+      "EE_raw": 3.25,
+      "importance_sum": 13.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "alleged violation": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "5": {
+    "location": {
+      "EE": 3.6666666666666665,
+      "EE_raw": 3.6666666666666665,
+      "importance_sum": 11.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "conduct": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "protest": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 1.6666666666666667,
+      "EE_raw": 1.6666666666666667,
+      "importance_sum": 5.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        0.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "13": {
+    "dispute_parties": {
+      "EE": 1.3333333333333333,
+      "EE_raw": 1.3333333333333333,
+      "importance_sum": 4.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "dispute_subject": {
+      "EE": 0.5,
+      "EE_raw": 0.5,
+      "importance_sum": 2.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "arbitration_mechanism": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "State_position": {
+      "EE": 3.5,
+      "EE_raw": 3.5,
+      "importance_sum": 14.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "46": {
+    "warship country": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "territorial sea": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "prior notice": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "conduct": {
+      "EE": 3.5,
+      "EE_raw": 3.5,
+      "importance_sum": 14.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "protest": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "91": {
+    "former head of state": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "accusation": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 9.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "conflict type": {
+      "EE": 1.5,
+      "EE_raw": 1.5,
+      "importance_sum": 3.0,
+      "total": 2,
+      "scores": [
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "travel destination": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal basis": {
+      "EE": 3.6666666666666665,
+      "EE_raw": 3.6666666666666665,
+      "importance_sum": 11.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 8.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        3.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "domestic implementation": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 6.0,
+      "total": 2,
+      "scores": [
+        2.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "19": {
+    "warship country": {
+      "EE": 0.5,
+      "EE_raw": 0.5,
+      "importance_sum": 2.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "zone entered": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "distance from shore": {
+      "EE": 3.3333333333333335,
+      "EE_raw": 3.3333333333333335,
+      "importance_sum": 10.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "notification given": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 6.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "demand made": {
+      "EE": 1.3333333333333333,
+      "EE_raw": 1.3333333333333333,
+      "importance_sum": 4.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "alleged violation": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 9.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "93": {
+    "attack_origin": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "attackers_funding": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "State_E_denial": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "forum": {
+      "EE": 0.6666666666666666,
+      "EE_raw": 0.6666666666666666,
+      "importance_sum": 2.0,
+      "total": 3,
+      "scores": [
+        0.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "137": {
+    "contested EEZ": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 9.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        1.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "construction": {
+      "EE": 3.5,
+      "EE_raw": 3.5,
+      "importance_sum": 14.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "protest": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 2.25,
+      "EE_raw": 2.25,
+      "importance_sum": 9.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "17": {
+    "role": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "country": {
+      "EE": 0.25,
+      "EE_raw": 0.25,
+      "importance_sum": 1.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "reports": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "source of reports": {
+      "EE": 1.5,
+      "EE_raw": 1.5,
+      "importance_sum": 6.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "action taken": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "investigation initiated by": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "113": {
+    "armed group location": {
+      "EE": 1.6666666666666667,
+      "EE_raw": 1.6666666666666667,
+      "importance_sum": 5.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "target": {
+      "EE": 0.5,
+      "EE_raw": 0.5,
+      "importance_sum": 2.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "attack method": {
+      "EE": 0.25,
+      "EE_raw": 0.25,
+      "importance_sum": 1.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "State Y claim": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "State X response": {
+      "EE": 2.75,
+      "EE_raw": 2.75,
+      "importance_sum": 11.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        4.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "forum": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "138": {
+    "state with power grid failure": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "importance_sum": 0.0,
+      "total": 2,
+      "scores": [
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "cause of failure": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "source of malware": {
+      "EE": 3.6666666666666665,
+      "EE_raw": 3.6666666666666665,
+      "importance_sum": 11.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "location of hacking group": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "State B's response to allegations": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "State A's response": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "target of counter-operation": {
+      "EE": 2.6666666666666665,
+      "EE_raw": 2.6666666666666665,
+      "importance_sum": 8.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        2.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "complaint filed by": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "complaint recipient": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        0.0,
+        0.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "allegation": {
+      "EE": 2.6666666666666665,
+      "EE_raw": 2.6666666666666665,
+      "importance_sum": 8.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        4.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "37": {
+    "location": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "target": {
+      "EE": 3.5,
+      "EE_raw": 3.5,
+      "importance_sum": 14.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "supply": {
+      "EE": 2.25,
+      "EE_raw": 2.25,
+      "importance_sum": 9.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "status": {
+      "EE": 2.3333333333333335,
+      "EE_raw": 2.3333333333333335,
+      "importance_sum": 7.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "actor": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 8.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        2.0,
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "106": {
+    "territory_occupied": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "occupying_state": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 9.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "measures_imposed": {
+      "EE": 3.25,
+      "EE_raw": 3.25,
+      "importance_sum": 13.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        2.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "justification": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "alleged_violation": {
+      "EE": 2.6666666666666665,
+      "EE_raw": 2.6666666666666665,
+      "importance_sum": 8.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        3.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "14": {
+    "rebel leader's role": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "conduct": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "purpose": {
+      "EE": 0.25,
+      "EE_raw": 0.25,
+      "importance_sum": 1.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "location": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 6.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "referral source": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 6.0,
+      "total": 2,
+      "scores": [
+        2.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "135": {
+    "states": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "importance_sum": 0.0,
+      "total": 3,
+      "scores": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "agreement": {
+      "EE": 3.25,
+      "EE_raw": 3.25,
+      "importance_sum": 13.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "agreement terms": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "challenger": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "challenge basis": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "142": {
+    "regime": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "sanctions": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "result": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "court": {
+      "EE": 2.3333333333333335,
+      "EE_raw": 2.3333333333333335,
+      "importance_sum": 7.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "violation": {
+      "EE": 3.5,
+      "EE_raw": 3.5,
+      "importance_sum": 14.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal principle invoked": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "132": {
+    "state_actor": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "target": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "object_destroyed": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "alleged_use": {
+      "EE": 3.25,
+      "EE_raw": 3.25,
+      "importance_sum": 13.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "condemnation_source": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "condemnation_type": {
+      "EE": 3.3333333333333335,
+      "EE_raw": 3.3333333333333335,
+      "importance_sum": 10.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "32": {
+    "role": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "charge": {
+      "EE": 3.25,
+      "EE_raw": 3.25,
+      "importance_sum": 13.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "defense": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "fear": {
+      "EE": 2.25,
+      "EE_raw": 2.25,
+      "importance_sum": 9.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        3.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "23": {
+    "executive role": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "support provided": {
+      "EE": 3.25,
+      "EE_raw": 3.25,
+      "importance_sum": 13.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "recipient of support": {
+      "EE": 2.25,
+      "EE_raw": 2.25,
+      "importance_sum": 9.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        4.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "regime's actions": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "executive's knowledge": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "executive's involvement": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "35": {
+    "country": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "importance_sum": 0.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "product": {
+      "EE": 0.5,
+      "EE_raw": 0.5,
+      "importance_sum": 2.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "requirement": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "purpose": {
+      "EE": 3.25,
+      "EE_raw": 3.25,
+      "importance_sum": 13.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        4.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "label design": {
+      "EE": 3.6666666666666665,
+      "EE_raw": 3.6666666666666665,
+      "importance_sum": 11.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "cost": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 9.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "131": {
+    "country of origin": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 8.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "country of interception": {
+      "EE": 2.5,
+      "EE_raw": 2.5,
+      "importance_sum": 10.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "asylum seekers": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        1.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "action taken": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "casualties": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "136": {
+    "president's status": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "indictment": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "state S's status": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "visit request": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 8.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "diplomatic pressure": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "128": {
+    "corporation_license_state": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "vessel_destination": {
+      "EE": 2.5,
+      "EE_raw": 2.5,
+      "importance_sum": 10.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "waste_type": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "waste_disposal_method": {
+      "EE": 1.6666666666666667,
+      "EE_raw": 1.6666666666666667,
+      "importance_sum": 5.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "environmental_impact": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "state_responsibility_claim": {
+      "EE": 3.5,
+      "EE_raw": 3.5,
+      "importance_sum": 14.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        2.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "44": {
+    "tribunal_establishment": {
+      "EE": 1.5,
+      "EE_raw": 1.5,
+      "importance_sum": 6.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "accused_claim": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "54": {
+    "statute of limitations": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "charges": {
+      "EE": 3.25,
+      "EE_raw": 3.25,
+      "importance_sum": 13.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "action taken": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "actor": {
+      "EE": 1.3333333333333333,
+      "EE_raw": 1.3333333333333333,
+      "importance_sum": 4.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal basis cited": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "122": {
+    "company type": {
+      "EE": 2.3333333333333335,
+      "EE_raw": 2.3333333333333335,
+      "importance_sum": 7.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "company location": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "satellite destination": {
+      "EE": 0.3333333333333333,
+      "EE_raw": 0.3333333333333333,
+      "importance_sum": 1.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "satellite event": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        2.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "damage location": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "State A's claim": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "2": {
+    "peacekeeper's country": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "importance_sum": 0.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "peacekeeper's role": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        1.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "peacekeeper's conduct": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "location of conduct": {
+      "EE": 1.6666666666666667,
+      "EE_raw": 1.6666666666666667,
+      "importance_sum": 5.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "host state's demand": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 8.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "UN's claim": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "107": {
+    "rebel group": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "recognition status": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "conduct": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal action": {
+      "EE": 1.25,
+      "EE_raw": 1.25,
+      "importance_sum": 5.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        2.0,
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "94": {
+    "installer": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "location": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "purpose": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        4.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "notification": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "protest": {
+      "EE": 1.5,
+      "EE_raw": 1.5,
+      "importance_sum": 6.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        1.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "77": {
+    "crimes": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 8.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        2.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "jurisdiction": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "118": {
+    "installing state": {
+      "EE": 2.5,
+      "EE_raw": 2.5,
+      "importance_sum": 10.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        3.0,
+        4.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "objecting state": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "activity": {
+      "EE": 2.25,
+      "EE_raw": 2.25,
+      "importance_sum": 9.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        3.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "location": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "objection basis": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claimed right by F": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claimed right by G": {
+      "EE": 3.6666666666666665,
+      "EE_raw": 3.6666666666666665,
+      "importance_sum": 11.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "120": {
+    "state": {
+      "EE": 1.3333333333333333,
+      "EE_raw": 1.3333333333333333,
+      "importance_sum": 4.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "action": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "resource": {
+      "EE": 2.25,
+      "EE_raw": 2.25,
+      "importance_sum": 9.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "location": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 3.5,
+      "EE_raw": 3.5,
+      "importance_sum": 14.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "objection": {
+      "EE": 2.6666666666666665,
+      "EE_raw": 2.6666666666666665,
+      "importance_sum": 8.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "assertion": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "116": {
+    "pipeline_origin": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "pipeline_destination": {
+      "EE": 1.3333333333333333,
+      "EE_raw": 1.3333333333333333,
+      "importance_sum": 4.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "pipeline_route": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "suspension_reason": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "suspension_actor": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 8.0,
+      "total": 2,
+      "scores": [
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "suspension_effect": {
+      "EE": 1.25,
+      "EE_raw": 1.25,
+      "importance_sum": 5.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "invoked_treaty": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "accused_violation": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "11": {
+    "country of PMC": {
+      "EE": 0.6666666666666666,
+      "EE_raw": 0.6666666666666666,
+      "importance_sum": 2.0,
+      "total": 3,
+      "scores": [
+        0.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "country hiring PMC": {
+      "EE": 2.6666666666666665,
+      "EE_raw": 2.6666666666666665,
+      "importance_sum": 8.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "PMC conduct": {
+      "EE": 3.3333333333333335,
+      "EE_raw": 3.3333333333333335,
+      "importance_sum": 10.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "target": {
+      "EE": 2.25,
+      "EE_raw": 2.25,
+      "importance_sum": 9.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "casualties": {
+      "EE": 1.5,
+      "EE_raw": 1.5,
+      "importance_sum": 6.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "PMC CEO claim": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        4.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "complaint filed": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 9.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        1.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "149": {
+    "military presence": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        2.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "autonomous government": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "government actions": {
+      "EE": 2.5,
+      "EE_raw": 2.5,
+      "importance_sum": 10.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        1.0,
+        3.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "cyberattacks": {
+      "EE": 3.5,
+      "EE_raw": 3.5,
+      "importance_sum": 14.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "economic impact": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 0.5,
+      "EE_raw": 0.5,
+      "importance_sum": 2.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "defense": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "52": {
+    "country": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "weapon": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "situation": {
+      "EE": 3.6666666666666665,
+      "EE_raw": 3.6666666666666665,
+      "importance_sum": 11.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "civilian presence": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 8.0,
+      "total": 2,
+      "scores": [
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty status": {
+      "EE": 3.3333333333333335,
+      "EE_raw": 3.3333333333333335,
+      "importance_sum": 10.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "108": {
+    "company": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "state": {
+      "EE": 1.25,
+      "EE_raw": 1.25,
+      "importance_sum": 5.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty": {
+      "EE": 3.6666666666666665,
+      "EE_raw": 3.6666666666666665,
+      "importance_sum": 11.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "action": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 8.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        2.0,
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason for action": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "company's claim": {
+      "EE": 3.25,
+      "EE_raw": 3.25,
+      "importance_sum": 13.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        4.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "state's defense": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "18": {
+    "occupying power": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "occupied territory": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 8.0,
+      "total": 2,
+      "scores": [
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "local population": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason for imposition": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "basis for resistance": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 9.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "125": {
+    "disputed maritime zone": {
+      "EE": 1.3333333333333333,
+      "EE_raw": 1.3333333333333333,
+      "importance_sum": 4.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "state asserting historic claim": {
+      "EE": 3.6666666666666665,
+      "EE_raw": 3.6666666666666665,
+      "importance_sum": 11.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "state asserting UNCLOS EEZ rights": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "arrested fishermen": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "arresting state": {
+      "EE": 1.3333333333333333,
+      "EE_raw": 1.3333333333333333,
+      "importance_sum": 4.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "12": {
+    "coastal state": {
+      "EE": 1.6666666666666667,
+      "EE_raw": 1.6666666666666667,
+      "importance_sum": 5.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claimed area": {
+      "EE": 1.5,
+      "EE_raw": 1.5,
+      "importance_sum": 6.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        2.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "other state": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "other state's argument": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "31": {
+    "employee status": {
+      "EE": 1.3333333333333333,
+      "EE_raw": 1.3333333333333333,
+      "importance_sum": 4.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "organization location": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "importance_sum": 0.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "legal claim": {
+      "EE": 2.25,
+      "EE_raw": 2.25,
+      "importance_sum": 9.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "court type": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 6.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        0.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "immunity claim": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "dispute type": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "30": {
+    "armed force": {
+      "EE": 1.25,
+      "EE_raw": 1.25,
+      "importance_sum": 5.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        2.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "target": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "civilians present": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "situation": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "105": {
+    "armed conflict": {
+      "EE": 2.6666666666666665,
+      "EE_raw": 2.6666666666666665,
+      "importance_sum": 8.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "target": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "location": {
+      "EE": 2.25,
+      "EE_raw": 2.25,
+      "importance_sum": 9.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "civilian presence": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "casualties": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        2.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "117": {
+    "country": {
+      "EE": 1.5,
+      "EE_raw": 1.5,
+      "importance_sum": 6.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        1.0,
+        4.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "industry": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        3.0,
+        0.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "action": {
+      "EE": 2.5,
+      "EE_raw": 2.5,
+      "importance_sum": 10.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "affected party": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        2.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "investor's country": {
+      "EE": 0.5,
+      "EE_raw": 0.5,
+      "importance_sum": 2.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "investor's claim": {
+      "EE": 2.75,
+      "EE_raw": 2.75,
+      "importance_sum": 11.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        4.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim basis": {
+      "EE": 1.3333333333333333,
+      "EE_raw": 1.3333333333333333,
+      "importance_sum": 4.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "investor's argument": {
+      "EE": 2.75,
+      "EE_raw": 2.75,
+      "importance_sum": 11.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "15": {
+    "tariff rate": {
+      "EE": 2.25,
+      "EE_raw": 2.25,
+      "importance_sum": 9.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        1.0,
+        4.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "imported goods": {
+      "EE": 1.25,
+      "EE_raw": 1.25,
+      "importance_sum": 5.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        2.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "exporting country": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "importing country": {
+      "EE": 1.25,
+      "EE_raw": 1.25,
+      "importance_sum": 5.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        2.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "basis for tariff": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "forum for complaint": {
+      "EE": 2.6666666666666665,
+      "EE_raw": 2.6666666666666665,
+      "importance_sum": 8.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "alleged violations": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "1": {
+    "country_granting_tariff": {
+      "EE": 0.5,
+      "EE_raw": 0.5,
+      "importance_sum": 1.0,
+      "total": 2,
+      "scores": [
+        0.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "country_receiving_tariff": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 9.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "tariff_rate": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 9.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "import_type": {
+      "EE": 0.5,
+      "EE_raw": 0.5,
+      "importance_sum": 2.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "agreement_type": {
+      "EE": 3.5,
+      "EE_raw": 3.5,
+      "importance_sum": 14.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        4.0,
+        3.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claiming_country": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claimed_tariff_rate": {
+      "EE": 3.3333333333333335,
+      "EE_raw": 3.3333333333333335,
+      "importance_sum": 10.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        2.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim_basis": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "refusal_reason": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "40": {
+    "role": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "location": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "importance_sum": 0.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "conduct": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "awareness": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 8.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "22": {
+    "country_closing_airspace": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "country_affected": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason_for_closure": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "international_agreement": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "complaint_venue": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "114": {
+    "diplomat's state": {
+      "EE": 2.75,
+      "EE_raw": 2.75,
+      "importance_sum": 11.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        0.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "host state": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "diplomat's role": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "conduct": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "status": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "importance_sum": 0.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "basis for arrest": {
+      "EE": 0.5,
+      "EE_raw": 0.5,
+      "importance_sum": 2.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "diplomat's claim": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "26": {
+    "country": {
+      "EE": 0.3333333333333333,
+      "EE_raw": 0.3333333333333333,
+      "importance_sum": 1.0,
+      "total": 3,
+      "scores": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "alleged crimes": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "alleged perpetrators": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "domestic investigation status": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "ICC consideration": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 8.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "143": {
+    "asylum seeker status": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 3.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "accusation": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 4.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "home country": {
+      "EE": 2.25,
+      "EE_raw": 2.25,
+      "importance_sum": 9.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        3.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "risk in home country": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "State A claim": {
+      "EE": 1.25,
+      "EE_raw": 1.25,
+      "importance_sum": 5.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "45": {
+    "investor's action": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "local remedies used": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "reason for bypassing local remedies": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 12.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "investor's argument": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "3": {
+    "country": {
+      "EE": 0.25,
+      "EE_raw": 0.25,
+      "importance_sum": 1.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "violation": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "act": {
+      "EE": 2.75,
+      "EE_raw": 2.75,
+      "importance_sum": 11.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        3.0,
+        3.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "defense": {
+      "EE": 3.75,
+      "EE_raw": 3.75,
+      "importance_sum": 15.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        3.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "51": {
+    "investor's state": {
+      "EE": 1.6666666666666667,
+      "EE_raw": 1.6666666666666667,
+      "importance_sum": 5.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "host state": {
+      "EE": 1.6666666666666667,
+      "EE_raw": 1.6666666666666667,
+      "importance_sum": 5.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        2.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "treaty state": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 8.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "arbitration provision absence": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "invoked principle": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "141": {
+    "ship flag": {
+      "EE": 0.6666666666666666,
+      "EE_raw": 0.6666666666666666,
+      "importance_sum": 2.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "ship location": {
+      "EE": 2.3333333333333335,
+      "EE_raw": 2.3333333333333335,
+      "importance_sum": 7.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        3.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "destination": {
+      "EE": 0.5,
+      "EE_raw": 0.5,
+      "importance_sum": 2.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "hostages": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "importance_sum": 0.0,
+      "total": 3,
+      "scores": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "prosecutor": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 8.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        3.0,
+        2.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "jurisdiction basis": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "protestor": {
+      "EE": 0.3333333333333333,
+      "EE_raw": 0.3333333333333333,
+      "importance_sum": 1.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "36": {
+    "investor's state": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "importance_sum": 0.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "defendant state": {
+      "EE": 0.5,
+      "EE_raw": 0.5,
+      "importance_sum": 2.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "forum": {
+      "EE": 2.0,
+      "EE_raw": 2.0,
+      "importance_sum": 6.0,
+      "total": 3,
+      "scores": [
+        1.0,
+        2.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "cause of action": {
+      "EE": 2.25,
+      "EE_raw": 2.25,
+      "importance_sum": 9.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        4.0,
+        3.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "duration of case": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "justification for delay": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "arbitration mechanism": {
+      "EE": 3.0,
+      "EE_raw": 3.0,
+      "importance_sum": 9.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "92": {
+    "state conducting strike": {
+      "EE": 1.5,
+      "EE_raw": 1.5,
+      "importance_sum": 6.0,
+      "total": 4,
+      "scores": [
+        2.0,
+        2.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "state targeted": {
+      "EE": 1.75,
+      "EE_raw": 1.75,
+      "importance_sum": 7.0,
+      "total": 4,
+      "scores": [
+        3.0,
+        2.0,
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "target": {
+      "EE": 3.3333333333333335,
+      "EE_raw": 3.3333333333333335,
+      "importance_sum": 10.0,
+      "total": 3,
+      "scores": [
+        3.0,
+        4.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "consent of targeted state": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 8.0,
+      "total": 2,
+      "scores": [
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "basis for strike": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "148": {
+    "nationality": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "imprisonment location": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 2.0,
+      "total": 2,
+      "scores": [
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "treatment": {
+      "EE": 1.5,
+      "EE_raw": 1.5,
+      "importance_sum": 6.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        2.0,
+        1.0,
+        2.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "release status": {
+      "EE": 0.3333333333333333,
+      "EE_raw": 0.3333333333333333,
+      "importance_sum": 1.0,
+      "total": 3,
+      "scores": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "return location": {
+      "EE": 1.0,
+      "EE_raw": 1.0,
+      "importance_sum": 2.0,
+      "total": 2,
+      "scores": [
+        1.0,
+        1.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "claim type": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 12.0,
+      "total": 3,
+      "scores": [
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "defense": {
+      "EE": 3.5,
+      "EE_raw": 3.5,
+      "importance_sum": 14.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        3.0,
+        3.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  },
+  "33": {
+    "fishing vessel origin": {
+      "EE": 0.25,
+      "EE_raw": 0.25,
+      "importance_sum": 1.0,
+      "total": 4,
+      "scores": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "fishing location": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 16.0,
+      "total": 4,
+      "scores": [
+        4.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "pursuit location": {
+      "EE": 4.0,
+      "EE_raw": 4.0,
+      "importance_sum": 8.0,
+      "total": 2,
+      "scores": [
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "seizing authority": {
+      "EE": 0.75,
+      "EE_raw": 0.75,
+      "importance_sum": 3.0,
+      "total": 4,
+      "scores": [
+        1.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "vessel status": {
+      "EE": 3.3333333333333335,
+      "EE_raw": 3.3333333333333335,
+      "importance_sum": 10.0,
+      "total": 3,
+      "scores": [
+        2.0,
+        4.0,
+        4.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    },
+    "protestor": {
+      "EE": 0.0,
+      "EE_raw": 0.0,
+      "importance_sum": 0.0,
+      "total": 3,
+      "scores": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "normalized": false,
+      "max_importance": null
+    }
+  }
+}

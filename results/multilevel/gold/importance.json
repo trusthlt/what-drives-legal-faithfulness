@@ -1,0 +1,736 @@
+{
+  "28": {
+    "original_importance": {
+      "country_ban": 2,
+      "reason_for_ban": 1,
+      "disease_status": 3,
+      "challenge": 0
+    }
+  },
+  "9": {
+    "original_importance": {
+      "country": 2,
+      "role": 3,
+      "accusation": 1,
+      "status": 2,
+      "protected role": 3,
+      "shielded status": 3,
+      "potential intervener": 2
+    }
+  },
+  "123": {
+    "original_importance": {
+      "drone_autonomy": 0,
+      "drone_deployer": 4,
+      "target_struck": 3,
+      "target_misidentification_reason": 2,
+      "algorithm_designer": 1
+    }
+  },
+  "34": {
+    "original_importance": {
+      "location": 2,
+      "status": 0,
+      "conduct": 3,
+      "targets": 1,
+      "treaty status": 2
+    }
+  },
+  "139": {
+    "original_importance": {
+      "regulations": 3,
+      "location": 2,
+      "investors": 2,
+      "claim": 2,
+      "comparison": 1,
+      "defense": 4
+    }
+  },
+  "146": {
+    "original_importance": {
+      "launching state": 2,
+      "registration state": 4,
+      "operating state": 0,
+      "object": 0,
+      "target": 0,
+      "damage": 0
+    }
+  },
+  "27": {
+    "original_importance": {
+      "vessel type": 3,
+      "vessel origin": 2,
+      "vessel destination": 4,
+      "prior notification": 3,
+      "cited justification": 2,
+      "detaining country": 1,
+      "detention allegation": 0
+    }
+  },
+  "8": {
+    "original_importance": {
+      "resolution": 3,
+      "Country Z's response": 2
+    }
+  },
+  "150": {
+    "original_importance": {
+      "country": 0,
+      "cause of uninhabitability": 0,
+      "government status": 0,
+      "host country": 4,
+      "population status": 0,
+      "protection status": 0,
+      "deportation reason": 0,
+      "legal claim": 3,
+      "international law": 2,
+      "State M's argument": 2,
+      "State M's suggestion": 1
+    }
+  },
+  "147": {
+    "original_importance": {
+      "territory": 3,
+      "occupying state": 3,
+      "resources extracted": 2,
+      "purpose": 2,
+      "plaintiffs": 0,
+      "allegations": 4,
+      "forum": 1
+    }
+  },
+  "127": {
+    "original_importance": {
+      "country": 4,
+      "status": 3,
+      "action": 2,
+      "reason": 0,
+      "treaty": 2
+    }
+  },
+  "145": {
+    "original_importance": {
+      "state_r": 1,
+      "state_s": 1,
+      "discovery": 1,
+      "location": 2,
+      "claims_submitted": 2,
+      "drilling_operations": 3,
+      "agreement": 4
+    }
+  },
+  "56": {
+    "original_importance": {
+      "soldier's role": 0,
+      "order": 0,
+      "context": 0,
+      "defense claim": 0
+    }
+  },
+  "55": {
+    "original_importance": {
+      "state": 2,
+      "state_type": 3,
+      "baseline_method": 2,
+      "enclosed_waters_status": 3,
+      "ship_status": 2,
+      "ship_action": 1,
+      "treaty": 4
+    }
+  },
+  "115": {
+    "original_importance": {
+      "border zone location": 3,
+      "victims": 0,
+      "conduct": 0,
+      "complaint mechanism": 2
+    }
+  },
+  "144": {
+    "original_importance": {
+      "state providing data": 2,
+      "state receiving data": 1,
+      "type of data": 1,
+      "purpose of data": 3,
+      "context of data use": 2,
+      "accusation": 4
+    }
+  },
+  "10": {
+    "original_importance": {
+      "investor": 2,
+      "dispute resolution clause": 3,
+      "tribunal": 1,
+      "tribunal's reason": 4
+    }
+  },
+  "21": {
+    "original_importance": {
+      "investor country": 2,
+      "taxing country": 2,
+      "tax type": 1,
+      "treaty provision": 4
+    }
+  },
+  "110": {
+    "original_importance": {
+      "state sending forces": 3,
+      "state receiving forces": 3,
+      "consent for intervention": 2,
+      "claimed justification": 3,
+      "threat to nationals": 2,
+      "protest by receiving state": 2
+    }
+  },
+  "134": {
+    "original_importance": {
+      "attacker": 2,
+      "attacker's base": 3,
+      "State B's response": 2,
+      "State B's justification": 1,
+      "State C's action": 4,
+      "State C's target": 2,
+      "State C's relationship with A": 3,
+      "State D's relationship with B": 1,
+      "State D's action": 0,
+      "State D's accusation": 2
+    }
+  },
+  "24": {
+    "original_importance": {
+      "organization_type": 1,
+      "action": 2,
+      "reason_for_exclusion": 3,
+      "expelled_state": 2,
+      "claim": 2,
+      "forum": 0
+    }
+  },
+  "111": {
+    "original_importance": {
+      "state": 0,
+      "status": 0,
+      "treaty": 3,
+      "timing": 1,
+      "government": 0,
+      "action": 2,
+      "reason": 0,
+      "treaty clause": 4,
+      "challenge": 0,
+      "forum": 0
+    }
+  },
+  "48": {
+    "original_importance": {
+      "commanders": 2,
+      "ethnicity": 0,
+      "plan": 3,
+      "awareness": 2,
+      "order-issuer": 1
+    }
+  },
+  "7": {
+    "original_importance": {
+      "role": 3,
+      "employer": 1,
+      "location": 2,
+      "cause of death": 0,
+      "claim": 4
+    }
+  },
+  "53": {
+    "original_importance": {
+      "organ": 2,
+      "action": 4,
+      "member state": 3,
+      "decision": 1
+    }
+  },
+  "42": {
+    "original_importance": {
+      "location": 3,
+      "target": 3,
+      "actor": 1,
+      "method": 2,
+      "result": 2
+    }
+  },
+  "6": {
+    "original_importance": {
+      "deploying country": 2,
+      "deploying country's action": 3,
+      "target country": 2,
+      "target country's consent": 4,
+      "deploying country's claim": 1,
+      "target country's involvement": 2
+    }
+  },
+  "4": {
+    "original_importance": {
+      "orders": 3,
+      "interpretation": 2,
+      "claim": 1
+    }
+  },
+  "41": {
+    "original_importance": {
+      "imported goods": 3,
+      "fees": 2,
+      "domestic goods": 3,
+      "comparison": 4,
+      "purpose": 1
+    }
+  },
+  "126": {
+    "original_importance": {
+      "pollutant source": 3,
+      "pollutant type": 2,
+      "pollutant destination": 3,
+      "harm": 3,
+      "legal status in source state": 1
+    }
+  },
+  "5": {
+    "original_importance": {
+      "location": 3,
+      "conduct": 2,
+      "protest": 1,
+      "claim": 4
+    }
+  },
+  "13": {
+    "original_importance": {
+      "investment_treaty_provision": 4,
+      "dispute_parties": 0,
+      "dispute_subject": 0,
+      "State_claim": 3
+    }
+  },
+  "46": {
+    "original_importance": {
+      "warship country": 2,
+      "territorial sea": 3,
+      "prior notice": 2,
+      "conduct": 4,
+      "protest": 1
+    }
+  },
+  "91": {
+    "original_importance": {
+      "former head of state": 3,
+      "accusation": 2,
+      "conflict type": 0,
+      "travel destination": 2,
+      "legal basis": 4,
+      "treaty": 3,
+      "domestic implementation": 1,
+      "claim": 2
+    }
+  },
+  "19": {
+    "original_importance": {
+      "warship": 3,
+      "zone": 4,
+      "distance": 1,
+      "notification": 2,
+      "demand": 0,
+      "claim": 2
+    }
+  },
+  "93": {
+    "original_importance": {
+      "attack_origin": 2,
+      "attackers": 3,
+      "denial": 1,
+      "forum": 4
+    }
+  },
+  "137": {
+    "original_importance": {
+      "location": 3,
+      "actor": 2,
+      "action": 2,
+      "basis": 1,
+      "protest": 2,
+      "reason for protest": 4
+    }
+  },
+  "17": {
+    "original_importance": {
+      "role": 3,
+      "country": 0,
+      "reports": 2,
+      "source of reports": 4,
+      "action taken": 3,
+      "investigation initiated by": 1
+    }
+  },
+  "113": {
+    "original_importance": {
+      "armed group location": 2,
+      "target of attack": 2,
+      "attack method": 0,
+      "State Y’s claim": 3,
+      "State X’s defense": 2,
+      "forum": 0
+    }
+  },
+  "138": {
+    "original_importance": {
+      "state with power grid failure": 2,
+      "cause of failure": 3,
+      "hacking group location": 2,
+      "State B's response": 2,
+      "State A's response": 3,
+      "target of counter-operation": 4,
+      "complaint filed by": 1,
+      "complaint recipient": 1,
+      "allegation": 2
+    }
+  },
+  "106": {
+    "original_importance": {
+      "territory": 2,
+      "occupying_state": 3,
+      "measures": 2,
+      "basis_for_measures": 2,
+      "legal_instrument_cited": 4,
+      "alleged_violation": 1
+    }
+  },
+  "14": {
+    "original_importance": {
+      "rebel leader's role": 0,
+      "conduct": 2,
+      "purpose": 1,
+      "location": 3,
+      "referral source": 4
+    }
+  },
+  "135": {
+    "original_importance": {
+      "states": 3,
+      "agreement": 2,
+      "agreement terms": 4,
+      "challenger": 1,
+      "challenge basis": 2
+    }
+  },
+  "142": {
+    "original_importance": {
+      "regime": 0,
+      "sanctions": 3,
+      "result": 2,
+      "court": 1,
+      "violation": 2,
+      "legal principle invoked": 4
+    }
+  },
+  "132": {
+    "original_importance": {
+      "state_actor": 3,
+      "target": 2,
+      "object_destroyed": 3,
+      "alleged_use": 2,
+      "condemnation_source": 1,
+      "condemnation_type": 0
+    }
+  },
+  "32": {
+    "original_importance": {
+      "role": 1,
+      "charge": 2,
+      "defense": 4,
+      "fear": 0
+    }
+  },
+  "23": {
+    "original_importance": {
+      "executive role": 1,
+      "support provided": 2,
+      "recipient": 2,
+      "regime activity": 3,
+      "executive's knowledge": 4,
+      "executive's involvement": 0
+    }
+  },
+  "35": {
+    "original_importance": {
+      "country": 2,
+      "product": 2,
+      "requirement": 3,
+      "purpose": 1,
+      "label design": 2,
+      "cost": 2
+    }
+  },
+  "131": {
+    "original_importance": {
+      "country of origin": 3,
+      "country of interception": 2,
+      "asylum seekers": 1,
+      "action taken": 4,
+      "casualties": 0
+    }
+  },
+  "128": {
+    "original_importance": {
+      "corporation_license_state": 3,
+      "vessel_destination": 2,
+      "waste_type": 0,
+      "waste_disposal_method": 0,
+      "environmental_impact": 0,
+      "state_responsibility_claim": 1
+    }
+  },
+  "44": {
+    "original_importance": {
+      "time_elapsed": 3,
+      "accused_claim": 2,
+      "tribunal_established_for": 0
+    }
+  },
+  "107": {
+    "original_importance": {
+      "rebel group's territory control": 2,
+      "recognition status": 3,
+      "victims of atrocities": 1,
+      "legal action": 4
+    }
+  },
+  "94": {
+    "original_importance": {
+      "installing state": 2,
+      "device location": 3,
+      "installation purpose": 2,
+      "notification status": 4,
+      "protest": 1,
+      "legal basis cited": 0,
+      "legal basis cited by H": 3
+    }
+  },
+  "77": {
+    "original_importance": {
+      "crimes": 2,
+      "jurisdiction": 4
+    }
+  },
+  "118": {
+    "original_importance": {
+      "installing state": 2,
+      "objecting state": 1,
+      "activity": 2,
+      "location": 3,
+      "objection basis": 2,
+      "claim basis": 4,
+      "counterclaim basis": 3
+    }
+  },
+  "120": {
+    "original_importance": {
+      "state": 2,
+      "action": 3,
+      "resource": 1,
+      "location": 4,
+      "claim": 2,
+      "objection": 3,
+      "assertion": 2
+    }
+  },
+  "116": {
+    "original_importance": {
+      "pipeline_origin": 2,
+      "pipeline_destination": 3,
+      "pipeline_route": 1,
+      "suspension_reason": 2,
+      "suspension_actor": 2,
+      "suspension_effect": 0,
+      "invoked_treaty": 4,
+      "accused_violation": 3
+    }
+  },
+  "149": {
+    "original_importance": {
+      "military presence": 0,
+      "autonomous government": 3,
+      "government actions": 2,
+      "cyberattacks": 4,
+      "economic impact": 1,
+      "legal claim": 1,
+      "defense": 2
+    }
+  },
+  "52": {
+    "original_importance": {
+      "state": 3,
+      "weapon": 2,
+      "context": 1,
+      "civilian presence": 4,
+      "treaty status": 0
+    }
+  },
+  "108": {
+    "original_importance": {
+      "company": 3,
+      "state": 4,
+      "treaty": 3,
+      "action": 2,
+      "reason": 3,
+      "company_claim": 2,
+      "state_defense": 3
+    }
+  },
+  "125": {
+    "original_importance": {
+      "disputed maritime zone": 3,
+      "state asserting historic claim": 2,
+      "state asserting UNCLOS EEZ rights": 2,
+      "arrested fishermen": 0,
+      "arresting state": 0
+    }
+  },
+  "12": {
+    "original_importance": {
+      "coastal state": 3,
+      "claimed area": 1,
+      "other state": 2,
+      "other state's argument": 4
+    }
+  },
+  "30": {
+    "original_importance": {
+      "armed force": 2,
+      "target": 3,
+      "civilians present": 3,
+      "situation": 0
+    }
+  },
+  "117": {
+    "original_importance": {
+      "country_phasing_out_coal": 3,
+      "targets": 2,
+      "investor_country": 1,
+      "investor_status": 2,
+      "action_taken": 3,
+      "claim_filed": 1,
+      "treaty": 3,
+      "claim_basis": 2
+    }
+  },
+  "15": {
+    "original_importance": {
+      "tariff rate": 2,
+      "imported goods": 2,
+      "exporting country": 1,
+      "importing country": 1,
+      "alleged violation": 3,
+      "forum": 0
+    }
+  },
+  "40": {
+    "original_importance": {
+      "role": 3,
+      "location": 0,
+      "conduct": 2,
+      "awareness": 4,
+      "claim": 1
+    }
+  },
+  "22": {
+    "original_importance": {
+      "country_closing_airspace": 2,
+      "country_affected": 1,
+      "reason_for_closure": 3,
+      "international_agreement": 2,
+      "complaint_venue": 2
+    }
+  },
+  "114": {
+    "original_importance": {
+      "diplomat's state": 2,
+      "host state": 2,
+      "diplomat's role": 2,
+      "conduct": 3,
+      "status": 1,
+      "basis for arrest": 0,
+      "legal basis for immunity claim": 4
+    }
+  },
+  "26": {
+    "original_importance": {
+      "country": 0,
+      "alleged crimes": 0,
+      "alleged perpetrators": 0,
+      "domestic investigation status": 4,
+      "ICC consideration": 1
+    }
+  },
+  "143": {
+    "original_importance": {
+      "asylum seeker status": 1,
+      "accusation": 2,
+      "home country": 1,
+      "risk in home country": 4,
+      "State A claim": 3
+    }
+  },
+  "45": {
+    "original_importance": {
+      "investor's action": 2,
+      "local remedies used": 3,
+      "reason for bypassing local remedies": 1,
+      "investor's argument": 4
+    }
+  },
+  "3": {
+    "original_importance": {
+      "violation": 2,
+      "act": 3,
+      "defense": 4,
+      "context": 1
+    }
+  },
+  "141": {
+    "original_importance": {
+      "ship flag": 0,
+      "ship location": 1,
+      "destination": 2,
+      "hostages": 0,
+      "prosecutor": 3,
+      "jurisdiction basis": 4,
+      "protestor": 2
+    }
+  },
+  "36": {
+    "original_importance": {
+      "investor's state": 1,
+      "defendant state": 3,
+      "forum": 3,
+      "cause of action": 1,
+      "duration of case": 3,
+      "justification for delay": 3,
+      "arbitration mechanism": 2
+    }
+  },
+  "92": {
+    "original_importance": {
+      "state conducting strike": 2,
+      "state where strike occurred": 2,
+      "target of strike": 2,
+      "accusation against target": 1,
+      "consent from State B": 2,
+      "legal basis cited by State A": 3,
+      "test cited by State A": 3
+    }
+  },
+  "33": {
+    "original_importance": {
+      "fishing vessel origin": 0,
+      "fishing location": 3,
+      "pursuit location": 2,
+      "seizing authority": 1,
+      "vessel status": 4,
+      "protestor": 0
+    }
+  }
+}

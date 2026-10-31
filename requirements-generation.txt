@@ -1,0 +1,14 @@
+-r requirements.txt
+# Install a torch/vLLM combination appropriate for the available CUDA runtime.
+torch
+transformers
+accelerate
+peft
+safetensors
+sentencepiece
+protobuf
+vllm
+huggingface-hub
+mistral-common
+tqdm
+openai

@@ -1,0 +1,69 @@
+{
+  "input_file": "/home/yassine/BackUpUni/7th-sem/Thesis/Phase_open/src/g_faithfulness_calc_gold/gold_faithfulness_31_march.json",
+  "predictor": "CE_z",
+  "dataset_summary": {
+    "n_rows": 767,
+    "n_questions": 190,
+    "n_positive_EE": 429,
+    "n_negative_EE": 338,
+    "n_singleton_questions": 33,
+    "n_all_zero_questions": 12,
+    "n_all_one_questions": 65,
+    "n_informative_questions": 113
+  },
+  "models": {
+    "mixed_logit_vb": {
+      "model_type": "mixed_logit_vb",
+      "fixed_effects": {
+        "Intercept": {
+          "coef": 0.40806433700984024,
+          "posterior_sd": 0.07847618855853856,
+          "odds_ratio": 1.5039039147386222
+        },
+        "CE_z": {
+          "coef": 0.13912061216149849,
+          "posterior_sd": 0.08865900343951291,
+          "odds_ratio": 1.1492627067037953,
+          "z_like": 1.569165079285069
+        }
+      },
+      "interpretation": "A one-standard-deviation increase in CE_z is associated with an odds multiplier of 1.1493 for EE=1."
+    },
+    "clustered_logit": {
+      "model_type": "clustered_logit",
+      "fixed_effects": {
+        "const": {
+          "coef": 0.24007067690544973,
+          "std_err": 0.09745881158250451,
+          "odds_ratio": 1.2713390014525676,
+          "p_value": 0.013766315306743842
+        },
+        "CE_z": {
+          "coef": 0.12161607949779096,
+          "std_err": 0.10533547443961573,
+          "odds_ratio": 1.1293204492675621,
+          "p_value": 0.24827083329126243
+        }
+      },
+      "interpretation": "A one-standard-deviation increase in CE_z is associated with an odds multiplier of 1.1293 for EE=1."
+    },
+    "gee_logit": {
+      "model_type": "gee_logit",
+      "fixed_effects": {
+        "const": {
+          "coef": 0.35726968425645317,
+          "std_err": 0.09213767589934375,
+          "odds_ratio": 1.4294213103011575,
+          "p_value": 0.00010550781734510463
+        },
+        "CE_z": {
+          "coef": 0.11654442481484993,
+          "std_err": 0.12337387640379313,
+          "odds_ratio": 1.1236074254103026,
+          "p_value": 0.34484052022964984
+        }
+      },
+      "interpretation": "A one-standard-deviation increase in CE_z is associated with an odds multiplier of 1.1236 for EE=1."
+    }
+  }
+}

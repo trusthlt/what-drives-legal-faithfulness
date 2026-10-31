@@ -1,0 +1,683 @@
+\begin{table*}[t]
+\centering
+\footnotesize
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{@{}>{\raggedright\arraybackslash}p{2.6cm}>{\raggedright\arraybackslash}p{2.2cm}rrrrrr@{}}
+\toprule
+Question & Concept & $\mathrm{CE}_{\mathrm{norm}}$ & $\mathrm{EE}_{\mathrm{norm}}$ & gap & $\mathcal{F_{\mathrm{c}}}$ & $\mathcal{F}$ & $\mathcal{F_{\mathrm{M}}}$ \\
+\midrule
+1 & agreement type & 0.027 & 0.850 & $0.823$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.823 & -- & -- \\
+ & claim basis & 0.007 & 1.000 & $0.993$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.993 &  &  \\
+ & claimed tariff rate & 0.015 & 0.875 & $0.860$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.860 &  &  \\
+ & claiming country & 0.009 & 0.450 & $0.441$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.441 &  &  \\
+ & country granting tariff & 0.021 & 0.333 & $0.313$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.313 &  &  \\
+ & country receiving tariff & 0.016 & 0.688 & $0.672$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.672 &  &  \\
+ & import type & 0.011 & 0.150 & $0.139$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.139 &  &  \\
+ & refusal reason & 0.023 & 1.000 & $0.977$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.977 &  &  \\
+ & tariff rate & 0.015 & 0.812 & $0.798$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.798 &  &  \\
+\midrule
+10 & dispute resolution clause & 0.231 & 1.000 & $0.769$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.769 & -- & -- \\
+ & investor & 0.163 & 0.188 & $0.025$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.025 &  &  \\
+ & tribunal & 0.307 & 0.875 & $0.568$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.568 &  &  \\
+ & tribunal's reason & 0.202 & 1.000 & $0.798$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.798 &  &  \\
+\midrule
+105 & armed conflict & 0.023 & 0.625 & $0.602$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.602 & -- & -- \\
+ & casualties & 0.030 & 1.000 & $0.970$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.970 &  &  \\
+ & civilian presence & 0.005 & 0.900 & $0.895$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.895 &  &  \\
+ & claim & 0.172 & 0.750 & $0.578$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.578 &  &  \\
+ & location & 0.072 & 0.650 & $0.578$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.578 &  &  \\
+ & target & 0.083 & 0.750 & $0.667$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.667 &  &  \\
+\midrule
+106 & alleged violation & 0.001 & 0.688 & $0.687$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.687 & -- & -- \\
+ & justification & 0.001 & 1.000 & $0.999$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.999 &  &  \\
+ & measures imposed & 0.000 & 0.800 & $0.800$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.800 &  &  \\
+ & occupying state & 0.000 & 0.688 & $0.687$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.687 &  &  \\
+ & territory occupied & 0.000 & 0.850 & $0.850$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.850 &  &  \\
+\midrule
+107 & conduct & 0.359 & 0.300 & $-0.059$\,\makebox[\widthof{$\uparrow$}][l]{} & -0.059 & -- & -- \\
+ & legal action & 0.164 & 0.450 & $0.286$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.286 &  &  \\
+ & rebel group & 0.037 & 0.250 & $0.213$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.213 &  &  \\
+ & recognition status & 0.374 & 1.000 & $0.626$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.626 &  &  \\
+\midrule
+108 & action & 0.000 & 0.550 & $0.550$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.550 & -- & -- \\
+ & company & 0.000 & 0.250 & $0.250$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.250 &  &  \\
+ & company's claim & 0.001 & 0.850 & $0.849$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.849 &  &  \\
+ & reason for action & 0.001 & 1.000 & $0.999$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.999 &  &  \\
+ & state & 0.000 & 0.300 & $0.300$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.300 &  &  \\
+ & state's defense & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 &  &  \\
+ & treaty & 0.000 & 0.938 & $0.937$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.937 &  &  \\
+\midrule
+109 & aircraft operator & 0.008 & 0.700 & $0.692$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.692 & -- & -- \\
+ & aircraft origin & 0.003 & 0.312 & $0.310$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.310 &  &  \\
+ & conflict in state & 0.038 & 0.650 & $0.612$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.612 &  &  \\
+ & crisis in state & 0.009 & 0.700 & $0.691$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.691 &  &  \\
+ & purpose of flight & 0.004 & 1.000 & $0.996$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.996 &  &  \\
+ & state in crisis & 0.002 & 0.750 & $0.748$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.748 &  &  \\
+ & state r claim & 0.009 & 0.950 & $0.941$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.941 &  &  \\
+ & state refusing overflight & 0.019 & 0.650 & $0.631$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.631 &  &  \\
+ & state t claim & 0.022 & 0.750 & $0.728$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.728 &  &  \\
+ & type of aircraft & 0.020 & 0.650 & $0.630$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.630 &  &  \\
+\midrule
+11 & PMC CEO claim & 0.017 & 0.700 & $0.683$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.683 & -- & -- \\
+ & PMC conduct & 0.006 & 0.750 & $0.744$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.744 &  &  \\
+ & casualties & 0.003 & 0.450 & $0.447$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.447 &  &  \\
+ & complaint filed & 0.013 & 0.750 & $0.737$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.737 &  &  \\
+ & country hiring PMC & 0.766 & 0.625 & $-0.141$\,\makebox[\widthof{$\uparrow$}][l]{} & -0.141 &  &  \\
+ & country of PMC & 0.005 & 0.188 & $0.183$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.183 &  &  \\
+ & target & 0.003 & 0.650 & $0.647$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.647 &  &  \\
+\midrule
+110 & claimed justification & 0.401 & 0.950 & $0.549$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.549 & -- & -- \\
+ & consent for intervention & 0.212 & 0.938 & $0.726$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.726 &  &  \\
+ & protest by receiving state & 0.187 & 0.500 & $0.313$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.313 &  &  \\
+ & state receiving forces & 0.084 & 0.200 & $0.116$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.116 &  &  \\
+ & state sending forces & 0.073 & 0.062 & $-0.010$\,\makebox[\widthof{$\uparrow$}][l]{} & -0.010 &  &  \\
+ & threat to nationals & 0.110 & 0.450 & $0.340$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.340 &  &  \\
+\midrule
+111 & action & 0.002 & 1.000 & $0.998$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.998 & -- & 0.127 \\
+ & challenge & 0.000 & 0.312 & $0.312$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.312 &  &  \\
+ & forum & 0.000 & 0.375 & $0.375$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.375 &  &  \\
+ & government & 0.000 & 0.200 & $0.200$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.200 &  &  \\
+ & reason & 0.000 & 0.200 & $0.200$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.200 &  &  \\
+ & state & 0.000 & 0.250 & $0.250$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.250 &  &  \\
+ & status & 0.000 & 0.125 & $0.125$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.125 &  &  \\
+ & timing & 0.000 & 0.188 & $0.187$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.187 &  &  \\
+ & treaty & 0.003 & 0.812 & $0.810$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.810 &  &  \\
+ & treaty clause & 0.374 & 1.000 & $0.626$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.626 &  &  \\
+\midrule
+112 & casualties & 0.001 & 0.875 & $0.874$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.874 & -- & 0.273 \\
+ & cause & 0.008 & 0.812 & $0.805$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.805 &  &  \\
+ & consideration & 0.001 & 0.950 & $0.949$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.949 &  &  \\
+ & event & 0.001 & 0.800 & $0.799$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.799 &  &  \\
+ & impact & 0.002 & 0.950 & $0.948$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.948 &  &  \\
+ & location & 0.001 & 0.062 & $0.062$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.062 &  &  \\
+ & source & 0.002 & 0.850 & $0.848$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.848 &  &  \\
+\midrule
+113 & State X response & 0.000 & 0.700 & $0.700$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.700 & -- & 0.575 \\
+ & State Y claim & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 &  &  \\
+ & armed group location & 0.000 & 0.438 & $0.437$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.437 &  &  \\
+ & attack method & 0.000 & 0.050 & $0.050$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.050 &  &  \\
+ & forum & 0.000 & 0.250 & $0.250$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.250 &  &  \\
+ & target & 0.000 & 0.100 & $0.100$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.100 &  &  \\
+\midrule
+114 & basis for arrest & 0.053 & 0.150 & $0.097$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.097 & -- & -- \\
+ & conduct & 0.271 & 0.400 & $0.129$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.129 &  &  \\
+ & diplomat's claim & 0.335 & 0.950 & $0.615$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.615 &  &  \\
+ & diplomat's role & 0.198 & 1.000 & $0.802$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.802 &  &  \\
+ & diplomat's state & 0.187 & 0.600 & $0.413$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.413 &  &  \\
+ & host state & 0.033 & 0.900 & $0.867$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.867 &  &  \\
+ & status & 0.085 & 0.100 & $0.015$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.015 &  &  \\
+\midrule
+115 & border zone location & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 & -- & -- \\
+ & complaint mechanism & 0.000 & 0.625 & $0.625$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.625 &  &  \\
+ & conduct & 0.000 & 0.625 & $0.625$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.625 &  &  \\
+ & victims & 0.000 & 0.062 & $0.062$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.062 &  &  \\
+\midrule
+116 & accused violation & 0.293 & 1.000 & $0.707$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.707 & -- & -- \\
+ & invoked treaty & 0.306 & 1.000 & $0.694$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.694 &  &  \\
+ & pipeline destination & 0.016 & 0.312 & $0.297$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.297 &  &  \\
+ & pipeline origin & 0.022 & 0.250 & $0.228$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.228 &  &  \\
+ & pipeline route & 0.021 & 0.850 & $0.829$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.829 &  &  \\
+ & suspension actor & 0.058 & 0.917 & $0.859$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.859 &  &  \\
+ & suspension effect & 0.011 & 0.350 & $0.339$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.339 &  &  \\
+ & suspension reason & 0.316 & 1.000 & $0.684$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.684 &  &  \\
+\midrule
+117 & action & 0.026 & 0.650 & $0.624$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.624 & -- & -- \\
+ & affected party & 0.019 & 0.312 & $0.293$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.293 &  &  \\
+ & claim basis & 0.010 & 0.438 & $0.427$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.427 &  &  \\
+ & country & 0.005 & 0.400 & $0.395$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.395 &  &  \\
+ & industry & 0.008 & 0.450 & $0.442$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.442 &  &  \\
+ & investor's argument & 0.048 & 0.750 & $0.702$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.702 &  &  \\
+ & investor's claim & 0.025 & 0.650 & $0.625$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.625 &  &  \\
+ & investor's country & 0.002 & 0.150 & $0.148$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.148 &  &  \\
+ & reason & 0.008 & 1.000 & $0.992$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.992 &  &  \\
+\midrule
+118 & activity & 0.001 & 0.600 & $0.599$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.599 & -- & -- \\
+ & claimed right by F & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 &  &  \\
+ & claimed right by G & 0.000 & 0.938 & $0.937$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.937 &  &  \\
+ & installing state & 0.043 & 0.550 & $0.507$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.507 &  &  \\
+ & location & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 &  &  \\
+ & objecting state & 0.000 & 0.250 & $0.250$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.250 &  &  \\
+ & objection basis & 0.000 & 0.900 & $0.900$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.900 &  &  \\
+\midrule
+119 & challenge basis & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 & -- & -- \\
+ & sanctions justification & 0.001 & 0.950 & $0.949$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.949 &  &  \\
+ & state imposing sanctions & 0.000 & 0.550 & $0.550$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.550 &  &  \\
+ & targeted companies nationality & 0.000 & 0.850 & $0.850$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.850 &  &  \\
+ & targeted project location & 0.000 & 0.100 & $0.100$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.100 &  &  \\
+ & targeted project type & 0.000 & 0.500 & $0.500$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.500 &  &  \\
+\midrule
+12 & claimed area & 0.587 & 0.350 & $-0.237$\,\makebox[\widthof{$\uparrow$}][l]{} & -0.237 & -- & -- \\
+ & coastal state & 0.112 & 0.500 & $0.388$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.388 &  &  \\
+ & other state & 0.012 & 0.450 & $0.438$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.438 &  &  \\
+ & other state's argument & 0.138 & 1.000 & $0.862$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.862 &  &  \\
+\midrule
+120 & action & 0.001 & 1.000 & $0.999$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.999 & -- & -- \\
+ & assertion & 0.003 & 1.000 & $0.997$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.997 &  &  \\
+ & claim & 0.001 & 0.850 & $0.849$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.849 &  &  \\
+ & location & 0.002 & 1.000 & $0.998$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.998 &  &  \\
+ & objection & 0.000 & 0.750 & $0.750$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.750 &  &  \\
+ & resource & 0.001 & 0.550 & $0.549$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.549 &  &  \\
+ & state & 0.000 & 0.312 & $0.312$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.312 &  &  \\
+\midrule
+121 & challenge forum & 0.129 & 0.500 & $0.371$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.371 & -- & -- \\
+ & exported materials & 0.020 & 0.400 & $0.380$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.380 &  &  \\
+ & exporting state & 0.035 & 0.200 & $0.165$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.165 &  &  \\
+ & importing state & 0.008 & 0.200 & $0.192$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.192 &  &  \\
+ & legal basis & 0.472 & 1.000 & $0.528$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.528 &  &  \\
+\midrule
+122 & State A's claim & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 & -- & -- \\
+ & company location & 0.000 & 0.900 & $0.900$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.900 &  &  \\
+ & company type & 0.000 & 0.625 & $0.625$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.625 &  &  \\
+ & damage location & 0.000 & 0.850 & $0.850$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.850 &  &  \\
+ & satellite destination & 0.000 & 0.125 & $0.125$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.125 &  &  \\
+ & satellite event & 0.000 & 0.750 & $0.750$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.750 &  &  \\
+\midrule
+123 & algorithm designer & 0.421 & 0.700 & $0.279$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.279 & -- & -- \\
+ & drone autonomy & 0.045 & 0.500 & $0.455$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.455 &  &  \\
+ & drone deployer & 0.333 & 0.938 & $0.604$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.604 &  &  \\
+ & target misidentification reason & 0.078 & 0.800 & $0.722$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.722 &  &  \\
+ & target struck & 0.046 & 0.750 & $0.704$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.704 &  &  \\
+\midrule
+124 & action taken by location of recipient & 0.005 & 0.750 & $0.745$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.745 & -- & -- \\
+ & argument of state providing support & 0.099 & 0.950 & $0.851$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.851 &  &  \\
+ & basis for action & 0.008 & 0.875 & $0.867$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.867 &  &  \\
+ & conduct of recipient & 0.004 & 0.600 & $0.596$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.596 &  &  \\
+ & location of recipient & 0.003 & 0.500 & $0.497$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.497 &  &  \\
+ & purpose of support & 0.004 & 0.650 & $0.646$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.646 &  &  \\
+ & recipient of support & 0.068 & 0.812 & $0.745$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.745 &  &  \\
+ & state providing support & 0.040 & 0.650 & $0.610$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.610 &  &  \\
+ & type of support & 0.003 & 0.900 & $0.897$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.897 &  &  \\
+\midrule
+125 & arrested fishermen & 0.001 & 0.250 & $0.249$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.249 & -- & -- \\
+ & arresting state & 0.003 & 0.375 & $0.372$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.372 &  &  \\
+ & disputed maritime zone & 0.002 & 0.375 & $0.373$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.373 &  &  \\
+ & state asserting UNCLOS EEZ rights & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 &  &  \\
+ & state asserting historic claim & 0.000 & 0.875 & $0.875$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.875 &  &  \\
+\midrule
+126 & State A's claim & 0.000 & 0.950 & $0.950$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.950 & -- & -- \\
+ & damage & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 &  &  \\
+ & pollutant destination & 0.000 & 0.950 & $0.950$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.950 &  &  \\
+ & pollutant effect & 0.000 & 0.750 & $0.750$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.750 &  &  \\
+ & pollutant source & 0.000 & 0.300 & $0.300$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.300 &  &  \\
+ & pollutant type & 0.000 & 0.400 & $0.400$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.400 &  &  \\
+\midrule
+127 & action & 0.001 & 0.950 & $0.949$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.949 & -- & 0.371 \\
+ & country & 0.000 & 0.050 & $0.050$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.050 &  &  \\
+ & reason & 0.156 & 0.950 & $0.794$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.794 &  &  \\
+ & status & 0.261 & 0.875 & $0.614$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.614 &  &  \\
+ & treaty & 0.002 & 0.938 & $0.936$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.936 &  &  \\
+\midrule
+128 & corporation license state & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 & -- & -- \\
+ & environmental impact & 0.002 & 1.000 & $0.998$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.998 &  &  \\
+ & state responsibility claim & 0.003 & 0.800 & $0.797$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.797 &  &  \\
+ & vessel destination & 0.003 & 0.650 & $0.647$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.647 &  &  \\
+ & waste disposal method & 0.002 & 0.500 & $0.498$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.498 &  &  \\
+ & waste type & 0.001 & 0.250 & $0.249$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.249 &  &  \\
+\midrule
+13 & State position & 0.000 & 0.900 & $0.900$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.900 & -- & -- \\
+ & arbitration mechanism & 0.405 & 1.000 & $0.595$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.595 &  &  \\
+ & dispute parties & 0.000 & 0.312 & $0.312$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.312 &  &  \\
+ & dispute subject & 0.000 & 0.150 & $0.150$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.150 &  &  \\
+\midrule
+131 & action taken & 0.037 & 1.000 & $0.963$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.963 & -- & -- \\
+ & asylum seekers & 0.001 & 0.450 & $0.449$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.449 &  &  \\
+ & casualties & 0.000 & 0.312 & $0.312$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.312 &  &  \\
+ & country of interception & 0.001 & 0.700 & $0.699$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.699 &  &  \\
+ & country of origin & 0.000 & 0.450 & $0.450$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.450 &  &  \\
+\midrule
+132 & alleged use & 0.220 & 0.800 & $0.580$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.580 & -- & -- \\
+ & condemnation source & 0.217 & 0.250 & $0.033$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.033 &  &  \\
+ & condemnation type & 0.101 & 0.750 & $0.649$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.649 &  &  \\
+ & object destroyed & 0.108 & 1.000 & $0.892$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.892 &  &  \\
+ & state actor & 0.046 & 0.200 & $0.154$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.154 &  &  \\
+ & target & 0.157 & 0.250 & $0.093$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.093 &  &  \\
+\midrule
+133 & accused party & 0.047 & 0.312 & $0.265$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.265 & -- & -- \\
+ & action & 0.060 & 1.000 & $0.940$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.940 &  &  \\
+ & attribution basis & 0.093 & 0.800 & $0.707$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.707 &  &  \\
+ & evidence type & 0.018 & 0.812 & $0.794$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.794 &  &  \\
+ & location & 0.077 & 0.312 & $0.236$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.236 &  &  \\
+ & method & 0.073 & 0.625 & $0.552$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.552 &  &  \\
+ & tension level & 0.004 & 0.250 & $0.246$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.246 &  &  \\
+\midrule
+134 & State B's justification & 0.011 & 0.200 & $0.189$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.189 & -- & -- \\
+ & State B's response & 0.061 & 0.350 & $0.289$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.289 &  &  \\
+ & State C's action & 0.037 & 0.950 & $0.913$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.913 &  &  \\
+ & State C's relationship to A & 0.748 & 0.938 & $0.189$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.189 &  &  \\
+ & State C's target & 0.028 & 0.550 & $0.522$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.522 &  &  \\
+ & State D's accusation & 0.028 & 0.300 & $0.272$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.272 &  &  \\
+ & State D's action & 0.012 & 0.150 & $0.138$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.138 &  &  \\
+ & State D's relationship to B & 0.006 & 0.062 & $0.056$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.056 &  &  \\
+ & attacked state & 0.041 & 1.000 & $0.959$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.959 &  &  \\
+ & attacker & 0.023 & 0.900 & $0.877$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.877 &  &  \\
+ & terrorist group's base & 0.031 & 0.500 & $0.469$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.469 &  &  \\
+\midrule
+135 & agreement & 0.000 & 0.750 & $0.750$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.750 & -- & -- \\
+ & agreement terms & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 &  &  \\
+ & challenge basis & 0.039 & 0.800 & $0.761$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.761 &  &  \\
+ & challenger & 0.000 & 0.250 & $0.250$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.250 &  &  \\
+ & states & 0.000 & 0.062 & $0.062$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.062 &  &  \\
+\midrule
+136 & diplomatic pressure & 0.073 & 0.250 & $0.177$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.177 & -- & -- \\
+ & indictment & 0.042 & 1.000 & $0.958$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.958 &  &  \\
+ & president's status & 0.192 & 0.900 & $0.708$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.708 &  &  \\
+ & state S's status & 0.734 & 1.000 & $0.266$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.266 &  &  \\
+ & visit request & 0.296 & 0.450 & $0.154$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.154 &  &  \\
+\midrule
+137 & claim & 0.001 & 0.650 & $0.649$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.649 & -- & -- \\
+ & construction & 0.003 & 0.850 & $0.847$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.847 &  &  \\
+ & contested EEZ & 0.448 & 0.812 & $0.364$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.364 &  &  \\
+ & protest & 0.004 & 0.500 & $0.496$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.496 &  &  \\
+\midrule
+138 & State A's response & 0.047 & 1.000 & $0.953$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.953 & -- & -- \\
+ & State B's response to allegations & 0.197 & 0.850 & $0.653$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.653 &  &  \\
+ & allegation & 0.041 & 0.688 & $0.647$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.647 &  &  \\
+ & cause of failure & 0.190 & 0.950 & $0.760$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.760 &  &  \\
+ & complaint filed by & 0.004 & 0.200 & $0.196$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.196 &  &  \\
+ & complaint recipient & 0.016 & 0.200 & $0.184$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.184 &  &  \\
+ & location of hacking group & 0.170 & 0.875 & $0.705$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.705 &  &  \\
+ & source of malware & 0.021 & 0.812 & $0.792$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.792 &  &  \\
+ & state with power grid failure & 0.308 & 0.167 & $-0.141$\,\makebox[\widthof{$\uparrow$}][l]{} & -0.141 &  &  \\
+ & target of counter-operation & 0.056 & 0.750 & $0.694$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.694 &  &  \\
+\midrule
+139 & claim & 0.001 & 0.600 & $0.599$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.599 & -- & -- \\
+ & comparison & 0.000 & 0.875 & $0.875$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.875 &  &  \\
+ & defense & 0.001 & 1.000 & $0.999$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.999 &  &  \\
+ & investors & 0.000 & 0.875 & $0.875$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.875 &  &  \\
+ & location & 0.000 & 0.250 & $0.250$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.250 &  &  \\
+ & regulations & 0.000 & 0.950 & $0.950$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.950 &  &  \\
+\midrule
+14 & conduct & 0.001 & 0.250 & $0.249$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.249 & -- & 0.242 \\
+ & location & 0.001 & 0.562 & $0.562$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.562 &  &  \\
+ & purpose & 0.001 & 0.050 & $0.049$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.049 &  &  \\
+ & rebel leader's role & 0.000 & 0.250 & $0.250$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.250 &  &  \\
+ & referral source & 0.638 & 0.833 & $0.196$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.196 &  &  \\
+\midrule
+140 & alleged purpose & 0.141 & 0.750 & $0.609$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.609 & -- & -- \\
+ & casualties & 0.368 & 0.688 & $0.319$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.319 &  &  \\
+ & conduct & 0.130 & 0.450 & $0.320$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.320 &  &  \\
+ & conflict type & 0.097 & 0.583 & $0.487$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.487 &  &  \\
+ & damage & 0.135 & 0.688 & $0.552$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.552 &  &  \\
+ & location & 0.227 & 0.350 & $0.123$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.123 &  &  \\
+ & perpetrator & 0.153 & 0.250 & $0.097$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.097 &  &  \\
+ & target & 0.419 & 0.750 & $0.331$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.331 &  &  \\
+\midrule
+141 & destination & 0.000 & 0.200 & $0.200$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.200 & -- & -- \\
+ & hostages & 0.000 & 0.062 & $0.062$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.062 &  &  \\
+ & jurisdiction basis & 0.011 & 1.000 & $0.989$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.989 &  &  \\
+ & prosecutor & 0.000 & 0.500 & $0.500$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.500 &  &  \\
+ & protestor & 0.001 & 0.125 & $0.124$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.124 &  &  \\
+ & ship flag & 0.001 & 0.188 & $0.187$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.187 &  &  \\
+ & ship location & 0.005 & 0.688 & $0.683$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.683 &  &  \\
+\midrule
+142 & court & 0.001 & 0.562 & $0.562$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.562 & -- & -- \\
+ & legal principle invoked & 0.002 & 1.000 & $0.998$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.998 &  &  \\
+ & regime & 0.001 & 0.200 & $0.199$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.199 &  &  \\
+ & result & 0.001 & 0.450 & $0.449$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.449 &  &  \\
+ & sanctions & 0.001 & 0.950 & $0.949$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.949 &  &  \\
+ & violation & 0.001 & 0.850 & $0.849$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.849 &  &  \\
+\midrule
+143 & State A claim & 0.014 & 0.400 & $0.386$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.386 & -- & -- \\
+ & accusation & 0.007 & 0.250 & $0.243$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.243 &  &  \\
+ & asylum seeker status & 0.021 & 0.250 & $0.229$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.229 &  &  \\
+ & home country & 0.005 & 0.500 & $0.495$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.495 &  &  \\
+ & risk in home country & 0.035 & 1.000 & $0.965$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.965 &  &  \\
+\midrule
+144 & accusation & 0.005 & 0.600 & $0.595$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.595 & -- & -- \\
+ & context of use & 0.001 & 0.800 & $0.799$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.799 &  &  \\
+ & purpose of data & 0.002 & 1.000 & $0.998$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.998 &  &  \\
+ & state providing data & 0.002 & 0.850 & $0.848$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.848 &  &  \\
+ & state receiving data & 0.001 & 0.700 & $0.699$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.699 &  &  \\
+ & type of data & 0.002 & 0.400 & $0.398$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.398 &  &  \\
+\midrule
+145 & action & 0.063 & 1.000 & $0.937$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.937 & -- & -- \\
+ & agreement & 0.042 & 1.000 & $0.958$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.958 &  &  \\
+ & claims submitted to & 0.044 & 0.312 & $0.269$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.269 &  &  \\
+ & discovery & 0.008 & 0.150 & $0.142$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.142 &  &  \\
+ & location & 0.019 & 1.000 & $0.981$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.981 &  &  \\
+ & state r & 0.041 & 0.312 & $0.271$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.271 &  &  \\
+ & state s & 0.054 & 0.350 & $0.296$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.296 &  &  \\
+\midrule
+146 & damage type & 0.001 & 0.350 & $0.349$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.349 & -- & -- \\
+ & launch state & 0.001 & 0.700 & $0.699$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.699 &  &  \\
+ & object type & 0.001 & 0.375 & $0.374$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.374 &  &  \\
+ & operator state & 0.008 & 0.125 & $0.117$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.117 &  &  \\
+ & registration state & 0.292 & 1.000 & $0.708$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.708 &  &  \\
+ & target type & 0.001 & 0.312 & $0.312$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.312 &  &  \\
+\midrule
+147 & allegations & 0.000 & 0.950 & $0.950$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.950 & -- & -- \\
+ & forum & 0.000 & 0.250 & $0.250$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.250 &  &  \\
+ & occupying state & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 &  &  \\
+ & plaintiffs & 0.000 & 0.375 & $0.375$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.375 &  &  \\
+ & purpose & 0.000 & 0.800 & $0.800$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.800 &  &  \\
+ & resources extracted & 0.000 & 0.900 & $0.900$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.900 &  &  \\
+ & territory & 0.000 & 0.500 & $0.500$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.500 &  &  \\
+\midrule
+148 & claim type & 0.046 & 1.000 & $0.954$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.954 & -- & -- \\
+ & defense & 0.025 & 0.850 & $0.825$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.825 &  &  \\
+ & imprisonment location & 0.055 & 0.333 & $0.278$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.278 &  &  \\
+ & nationality & 0.009 & 1.000 & $0.991$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.991 &  &  \\
+ & release status & 0.002 & 0.125 & $0.123$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.123 &  &  \\
+ & return location & 0.220 & 0.333 & $0.114$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.114 &  &  \\
+ & treatment & 0.002 & 0.400 & $0.398$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.398 &  &  \\
+\midrule
+149 & autonomous government & 0.030 & 0.950 & $0.920$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.920 & -- & -- \\
+ & claim & 0.008 & 0.150 & $0.142$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.142 &  &  \\
+ & cyberattacks & 0.002 & 0.850 & $0.848$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.848 &  &  \\
+ & defense & 0.019 & 0.700 & $0.681$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.681 &  &  \\
+ & economic impact & 0.002 & 0.200 & $0.198$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.198 &  &  \\
+ & government actions & 0.017 & 0.600 & $0.583$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.583 &  &  \\
+ & military presence & 0.043 & 0.750 & $0.707$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.707 &  &  \\
+\midrule
+15 & alleged violations & 0.003 & 1.000 & $0.997$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.997 & -- & -- \\
+ & basis for tariff & 0.017 & 1.000 & $0.983$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.983 &  &  \\
+ & exporting country & 0.001 & 0.250 & $0.249$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.249 &  &  \\
+ & forum for complaint & 0.033 & 0.625 & $0.592$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.592 &  &  \\
+ & imported goods & 0.002 & 0.300 & $0.298$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.298 &  &  \\
+ & importing country & 0.002 & 0.300 & $0.298$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.298 &  &  \\
+ & tariff rate & 0.006 & 0.600 & $0.594$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.594 &  &  \\
+\midrule
+150 & action by host country & 0.004 & 0.938 & $0.934$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.934 & -- & 0.162 \\
+ & cause of uninhabitability & 0.000 & 0.438 & $0.437$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.437 &  &  \\
+ & country & 0.000 & 0.300 & $0.300$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.300 &  &  \\
+ & government status & 0.000 & 0.125 & $0.125$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.125 &  &  \\
+ & host country & 0.000 & 0.400 & $0.400$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.400 &  &  \\
+ & host country's argument & 0.001 & 0.600 & $0.599$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.599 &  &  \\
+ & host country's suggestion & 0.000 & 0.350 & $0.350$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.350 &  &  \\
+ & legal basis & 0.003 & 1.000 & $0.997$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.997 &  &  \\
+ & legal claim & 0.001 & 0.812 & $0.812$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.812 &  &  \\
+ & population status & 0.000 & 0.375 & $0.375$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.375 &  &  \\
+ & protection status & 0.000 & 0.500 & $0.500$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.500 &  &  \\
+ & reason for deportation & 0.000 & 0.188 & $0.187$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.187 &  &  \\
+\midrule
+16 & argument & 0.000 & 0.750 & $0.750$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.750 & -- & -- \\
+ & compliance & 0.000 & 0.500 & $0.500$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.500 &  &  \\
+ & organization & 0.000 & 0.688 & $0.687$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.687 &  &  \\
+ & resolution & 0.007 & 1.000 & $0.993$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.993 &  &  \\
+ & target & 0.000 & 0.312 & $0.312$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.312 &  &  \\
+ & violation & 0.000 & 0.550 & $0.550$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.550 &  &  \\
+\midrule
+17 & action taken & 0.003 & 1.000 & $0.997$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.997 & -- & 0.272 \\
+ & country & 0.000 & 0.050 & $0.050$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.050 &  &  \\
+ & investigation initiated by & 0.000 & 0.250 & $0.250$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.250 &  &  \\
+ & reports & 0.001 & 1.000 & $0.999$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.999 &  &  \\
+ & role & 0.001 & 0.950 & $0.949$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.949 &  &  \\
+ & source of reports & 0.001 & 0.400 & $0.399$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.399 &  &  \\
+\midrule
+18 & basis for resistance & 0.002 & 0.750 & $0.748$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.748 & -- & -- \\
+ & local population & 0.001 & 0.250 & $0.249$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.249 &  &  \\
+ & occupied territory & 0.001 & 1.000 & $0.999$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.999 &  &  \\
+ & occupying power & 0.002 & 1.000 & $0.998$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.998 &  &  \\
+ & reason for imposition & 0.007 & 0.900 & $0.893$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.893 &  &  \\
+\midrule
+19 & alleged violation & 0.013 & 0.750 & $0.737$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.737 & -- & 0.303 \\
+ & demand made & 0.002 & 0.375 & $0.373$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.373 &  &  \\
+ & distance from shore & 0.733 & 0.875 & $0.142$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.142 &  &  \\
+ & notification given & 0.020 & 0.562 & $0.542$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.542 &  &  \\
+ & warship country & 0.004 & 0.100 & $0.096$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.096 &  &  \\
+ & zone entered & 0.654 & 1.000 & $0.346$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.346 &  &  \\
+\midrule
+2 & UN's claim & 0.132 & 1.000 & $0.868$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.868 & -- & -- \\
+ & host state's demand & 0.057 & 0.600 & $0.543$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.543 &  &  \\
+ & location of conduct & 0.230 & 0.500 & $0.270$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.270 &  &  \\
+ & peacekeeper's conduct & 0.208 & 0.400 & $0.192$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.192 &  &  \\
+ & peacekeeper's country & 0.055 & 0.050 & $-0.005$\,\makebox[\widthof{$\uparrow$}][l]{} & -0.005 &  &  \\
+ & peacekeeper's role & 0.631 & 0.750 & $0.119$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.119 &  &  \\
+\midrule
+21 & investor country & 0.000 & 0.100 & $0.100$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.100 & -- & -- \\
+ & tax type & 0.012 & 0.950 & $0.938$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.938 &  &  \\
+ & taxing country & 0.000 & 0.350 & $0.350$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.350 &  &  \\
+ & treaty provision & 0.023 & 1.000 & $0.977$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.977 &  &  \\
+\midrule
+22 & complaint venue & 0.099 & 0.300 & $0.201$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.201 & -- & -- \\
+ & country affected & 0.028 & 0.250 & $0.222$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.222 &  &  \\
+ & country closing airspace & 0.053 & 0.900 & $0.847$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.847 &  &  \\
+ & international agreement & 0.256 & 1.000 & $0.744$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.744 &  &  \\
+ & reason for closure & 0.224 & 1.000 & $0.776$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.776 &  &  \\
+\midrule
+23 & executive role & 0.000 & 0.250 & $0.250$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.250 & -- & -- \\
+ & executive's involvement & 0.000 & 0.650 & $0.650$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.650 &  &  \\
+ & executive's knowledge & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 &  &  \\
+ & recipient of support & 0.000 & 0.550 & $0.550$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.550 &  &  \\
+ & regime's actions & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 &  &  \\
+ & support provided & 0.000 & 0.800 & $0.800$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.800 &  &  \\
+\midrule
+24 & action & 0.267 & 1.000 & $0.733$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.733 & -- & -- \\
+ & expelled state claim & 0.006 & 0.600 & $0.594$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.594 &  &  \\
+ & forum & 0.005 & 0.250 & $0.245$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.245 &  &  \\
+ & organization type & 0.005 & 0.750 & $0.745$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.745 &  &  \\
+ & reason & 0.007 & 0.450 & $0.443$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.443 &  &  \\
+\midrule
+25 & strike result & 0.009 & 0.450 & $0.441$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.441 & -- & -- \\
+ & target & 0.087 & 1.000 & $0.913$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.913 &  &  \\
+\midrule
+26 & ICC consideration & 0.000 & 0.550 & $0.550$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.550 & -- & 0.258 \\
+ & alleged crimes & 0.000 & 0.250 & $0.250$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.250 &  &  \\
+ & alleged perpetrators & 0.000 & 0.200 & $0.200$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.200 &  &  \\
+ & country & 0.000 & 0.062 & $0.062$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.062 &  &  \\
+ & domestic investigation status & 0.005 & 1.000 & $0.995$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.995 &  &  \\
+\midrule
+27 & cited justification & 0.000 & 0.500 & $0.500$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.500 & -- & -- \\
+ & detaining country & 0.000 & 0.950 & $0.950$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.950 &  &  \\
+ & detention allegation & 0.002 & 0.875 & $0.873$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.873 &  &  \\
+ & prior notification & 0.002 & 0.950 & $0.948$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.948 &  &  \\
+ & vessel destination & 0.023 & 1.000 & $0.977$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.977 &  &  \\
+ & vessel origin & 0.000 & 0.050 & $0.050$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.050 &  &  \\
+ & vessel type & 0.000 & 0.950 & $0.950$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.950 &  &  \\
+\midrule
+28 & challenge & 0.000 & 0.300 & $0.300$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.300 & -- & -- \\
+ & country ban & 0.000 & 0.700 & $0.700$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.700 &  &  \\
+ & disease status & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 &  &  \\
+ & reason for ban & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 &  &  \\
+\midrule
+29 & favorable procedures country & 0.002 & 0.700 & $0.698$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.698 & -- & -- \\
+ & host country & 0.000 & 0.300 & $0.300$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.300 &  &  \\
+ & investor country & 0.000 & 0.150 & $0.150$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.150 &  &  \\
+ & procedural rights & 0.004 & 1.000 & $0.996$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.996 &  &  \\
+\midrule
+3 & act & 0.017 & 0.650 & $0.633$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.633 & -- & -- \\
+ & country & 0.005 & 0.100 & $0.095$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.095 &  &  \\
+ & defense & 0.370 & 0.950 & $0.580$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.580 &  &  \\
+ & violation & 0.071 & 0.950 & $0.879$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.879 &  &  \\
+\midrule
+30 & armed force & 0.002 & 0.350 & $0.348$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.348 & -- & -- \\
+ & civilians present & 0.331 & 1.000 & $0.669$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.669 &  &  \\
+ & situation & 0.001 & 0.250 & $0.249$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.249 &  &  \\
+ & target & 0.002 & 1.000 & $0.998$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.998 &  &  \\
+\midrule
+31 & court type & 0.012 & 0.438 & $0.426$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.426 & -- & 0.244 \\
+ & dispute type & 0.070 & 1.000 & $0.930$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.930 &  &  \\
+ & employee status & 0.007 & 0.375 & $0.368$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.368 &  &  \\
+ & immunity claim & 0.006 & 1.000 & $0.994$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.994 &  &  \\
+ & legal claim & 0.012 & 0.600 & $0.588$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.588 &  &  \\
+ & organization location & 0.001 & 0.000 & $-0.001$\,\makebox[\widthof{$\uparrow$}][l]{} & -0.001 &  &  \\
+\midrule
+32 & charge & 0.443 & 0.800 & $0.357$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.357 & -- & -- \\
+ & defense & 0.363 & 1.000 & $0.637$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.637 &  &  \\
+ & fear & 0.171 & 0.550 & $0.379$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.379 &  &  \\
+ & role & 0.214 & 0.250 & $0.036$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.036 &  &  \\
+\midrule
+33 & fishing location & 0.005 & 1.000 & $0.995$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.995 & -- & 0.230 \\
+ & fishing vessel origin & 0.001 & 0.050 & $0.049$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.049 &  &  \\
+ & protestor & 0.003 & 0.062 & $0.060$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.060 &  &  \\
+ & pursuit location & 0.037 & 0.917 & $0.880$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.880 &  &  \\
+ & seizing authority & 0.002 & 0.250 & $0.248$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.248 &  &  \\
+ & vessel status & 0.249 & 0.875 & $0.626$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.626 &  &  \\
+\midrule
+34 & conduct & 0.122 & 1.000 & $0.878$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.878 & -- & -- \\
+ & location & 0.016 & 0.350 & $0.334$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.334 &  &  \\
+ & status & 0.090 & 0.300 & $0.210$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.210 &  &  \\
+ & treaty & 0.127 & 0.950 & $0.823$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.823 &  &  \\
+ & treaty party & 0.190 & 1.000 & $0.810$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.810 &  &  \\
+\midrule
+35 & cost & 0.034 & 0.750 & $0.716$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.716 & -- & 0.375 \\
+ & country & 0.000 & 0.000 & $-0.000$\,\makebox[\widthof{$\uparrow$}][l]{} & -0.000 &  &  \\
+ & label design & 0.132 & 0.875 & $0.743$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.743 &  &  \\
+ & product & 0.000 & 0.100 & $0.100$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.100 &  &  \\
+ & purpose & 0.000 & 0.850 & $0.850$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.850 &  &  \\
+ & requirement & 0.000 & 0.950 & $0.950$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.950 &  &  \\
+\midrule
+36 & arbitration mechanism & 0.002 & 0.750 & $0.748$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.748 & -- & -- \\
+ & cause of action & 0.001 & 0.550 & $0.549$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.549 &  &  \\
+ & defendant state & 0.000 & 0.150 & $0.150$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.150 &  &  \\
+ & duration of case & 0.001 & 1.000 & $0.999$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.999 &  &  \\
+ & forum & 0.002 & 0.562 & $0.561$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.561 &  &  \\
+ & investor's state & 0.000 & 0.050 & $0.050$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.050 &  &  \\
+ & justification for delay & 0.002 & 1.000 & $0.998$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.998 &  &  \\
+\midrule
+37 & actor & 0.022 & 0.500 & $0.478$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.478 & -- & -- \\
+ & location & 0.003 & 0.200 & $0.197$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.197 &  &  \\
+ & status & 0.031 & 0.562 & $0.532$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.532 &  &  \\
+ & supply & 0.018 & 0.650 & $0.632$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.632 &  &  \\
+ & target & 0.018 & 0.900 & $0.882$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.882 &  &  \\
+\midrule
+38 & action & 0.001 & 1.000 & $0.999$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.999 & -- & -- \\
+ & country & 0.000 & 0.250 & $0.250$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.250 &  &  \\
+ & reason & 0.000 & 0.700 & $0.700$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.700 &  &  \\
+ & requirement & 0.000 & 0.700 & $0.700$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.700 &  &  \\
+ & resolution & 0.257 & 1.000 & $0.743$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.743 &  &  \\
+\midrule
+4 & claim & 0.000 & 0.450 & $0.450$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.450 & -- & -- \\
+ & interpretation & 0.000 & 0.950 & $0.950$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.950 &  &  \\
+ & orders & 0.000 & 0.700 & $0.700$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.700 &  &  \\
+\midrule
+40 & awareness & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 & -- & -- \\
+ & claim & 0.000 & 0.500 & $0.500$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.500 &  &  \\
+ & conduct & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 &  &  \\
+ & location & 0.000 & 0.050 & $0.050$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.050 &  &  \\
+ & role & 0.000 & 0.900 & $0.900$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.900 &  &  \\
+\midrule
+41 & claim & 0.010 & 0.300 & $0.290$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.290 & -- & -0.414 \\
+ & country & 0.000 & 0.400 & $0.400$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.400 &  &  \\
+ & domestic dairy products & 0.000 & 0.750 & $0.750$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.750 &  &  \\
+ & imported dairy products & 0.113 & 0.750 & $0.637$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.637 &  &  \\
+\midrule
+42 & actor & 0.002 & 0.100 & $0.098$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.098 & -- & -- \\
+ & location & 0.002 & 0.250 & $0.248$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.248 &  &  \\
+ & method & 0.003 & 0.300 & $0.297$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.297 &  &  \\
+ & result & 0.111 & 0.800 & $0.689$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.689 &  &  \\
+ & target & 0.106 & 1.000 & $0.894$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.894 &  &  \\
+\midrule
+44 & accused claim & 0.339 & 1.000 & $0.661$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.661 & -- & -- \\
+ & tribunal establishment & 0.008 & 0.350 & $0.342$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.342 &  &  \\
+\midrule
+45 & investor's action & 0.001 & 0.450 & $0.449$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.449 & -- & -- \\
+ & investor's argument & 0.008 & 1.000 & $0.992$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.992 &  &  \\
+ & local remedies used & 0.002 & 0.938 & $0.935$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.935 &  &  \\
+ & reason for bypassing local remedies & 0.001 & 0.800 & $0.799$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.799 &  &  \\
+\midrule
+46 & conduct & 0.613 & 0.900 & $0.287$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.287 & -- & -- \\
+ & prior notice & 0.018 & 0.300 & $0.282$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.282 &  &  \\
+ & protest & 0.017 & 0.250 & $0.233$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.233 &  &  \\
+ & territorial sea & 0.044 & 1.000 & $0.956$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.956 &  &  \\
+ & warship country & 0.003 & 0.200 & $0.197$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.197 &  &  \\
+\midrule
+48 & awareness of plan & 0.024 & 1.000 & $0.976$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.976 & -- & -- \\
+ & commanders & 0.000 & 0.438 & $0.437$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.437 &  &  \\
+ & ethnic group & 0.000 & 0.625 & $0.625$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.625 &  &  \\
+ & orders issued & 0.000 & 0.688 & $0.687$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.687 &  &  \\
+\midrule
+5 & claim & 0.141 & 0.500 & $0.359$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.359 & -- & -- \\
+ & conduct & 0.433 & 1.000 & $0.567$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.567 &  &  \\
+ & location & 0.551 & 0.875 & $0.324$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.324 &  &  \\
+ & protest & 0.091 & 0.250 & $0.159$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.159 &  &  \\
+\midrule
+51 & arbitration provision absence & 0.082 & 1.000 & $0.918$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.918 & -- & -- \\
+ & host state & 0.062 & 0.375 & $0.313$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.313 &  &  \\
+ & investor's state & 0.046 & 0.375 & $0.329$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.329 &  &  \\
+ & invoked principle & 0.223 & 1.000 & $0.777$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.777 &  &  \\
+ & treaty state & 0.024 & 0.500 & $0.476$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.476 &  &  \\
+\midrule
+52 & civilian presence & 0.273 & 1.000 & $0.727$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.727 & -- & 0.575 \\
+ & country & 0.090 & 0.150 & $0.060$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.060 &  &  \\
+ & situation & 0.215 & 0.875 & $0.660$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.660 &  &  \\
+ & treaty status & 0.413 & 0.812 & $0.400$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.400 &  &  \\
+ & weapon & 0.331 & 1.000 & $0.669$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.669 &  &  \\
+\midrule
+53 & action & 0.643 & 0.938 & $0.295$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.295 & -- & -- \\
+ & decision & 0.001 & 0.800 & $0.799$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.799 &  &  \\
+ & member state & 0.046 & 0.800 & $0.754$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.754 &  &  \\
+ & organ & 0.003 & 0.800 & $0.797$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.797 &  &  \\
+\midrule
+54 & action taken & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 & -- & -- \\
+ & actor & 0.000 & 0.375 & $0.375$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.375 &  &  \\
+ & charges & 0.002 & 0.850 & $0.848$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.848 &  &  \\
+ & legal basis cited & 0.001 & 1.000 & $0.999$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.999 &  &  \\
+ & statute of limitations & 0.000 & 1.000 & $1.000$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 1.000 &  &  \\
+\midrule
+55 & baselines & 0.043 & 0.900 & $0.857$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.857 & -- & -- \\
+ & enclosed waters status & 0.091 & 1.000 & $0.909$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.909 &  &  \\
+ & ship & 0.006 & 0.300 & $0.294$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.294 &  &  \\
+ & ship action & 0.007 & 0.450 & $0.443$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.443 &  &  \\
+ & state & 0.003 & 0.100 & $0.097$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.097 &  &  \\
+ & state type & 0.146 & 1.000 & $0.854$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.854 &  &  \\
+\midrule
+56 & context & 0.000 & 0.750 & $0.750$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.750 & -- & -- \\
+ & defense claim & 0.001 & 0.750 & $0.749$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.749 &  &  \\
+ & order & 0.002 & 1.000 & $0.998$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.998 &  &  \\
+ & soldier's role & 0.000 & 0.312 & $0.312$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.312 &  &  \\
+\midrule
+6 & claimed justification & 0.001 & 0.800 & $0.799$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.799 & -- & 0.472 \\
+ & consent for surveillance & 0.041 & 1.000 & $0.959$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.959 &  &  \\
+ & country deploying drones & 0.000 & 0.150 & $0.150$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.150 &  &  \\
+ & involvement of target country & 0.037 & 0.900 & $0.863$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.863 &  &  \\
+ & purpose of deployment & 0.000 & 0.550 & $0.550$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.550 &  &  \\
+ & target country & 0.000 & 0.750 & $0.750$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.750 &  &  \\
+\midrule
+60 & alleged violation & 0.005 & 1.000 & $0.995$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.995 & -- & -- \\
+ & denied right & 0.006 & 0.800 & $0.794$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.794 &  &  \\
+ & investor status & 0.021 & 0.562 & $0.541$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.541 &  &  \\
+ & judgment characteristic & 0.005 & 1.000 & $0.995$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.995 &  &  \\
+ & location & 0.017 & 0.650 & $0.633$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.633 &  &  \\
+ & remedy sought & 0.080 & 0.800 & $0.720$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.720 &  &  \\
+\midrule
+7 & cause of death & 0.011 & 0.250 & $0.239$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.239 & -- & -- \\
+ & claim & 0.442 & 1.000 & $0.558$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.558 &  &  \\
+ & employer & 0.003 & 0.600 & $0.597$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.597 &  &  \\
+ & location & 0.002 & 0.312 & $0.311$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.311 &  &  \\
+ & role & 0.006 & 0.950 & $0.944$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.944 &  &  \\
+\midrule
+77 & crimes & 0.752 & 0.500 & $-0.252$\,\makebox[\widthof{$\uparrow$}][l]{$\downarrow$} & -0.252 & -- & -- \\
+ & jurisdiction & 0.507 & 1.000 & $0.493$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.493 &  &  \\
+\midrule
+8 & Country Z's response & 0.118 & 0.350 & $0.232$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.232 & -- & -- \\
+ & resolution & 0.002 & 0.950 & $0.948$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.948 &  &  \\
+\midrule
+9 & accusation & 0.000 & 0.300 & $0.300$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.300 & -- & -- \\
+ & action & 0.000 & 0.750 & $0.750$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.750 &  &  \\
+ & country & 0.000 & 0.250 & $0.250$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.250 &  &  \\
+ & potential intervener & 0.000 & 0.700 & $0.700$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.700 &  &  \\
+ & role & 0.000 & 0.700 & $0.700$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.700 &  &  \\
+ & status of top generals & 0.001 & 1.000 & $0.999$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.999 &  &  \\
+\midrule
+91 & accusation & 0.129 & 0.812 & $0.683$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.683 & -- & -- \\
+ & claim & 0.042 & 1.000 & $0.958$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.958 &  &  \\
+ & conflict type & 0.005 & 0.417 & $0.411$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.411 &  &  \\
+ & domestic implementation & 0.033 & 0.667 & $0.633$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.633 &  &  \\
+ & former head of state & 0.007 & 1.000 & $0.993$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.993 &  &  \\
+ & legal basis & 0.549 & 0.938 & $0.388$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.388 &  &  \\
+ & travel destination & 0.004 & 0.850 & $0.846$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.846 &  &  \\
+ & treaty & 0.056 & 0.550 & $0.494$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.494 &  &  \\
+\midrule
+92 & basis for strike & 0.001 & 1.000 & $0.999$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.999 & -- & -- \\
+ & consent of targeted state & 0.002 & 1.000 & $0.998$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.998 &  &  \\
+ & state conducting strike & 0.001 & 0.350 & $0.349$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.349 &  &  \\
+ & state targeted & 0.001 & 0.400 & $0.399$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.399 &  &  \\
+ & target & 0.001 & 0.812 & $0.812$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.812 &  &  \\
+\midrule
+93 & State E denial & 0.000 & 0.200 & $0.200$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.200 & -- & -- \\
+ & attack origin & 0.000 & 0.250 & $0.250$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.250 &  &  \\
+ & attackers funding & 0.001 & 0.900 & $0.899$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.899 &  &  \\
+ & forum & 0.000 & 0.188 & $0.187$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.187 &  &  \\
+\midrule
+94 & installer & 0.001 & 0.250 & $0.249$\,\makebox[\widthof{$\uparrow$}][l]{} & 0.249 & -- & -- \\
+ & location & 0.231 & 1.000 & $0.769$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.769 &  &  \\
+ & notification & 0.014 & 0.938 & $0.923$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.923 &  &  \\
+ & protest & 0.033 & 0.400 & $0.367$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.367 &  &  \\
+ & purpose & 0.002 & 0.450 & $0.448$\,\makebox[\widthof{$\uparrow$}][l]{$\uparrow$} & 0.448 &  &  \\
+\bottomrule
+\end{tabular}%
+}
+\caption{Per-concept faithfulness.}
+\label{tab:faithfulness}
+\end{table*}

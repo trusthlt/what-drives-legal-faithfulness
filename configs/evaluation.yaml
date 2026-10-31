@@ -1,0 +1,29 @@
+# Paths are relative to this configuration file.
+glannon_train_csv: ../results/metadata/glannon_train_keys.csv
+glannon_test_csv: ../results/metadata/glannon_test_keys.csv
+
+targets:
+  glannon_vanilla:
+    probs: ../results/glannon-vanilla/03_probs_direct_null_full_data_temp_3.json
+    importance: ../results/glannon-vanilla/06_importance_gpt54mini.json
+    explanations: ../results/glannon-vanilla/05_explanations_offline_vllm.json
+    glannon: true
+  glannon_sft:
+    probs: ../results/glannon-sft/03_probs_direct_null_merged_full_data_temp_3.json
+    importance: ../results/glannon-sft/06_importance_lora_gpt54mini.json
+    explanations: ../results/glannon-sft/05_explanations_offline_vllm_merged.json
+    glannon: true
+  multilevel:
+    probs: ../results/multilevel/03_probs_direct_null_full_data_multi_legal.json
+    importance: ../results/multilevel/importance_vllm_multi_level_legal_gpt54mini.json
+    explanations: ../results/multilevel/explanations_vllm_multi_level_legal.json
+    glannon: false
+
+metrics:
+  ce_tv: true
+  ce_flip: false
+  correlation_ccc: false
+  correlation_pcc: true
+  diagnostic_gap: true
+  diagnostic_bland_altman: true
+  matton: true

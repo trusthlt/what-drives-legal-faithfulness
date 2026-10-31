@@ -1,0 +1,1881 @@
+{
+  "dataset_faithfulness_mean": 0.3649427821722675,
+  "num_questions_used": 70,
+  "question_faithfulness": {
+    "10": {
+      "faithfulness": 0.5862171467192495,
+      "num_concepts": 4,
+      "concepts_used": [
+        "dispute resolution clause",
+        "investor",
+        "tribunal",
+        "tribunal's reason"
+      ],
+      "CE_values": [
+        0.016691317148575323,
+        0.004511041733141184,
+        0.04004856861499278,
+        0.01926227283505748
+      ],
+      "EE_values": [
+        4.0,
+        2.5,
+        3.6666666666666665,
+        3.6666666666666665
+      ]
+    },
+    "106": {
+      "faithfulness": 1.0,
+      "num_concepts": 2,
+      "concepts_used": [
+        "alleged_violation",
+        "occupying_state"
+      ],
+      "CE_values": [
+        0.005037745916093181,
+        0.0006341536591565794
+      ],
+      "EE_values": [
+        4.0,
+        3.6666666666666665
+      ]
+    },
+    "107": {
+      "faithfulness": null,
+      "num_concepts": 2,
+      "concepts_used": [
+        "legal action",
+        "recognition status"
+      ],
+      "CE_values": [
+        0.02494264530069127,
+        0.16283941474183625
+      ],
+      "EE_values": [
+        4.0,
+        4.0
+      ]
+    },
+    "108": {
+      "faithfulness": -0.4306609317006654,
+      "num_concepts": 4,
+      "concepts_used": [
+        "action",
+        "company",
+        "state",
+        "treaty"
+      ],
+      "CE_values": [
+        1.887932941628518e-05,
+        0.00016091327593285683,
+        4.0316471873053244e-05,
+        0.00019026147446870914
+      ],
+      "EE_values": [
+        3.5,
+        1.0,
+        3.3333333333333335,
+        3.5
+      ]
+    },
+    "110": {
+      "faithfulness": 0.6312703488024806,
+      "num_concepts": 6,
+      "concepts_used": [
+        "claimed justification",
+        "consent for intervention",
+        "protest by receiving state",
+        "state receiving forces",
+        "state sending forces",
+        "threat to nationals"
+      ],
+      "CE_values": [
+        0.23729100569995987,
+        0.03715712532880799,
+        0.004659780657402346,
+        0.0015971968262986878,
+        0.002201321163989543,
+        0.002008582447626899
+      ],
+      "EE_values": [
+        4.0,
+        4.0,
+        2.0,
+        1.0,
+        2.0,
+        3.0
+      ]
+    },
+    "111": {
+      "faithfulness": 0.4404557676766825,
+      "num_concepts": 10,
+      "concepts_used": [
+        "action",
+        "challenge",
+        "forum",
+        "government",
+        "reason",
+        "state",
+        "status",
+        "timing",
+        "treaty",
+        "treaty clause"
+      ],
+      "CE_values": [
+        0.027774610555903505,
+        0.0009344843347171998,
+        0.004928846198545206,
+        0.0010399075861092684,
+        0.0024095424530234354,
+        0.00195487687006638,
+        0.011933425613572414,
+        0.00443443405241378,
+        0.014153538026095336,
+        0.3923122216238566
+      ],
+      "EE_values": [
+        4.0,
+        1.6666666666666667,
+        1.5,
+        1.6666666666666667,
+        2.0,
+        3.0,
+        2.0,
+        4.0,
+        3.6666666666666665,
+        4.0
+      ]
+    },
+    "113": {
+      "faithfulness": 0.752177437249358,
+      "num_concepts": 3,
+      "concepts_used": [
+        "armed group location",
+        "attack method",
+        "forum"
+      ],
+      "CE_values": [
+        0.012923203403037096,
+        0.004697718027122727,
+        0.010223616093607632
+      ],
+      "EE_values": [
+        4.0,
+        1.0,
+        1.0
+      ]
+    },
+    "114": {
+      "faithfulness": 0.3001583531001782,
+      "num_concepts": 6,
+      "concepts_used": [
+        "basis for arrest",
+        "conduct",
+        "diplomat's role",
+        "diplomat's state",
+        "host state",
+        "status"
+      ],
+      "CE_values": [
+        0.012284434117228439,
+        0.09294835551464259,
+        0.04274774256985641,
+        0.29098012441174403,
+        0.0022100542222669157,
+        0.004514989845826394
+      ],
+      "EE_values": [
+        1.5,
+        2.0,
+        3.3333333333333335,
+        3.5,
+        4.0,
+        2.0
+      ]
+    },
+    "115": {
+      "faithfulness": 0.9502850911387635,
+      "num_concepts": 4,
+      "concepts_used": [
+        "border zone location",
+        "complaint mechanism",
+        "conduct",
+        "victims"
+      ],
+      "CE_values": [
+        0.01219162576952968,
+        0.008526526138097847,
+        0.0033513949869051637,
+        0.00041116190246144575
+      ],
+      "EE_values": [
+        4.0,
+        4.0,
+        2.0,
+        1.6666666666666667
+      ]
+    },
+    "116": {
+      "faithfulness": -0.1716811308561008,
+      "num_concepts": 8,
+      "concepts_used": [
+        "accused_violation",
+        "invoked_treaty",
+        "pipeline_destination",
+        "pipeline_origin",
+        "pipeline_route",
+        "suspension_actor",
+        "suspension_effect",
+        "suspension_reason"
+      ],
+      "CE_values": [
+        0.18392286477028588,
+        0.07729242200082054,
+        0.004741612458043425,
+        0.022089168768857834,
+        0.002106179076571661,
+        0.005297170194199299,
+        0.0014368641133642008,
+        0.05397142416396278
+      ],
+      "EE_values": [
+        0.0,
+        4.0,
+        0.0,
+        3.0,
+        4.0,
+        0.0,
+        2.0,
+        4.0
+      ]
+    },
+    "117": {
+      "faithfulness": null,
+      "num_concepts": 0,
+      "concepts_used": [],
+      "CE_values": [],
+      "EE_values": []
+    },
+    "118": {
+      "faithfulness": -0.2798271675807184,
+      "num_concepts": 5,
+      "concepts_used": [
+        "activity",
+        "installing state",
+        "location",
+        "objecting state",
+        "objection basis"
+      ],
+      "CE_values": [
+        0.039887259256370204,
+        0.9602482422928624,
+        0.07951168687703368,
+        0.11147927723006025,
+        0.03077255026921416
+      ],
+      "EE_values": [
+        3.6666666666666665,
+        3.0,
+        4.0,
+        2.0,
+        4.0
+      ]
+    },
+    "12": {
+      "faithfulness": -0.07410009467212109,
+      "num_concepts": 4,
+      "concepts_used": [
+        "claimed area",
+        "coastal state",
+        "other state",
+        "other state's argument"
+      ],
+      "CE_values": [
+        0.0225588757574349,
+        0.010560574054191488,
+        0.01515648905297447,
+        0.03562272810901452
+      ],
+      "EE_values": [
+        3.6666666666666665,
+        4.0,
+        2.5,
+        3.3333333333333335
+      ]
+    },
+    "120": {
+      "faithfulness": 0.31405592937001414,
+      "num_concepts": 7,
+      "concepts_used": [
+        "action",
+        "assertion",
+        "claim",
+        "location",
+        "objection",
+        "resource",
+        "state"
+      ],
+      "CE_values": [
+        0.008809682195563877,
+        0.014412127692030579,
+        0.04587479397444519,
+        0.008541640161655133,
+        0.0010553521633095593,
+        0.005343508514846595,
+        0.13947708851614757
+      ],
+      "EE_values": [
+        4.0,
+        4.0,
+        3.3333333333333335,
+        4.0,
+        2.6666666666666665,
+        0.0,
+        4.0
+      ]
+    },
+    "121": {
+      "faithfulness": 0.6553277673497011,
+      "num_concepts": 5,
+      "concepts_used": [
+        "challenge_forum",
+        "exported_materials",
+        "exporting_state",
+        "importing_state",
+        "legal_basis"
+      ],
+      "CE_values": [
+        0.005220635576196872,
+        0.005500965494408891,
+        0.019802163326105855,
+        0.0004132381435720651,
+        0.11500758291754905
+      ],
+      "EE_values": [
+        3.6666666666666665,
+        2.6666666666666665,
+        3.0,
+        1.6666666666666667,
+        4.0
+      ]
+    },
+    "123": {
+      "faithfulness": 0.6103825636522016,
+      "num_concepts": 5,
+      "concepts_used": [
+        "algorithm_designer",
+        "drone_autonomy",
+        "drone_deployer",
+        "target_misidentification_reason",
+        "target_struck"
+      ],
+      "CE_values": [
+        0.029715512209303345,
+        0.0004281715119963003,
+        0.12106137434780793,
+        0.0027942487261431704,
+        0.004017688345411174
+      ],
+      "EE_values": [
+        2.6666666666666665,
+        2.0,
+        4.0,
+        3.5,
+        3.3333333333333335
+      ]
+    },
+    "124": {
+      "faithfulness": 0.16390250388706862,
+      "num_concepts": 8,
+      "concepts_used": [
+        "argument of state providing support",
+        "basis for action",
+        "conduct of recipient",
+        "location of recipient",
+        "purpose of support",
+        "recipient of support",
+        "state providing support",
+        "type of support"
+      ],
+      "CE_values": [
+        0.011885819978107455,
+        0.00041105284647472004,
+        0.0014680055356414228,
+        0.0006206360770275119,
+        0.004515701562876305,
+        0.05391048584396505,
+        0.001754330998469032,
+        0.002046632058983014
+      ],
+      "EE_values": [
+        4.0,
+        4.0,
+        3.0,
+        2.0,
+        1.0,
+        3.3333333333333335,
+        4.0,
+        2.5
+      ]
+    },
+    "125": {
+      "faithfulness": -0.7455488639668214,
+      "num_concepts": 5,
+      "concepts_used": [
+        "arrested fishermen",
+        "arresting state",
+        "disputed maritime zone",
+        "state asserting UNCLOS EEZ rights",
+        "state asserting historic claim"
+      ],
+      "CE_values": [
+        0.0010372495513205225,
+        0.0009179511110270046,
+        0.0004653760216426733,
+        0.00010718968583416132,
+        0.0007969635116059378
+      ],
+      "EE_values": [
+        1.5,
+        2.0,
+        3.3333333333333335,
+        4.0,
+        4.0
+      ]
+    },
+    "126": {
+      "faithfulness": -0.1816717534993732,
+      "num_concepts": 3,
+      "concepts_used": [
+        "pollutant destination",
+        "pollutant source",
+        "pollutant type"
+      ],
+      "CE_values": [
+        0.0018094542920589875,
+        0.002881640856345391,
+        0.0022044648685789446
+      ],
+      "EE_values": [
+        4.0,
+        3.3333333333333335,
+        2.0
+      ]
+    },
+    "127": {
+      "faithfulness": 0.34339099937139667,
+      "num_concepts": 5,
+      "concepts_used": [
+        "action",
+        "country",
+        "reason",
+        "status",
+        "treaty"
+      ],
+      "CE_values": [
+        0.030188074357744548,
+        0.004407408877896278,
+        0.5071258815450675,
+        0.8941558031282639,
+        0.02248104566500356
+      ],
+      "EE_values": [
+        3.6666666666666665,
+        2.5,
+        3.0,
+        3.0,
+        0.0
+      ]
+    },
+    "128": {
+      "faithfulness": 0.6761470824658973,
+      "num_concepts": 6,
+      "concepts_used": [
+        "corporation_license_state",
+        "environmental_impact",
+        "state_responsibility_claim",
+        "vessel_destination",
+        "waste_disposal_method",
+        "waste_type"
+      ],
+      "CE_values": [
+        0.007910017517258196,
+        0.009264168205700637,
+        0.012363335298035884,
+        0.008765286297181513,
+        0.011438142859274662,
+        0.0033422505677042596
+      ],
+      "EE_values": [
+        4.0,
+        3.0,
+        4.0,
+        3.3333333333333335,
+        3.0,
+        2.0
+      ]
+    },
+    "13": {
+      "faithfulness": 1.0,
+      "num_concepts": 2,
+      "concepts_used": [
+        "dispute_parties",
+        "dispute_subject"
+      ],
+      "CE_values": [
+        0.001370619334955868,
+        0.0002596275142265636
+      ],
+      "EE_values": [
+        4.0,
+        2.0
+      ]
+    },
+    "131": {
+      "faithfulness": 0.6212996196611507,
+      "num_concepts": 5,
+      "concepts_used": [
+        "action taken",
+        "asylum seekers",
+        "casualties",
+        "country of interception",
+        "country of origin"
+      ],
+      "CE_values": [
+        0.15415809564464011,
+        0.003474424301501587,
+        0.004225226855638649,
+        0.40490010139022264,
+        0.0013196142982621045
+      ],
+      "EE_values": [
+        4.0,
+        3.5,
+        1.6666666666666667,
+        4.0,
+        3.0
+      ]
+    },
+    "132": {
+      "faithfulness": 0.8169783611014949,
+      "num_concepts": 6,
+      "concepts_used": [
+        "alleged_use",
+        "condemnation_source",
+        "condemnation_type",
+        "object_destroyed",
+        "state_actor",
+        "target"
+      ],
+      "CE_values": [
+        0.08183257240270772,
+        0.007878434727911474,
+        0.007636764095119691,
+        0.1577017762770697,
+        0.0006348544570392331,
+        0.05605146519291142
+      ],
+      "EE_values": [
+        4.0,
+        1.0,
+        2.0,
+        4.0,
+        2.0,
+        1.6666666666666667
+      ]
+    },
+    "133": {
+      "faithfulness": 0.4772094039940477,
+      "num_concepts": 7,
+      "concepts_used": [
+        "accused party",
+        "action",
+        "attribution basis",
+        "evidence type",
+        "location",
+        "method",
+        "tension level"
+      ],
+      "CE_values": [
+        0.0017110907645904935,
+        0.006928900170102368,
+        0.005325555006607271,
+        0.003200830651354128,
+        0.00672169813158334,
+        0.0009927826009971648,
+        0.0008495186972610995
+      ],
+      "EE_values": [
+        1.0,
+        4.0,
+        2.0,
+        2.0,
+        1.5,
+        2.6666666666666665,
+        1.0
+      ]
+    },
+    "134": {
+      "faithfulness": 0.40268051623170065,
+      "num_concepts": 7,
+      "concepts_used": [
+        "State B's justification",
+        "State B's response",
+        "State C's action",
+        "State C's target",
+        "State D's accusation",
+        "State D's action",
+        "attacker"
+      ],
+      "CE_values": [
+        0.009031202068449767,
+        0.0117882755974405,
+        0.022481502212939364,
+        0.01127357958657897,
+        0.005617866299117594,
+        0.007876959770762776,
+        0.0140937967341653
+      ],
+      "EE_values": [
+        2.0,
+        2.6666666666666665,
+        3.0,
+        2.0,
+        3.0,
+        0.0,
+        2.6666666666666665
+      ]
+    },
+    "135": {
+      "faithfulness": 0.5985949676055323,
+      "num_concepts": 5,
+      "concepts_used": [
+        "agreement",
+        "agreement terms",
+        "challenge basis",
+        "challenger",
+        "states"
+      ],
+      "CE_values": [
+        0.002108721273711885,
+        0.013577411660062783,
+        0.12983927746052548,
+        0.007530438833082476,
+        0.00012852418097424327
+      ],
+      "EE_values": [
+        3.0,
+        3.6666666666666665,
+        4.0,
+        1.0,
+        2.0
+      ]
+    },
+    "136": {
+      "faithfulness": 0.467569321985264,
+      "num_concepts": 5,
+      "concepts_used": [
+        "diplomatic pressure",
+        "indictment",
+        "president's status",
+        "state S's status",
+        "visit request"
+      ],
+      "CE_values": [
+        0.0936906089718304,
+        0.03956659241508411,
+        0.03229915800809338,
+        2.3376384138934414,
+        0.0983104846623544
+      ],
+      "EE_values": [
+        0.0,
+        3.0,
+        4.0,
+        4.0,
+        1.0
+      ]
+    },
+    "137": {
+      "faithfulness": null,
+      "num_concepts": 1,
+      "concepts_used": [
+        "protest"
+      ],
+      "CE_values": [
+        0.008971780013881287
+      ],
+      "EE_values": [
+        3.0
+      ]
+    },
+    "138": {
+      "faithfulness": 0.600877449823155,
+      "num_concepts": 7,
+      "concepts_used": [
+        "State A's response",
+        "allegation",
+        "cause of failure",
+        "complaint filed by",
+        "complaint recipient",
+        "state with power grid failure",
+        "target of counter-operation"
+      ],
+      "CE_values": [
+        0.03472392883645401,
+        0.012309827723475405,
+        0.07232651359577905,
+        0.0011169995412017122,
+        0.002537399716224795,
+        0.036864181400572446,
+        0.007826023487736181
+      ],
+      "EE_values": [
+        4.0,
+        4.0,
+        4.0,
+        1.3333333333333333,
+        0.0,
+        3.5,
+        3.5
+      ]
+    },
+    "139": {
+      "faithfulness": 0.49551621891772746,
+      "num_concepts": 6,
+      "concepts_used": [
+        "claim",
+        "comparison",
+        "defense",
+        "investors",
+        "location",
+        "regulations"
+      ],
+      "CE_values": [
+        0.0894469370110712,
+        0.005701089364258667,
+        0.04471821817456689,
+        0.009427496412556654,
+        0.0012361810302619904,
+        0.004622475907346666
+      ],
+      "EE_values": [
+        3.3333333333333335,
+        2.6666666666666665,
+        4.0,
+        2.3333333333333335,
+        3.0,
+        3.3333333333333335
+      ]
+    },
+    "14": {
+      "faithfulness": 0.24522736903907982,
+      "num_concepts": 5,
+      "concepts_used": [
+        "conduct",
+        "location",
+        "purpose",
+        "rebel leader's role",
+        "referral source"
+      ],
+      "CE_values": [
+        0.0018273689906489763,
+        0.02027930584260153,
+        0.0004912075804194426,
+        0.0073242629797961685,
+        1.6735204805481787
+      ],
+      "EE_values": [
+        2.0,
+        4.0,
+        1.0,
+        1.0,
+        2.6666666666666665
+      ]
+    },
+    "140": {
+      "faithfulness": 0.17272886505417245,
+      "num_concepts": 7,
+      "concepts_used": [
+        "alleged purpose",
+        "casualties",
+        "conflict type",
+        "damage",
+        "location",
+        "perpetrator",
+        "target"
+      ],
+      "CE_values": [
+        0.011546099834153684,
+        0.32652290281536483,
+        0.011566448473951397,
+        0.05426308289052354,
+        0.1028753041883298,
+        0.012867735221631323,
+        0.563333561884116
+      ],
+      "EE_values": [
+        3.6666666666666665,
+        1.5,
+        4.0,
+        1.5,
+        2.0,
+        2.0,
+        4.0
+      ]
+    },
+    "141": {
+      "faithfulness": -0.3853389428759036,
+      "num_concepts": 7,
+      "concepts_used": [
+        "destination",
+        "hostages",
+        "jurisdiction basis",
+        "prosecutor",
+        "protestor",
+        "ship flag",
+        "ship location"
+      ],
+      "CE_values": [
+        0.0021267573382350025,
+        0.00039783497154336346,
+        0.059029632368709006,
+        0.0007475845494071635,
+        0.010246757056358741,
+        0.325408255696969,
+        0.017731763674409807
+      ],
+      "EE_values": [
+        2.0,
+        1.0,
+        4.0,
+        3.6666666666666665,
+        3.0,
+        1.3333333333333333,
+        4.0
+      ]
+    },
+    "142": {
+      "faithfulness": 0.6118148635926611,
+      "num_concepts": 6,
+      "concepts_used": [
+        "court",
+        "legal principle invoked",
+        "regime",
+        "result",
+        "sanctions",
+        "violation"
+      ],
+      "CE_values": [
+        0.00045305899541307656,
+        0.0041714591383871045,
+        0.0005474605608158423,
+        0.00025241772587614967,
+        0.00023386528442579803,
+        0.00024664874716694423
+      ],
+      "EE_values": [
+        3.3333333333333335,
+        4.0,
+        1.5,
+        2.5,
+        3.0,
+        3.0
+      ]
+    },
+    "143": {
+      "faithfulness": 0.8024209384082948,
+      "num_concepts": 5,
+      "concepts_used": [
+        "State A claim",
+        "accusation",
+        "asylum seeker status",
+        "home country",
+        "risk in home country"
+      ],
+      "CE_values": [
+        0.0176766768215946,
+        0.00916234952550608,
+        0.052859249884229804,
+        0.0034649702953280645,
+        0.08082680597430665
+      ],
+      "EE_values": [
+        3.3333333333333335,
+        2.0,
+        3.0,
+        2.5,
+        4.0
+      ]
+    },
+    "144": {
+      "faithfulness": 0.28141030927217986,
+      "num_concepts": 5,
+      "concepts_used": [
+        "accusation",
+        "purpose of data",
+        "state providing data",
+        "state receiving data",
+        "type of data"
+      ],
+      "CE_values": [
+        0.0007222345514281345,
+        0.014603610286391011,
+        0.0011272242040256527,
+        0.0003826809686666853,
+        0.0013816459044455605
+      ],
+      "EE_values": [
+        3.5,
+        4.0,
+        4.0,
+        4.0,
+        2.0
+      ]
+    },
+    "145": {
+      "faithfulness": 0.42479157844840715,
+      "num_concepts": 5,
+      "concepts_used": [
+        "agreement",
+        "discovery",
+        "location",
+        "state_r",
+        "state_s"
+      ],
+      "CE_values": [
+        0.011303743182715468,
+        0.001529582051973276,
+        0.004986750413139122,
+        0.053558241419842646,
+        0.0022574334568738886
+      ],
+      "EE_values": [
+        0.0,
+        3.0,
+        4.0,
+        4.0,
+        0.0
+      ]
+    },
+    "146": {
+      "faithfulness": null,
+      "num_concepts": 1,
+      "concepts_used": [
+        "registration state"
+      ],
+      "CE_values": [
+        1.3290135563857604
+      ],
+      "EE_values": [
+        4.0
+      ]
+    },
+    "147": {
+      "faithfulness": 0.40278839369595404,
+      "num_concepts": 7,
+      "concepts_used": [
+        "allegations",
+        "forum",
+        "occupying state",
+        "plaintiffs",
+        "purpose",
+        "resources extracted",
+        "territory"
+      ],
+      "CE_values": [
+        0.003456472736222787,
+        0.0003183023782439813,
+        0.00010283270511449086,
+        0.0004624271697150457,
+        0.06864773651130437,
+        0.00797700705050578,
+        0.0010142409033944914
+      ],
+      "EE_values": [
+        0.0,
+        2.0,
+        3.5,
+        1.3333333333333333,
+        4.0,
+        4.0,
+        3.6666666666666665
+      ]
+    },
+    "149": {
+      "faithfulness": 0.10998584493347009,
+      "num_concepts": 6,
+      "concepts_used": [
+        "autonomous government",
+        "cyberattacks",
+        "defense",
+        "economic impact",
+        "government actions",
+        "military presence"
+      ],
+      "CE_values": [
+        0.00814339445965916,
+        0.0008213924502505181,
+        0.030758944390546984,
+        0.0010413848014576552,
+        0.0010125516189941194,
+        0.001424557163364387
+      ],
+      "EE_values": [
+        3.0,
+        4.0,
+        3.0,
+        1.0,
+        1.75,
+        4.0
+      ]
+    },
+    "15": {
+      "faithfulness": 0.324306401262279,
+      "num_concepts": 4,
+      "concepts_used": [
+        "exporting country",
+        "imported goods",
+        "importing country",
+        "tariff rate"
+      ],
+      "CE_values": [
+        0.00024058417062874715,
+        0.0020959769539075565,
+        0.0008690173021570503,
+        0.023550834046250572
+      ],
+      "EE_values": [
+        1.5,
+        3.5,
+        2.6666666666666665,
+        3.0
+      ]
+    },
+    "150": {
+      "faithfulness": 0.13283296872672343,
+      "num_concepts": 7,
+      "concepts_used": [
+        "cause of uninhabitability",
+        "country",
+        "government status",
+        "host country",
+        "legal claim",
+        "population status",
+        "protection status"
+      ],
+      "CE_values": [
+        0.001613726227858293,
+        0.0006154175927129879,
+        0.001233549522102708,
+        0.0011069055024884606,
+        0.013685144768652298,
+        0.0014788039243463311,
+        0.0020782602054531633
+      ],
+      "EE_values": [
+        2.0,
+        2.5,
+        2.0,
+        4.0,
+        2.6666666666666665,
+        1.0,
+        2.0
+      ]
+    },
+    "17": {
+      "faithfulness": 0.5102332153508773,
+      "num_concepts": 6,
+      "concepts_used": [
+        "action taken",
+        "country",
+        "investigation initiated by",
+        "reports",
+        "role",
+        "source of reports"
+      ],
+      "CE_values": [
+        0.028915056597917495,
+        0.0003572625867532375,
+        0.0026758357738910937,
+        0.003433470613813299,
+        0.002496124447202008,
+        0.00436037424860451
+      ],
+      "EE_values": [
+        4.0,
+        0.3333333333333333,
+        1.0,
+        4.0,
+        3.5,
+        2.6666666666666665
+      ]
+    },
+    "19": {
+      "faithfulness": null,
+      "num_concepts": 0,
+      "concepts_used": [],
+      "CE_values": [],
+      "EE_values": []
+    },
+    "21": {
+      "faithfulness": 0.3009480865221176,
+      "num_concepts": 4,
+      "concepts_used": [
+        "investor country",
+        "tax type",
+        "taxing country",
+        "treaty provision"
+      ],
+      "CE_values": [
+        0.0010194196016811027,
+        0.06394944100776327,
+        0.0007261809698081386,
+        0.15092668792922406
+      ],
+      "EE_values": [
+        1.3333333333333333,
+        3.6666666666666665,
+        3.5,
+        3.0
+      ]
+    },
+    "22": {
+      "faithfulness": 0.9666272025033569,
+      "num_concepts": 5,
+      "concepts_used": [
+        "complaint_venue",
+        "country_affected",
+        "country_closing_airspace",
+        "international_agreement",
+        "reason_for_closure"
+      ],
+      "CE_values": [
+        0.0017049332617828413,
+        0.0016024557300163029,
+        0.0009638044090397906,
+        0.0722301011775991,
+        0.0733605257064928
+      ],
+      "EE_values": [
+        1.0,
+        1.3333333333333333,
+        2.0,
+        4.0,
+        4.0
+      ]
+    },
+    "23": {
+      "faithfulness": -0.04000362287024505,
+      "num_concepts": 4,
+      "concepts_used": [
+        "executive role",
+        "executive's involvement",
+        "executive's knowledge",
+        "support provided"
+      ],
+      "CE_values": [
+        0.007747998289714915,
+        0.001399687921398034,
+        0.004372202641405081,
+        0.11897848830598737
+      ],
+      "EE_values": [
+        1.0,
+        4.0,
+        4.0,
+        3.0
+      ]
+    },
+    "24": {
+      "faithfulness": 0.7414994059783889,
+      "num_concepts": 3,
+      "concepts_used": [
+        "action",
+        "forum",
+        "organization_type"
+      ],
+      "CE_values": [
+        0.20598048263192453,
+        0.012880394167663949,
+        0.007963793778974599
+      ],
+      "EE_values": [
+        4.0,
+        1.0,
+        3.0
+      ]
+    },
+    "26": {
+      "faithfulness": 0.960579647952202,
+      "num_concepts": 5,
+      "concepts_used": [
+        "ICC consideration",
+        "alleged crimes",
+        "alleged perpetrators",
+        "country",
+        "domestic investigation status"
+      ],
+      "CE_values": [
+        0.009469759543524511,
+        0.0014481665468332374,
+        0.0023853048740888902,
+        0.0027874029662298167,
+        0.015713259467107575
+      ],
+      "EE_values": [
+        3.0,
+        1.6666666666666667,
+        2.0,
+        1.25,
+        4.0
+      ]
+    },
+    "27": {
+      "faithfulness": -0.14769403564014316,
+      "num_concepts": 7,
+      "concepts_used": [
+        "cited justification",
+        "detaining country",
+        "detention allegation",
+        "prior notification",
+        "vessel destination",
+        "vessel origin",
+        "vessel type"
+      ],
+      "CE_values": [
+        0.12971830937626577,
+        0.005386961451287469,
+        0.020900962612926816,
+        0.029527615080886832,
+        0.19732120687174223,
+        0.01410801671344179,
+        0.03253482239384914
+      ],
+      "EE_values": [
+        0.0,
+        3.5,
+        3.3333333333333335,
+        3.0,
+        4.0,
+        2.0,
+        4.0
+      ]
+    },
+    "28": {
+      "faithfulness": -0.0913815694628819,
+      "num_concepts": 4,
+      "concepts_used": [
+        "challenge",
+        "country_ban",
+        "disease_status",
+        "reason_for_ban"
+      ],
+      "CE_values": [
+        0.015487195242736077,
+        0.008342868174411386,
+        0.017519996053493178,
+        0.009742648517157327
+      ],
+      "EE_values": [
+        1.5,
+        3.0,
+        4.0,
+        3.6666666666666665
+      ]
+    },
+    "3": {
+      "faithfulness": 0.24247550146218363,
+      "num_concepts": 3,
+      "concepts_used": [
+        "act",
+        "defense",
+        "violation"
+      ],
+      "CE_values": [
+        0.0008095091696617264,
+        0.02237075027144182,
+        0.3520450216883387
+      ],
+      "EE_values": [
+        2.0,
+        4.0,
+        3.3333333333333335
+      ]
+    },
+    "30": {
+      "faithfulness": 0.6230331001954111,
+      "num_concepts": 4,
+      "concepts_used": [
+        "armed force",
+        "civilians present",
+        "situation",
+        "target"
+      ],
+      "CE_values": [
+        0.013001823076952804,
+        0.9803363596702317,
+        0.012155307673149731,
+        0.04414812020430747
+      ],
+      "EE_values": [
+        2.5,
+        4.0,
+        0.6666666666666666,
+        3.5
+      ]
+    },
+    "32": {
+      "faithfulness": 0.6048050966267493,
+      "num_concepts": 4,
+      "concepts_used": [
+        "charge",
+        "defense",
+        "fear",
+        "role"
+      ],
+      "CE_values": [
+        0.039084879493662045,
+        0.13509445242776014,
+        0.021655897504266712,
+        0.004298204631418247
+      ],
+      "EE_values": [
+        3.0,
+        4.0,
+        4.0,
+        2.5
+      ]
+    },
+    "33": {
+      "faithfulness": 0.46965816360977675,
+      "num_concepts": 6,
+      "concepts_used": [
+        "fishing location",
+        "fishing vessel origin",
+        "protestor",
+        "pursuit location",
+        "seizing authority",
+        "vessel status"
+      ],
+      "CE_values": [
+        0.1867991591108892,
+        0.0011278649045329784,
+        0.015457593852561097,
+        0.038455947044708234,
+        0.002721680337987257,
+        0.06497786010029535
+      ],
+      "EE_values": [
+        4.0,
+        1.3333333333333333,
+        1.0,
+        4.0,
+        4.0,
+        4.0
+      ]
+    },
+    "34": {
+      "faithfulness": -0.5196626171913253,
+      "num_concepts": 3,
+      "concepts_used": [
+        "conduct",
+        "location",
+        "status"
+      ],
+      "CE_values": [
+        0.024647158073486948,
+        0.004069091584242963,
+        0.02519764081597859
+      ],
+      "EE_values": [
+        3.0,
+        3.0,
+        1.0
+      ]
+    },
+    "35": {
+      "faithfulness": 0.47192909493086477,
+      "num_concepts": 6,
+      "concepts_used": [
+        "cost",
+        "country",
+        "label design",
+        "product",
+        "purpose",
+        "requirement"
+      ],
+      "CE_values": [
+        0.05474763552743512,
+        0.0009689551777326307,
+        0.09658418215307152,
+        0.0013330234427783062,
+        0.0034138501170632943,
+        0.001987252250441209
+      ],
+      "EE_values": [
+        3.0,
+        1.0,
+        4.0,
+        2.6666666666666665,
+        3.0,
+        4.0
+      ]
+    },
+    "36": {
+      "faithfulness": 0.3903723547938453,
+      "num_concepts": 7,
+      "concepts_used": [
+        "arbitration mechanism",
+        "cause of action",
+        "defendant state",
+        "duration of case",
+        "forum",
+        "investor's state",
+        "justification for delay"
+      ],
+      "CE_values": [
+        0.008869541867868437,
+        0.006460287898319499,
+        0.0003112282334098606,
+        0.00403300632134719,
+        0.05790637226345343,
+        0.0008291323468361668,
+        0.027146513767380493
+      ],
+      "EE_values": [
+        3.5,
+        3.5,
+        3.0,
+        4.0,
+        3.6666666666666665,
+        2.0,
+        3.6666666666666665
+      ]
+    },
+    "4": {
+      "faithfulness": -0.0512759144870562,
+      "num_concepts": 3,
+      "concepts_used": [
+        "claim",
+        "interpretation",
+        "orders"
+      ],
+      "CE_values": [
+        0.006590309752070094,
+        0.001090730626968124,
+        0.001958221512750718
+      ],
+      "EE_values": [
+        2.3333333333333335,
+        4.0,
+        0.0
+      ]
+    },
+    "40": {
+      "faithfulness": 0.6177659411745084,
+      "num_concepts": 5,
+      "concepts_used": [
+        "awareness",
+        "claim",
+        "conduct",
+        "location",
+        "role"
+      ],
+      "CE_values": [
+        0.0023129528264241818,
+        0.008282045694971242,
+        0.015655179694425807,
+        0.0003928667066333518,
+        0.010562834647586334
+      ],
+      "EE_values": [
+        4.0,
+        2.75,
+        4.0,
+        0.3333333333333333,
+        3.6666666666666665
+      ]
+    },
+    "41": {
+      "faithfulness": null,
+      "num_concepts": 0,
+      "concepts_used": [],
+      "CE_values": [],
+      "EE_values": []
+    },
+    "42": {
+      "faithfulness": 0.7975558762164596,
+      "num_concepts": 5,
+      "concepts_used": [
+        "actor",
+        "location",
+        "method",
+        "result",
+        "target"
+      ],
+      "CE_values": [
+        0.01548030425525554,
+        0.060914558873264676,
+        0.01208875354301013,
+        0.15786745201103566,
+        0.31990175776895124
+      ],
+      "EE_values": [
+        1.0,
+        2.6666666666666665,
+        2.0,
+        4.0,
+        3.75
+      ]
+    },
+    "44": {
+      "faithfulness": null,
+      "num_concepts": 1,
+      "concepts_used": [
+        "accused_claim"
+      ],
+      "CE_values": [
+        0.20713117652892904
+      ],
+      "EE_values": [
+        3.6666666666666665
+      ]
+    },
+    "45": {
+      "faithfulness": 0.3227908147131864,
+      "num_concepts": 4,
+      "concepts_used": [
+        "investor's action",
+        "investor's argument",
+        "local remedies used",
+        "reason for bypassing local remedies"
+      ],
+      "CE_values": [
+        0.010747273499573362,
+        0.0692478289690125,
+        0.09563458961665083,
+        0.0015918542133255462
+      ],
+      "EE_values": [
+        3.0,
+        3.5,
+        4.0,
+        4.0
+      ]
+    },
+    "46": {
+      "faithfulness": 0.554584413632577,
+      "num_concepts": 5,
+      "concepts_used": [
+        "conduct",
+        "prior notice",
+        "protest",
+        "territorial sea",
+        "warship country"
+      ],
+      "CE_values": [
+        0.27944421166390626,
+        0.03417003888232955,
+        0.022202316769888444,
+        0.02063769203196028,
+        0.0029835714788061882
+      ],
+      "EE_values": [
+        4.0,
+        2.0,
+        1.0,
+        4.0,
+        2.3333333333333335
+      ]
+    },
+    "48": {
+      "faithfulness": null,
+      "num_concepts": 1,
+      "concepts_used": [
+        "commanders"
+      ],
+      "CE_values": [
+        0.0026160004396816473
+      ],
+      "EE_values": [
+        3.3333333333333335
+      ]
+    },
+    "5": {
+      "faithfulness": 0.6270183752076786,
+      "num_concepts": 4,
+      "concepts_used": [
+        "claim",
+        "conduct",
+        "location",
+        "protest"
+      ],
+      "CE_values": [
+        0.0218904268505154,
+        0.3354739930187924,
+        0.13831230790186716,
+        0.005667701412269088
+      ],
+      "EE_values": [
+        3.5,
+        4.0,
+        4.0,
+        1.0
+      ]
+    },
+    "52": {
+      "faithfulness": -0.9999718198708957,
+      "num_concepts": 3,
+      "concepts_used": [
+        "civilian presence",
+        "treaty status",
+        "weapon"
+      ],
+      "CE_values": [
+        0.08367292631909799,
+        0.2977375494313223,
+        0.08180913854459292
+      ],
+      "EE_values": [
+        4.0,
+        3.5,
+        4.0
+      ]
+    },
+    "53": {
+      "faithfulness": 0.4384102024160603,
+      "num_concepts": 4,
+      "concepts_used": [
+        "action",
+        "decision",
+        "member state",
+        "organ"
+      ],
+      "CE_values": [
+        1.5939988966147858,
+        0.08372217444009404,
+        0.39530558060889587,
+        0.055854684035846536
+      ],
+      "EE_values": [
+        4.0,
+        4.0,
+        4.0,
+        3.6666666666666665
+      ]
+    },
+    "55": {
+      "faithfulness": 0.7406072900225712,
+      "num_concepts": 4,
+      "concepts_used": [
+        "enclosed_waters_status",
+        "ship_action",
+        "state",
+        "state_type"
+      ],
+      "CE_values": [
+        0.08840681945554214,
+        0.16191056939036844,
+        0.0011446632223951253,
+        0.026045025018998542
+      ],
+      "EE_values": [
+        0.0,
+        4.0,
+        1.0,
+        0.0
+      ]
+    },
+    "56": {
+      "faithfulness": 0.6980141473064012,
+      "num_concepts": 4,
+      "concepts_used": [
+        "context",
+        "defense claim",
+        "order",
+        "soldier's role"
+      ],
+      "CE_values": [
+        0.004146084703674628,
+        0.08024824966366716,
+        0.031027747541185712,
+        0.0029101653658369733
+      ],
+      "EE_values": [
+        2.0,
+        3.6666666666666665,
+        4.0,
+        2.6666666666666665
+      ]
+    },
+    "6": {
+      "faithfulness": null,
+      "num_concepts": 1,
+      "concepts_used": [
+        "target country"
+      ],
+      "CE_values": [
+        0.005382580813964099
+      ],
+      "EE_values": [
+        3.0
+      ]
+    },
+    "7": {
+      "faithfulness": 0.611639598312022,
+      "num_concepts": 5,
+      "concepts_used": [
+        "cause of death",
+        "claim",
+        "employer",
+        "location",
+        "role"
+      ],
+      "CE_values": [
+        0.0070911872590756165,
+        0.945736200167496,
+        0.06462830058217005,
+        0.012953745752041633,
+        0.04477602674402386
+      ],
+      "EE_values": [
+        0.6666666666666666,
+        4.0,
+        2.0,
+        1.0,
+        4.0
+      ]
+    },
+    "77": {
+      "faithfulness": -0.9999999999999999,
+      "num_concepts": 2,
+      "concepts_used": [
+        "crimes",
+        "jurisdiction"
+      ],
+      "CE_values": [
+        0.2131877660380079,
+        0.09744513707473595
+      ],
+      "EE_values": [
+        3.75,
+        4.0
+      ]
+    },
+    "8": {
+      "faithfulness": 1.0,
+      "num_concepts": 2,
+      "concepts_used": [
+        "Country Z's response",
+        "resolution"
+      ],
+      "CE_values": [
+        0.09227812394369272,
+        0.17005229995662677
+      ],
+      "EE_values": [
+        2.0,
+        4.0
+      ]
+    },
+    "9": {
+      "faithfulness": 0.7081052582893557,
+      "num_concepts": 4,
+      "concepts_used": [
+        "accusation",
+        "country",
+        "potential intervener",
+        "role"
+      ],
+      "CE_values": [
+        0.005882913076005296,
+        0.003053847406797422,
+        0.020786973847569147,
+        0.03740703561316711
+      ],
+      "EE_values": [
+        2.0,
+        3.0,
+        3.3333333333333335,
+        3.5
+      ]
+    },
+    "91": {
+      "faithfulness": -0.14664395301990232,
+      "num_concepts": 8,
+      "concepts_used": [
+        "accusation",
+        "claim",
+        "conflict type",
+        "domestic implementation",
+        "former head of state",
+        "legal basis",
+        "travel destination",
+        "treaty"
+      ],
+      "CE_values": [
+        0.008496797924857788,
+        0.05010738891494163,
+        0.001731882323392287,
+        0.17858171921510074,
+        0.0009812026411678972,
+        0.07670027247276717,
+        0.0007435373620048273,
+        0.08243657488361247
+      ],
+      "EE_values": [
+        4.0,
+        3.5,
+        2.0,
+        3.0,
+        4.0,
+        3.5,
+        3.0,
+        2.5
+      ]
+    },
+    "92": {
+      "faithfulness": null,
+      "num_concepts": 1,
+      "concepts_used": [
+        "state conducting strike"
+      ],
+      "CE_values": [
+        0.0012646851440529516
+      ],
+      "EE_values": [
+        3.0
+      ]
+    },
+    "93": {
+      "faithfulness": 1.0,
+      "num_concepts": 2,
+      "concepts_used": [
+        "attack_origin",
+        "forum"
+      ],
+      "CE_values": [
+        0.018838480148639737,
+        0.0013257273988306374
+      ],
+      "EE_values": [
+        3.0,
+        1.0
+      ]
+    },
+    "94": {
+      "faithfulness": null,
+      "num_concepts": 1,
+      "concepts_used": [
+        "protest"
+      ],
+      "CE_values": [
+        0.006449230405845625
+      ],
+      "EE_values": [
+        2.0
+      ]
+    }
+  }
+}

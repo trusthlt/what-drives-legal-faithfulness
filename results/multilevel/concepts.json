@@ -1,0 +1,772 @@
+{
+    "28": {
+        "country_ban": "Country L bans poultry imports from Country M",
+        "reason_for_ban": "avian influenza concerns",
+        "disease_status": "WHO declares Country M disease-free",
+        "challenge": "Country M challenges the ban at the WTO"
+    },
+    "9": {
+        "country": "X",
+        "role": "low-level soldier",
+        "accusation": "war crimes",
+        "action": "prosecution",
+        "status of top generals": "shielded",
+        "potential intervener": "ICC"
+    },
+    "123": {
+        "drone_autonomy": "fully autonomous",
+        "drone_deployer": "State X",
+        "target_struck": "civilian convoy",
+        "target_misidentification_reason": "software error",
+        "algorithm_designer": "private contractor in State Y"
+    },
+    "34": {
+        "location": "State S",
+        "status": "drug cartel leader",
+        "conduct": "systematic torture of rival gang members",
+        "treaty": "Rome Statute",
+        "treaty party": "no"
+    },
+    "139": {
+        "regulations": "emergency regulations banning lithium extraction",
+        "location": "State X",
+        "investors": "foreign investors from State Y",
+        "claim": "expropriation and breach of MFN clause",
+        "comparison": "more favorable treatment to investors from State Z",
+        "defense": "environmental exception clause"
+    },
+    "146": {
+        "launch state": "State L",
+        "registration state": "State J",
+        "operator state": "State K",
+        "object type": "private satellite",
+        "target type": "manned space station",
+        "damage type": "injuries and property loss"
+    },
+    "38": {
+        "resolution": "UN Security Council resolution under Chapter VII",
+        "requirement": "freeze assets of a rebel group",
+        "country": "Country E",
+        "action": "refusal",
+        "reason": "national sovereignty"
+    },
+    "27": {
+        "vessel type": "research vessel",
+        "vessel origin": "Country J",
+        "vessel destination": "EEZ of Country K",
+        "prior notification": "none",
+        "cited justification": "freedom of scientific exploration",
+        "detaining country": "Country K",
+        "detention allegation": "breach of sovereign rights"
+    },
+    "8": {
+        "resolution": "UN General Assembly passes a resolution declaring Country Z’s actions as genocide and demands intervention",
+        "Country Z's response": "refuses, claiming the resolution is non-binding"
+    },
+    "16": {
+        "organization": "international organization",
+        "resolution": "binding resolution authorizing sanctions",
+        "target": "Member State",
+        "compliance": "refuses to comply",
+        "argument": "resolution lacked unanimous approval",
+        "violation": "sovereign equality"
+    },
+    "150": {
+        "country": "State K",
+        "cause of uninhabitability": "sea-level rise",
+        "government status": "government-in-exile",
+        "host country": "State M",
+        "population status": "dispersed globally",
+        "protection status": "temporary protection status",
+        "action by host country": "deportation",
+        "reason for deportation": "national security",
+        "legal claim": "violation of right to life and family",
+        "legal basis": "ICCPR",
+        "host country's argument": "environmental migrants not protected under 1951 Refugee Convention",
+        "host country's suggestion": "go to other third countries"
+    },
+    "147": {
+        "territory": "Territory X",
+        "occupying state": "State M",
+        "resources extracted": "oil and timber",
+        "purpose": "administer the territory",
+        "plaintiffs": "local authorities",
+        "allegations": "pillage and resource exploitation",
+        "forum": "international court"
+    },
+    "127": {
+        "country": "State C",
+        "status": "developed country",
+        "action": "refuses to update NDC",
+        "reason": "rapidly developing countries emit more and should act first",
+        "treaty": "Paris Agreement"
+    },
+    "119": {
+        "state_imposing_sanctions": "State H",
+        "targeted_companies_nationality": "State J",
+        "targeted_project_type": "nuclear energy project",
+        "targeted_project_location": "State I",
+        "sanctions_justification": "non-proliferation concerns",
+        "challenge_basis": "WTO and energy trade norms"
+    },
+    "145": {
+        "state_r": "State R",
+        "state_s": "State S",
+        "discovery": "gas field",
+        "location": "overlapping claimed continental shelf",
+        "claims_submitted_to": "Commission on the Limits of the Continental Shelf (CLCS)",
+        "agreement": "none",
+        "action": "State R starts drilling operations"
+    },
+    "56": {
+        "soldier's role": "soldier",
+        "order": "shoot unarmed detainees",
+        "context": "armed conflict",
+        "defense claim": "fear of punishment for disobedience"
+    },
+    "55": {
+        "state": "State U",
+        "state_type": "archipelagic State",
+        "baselines": "straight baselines connecting its outermost islands",
+        "enclosed_waters_status": "internal",
+        "ship": "foreign ship",
+        "ship_action": "protests being denied passage"
+    },
+    "115": {
+        "border zone location": "State R, under State Q’s de facto control",
+        "victims": "migrants",
+        "conduct": "shoot and kill",
+        "complaint mechanism": "ICCPR"
+    },
+    "140": {
+        "location": "nearby city",
+        "casualties": "hundreds of civilians",
+        "target": "hydroelectric dam",
+        "damage": "flooding",
+        "alleged purpose": "supplying electricity to rebel command center",
+        "conflict type": "non-international armed conflict",
+        "perpetrator": "State M",
+        "conduct": "bombing"
+    },
+    "144": {
+        "state providing data": "State F",
+        "state receiving data": "State G",
+        "type of data": "satellite imagery and surveillance data",
+        "purpose of data": "identify and execute opposition members",
+        "context of use": "internal conflict",
+        "accusation": "aiding war crimes"
+    },
+    "10": {
+        "investor": "invokes arbitration under BIT",
+        "dispute resolution clause": "requires disputes to be first resolved in domestic courts",
+        "tribunal": "accepts jurisdiction",
+        "tribunal's reason": "futility of local remedies"
+    },
+    "21": {
+        "investor country": "Country D",
+        "taxing country": "Country E",
+        "tax type": "sovereign fiscal measure",
+        "treaty provision": "fair and equitable treatment (FET) standard in their BIT"
+    },
+    "124": {
+        "state providing support": "State A",
+        "recipient of support": "Rebel Group X",
+        "location of recipient": "State B",
+        "type of support": "weapons and training",
+        "purpose of support": "overthrow State B’s government",
+        "conduct of recipient": "terrorist attacks against civilians",
+        "action taken by location of recipient": "strikes State A’s military bases",
+        "basis for action": "self-defense",
+        "argument of state providing support": "did not directly control Rebel Group X"
+    },
+    "29": {
+        "investor country": "Country N",
+        "host country": "Country O",
+        "favorable procedures country": "another BIT Country O has signed",
+        "procedural rights": "arbitration"
+    },
+    "109": {
+        "state_refusing_overflight": "State R",
+        "state_in_crisis": "State S",
+        "type_of_aircraft": "humanitarian aircraft",
+        "purpose_of_flight": "delivering aid",
+        "crisis_in_state": "famine",
+        "conflict_in_state": "civil war",
+        "aircraft_origin": "State T",
+        "aircraft_operator": "ICRC",
+        "state_t_claim": "humanitarian necessity exception",
+        "state_r_claim": "sovereignty and UN Charter Article 2(7)"
+    },
+    "110": {
+        "state sending forces": "State U",
+        "state receiving forces": "State V",
+        "consent for intervention": "without consent",
+        "claimed justification": "protection of nationals",
+        "threat to nationals": "from local militias",
+        "protest by receiving state": "yes"
+    },
+    "134": {
+        "attacker": "terrorist group",
+        "attacked state": "State A",
+        "terrorist group's base": "State B’s territory",
+        "State B's response": "refuses to intervene",
+        "State B's justification": "sovereignty and lack of control",
+        "State C's action": "launches drone strikes",
+        "State C's target": "terrorist group in State B",
+        "State C's relationship to A": "treaty ally",
+        "State D's relationship to B": "allied",
+        "State D's action": "brings a claim to the ICJ",
+        "State D's accusation": "C of aggression"
+    },
+    "24": {
+        "organization_type": "treaty-based",
+        "action": "amend charter to exclude Member State",
+        "reason": "failing to meet democratic standards",
+        "expelled_state_claim": "decision is ultra vires",
+        "forum": "ICJ"
+    },
+    "133": {
+        "location": "near State B",
+        "tension level": "heightened",
+        "attribution basis": "State C's submarines nearby, dark web chatter, previous cyberattacks",
+        "accused party": "State C",
+        "evidence type": "circumstantial",
+        "action": "severing international internet cables",
+        "method": "unmarked underwater drones"
+    },
+    "25": {
+        "target": "warehouse used by enemy forces and storing humanitarian aid",
+        "strike result": "destruction of both weapons and relief supplies"
+    },
+    "111": {
+        "state": "State A",
+        "status": "former colony",
+        "treaty": "key human rights treaty",
+        "timing": "post-independence",
+        "government": "populist government",
+        "action": "declaration of withdrawal",
+        "reason": "foreign pressure",
+        "treaty clause": "lacks denunciation clause",
+        "challenge": "human rights groups",
+        "forum": "regional court"
+    },
+    "48": {
+        "commanders": "three",
+        "ethnic group": "one",
+        "orders issued": "one",
+        "awareness of plan": "all"
+    },
+    "7": {
+        "role": "civilian engineer",
+        "employer": "weapons manufacturer",
+        "location": "warzone",
+        "cause of death": "airstrike",
+        "claim": "direct participation in hostilities"
+    },
+    "53": {
+        "organ": "international organization",
+        "action": "acts beyond its mandate",
+        "member state": "refuses to comply",
+        "decision": "resulting decision"
+    },
+    "42": {
+        "location": "wedding ceremony",
+        "target": "insurgent commander",
+        "actor": "State I",
+        "method": "drone strike",
+        "result": "collateral civilian deaths"
+    },
+    "6": {
+        "country deploying drones": "Country X",
+        "target country": "Country Y",
+        "consent for surveillance": "without Y’s consent",
+        "purpose of deployment": "surveillance",
+        "claimed justification": "self-defense against non-state actors",
+        "involvement of target country": "not involved in the hostilities"
+    },
+    "4": {
+        "orders": "ambiguous",
+        "interpretation": "authorization for indiscriminate attacks",
+        "claim": "didn’t directly order the war crimes"
+    },
+    "41": {
+        "imported dairy products": "higher inspection fees",
+        "domestic dairy products": "lower inspection fees",
+        "country": "H",
+        "claim": "supports local farmers"
+    },
+    "112": {
+        "location": "State B",
+        "event": "nationwide blackout",
+        "cause": "malware attack",
+        "source": "State C's military cyber unit",
+        "casualties": "none",
+        "impact": "hospital disruptions and economic loss",
+        "consideration": "invoking Article 51 of the UN Charter"
+    },
+    "126": {
+        "pollutant source": "Industrial activities in State A",
+        "pollutant type": "airborne pollutants",
+        "pollutant destination": "State B",
+        "pollutant effect": "acid rain",
+        "damage": "forests and crops",
+        "State A's claim": "emissions are legal under its domestic law"
+    },
+    "121": {
+        "exporting_state": "State P",
+        "exported_materials": "rare earth minerals",
+        "importing_state": "State Q",
+        "legal_basis": "GATT Article XXI",
+        "challenge_forum": "WTO"
+    },
+    "60": {
+        "investor status": "foreign",
+        "denied right": "appeal",
+        "judgment characteristic": "clearly biased",
+        "location": "host State",
+        "remedy sought": "international arbitration",
+        "alleged violation": "denial of justice"
+    },
+    "5": {
+        "location": "150 nautical miles of Country B’s coast, inside B’s Exclusive Economic Zone (EEZ)",
+        "conduct": "naval exercises, including live-fire drills",
+        "protest": "Country B protests",
+        "claim": "violation of UNCLOS"
+    },
+    "13": {
+        "dispute_parties": "multinational corporation and a State",
+        "dispute_subject": "expropriation of a solar energy plant",
+        "arbitration_mechanism": "ICSID arbitration",
+        "State_position": "refuses arbitration, claims national courts must resolve the dispute due to public interest"
+    },
+    "46": {
+        "warship country": "State J",
+        "territorial sea": "State K",
+        "prior notice": "none",
+        "conduct": "radar mapping",
+        "protest": "State K"
+    },
+    "91": {
+        "former head of state": "M",
+        "accusation": "war crimes",
+        "conflict type": "internal armed conflict",
+        "travel destination": "State Q",
+        "legal basis": "universal jurisdiction",
+        "treaty": "Rome Statute",
+        "domestic implementation": "none",
+        "claim": "immunity ratione personae"
+    },
+    "19": {
+        "warship country": "State A",
+        "zone entered": "contiguous zone of State B",
+        "distance from shore": "12–24 nautical miles",
+        "notification given": "no",
+        "demand made": "yes",
+        "alleged violation": "violation of sovereignty"
+    },
+    "93": {
+        "attack_origin": "servers in State E",
+        "attackers_funding": "E’s military intelligence",
+        "State_E_denial": "denies involvement",
+        "forum": "ICJ"
+    },
+    "137": {
+        "contested EEZ": "shared with State G",
+        "construction": "deep-sea mining facility",
+        "protest": "State G",
+        "claim": "State F's exclusive right under historic usage"
+    },
+    "17": {
+        "role": "general",
+        "country": "Country Z",
+        "reports": "credible reports of mass executions",
+        "source of reports": "battalion under his command",
+        "action taken": "no action to investigate or prevent further crimes",
+        "investigation initiated by": "ICC"
+    },
+    "113": {
+        "armed group location": "State X",
+        "target": "State Y’s oil fields",
+        "attack method": "drone strikes",
+        "State Y claim": "State X is responsible for failing to prevent the group’s actions",
+        "State X response": "denies knowledge or control over the group",
+        "forum": "ICJ"
+    },
+    "138": {
+        "state with power grid failure": "State A",
+        "cause of failure": "malware",
+        "source of malware": "hacking group",
+        "location of hacking group": "State B",
+        "State B's response to allegations": "denies involvement, refuses to investigate or extradite",
+        "State A's response": "economic sanctions, cyber counter-operation",
+        "target of counter-operation": "State B’s military network",
+        "complaint filed by": "State C",
+        "complaint recipient": "ICJ",
+        "allegation": "unlawful use of force"
+    },
+    "37": {
+        "location": "State D",
+        "target": "power plant",
+        "supply": "electricity to hospitals",
+        "status": "armed conflict",
+        "actor": "State C’s military"
+    },
+    "106": {
+        "territory_occupied": "State Y",
+        "occupying_state": "State Z",
+        "measures_imposed": "internet blackouts, curfews, bans on political gatherings",
+        "justification": "security concerns under IHL",
+        "alleged_violation": "ICCPR"
+    },
+    "14": {
+        "rebel leader's role": "leader of a non-State armed group",
+        "conduct": "systematic forced displacement of ethnic minorities",
+        "purpose": "gain territorial control",
+        "location": "non-State Party to the Rome Statute",
+        "referral source": "UN Security Council"
+    },
+    "135": {
+        "states": "State X and State Y",
+        "agreement": "defense pact",
+        "agreement terms": "allows preemptive strikes against rebel groups in third states",
+        "challenger": "human rights NGO",
+        "challenge basis": "violates peremptory norms of non-aggression"
+    },
+    "142": {
+        "regime": "suspected of funding terrorism",
+        "sanctions": "freeze all assets, including humanitarian funds",
+        "result": "widespread famine",
+        "court": "regional human rights court",
+        "violation": "right to food",
+        "legal principle invoked": "jus cogens"
+    },
+    "132": {
+        "state_actor": "State M",
+        "target": "State N",
+        "object_destroyed": "2,000-year-old temple",
+        "alleged_use": "weapons depot",
+        "condemnation_source": "UNESCO",
+        "condemnation_type": "war crime"
+    },
+    "32": {
+        "role": "soldier",
+        "charge": "war crimes",
+        "defense": "superior orders",
+        "fear": "punishment for disobedience"
+    },
+    "23": {
+        "executive role": "corporate executive",
+        "support provided": "logistical support (fuel and trucks)",
+        "recipient of support": "military regime",
+        "regime's actions": "crimes against humanity",
+        "executive's knowledge": "knowingly",
+        "executive's involvement": "no role in planning or executing the attacks"
+    },
+    "35": {
+        "country": "T",
+        "product": "foreign electronics",
+        "requirement": "new labelling requirement",
+        "purpose": "consumer protection",
+        "label design": "unique to its market",
+        "cost": "expensive reconfiguration by exporters"
+    },
+    "131": {
+        "country of origin": "State R",
+        "country of interception": "State Q",
+        "asylum seekers": "boats",
+        "action taken": "forced back without processing claims",
+        "casualties": "several drown during the pushback"
+    },
+    "136": {
+        "president's status": "sitting president of State R",
+        "indictment": "crimes against humanity by ICC",
+        "state S's status": "Rome Statute member",
+        "visit request": "from the president",
+        "diplomatic pressure": "to allow entry without arrest"
+    },
+    "128": {
+        "corporation_license_state": "State D",
+        "vessel_destination": "State E’s EEZ",
+        "waste_type": "industrial toxic waste",
+        "waste_disposal_method": "dumping",
+        "environmental_impact": "massive marine life deaths",
+        "state_responsibility_claim": "denies any international responsibility"
+    },
+    "44": {
+        "tribunal_establishment": "15 years after acts of aggression",
+        "accused_claim": "violation of prohibition on retroactive criminal law"
+    },
+    "54": {
+        "statute of limitations": "30 years",
+        "charges": "genocide",
+        "action taken": "declined to pursue",
+        "actor": "prosecutor",
+        "legal basis cited": "domestic statute of limitations"
+    },
+    "122": {
+        "company type": "private",
+        "company location": "State A",
+        "satellite destination": "space",
+        "satellite event": "crash during re-entry",
+        "damage location": "State B",
+        "State A's claim": "no control over private operator"
+    },
+    "2": {
+        "peacekeeper's country": "Country X",
+        "peacekeeper's role": "UN peacekeeper",
+        "peacekeeper's conduct": "commits a war crime",
+        "location of conduct": "host state",
+        "host state's demand": "prosecution under its domestic law",
+        "UN's claim": "immunity"
+    },
+    "107": {
+        "rebel group": "controls 70% of State F's territory",
+        "recognition status": "recognized as a belligerent by State L",
+        "conduct": "commits atrocities against civilians in occupied towns",
+        "legal action": "State F sues State L at the ICJ for aiding and abetting international crimes"
+    },
+    "94": {
+        "installer": "State G",
+        "location": "EEZ of State H",
+        "purpose": "marine research and anti-piracy operations",
+        "notification": "without notifying H",
+        "protest": "State H protests, citing UNCLOS"
+    },
+    "77": {
+        "crimes": "against the Rohingya",
+        "jurisdiction": "ICC"
+    },
+    "118": {
+        "installing state": "State F",
+        "objecting state": "State G",
+        "activity": "wind farms installation",
+        "location": "EEZ of State F",
+        "objection basis": "interference with international shipping routes",
+        "claimed right by F": "UNCLOS rights over natural resources",
+        "claimed right by G": "freedom of navigation"
+    },
+    "120": {
+        "state": "K",
+        "action": "unilateral drilling",
+        "resource": "oil reserves",
+        "location": "maritime boundary with State L",
+        "claim": "field lies entirely within its jurisdiction",
+        "objection": "State L",
+        "assertion": "violates international obligations pending delimitation"
+    },
+    "116": {
+        "pipeline_origin": "State A",
+        "pipeline_destination": "State B",
+        "pipeline_route": "State C",
+        "suspension_reason": "political dispute",
+        "suspension_actor": "State C",
+        "suspension_effect": "energy shortages in State B",
+        "invoked_treaty": "Energy Charter Treaty (ECT)",
+        "accused_violation": "transit obligations"
+    },
+    "11": {
+        "country of PMC": "Country B",
+        "country hiring PMC": "Country A",
+        "PMC conduct": "drone strikes",
+        "target": "marked Red Cross convoy",
+        "casualties": "27 civilians",
+        "PMC CEO claim": "pilots acted independently and followed Country A’s rules of engagement",
+        "complaint filed": "ICC"
+    },
+    "149": {
+        "military presence": "State X in part of State Y's territory for over a decade",
+        "autonomous government": "Republic of Z",
+        "government actions": "issues passports and signs cyber defense treaties with private firms in State X",
+        "cyberattacks": "launched by Republic of Z on State Y’s financial institutions",
+        "economic impact": "massive economic disruption in State Y",
+        "claim": "State Y brings a claim before the ICJ",
+        "defense": "State X asserts Z is autonomous and cyberspace sovereignty is evolving"
+    },
+    "52": {
+        "country": "State T",
+        "weapon": "cluster munitions",
+        "situation": "armed conflict",
+        "civilian presence": "yes",
+        "treaty status": "not a party to the Convention on Cluster Munitions"
+    },
+    "108": {
+        "company": "international company",
+        "state": "State T",
+        "treaty": "bilateral investment treaty (BIT)",
+        "action": "cancelling a mining license",
+        "reason for action": "declaring the area a protected Indigenous reserve",
+        "company's claim": "expropriation and fair and equitable treatment clauses",
+        "state's defense": "obligation under the UN Declaration on the Rights of Indigenous Peoples (UNDRIP)"
+    },
+    "18": {
+        "occupying power": "imposes new legal system",
+        "occupied territory": "imposed legal system",
+        "local population": "resists",
+        "reason for imposition": "improves judicial efficiency",
+        "basis for resistance": "violations of international law"
+    },
+    "125": {
+        "disputed maritime zone": "centuries-old treaties",
+        "state asserting historic claim": "State C",
+        "state asserting UNCLOS EEZ rights": "State D",
+        "arrested fishermen": "State C’s fishermen",
+        "arresting state": "State D"
+    },
+    "12": {
+        "coastal state": "extends EEZ claim beyond 200 nautical miles",
+        "claimed area": "seabed rich in manganese nodules",
+        "other state": "begins exploratory mining",
+        "other state's argument": "zone is part of the Area governed by ISA"
+    },
+    "31": {
+        "employee status": "employee of an international organization",
+        "organization location": "Country P",
+        "legal claim": "breach of contract",
+        "court type": "local courts",
+        "immunity claim": "functional immunity",
+        "dispute type": "private dispute"
+    },
+    "30": {
+        "armed force": "bombs urban block",
+        "target": "urban block with rebel group",
+        "civilians present": "hundreds",
+        "situation": "siege"
+    },
+    "105": {
+        "armed conflict": "State K vs non-state group",
+        "target": "weapons facility",
+        "location": "hospital",
+        "civilian presence": "patients",
+        "casualties": "over 50 civilians",
+        "claim": "dual use military objective"
+    },
+    "117": {
+        "country": "State D",
+        "industry": "coal",
+        "action": "phases out",
+        "reason": "Paris Agreement targets",
+        "affected party": "foreign investor",
+        "investor's country": "State E",
+        "investor's claim": "arbitration",
+        "claim basis": "bilateral investment treaty (BIT)",
+        "investor's argument": "expropriation and loss of legitimate expectations"
+    },
+    "15": {
+        "tariff rate": "200%",
+        "imported goods": "agricultural products",
+        "exporting country": "Country Y",
+        "importing country": "Country X",
+        "basis for tariff": "food security concerns",
+        "forum for complaint": "WTO",
+        "alleged violations": "MFN and national treatment obligations"
+    },
+    "1": {
+        "country_granting_tariff": "Country A",
+        "country_receiving_tariff": "Country B",
+        "tariff_rate": "5%",
+        "import_type": "agricultural imports",
+        "agreement_type": "bilateral agreement",
+        "claiming_country": "Country C",
+        "claimed_tariff_rate": "5%",
+        "claim_basis": "MFN",
+        "refusal_reason": "special historical ties"
+    },
+    "40": {
+        "role": "general",
+        "location": "State G",
+        "conduct": "taking no action",
+        "awareness": "torture by troops",
+        "claim": "not directly involved"
+    },
+    "22": {
+        "country_closing_airspace": "Country F",
+        "country_affected": "Country G",
+        "reason_for_closure": "political tensions",
+        "international_agreement": "Chicago Convention",
+        "complaint_venue": "ICAO"
+    },
+    "114": {
+        "diplomat's state": "State M",
+        "host state": "State N",
+        "diplomat's role": "diplomat",
+        "conduct": "engaging in human trafficking",
+        "status": "arrested",
+        "basis for arrest": "ongoing harm and public outrage",
+        "diplomat's claim": "full diplomatic immunity under the Vienna Convention on Diplomatic Relations (VCDR)"
+    },
+    "26": {
+        "country": "Country H",
+        "alleged crimes": "war crimes",
+        "alleged perpetrators": "soldiers",
+        "domestic investigation status": "opened but no real effort to prosecute",
+        "ICC consideration": "considering launching its own investigation"
+    },
+    "143": {
+        "asylum seeker status": "high-profile",
+        "accusation": "financing terrorism",
+        "home country": "State B",
+        "risk in home country": "likely torture",
+        "State A claim": "national security requires expulsion"
+    },
+    "45": {
+        "investor's action": "brings a claim under a BIT",
+        "local remedies used": "none",
+        "reason for bypassing local remedies": "known bias",
+        "investor's argument": "local remedies are futile"
+    },
+    "3": {
+        "country": "Country Y",
+        "violation": "fair and equitable treatment (FET)",
+        "act": "suddenly banning cryptocurrency exchanges",
+        "defense": "necessary for public morals"
+    },
+    "51": {
+        "investor's state": "State Q",
+        "host state": "State R",
+        "treaty state": "State S",
+        "arbitration provision absence": "BIT between State Q and State R",
+        "invoked principle": "MFN"
+    },
+    "141": {
+        "ship flag": "State T",
+        "ship location": "international waters",
+        "destination": "State U's port",
+        "hostages": "crew",
+        "prosecutor": "State V",
+        "jurisdiction basis": "universal jurisdiction statute",
+        "protestor": "State U"
+    },
+    "36": {
+        "investor's state": "State A",
+        "defendant state": "State B",
+        "forum": "domestic courts",
+        "cause of action": "expropriation",
+        "duration of case": "10 years",
+        "justification for delay": "none",
+        "arbitration mechanism": "BIT"
+    },
+    "92": {
+        "state conducting strike": "State A",
+        "state targeted": "State B",
+        "target": "non-state armed group",
+        "consent of targeted state": "no",
+        "basis for strike": "Article 51 of the UN Charter and an 'unable or unwilling' test"
+    },
+    "148": {
+        "nationality": "dual national of States A and B",
+        "imprisonment location": "State B",
+        "treatment": "imprisoned and tortured",
+        "release status": "released",
+        "return location": "State A",
+        "claim type": "diplomatic protection",
+        "defense": "Nottebohm standard"
+    },
+    "33": {
+        "fishing vessel origin": "State Q",
+        "fishing location": "State R’s EEZ",
+        "pursuit location": "high seas",
+        "seizing authority": "State R’s coast guard",
+        "vessel status": "illegally fishing",
+        "protestor": "vessel’s flag State"
+    }
+}

@@ -1,0 +1,5118 @@
+{
+  "28": {
+    "country_ban": {
+      "CE": 0.008342868174411386,
+      "new_values": [
+        "Country L restricts poultry imports from Country M",
+        "Country L suspends poultry imports from Country M",
+        "Country L imposes quotas on poultry imports from Country M",
+        "Country L requires health certificates for poultry imports from Country M"
+      ]
+    },
+    "reason_for_ban": {
+      "CE": 0.009742648517157327,
+      "new_values": [
+        "food safety concerns",
+        "pesticide residue concerns",
+        "antibiotic use concerns",
+        "hormone use concerns"
+      ]
+    },
+    "disease_status": {
+      "CE": 0.017519996053493178,
+      "new_values": [
+        "WHO declares Country M not disease-free",
+        "WHO has not declared Country M disease-free",
+        "WHO declares Country M has avian influenza",
+        "WHO has not assessed Country M’s disease status"
+      ]
+    },
+    "challenge": {
+      "CE": 0.015487195242736077,
+      "new_values": [
+        "Country M does not challenge the ban at the WTO",
+        "Country M challenges the ban at the WTO after a delay",
+        "Country M challenges the ban at the WTO with support from other countries",
+        "Country M challenges the ban at the WTO before the WHO declaration"
+      ]
+    }
+  },
+  "9": {
+    "country": {
+      "CE": 0.003053847406797422,
+      "new_values": [
+        "Y",
+        "Z",
+        "A",
+        "B"
+      ]
+    },
+    "role": {
+      "CE": 0.03740703561316711,
+      "new_values": [
+        "high-ranking general",
+        "civilian leader",
+        "military doctor",
+        "intelligence officer"
+      ]
+    },
+    "accusation": {
+      "CE": 0.005882913076005296,
+      "new_values": [
+        "genocide",
+        "crimes against humanity",
+        "aggression",
+        "torture"
+      ]
+    },
+    "action": {
+      "CE": 0.1069789281724696,
+      "new_values": [
+        "acquittal",
+        "exoneration",
+        "pardon",
+        "amnesty"
+      ]
+    },
+    "status of top generals": {
+      "CE": 0.05567827235601541,
+      "new_values": [
+        "prosecuted",
+        "investigated",
+        "indicted",
+        "arrested"
+      ]
+    },
+    "potential intervener": {
+      "CE": 0.020786973847569147,
+      "new_values": [
+        "Country Y",
+        "a regional human rights court",
+        "a UN special rapporteur",
+        "a non-governmental organization"
+      ]
+    }
+  },
+  "123": {
+    "drone_autonomy": {
+      "CE": 0.0004281715119963003,
+      "new_values": [
+        "semi-autonomous",
+        "remotely piloted",
+        "partially autonomous"
+      ]
+    },
+    "drone_deployer": {
+      "CE": 0.12106137434780793,
+      "new_values": [
+        "State Y",
+        "a private contractor in State Z",
+        "a non-state armed group"
+      ]
+    },
+    "target_struck": {
+      "CE": 0.004017688345411174,
+      "new_values": [
+        "military convoy",
+        "civilian vehicle",
+        "civilian building",
+        "military base"
+      ]
+    },
+    "target_misidentification_reason": {
+      "CE": 0.0027942487261431704,
+      "new_values": [
+        "human error",
+        "sensor malfunction",
+        "communication failure",
+        "inadequate training data"
+      ]
+    },
+    "algorithm_designer": {
+      "CE": 0.029715512209303345,
+      "new_values": [
+        "State X military",
+        "State Y military",
+        "State X government",
+        "State Y government"
+      ]
+    }
+  },
+  "34": {
+    "location": {
+      "CE": 0.004069091584242963,
+      "new_values": [
+        "State T",
+        "State U",
+        "State V",
+        "State W"
+      ]
+    },
+    "status": {
+      "CE": 0.02519764081597859,
+      "new_values": [
+        "rival gang leader",
+        "military officer",
+        "government official",
+        "private citizen"
+      ]
+    },
+    "conduct": {
+      "CE": 0.024647158073486948,
+      "new_values": [
+        "systematic murder of rival gang members",
+        "systematic kidnapping of rival gang members",
+        "systematic extortion of rival gang members",
+        "systematic trafficking of rival gang members"
+      ]
+    },
+    "treaty": {
+      "CE": 0.01837221855756884,
+      "new_values": [
+        "Geneva Conventions",
+        "International Covenant on Civil and Political Rights",
+        "Convention against Torture",
+        "American Convention on Human Rights"
+      ]
+    },
+    "treaty party": {
+      "CE": 0.10147075907577464,
+      "new_values": [
+        "yes"
+      ]
+    }
+  },
+  "139": {
+    "regulations": {
+      "CE": 0.004622475907346666,
+      "new_values": [
+        "permanent regulations banning lithium extraction",
+        "emergency regulations promoting lithium extraction",
+        "emergency regulations banning coal extraction",
+        "emergency regulations banning all mineral extraction"
+      ]
+    },
+    "location": {
+      "CE": 0.0012361810302619904,
+      "new_values": [
+        "State A",
+        "State B",
+        "State C"
+      ]
+    },
+    "investors": {
+      "CE": 0.009427496412556654,
+      "new_values": [
+        "domestic investors from State X",
+        "investors from State Z",
+        "investors from State W"
+      ]
+    },
+    "claim": {
+      "CE": 0.0894469370110712,
+      "new_values": [
+        "breach of fair and equitable treatment",
+        "breach of national treatment",
+        "breach of most-favored-nation treatment",
+        "breach of full protection and security"
+      ]
+    },
+    "comparison": {
+      "CE": 0.005701089364258667,
+      "new_values": [
+        "less favorable treatment to investors from State Z",
+        "equal treatment to investors from State Z",
+        "no treatment to investors from State Z"
+      ]
+    },
+    "defense": {
+      "CE": 0.04471821817456689,
+      "new_values": [
+        "public health exception clause",
+        "national security exception clause",
+        "essential security interests exception clause"
+      ]
+    }
+  },
+  "146": {
+    "launch state": {
+      "CE": 0.09418291161207597,
+      "new_values": [
+        "State M",
+        "State N",
+        "State P",
+        "State Q"
+      ]
+    },
+    "registration state": {
+      "CE": 1.3290135563857604,
+      "new_values": [
+        "State K",
+        "State L",
+        "State M"
+      ]
+    },
+    "operator state": {
+      "CE": 0.39270458983003076,
+      "new_values": [
+        "State L",
+        "State M",
+        "State N"
+      ]
+    },
+    "object type": {
+      "CE": 0.008981542326863845,
+      "new_values": [
+        "unmanned space station",
+        "manned satellite",
+        "space debris"
+      ]
+    },
+    "target type": {
+      "CE": 0.003035057255924002,
+      "new_values": [
+        "unmanned space station",
+        "satellite",
+        "space station"
+      ]
+    },
+    "damage type": {
+      "CE": 0.0032881487681207773,
+      "new_values": [
+        "environmental contamination",
+        "loss of life",
+        "data loss",
+        "structural damage"
+      ]
+    }
+  },
+  "38": {
+    "resolution": {
+      "CE": 0.42907987748411003,
+      "new_values": [
+        "UN General Assembly resolution",
+        "UN Security Council resolution under Chapter VI",
+        "UN Security Council presidential statement",
+        "UN Security Council resolution under Chapter VIII"
+      ]
+    },
+    "requirement": {
+      "CE": 0.23594211492283937,
+      "new_values": [
+        "disarm the rebel group",
+        "suspend diplomatic relations with the rebel group",
+        "prohibit arms sales to the rebel group",
+        "expel the rebel group from the country"
+      ]
+    },
+    "country": {
+      "CE": 0.16435609575328683,
+      "new_values": [
+        "Country F",
+        "Country G",
+        "Country H",
+        "Country I"
+      ]
+    },
+    "action": {
+      "CE": 0.06335371141104829,
+      "new_values": [
+        "compliance",
+        "partial compliance",
+        "delay"
+      ]
+    },
+    "reason": {
+      "CE": 0.42939235056256575,
+      "new_values": [
+        "human rights concerns",
+        "domestic law",
+        "lack of jurisdiction",
+        "self-defense"
+      ]
+    }
+  },
+  "27": {
+    "vessel type": {
+      "CE": 0.03253482239384914,
+      "new_values": [
+        "fishing vessel",
+        "military vessel",
+        "commercial vessel",
+        "tourist vessel"
+      ]
+    },
+    "vessel origin": {
+      "CE": 0.01410801671344179,
+      "new_values": [
+        "Country L",
+        "Country M",
+        "Country N",
+        "Country P"
+      ]
+    },
+    "vessel destination": {
+      "CE": 0.19732120687174223,
+      "new_values": [
+        "territorial sea of Country K",
+        "contiguous zone of Country K",
+        "high seas"
+      ]
+    },
+    "prior notification": {
+      "CE": 0.029527615080886832,
+      "new_values": [
+        "with prior notification",
+        "after a 24-hour delay",
+        "with a 48-hour notice",
+        "without prior consent"
+      ]
+    },
+    "cited justification": {
+      "CE": 0.12971830937626577,
+      "new_values": [
+        "peaceful passage",
+        "innocent passage",
+        "freedom of navigation",
+        "right of transit passage"
+      ]
+    },
+    "detaining country": {
+      "CE": 0.005386961451287469,
+      "new_values": [
+        "Country L",
+        "Country M",
+        "Country N",
+        "Country P"
+      ]
+    },
+    "detention allegation": {
+      "CE": 0.020900962612926816,
+      "new_values": [
+        "violation of environmental regulations",
+        "illegal fishing activities",
+        "unauthorized military presence"
+      ]
+    }
+  },
+  "8": {
+    "resolution": {
+      "CE": 0.17005229995662677,
+      "new_values": [
+        "UN Security Council passes a resolution declaring Country Z’s actions as genocide and demands intervention",
+        "UN Human Rights Council passes a resolution declaring Country Z’s actions as genocide and demands intervention",
+        "UN General Assembly passes a declaration (not a resolution) declaring Country Z’s actions as genocide and demands intervention",
+        "UN General Assembly passes a resolution declaring Country Z’s actions as crimes against humanity and demands intervention"
+      ]
+    },
+    "Country Z's response": {
+      "CE": 0.09227812394369272,
+      "new_values": [
+        "accepts the resolution and begins to comply",
+        "acknowledges the resolution but disputes the genocide claim",
+        "ignores the resolution and takes no action",
+        "challenges the resolution in the International Court of Justice"
+      ]
+    }
+  },
+  "16": {
+    "organization": {
+      "CE": 0.020610340940257772,
+      "new_values": [
+        "regional organization",
+        "treaty body",
+        "intergovernmental organization"
+      ]
+    },
+    "resolution": {
+      "CE": 0.08343523210665899,
+      "new_values": [
+        "non-binding resolution authorizing sanctions",
+        "binding resolution authorizing military intervention",
+        "binding resolution authorizing economic aid",
+        "binding resolution authorizing diplomatic isolation"
+      ]
+    },
+    "target": {
+      "CE": 0.05189093130574498,
+      "new_values": [
+        "non-Member State",
+        "individual",
+        "corporation"
+      ]
+    },
+    "compliance": {
+      "CE": 0.004870009818838443,
+      "new_values": [
+        "complies",
+        "partially complies",
+        "seeks to comply",
+        "has not yet responded"
+      ]
+    },
+    "argument": {
+      "CE": 0.618037891202585,
+      "new_values": [
+        "resolution was adopted without proper notice",
+        "resolution was not properly ratified",
+        "resolution was adopted under duress",
+        "resolution was not in accordance with the organization's charter"
+      ]
+    },
+    "violation": {
+      "CE": 0.6136075623227715,
+      "new_values": [
+        "due process",
+        "non-retroactivity",
+        "territorial integrity",
+        "self-determination"
+      ]
+    }
+  },
+  "150": {
+    "country": {
+      "CE": 0.0006154175927129879,
+      "new_values": [
+        "State L",
+        "State N",
+        "State P",
+        "State Q"
+      ]
+    },
+    "cause of uninhabitability": {
+      "CE": 0.001613726227858293,
+      "new_values": [
+        "nuclear disaster",
+        "volcanic eruption",
+        "prolonged drought"
+      ]
+    },
+    "government status": {
+      "CE": 0.001233549522102708,
+      "new_values": [
+        "dissolved government",
+        "de facto government",
+        "non-governmental organization"
+      ]
+    },
+    "host country": {
+      "CE": 0.0011069055024884606,
+      "new_values": [
+        "State N",
+        "State P",
+        "State Q",
+        "State R"
+      ]
+    },
+    "population status": {
+      "CE": 0.0014788039243463311,
+      "new_values": [
+        "concentrated in State M",
+        "resettled in State M",
+        "temporarily housed in State M"
+      ]
+    },
+    "protection status": {
+      "CE": 0.0020782602054531633,
+      "new_values": [
+        "permanent residency status",
+        "asylum status",
+        "refugee status",
+        "no formal status"
+      ]
+    },
+    "action by host country": {
+      "CE": 0.036609444631527016,
+      "new_values": [
+        "detention",
+        "restriction of movement",
+        "denial of work permits"
+      ]
+    },
+    "reason for deportation": {
+      "CE": 0.0009445216877270488,
+      "new_values": [
+        "public health",
+        "economic strain",
+        "overpopulation"
+      ]
+    },
+    "legal claim": {
+      "CE": 0.013685144768652298,
+      "new_values": [
+        "violation of the right to seek asylum",
+        "violation of the right to freedom of movement",
+        "violation of the right to non-refoulement"
+      ]
+    },
+    "legal basis": {
+      "CE": 0.018246035689408635,
+      "new_values": [
+        "1951 Refugee Convention",
+        "International Covenant on Economic, Social and Cultural Rights",
+        "Universal Declaration of Human Rights"
+      ]
+    },
+    "host country's argument": {
+      "CE": 0.00982502653125126,
+      "new_values": [
+        "environmental migrants are protected under the 1951 Refugee Convention",
+        "environmental migrants are not protected under the 1951 Refugee Convention but are protected under the ICCPR",
+        "environmental migrants are not protected under the 1951 Refugee Convention but are protected under the 1967 Protocol",
+        "environmental migrants are not protected under the 1951 Refugee Convention but are protected under customary international law"
+      ]
+    },
+    "host country's suggestion": {
+      "CE": 0.0030246934057162867,
+      "new_values": [
+        "return to State K",
+        "resettle in State M",
+        "apply for asylum in State M",
+        "seek protection in other countries"
+      ]
+    }
+  },
+  "147": {
+    "territory": {
+      "CE": 0.0010142409033944914,
+      "new_values": [
+        "Territory Y",
+        "Territory Z",
+        "Territory A",
+        "Territory B"
+      ]
+    },
+    "occupying state": {
+      "CE": 0.00010283270511449086,
+      "new_values": [
+        "State N",
+        "State P",
+        "State Q",
+        "State R"
+      ]
+    },
+    "resources extracted": {
+      "CE": 0.00797700705050578,
+      "new_values": [
+        "minerals and metals",
+        "agricultural products",
+        "water and fish",
+        "rare earths and gems"
+      ]
+    },
+    "purpose": {
+      "CE": 0.06864773651130437,
+      "new_values": [
+        "fund military operations",
+        "enrich state officials",
+        "repay national debt",
+        "develop infrastructure"
+      ]
+    },
+    "plaintiffs": {
+      "CE": 0.0004624271697150457,
+      "new_values": [
+        "indigenous communities",
+        "private corporations",
+        "international NGOs"
+      ]
+    },
+    "allegations": {
+      "CE": 0.003456472736222787,
+      "new_values": [
+        "human rights violations",
+        "war crimes",
+        "ecocide",
+        "genocide"
+      ]
+    },
+    "forum": {
+      "CE": 0.0003183023782439813,
+      "new_values": [
+        "domestic court",
+        "regional human rights court",
+        "arbitral tribunal"
+      ]
+    }
+  },
+  "127": {
+    "country": {
+      "CE": 0.004407408877896278,
+      "new_values": [
+        "State D",
+        "State E",
+        "State F",
+        "State G"
+      ]
+    },
+    "status": {
+      "CE": 0.8941558031282639,
+      "new_values": [
+        "developing country",
+        "least developed country",
+        "small island developing state"
+      ]
+    },
+    "action": {
+      "CE": 0.030188074357744548,
+      "new_values": [
+        "updates its NDC",
+        "has updated its NDC",
+        "is updating its NDC",
+        "plans to update its NDC"
+      ]
+    },
+    "reason": {
+      "CE": 0.5071258815450675,
+      "new_values": [
+        "its historical emissions are disproportionate",
+        "it has already met its climate goals",
+        "the agreement is not legally binding",
+        "it faces economic hardship from compliance"
+      ]
+    },
+    "treaty": {
+      "CE": 0.02248104566500356,
+      "new_values": [
+        "Kyoto Protocol",
+        "Montreal Protocol",
+        "Vienna Convention"
+      ]
+    }
+  },
+  "119": {
+    "state_imposing_sanctions": {
+      "CE": 0.0005014769682474156,
+      "new_values": [
+        "State K",
+        "State L",
+        "State M",
+        "State N"
+      ]
+    },
+    "targeted_companies_nationality": {
+      "CE": 0.0008945007754195064,
+      "new_values": [
+        "State K",
+        "State L",
+        "State M",
+        "State N"
+      ]
+    },
+    "targeted_project_type": {
+      "CE": 0.012751362388659418,
+      "new_values": [
+        "renewable energy project",
+        "oil and gas project",
+        "coal-fired power plant"
+      ]
+    },
+    "targeted_project_location": {
+      "CE": 0.002745540596784471,
+      "new_values": [
+        "State K",
+        "State L",
+        "State M",
+        "State N"
+      ]
+    },
+    "sanctions_justification": {
+      "CE": 0.01785512821450489,
+      "new_values": [
+        "human rights violations",
+        "environmental damage",
+        "terrorism financing",
+        "labor rights abuses"
+      ]
+    },
+    "challenge_basis": {
+      "CE": 0.008414682298952179,
+      "new_values": [
+        "WTO norms",
+        "energy trade norms",
+        "WTO and environmental norms",
+        "WTO and human rights norms"
+      ]
+    }
+  },
+  "145": {
+    "state_r": {
+      "CE": 0.053558241419842646,
+      "new_values": [
+        "State X",
+        "State Y",
+        "State Z"
+      ]
+    },
+    "state_s": {
+      "CE": 0.0022574334568738886,
+      "new_values": [
+        "State T",
+        "State U",
+        "State V",
+        "State W"
+      ]
+    },
+    "discovery": {
+      "CE": 0.001529582051973276,
+      "new_values": [
+        "oil field",
+        "mineral deposit",
+        "fishing grounds",
+        "underwater archaeological site"
+      ]
+    },
+    "location": {
+      "CE": 0.004986750413139122,
+      "new_values": [
+        "exclusive economic zone",
+        "territorial sea",
+        "international waters"
+      ]
+    },
+    "claims_submitted_to": {
+      "CE": 0.003211976013582614,
+      "new_values": [
+        "International Court of Justice (ICJ)",
+        "Permanent Court of Arbitration (PCA)",
+        "International Tribunal for the Law of the Sea (ITLOS)"
+      ]
+    },
+    "agreement": {
+      "CE": 0.011303743182715468,
+      "new_values": [
+        "a provisional agreement",
+        "an agreement",
+        "a temporary agreement"
+      ]
+    },
+    "action": {
+      "CE": 0.01331838039501584,
+      "new_values": [
+        "State R starts seismic surveys",
+        "State R starts environmental impact assessments",
+        "State R starts construction of a research station",
+        "State R starts laying underwater cables"
+      ]
+    }
+  },
+  "56": {
+    "soldier's role": {
+      "CE": 0.0029101653658369733,
+      "new_values": [
+        "medic",
+        "police officer",
+        "prison guard"
+      ]
+    },
+    "order": {
+      "CE": 0.031027747541185712,
+      "new_values": [
+        "torture unarmed detainees",
+        "abandon his post",
+        "shoot armed combatants",
+        "shoot unarmed civilians"
+      ]
+    },
+    "context": {
+      "CE": 0.004146084703674628,
+      "new_values": [
+        "peacetime",
+        "occupation",
+        "civilian law enforcement operation"
+      ]
+    },
+    "defense claim": {
+      "CE": 0.08024824966366716,
+      "new_values": [
+        "fear for his own life",
+        "belief that the detainees were armed",
+        "mistake about the order's legality",
+        "duress from a superior officer"
+      ]
+    }
+  },
+  "55": {
+    "state": {
+      "CE": 0.0011446632223951253,
+      "new_values": [
+        "State V",
+        "State W",
+        "State X",
+        "State Y"
+      ]
+    },
+    "state_type": {
+      "CE": 0.026045025018998542,
+      "new_values": [
+        "coastal State",
+        "landlocked State",
+        "archipelagic State"
+      ]
+    },
+    "baselines": {
+      "CE": 0.01300087485449204,
+      "new_values": [
+        "enclosing lines that deviate from the normal baseline method",
+        "straight baselines connecting its main islands",
+        "straight baselines connecting its outermost low-tide elevations",
+        "straight baselines connecting its outermost islands and rocks"
+      ]
+    },
+    "enclosed_waters_status": {
+      "CE": 0.08840681945554214,
+      "new_values": [
+        "territorial sea",
+        "archipelagic waters",
+        "high seas"
+      ]
+    },
+    "ship": {
+      "CE": 0.013241953916739706,
+      "new_values": [
+        "civilian ship",
+        "warship",
+        "fishing vessel",
+        "submarine"
+      ]
+    },
+    "ship_action": {
+      "CE": 0.16191056939036844,
+      "new_values": [
+        "attempts to enter the internal waters",
+        "is stopped by State U's authorities",
+        "is detained for inspection",
+        "is boarded without consent"
+      ]
+    }
+  },
+  "115": {
+    "border zone location": {
+      "CE": 0.01219162576952968,
+      "new_values": [
+        "State Q’s territory",
+        "State S, under State Q’s de facto control",
+        "State R, under State R’s de facto control"
+      ]
+    },
+    "victims": {
+      "CE": 0.00041116190246144575,
+      "new_values": [
+        "refugees",
+        "asylum seekers",
+        "civilians"
+      ]
+    },
+    "conduct": {
+      "CE": 0.0033513949869051637,
+      "new_values": [
+        "detain",
+        "turn back",
+        "threaten"
+      ]
+    },
+    "complaint mechanism": {
+      "CE": 0.008526526138097847,
+      "new_values": [
+        "ICERD",
+        "CEDAW",
+        "ICCPR Optional Protocol"
+      ]
+    }
+  },
+  "140": {
+    "location": {
+      "CE": 0.1028753041883298,
+      "new_values": [
+        "a rebel command center",
+        "a military base",
+        "a civilian hospital",
+        "a rebel supply depot"
+      ]
+    },
+    "casualties": {
+      "CE": 0.32652290281536483,
+      "new_values": [
+        "no civilians",
+        "dozens of civilians",
+        "thousands of civilians"
+      ]
+    },
+    "target": {
+      "CE": 0.563333561884116,
+      "new_values": [
+        "military barracks",
+        "hospital",
+        "school",
+        "civilian apartment building"
+      ]
+    },
+    "damage": {
+      "CE": 0.05426308289052354,
+      "new_values": [
+        "collateral damage",
+        "structural damage",
+        "fire damage"
+      ]
+    },
+    "alleged purpose": {
+      "CE": 0.011546099834153684,
+      "new_values": [
+        "storing weapons for rebel forces",
+        "serving as a rebel military headquarters",
+        "providing cover for rebel snipers",
+        "being used to produce propaganda"
+      ]
+    },
+    "conflict type": {
+      "CE": 0.011566448473951397,
+      "new_values": [
+        "international armed conflict",
+        "peacetime"
+      ]
+    },
+    "perpetrator": {
+      "CE": 0.012867735221631323,
+      "new_values": [
+        "State N",
+        "Rebel Group A",
+        "State M's ally"
+      ]
+    },
+    "conduct": {
+      "CE": 0.00833026206265608,
+      "new_values": [
+        "shelling",
+        "artillery strike",
+        "airstrike",
+        "missile attack"
+      ]
+    }
+  },
+  "144": {
+    "state providing data": {
+      "CE": 0.0011272242040256527,
+      "new_values": [
+        "State H",
+        "State J",
+        "State K",
+        "State L"
+      ]
+    },
+    "state receiving data": {
+      "CE": 0.0003826809686666853,
+      "new_values": [
+        "State H",
+        "State I",
+        "State J",
+        "State K"
+      ]
+    },
+    "type of data": {
+      "CE": 0.0013816459044455605,
+      "new_values": [
+        "human intelligence reports",
+        "financial transaction records",
+        "medical records",
+        "communication intercepts"
+      ]
+    },
+    "purpose of data": {
+      "CE": 0.014603610286391011,
+      "new_values": [
+        "monitor border crossings",
+        "track natural disasters",
+        "assess agricultural conditions",
+        "map infrastructure"
+      ]
+    },
+    "context of use": {
+      "CE": 0.0021865549123315847,
+      "new_values": [
+        "international armed conflict",
+        "peaceful protest",
+        "counter-terrorism operation",
+        "humanitarian crisis"
+      ]
+    },
+    "accusation": {
+      "CE": 0.0007222345514281345,
+      "new_values": [
+        "violating human rights",
+        "complicity in crimes against humanity",
+        "aiding and abetting genocide",
+        "supporting state terrorism"
+      ]
+    }
+  },
+  "10": {
+    "investor": {
+      "CE": 0.004511041733141184,
+      "new_values": [
+        "state",
+        "company",
+        "individual"
+      ]
+    },
+    "dispute resolution clause": {
+      "CE": 0.016691317148575323,
+      "new_values": [
+        "requires disputes to be resolved exclusively in domestic courts",
+        "requires disputes to be resolved in domestic courts or arbitration",
+        "requires disputes to be resolved in international arbitration",
+        "requires disputes to be resolved in a specific international court"
+      ]
+    },
+    "tribunal": {
+      "CE": 0.04004856861499278,
+      "new_values": [
+        "rejects jurisdiction",
+        "declines to rule on jurisdiction",
+        "finds jurisdiction lacking"
+      ]
+    },
+    "tribunal's reason": {
+      "CE": 0.01926227283505748,
+      "new_values": [
+        "lack of effective domestic courts",
+        "denial of justice",
+        "corruption in local courts",
+        "excessive delay in local courts"
+      ]
+    }
+  },
+  "21": {
+    "investor country": {
+      "CE": 0.0010194196016811027,
+      "new_values": [
+        "Country F",
+        "Country G",
+        "Country H",
+        "Country I"
+      ]
+    },
+    "taxing country": {
+      "CE": 0.0007261809698081386,
+      "new_values": [
+        "Country F",
+        "Country G",
+        "Country H",
+        "Country I"
+      ]
+    },
+    "tax type": {
+      "CE": 0.06394944100776327,
+      "new_values": [
+        "environmental regulation",
+        "health and safety measure",
+        "trade restriction",
+        "expropriation"
+      ]
+    },
+    "treaty provision": {
+      "CE": 0.15092668792922406,
+      "new_values": [
+        "national treatment standard in their BIT",
+        "most-favored-nation (MFN) treatment in their BIT",
+        "full protection and security standard in their BIT",
+        "umbrella clause in their BIT"
+      ]
+    }
+  },
+  "124": {
+    "state providing support": {
+      "CE": 0.001754330998469032,
+      "new_values": [
+        "State C",
+        "State D",
+        "State E",
+        "State F"
+      ]
+    },
+    "recipient of support": {
+      "CE": 0.05391048584396505,
+      "new_values": [
+        "State C",
+        "Government of State B",
+        "Terrorist Group Y"
+      ]
+    },
+    "location of recipient": {
+      "CE": 0.0006206360770275119,
+      "new_values": [
+        "State C",
+        "State D",
+        "State E",
+        "State F"
+      ]
+    },
+    "type of support": {
+      "CE": 0.002046632058983014,
+      "new_values": [
+        "financial aid",
+        "humanitarian assistance",
+        "diplomatic support",
+        "intelligence sharing"
+      ]
+    },
+    "purpose of support": {
+      "CE": 0.004515701562876305,
+      "new_values": [
+        "defend against State B’s military aggression",
+        "protect ethnic minority in State B",
+        "establish an independent state in part of State B",
+        "counter State B’s support for a rival group"
+      ]
+    },
+    "conduct of recipient": {
+      "CE": 0.0014680055356414228,
+      "new_values": [
+        "armed resistance against State B’s military",
+        "attacks on State B’s military infrastructure",
+        "guerrilla warfare in rural areas",
+        "sabotage of government facilities"
+      ]
+    },
+    "action taken by location of recipient": {
+      "CE": 0.000676787328630254,
+      "new_values": [
+        "strikes State A’s government buildings",
+        "strikes State A’s diplomatic missions",
+        "strikes State A’s economic infrastructure",
+        "strikes State A’s civilian population"
+      ]
+    },
+    "basis for action": {
+      "CE": 0.00041105284647472004,
+      "new_values": [
+        "preemptive strike",
+        "retaliation",
+        "collective self-defense"
+      ]
+    },
+    "argument of state providing support": {
+      "CE": 0.011885819978107455,
+      "new_values": [
+        "directly controlled Rebel Group X",
+        "had no involvement with Rebel Group X",
+        "indirectly controlled Rebel Group X",
+        "was unaware of Rebel Group X’s activities"
+      ]
+    }
+  },
+  "29": {
+    "investor country": {
+      "CE": 0.0006192586433575103,
+      "new_values": [
+        "Country P",
+        "Country Q",
+        "Country R",
+        "Country S"
+      ]
+    },
+    "host country": {
+      "CE": 0.0008941686294040782,
+      "new_values": [
+        "Country P",
+        "Country Q",
+        "Country R",
+        "Country S"
+      ]
+    },
+    "favorable procedures country": {
+      "CE": 0.006213309731986492,
+      "new_values": [
+        "a multilateral investment treaty",
+        "a regional trade agreement",
+        "a free trade agreement",
+        "a bilateral investment treaty with Country P"
+      ]
+    },
+    "procedural rights": {
+      "CE": 0.016157652027924168,
+      "new_values": [
+        "mediation",
+        "conciliation",
+        "negotiation",
+        "litigation"
+      ]
+    }
+  },
+  "109": {
+    "state_refusing_overflight": {
+      "CE": 0.008980021974089277,
+      "new_values": [
+        "State U",
+        "State V",
+        "State W",
+        "State X"
+      ]
+    },
+    "state_in_crisis": {
+      "CE": 0.00022865181681052792,
+      "new_values": [
+        "State U",
+        "State V",
+        "State W"
+      ]
+    },
+    "type_of_aircraft": {
+      "CE": 0.005546633101607908,
+      "new_values": [
+        "military aircraft",
+        "civilian aircraft",
+        "commercial aircraft",
+        "private aircraft"
+      ]
+    },
+    "purpose_of_flight": {
+      "CE": 0.005238202978296525,
+      "new_values": [
+        "evacuating civilians",
+        "transporting medical personnel",
+        "relocating refugees",
+        "conducting reconnaissance"
+      ]
+    },
+    "crisis_in_state": {
+      "CE": 0.0016214918256040756,
+      "new_values": [
+        "epidemic",
+        "refugee crisis",
+        "drought",
+        "earthquake"
+      ]
+    },
+    "conflict_in_state": {
+      "CE": 0.0033665934865743756,
+      "new_values": [
+        "armed conflict",
+        "internal disturbance",
+        "insurgency",
+        "repression"
+      ]
+    },
+    "aircraft_origin": {
+      "CE": 0.0018955932337292685,
+      "new_values": [
+        "State U",
+        "State V",
+        "State W"
+      ]
+    },
+    "aircraft_operator": {
+      "CE": 0.0017439928382320773,
+      "new_values": [
+        "State T",
+        "State U",
+        "UNHCR",
+        "MSF"
+      ]
+    },
+    "state_t_claim": {
+      "CE": 0.017341301950506684,
+      "new_values": [
+        "consent of State S",
+        "customary international law",
+        "necessity under Article 25 of the ILC Articles",
+        "humanitarian intervention"
+      ]
+    },
+    "state_r_claim": {
+      "CE": 0.011339222094024794,
+      "new_values": [
+        "national security concerns",
+        "territorial integrity",
+        "domestic law",
+        "self-defense under Article 51"
+      ]
+    }
+  },
+  "110": {
+    "state sending forces": {
+      "CE": 0.002201321163989543,
+      "new_values": [
+        "State X",
+        "State Y",
+        "State Z"
+      ]
+    },
+    "state receiving forces": {
+      "CE": 0.0015971968262986878,
+      "new_values": [
+        "State W",
+        "State X",
+        "State Y",
+        "State Z"
+      ]
+    },
+    "consent for intervention": {
+      "CE": 0.03715712532880799,
+      "new_values": [
+        "with consent",
+        "with a UN Security Council resolution",
+        "with a regional organization's authorization"
+      ]
+    },
+    "claimed justification": {
+      "CE": 0.23729100569995987,
+      "new_values": [
+        "preventing an imminent genocide",
+        "humanitarian intervention",
+        "self-defense",
+        "invitation by a rebel group"
+      ]
+    },
+    "threat to nationals": {
+      "CE": 0.002008582447626899,
+      "new_values": [
+        "from a terrorist attack",
+        "from a civil war",
+        "from a natural disaster",
+        "from a foreign invasion"
+      ]
+    },
+    "protest by receiving state": {
+      "CE": 0.004659780657402346,
+      "new_values": [
+        "no",
+        "silent"
+      ]
+    }
+  },
+  "134": {
+    "attacker": {
+      "CE": 0.0140937967341653,
+      "new_values": [
+        "armed rebels",
+        "foreign military",
+        "criminal organization",
+        "insurgent group"
+      ]
+    },
+    "attacked state": {
+      "CE": 0.03720886629116863,
+      "new_values": [
+        "State C",
+        "State D",
+        "State B"
+      ]
+    },
+    "terrorist group's base": {
+      "CE": 0.011276472996836484,
+      "new_values": [
+        "State B’s embassy in State C",
+        "State B’s ship in international waters",
+        "State B’s consulate in State D"
+      ]
+    },
+    "State B's response": {
+      "CE": 0.0117882755974405,
+      "new_values": [
+        "agrees to intervene",
+        "condemns the attack",
+        "offers to assist",
+        "takes no position"
+      ]
+    },
+    "State B's justification": {
+      "CE": 0.009031202068449767,
+      "new_values": [
+        "consent to the group's presence",
+        "treaty obligations",
+        "humanitarian concerns",
+        "economic interests"
+      ]
+    },
+    "State C's action": {
+      "CE": 0.022481502212939364,
+      "new_values": [
+        "sends special forces",
+        "imposes economic sanctions",
+        "provides military aid to A",
+        "conducts cyberattacks"
+      ]
+    },
+    "State C's target": {
+      "CE": 0.01127357958657897,
+      "new_values": [
+        "State B's military installations",
+        "State B's government facilities",
+        "State B's border checkpoints",
+        "State B's communication infrastructure"
+      ]
+    },
+    "State C's relationship to A": {
+      "CE": 0.5780056254033719,
+      "new_values": [
+        "non-aligned state",
+        "permanent observer",
+        "adversary"
+      ]
+    },
+    "State D's relationship to B": {
+      "CE": 0.0006482217022396036,
+      "new_values": [
+        "neutral",
+        "hostile",
+        "unrelated"
+      ]
+    },
+    "State D's action": {
+      "CE": 0.007876959770762776,
+      "new_values": [
+        "threatens to bring a claim to the ICJ",
+        "files a claim with the UN Security Council",
+        "issues a diplomatic protest",
+        "takes no action"
+      ]
+    },
+    "State D's accusation": {
+      "CE": 0.005617866299117594,
+      "new_values": [
+        "use of force",
+        "violation of sovereignty",
+        "breach of the UN Charter",
+        "terrorism"
+      ]
+    }
+  },
+  "24": {
+    "organization_type": {
+      "CE": 0.007963793778974599,
+      "new_values": [
+        "intergovernmental",
+        "regional",
+        "supranational"
+      ]
+    },
+    "action": {
+      "CE": 0.20598048263192453,
+      "new_values": [
+        "suspend membership of Member State",
+        "impose sanctions on Member State",
+        "withdraw recognition of Member State",
+        "expel Member State without amending charter"
+      ]
+    },
+    "reason": {
+      "CE": 0.006168527683691288,
+      "new_values": [
+        "violating human rights obligations",
+        "engaging in aggressive warfare",
+        "failing to pay membership dues",
+        "refusing to cooperate with investigations"
+      ]
+    },
+    "expelled_state_claim": {
+      "CE": 0.008035638728975957,
+      "new_values": [
+        "decision violates due process",
+        "decision is arbitrary",
+        "decision is discriminatory",
+        "decision is in breach of the charter"
+      ]
+    },
+    "forum": {
+      "CE": 0.012880394167663949,
+      "new_values": [
+        "ECtHR",
+        "ECHR",
+        "PCA",
+        "ITLOS"
+      ]
+    }
+  },
+  "133": {
+    "location": {
+      "CE": 0.00672169813158334,
+      "new_values": [
+        "in international waters",
+        "near State A",
+        "in State C's exclusive economic zone"
+      ]
+    },
+    "tension level": {
+      "CE": 0.0008495186972610995,
+      "new_values": [
+        "normal",
+        "reduced",
+        "escalating"
+      ]
+    },
+    "attribution basis": {
+      "CE": 0.005325555006607271,
+      "new_values": [
+        "State C's submarines nearby, dark web chatter, and a signed confession from a State C military officer",
+        "State C's submarines nearby, dark web chatter, and direct communication from State C claiming responsibility",
+        "State C's submarines nearby, dark web chatter, and video footage of State C's military personnel operating the drones",
+        "State C's submarines nearby, dark web chatter, and a public statement by State C's government acknowledging the incident"
+      ]
+    },
+    "accused party": {
+      "CE": 0.0017110907645904935,
+      "new_values": [
+        "State D",
+        "State A",
+        "State E"
+      ]
+    },
+    "evidence type": {
+      "CE": 0.003200830651354128,
+      "new_values": [
+        "direct",
+        "inconclusive",
+        "forged"
+      ]
+    },
+    "action": {
+      "CE": 0.006928900170102368,
+      "new_values": [
+        "disrupting international internet signals",
+        "intercepting international internet traffic",
+        "damaging international internet infrastructure"
+      ]
+    },
+    "method": {
+      "CE": 0.0009927826009971648,
+      "new_values": [
+        "marked underwater drones",
+        "State C's submarines",
+        "cyberattacks"
+      ]
+    }
+  },
+  "25": {
+    "target": {
+      "CE": 0.07678280116388127,
+      "new_values": [
+        "warehouse used exclusively by enemy forces",
+        "warehouse storing exclusively humanitarian aid",
+        "warehouse used by civilian forces",
+        "warehouse used by friendly forces"
+      ]
+    },
+    "strike result": {
+      "CE": 0.031827110209615,
+      "new_values": [
+        "destruction of only weapons",
+        "destruction of only relief supplies",
+        "no destruction of either weapons or relief supplies",
+        "destruction of weapons and partial damage to relief supplies"
+      ]
+    }
+  },
+  "111": {
+    "state": {
+      "CE": 0.00195487687006638,
+      "new_values": [
+        "State B",
+        "State C",
+        "State D"
+      ]
+    },
+    "status": {
+      "CE": 0.011933425613572414,
+      "new_values": [
+        "independent state",
+        "developing nation",
+        "sovereign republic"
+      ]
+    },
+    "treaty": {
+      "CE": 0.014153538026095336,
+      "new_values": [
+        "non-binding declaration",
+        "trade agreement",
+        "environmental treaty"
+      ]
+    },
+    "timing": {
+      "CE": 0.00443443405241378,
+      "new_values": [
+        "pre-independence",
+        "during colonial rule",
+        "immediately after the civil war"
+      ]
+    },
+    "government": {
+      "CE": 0.0010399075861092684,
+      "new_values": [
+        "conservative government",
+        "socialist government",
+        "military government",
+        "democratic government"
+      ]
+    },
+    "action": {
+      "CE": 0.027774610555903505,
+      "new_values": [
+        "suspension of obligations",
+        "amendment of provisions",
+        "non-compliance with provisions"
+      ]
+    },
+    "reason": {
+      "CE": 0.0024095424530234354,
+      "new_values": [
+        "domestic political pressure",
+        "international pressure",
+        "economic coercion",
+        "military threat"
+      ]
+    },
+    "treaty clause": {
+      "CE": 0.3923122216238566,
+      "new_values": [
+        "contains a denunciation clause",
+        "contains a withdrawal clause",
+        "contains a termination clause"
+      ]
+    },
+    "challenge": {
+      "CE": 0.0009344843347171998,
+      "new_values": [
+        "the opposition party",
+        "a coalition of NGOs",
+        "the national bar association"
+      ]
+    },
+    "forum": {
+      "CE": 0.004928846198545206,
+      "new_values": [
+        "international court",
+        "domestic court",
+        "constitutional court"
+      ]
+    }
+  },
+  "48": {
+    "commanders": {
+      "CE": 0.0026160004396816473,
+      "new_values": [
+        "two",
+        "four",
+        "one"
+      ]
+    },
+    "ethnic group": {
+      "CE": 0.0033294356568453498,
+      "new_values": [
+        "two",
+        "three",
+        "a specific group"
+      ]
+    },
+    "orders issued": {
+      "CE": 0.013985583096758647,
+      "new_values": [
+        "two",
+        "all",
+        "none"
+      ]
+    },
+    "awareness of plan": {
+      "CE": 0.14898699173661367,
+      "new_values": [
+        "none",
+        "one",
+        "two"
+      ]
+    }
+  },
+  "7": {
+    "role": {
+      "CE": 0.04477602674402386,
+      "new_values": [
+        "soldier",
+        "medical doctor",
+        "humanitarian aid worker",
+        "journalist"
+      ]
+    },
+    "employer": {
+      "CE": 0.06462830058217005,
+      "new_values": [
+        "hospital",
+        "school",
+        "power plant",
+        "water treatment facility"
+      ]
+    },
+    "location": {
+      "CE": 0.012953745752041633,
+      "new_values": [
+        "neutral country",
+        "home country",
+        "international waters"
+      ]
+    },
+    "cause of death": {
+      "CE": 0.0070911872590756165,
+      "new_values": [
+        "artillery shelling",
+        "small arms fire",
+        "landmine explosion",
+        "friendly fire"
+      ]
+    },
+    "claim": {
+      "CE": 0.945736200167496,
+      "new_values": [
+        "civilian status",
+        "humanitarian aid",
+        "medical personnel",
+        "journalist"
+      ]
+    }
+  },
+  "53": {
+    "organ": {
+      "CE": 0.055854684035846536,
+      "new_values": [
+        "regional organization",
+        "national government",
+        "private corporation",
+        "local government"
+      ]
+    },
+    "action": {
+      "CE": 1.5939988966147858,
+      "new_values": [
+        "acts within its mandate",
+        "fails to act",
+        "acts in a manner that is not clearly beyond its mandate"
+      ]
+    },
+    "member state": {
+      "CE": 0.39530558060889587,
+      "new_values": [
+        "accepts the decision",
+        "challenges the decision",
+        "seeks an advisory opinion",
+        "suspends its membership"
+      ]
+    },
+    "decision": {
+      "CE": 0.08372217444009404,
+      "new_values": [
+        "initial decision",
+        "draft decision",
+        "proposed decision",
+        "unofficial decision"
+      ]
+    }
+  },
+  "42": {
+    "location": {
+      "CE": 0.060914558873264676,
+      "new_values": [
+        "mosque",
+        "marketplace",
+        "school",
+        "hospital"
+      ]
+    },
+    "target": {
+      "CE": 0.31990175776895124,
+      "new_values": [
+        "civilian leader",
+        "medical doctor",
+        "humanitarian aid worker",
+        "journalist"
+      ]
+    },
+    "actor": {
+      "CE": 0.01548030425525554,
+      "new_values": [
+        "State II",
+        "State III",
+        "State IV",
+        "State V"
+      ]
+    },
+    "method": {
+      "CE": 0.01208875354301013,
+      "new_values": [
+        "airstrike",
+        "artillery shelling",
+        "ground assault",
+        "missile strike"
+      ]
+    },
+    "result": {
+      "CE": 0.15786745201103566,
+      "new_values": [
+        "no civilian deaths",
+        "one civilian death",
+        "significant property damage",
+        "injuries to civilians"
+      ]
+    }
+  },
+  "6": {
+    "country deploying drones": {
+      "CE": 0.0010520388218485095,
+      "new_values": [
+        "Country Z",
+        "Country A",
+        "Country B",
+        "Country C"
+      ]
+    },
+    "target country": {
+      "CE": 0.005382580813964099,
+      "new_values": [
+        "Country Z",
+        "Country A",
+        "Country B",
+        "Country C"
+      ]
+    },
+    "consent for surveillance": {
+      "CE": 0.3137348301956248,
+      "new_values": [
+        "with Y’s consent",
+        "without prior notice to Y",
+        "with Y’s implicit consent",
+        "without Y’s knowledge"
+      ]
+    },
+    "purpose of deployment": {
+      "CE": 0.0016349447086446305,
+      "new_values": [
+        "strikes",
+        "reconnaissance",
+        "interception",
+        "training exercises"
+      ]
+    },
+    "claimed justification": {
+      "CE": 0.14311145855403834,
+      "new_values": [
+        "preventive self-defense against an imminent threat",
+        "protection of nationals abroad",
+        "counterterrorism operations",
+        "humanitarian intervention"
+      ]
+    },
+    "involvement of target country": {
+      "CE": 0.025596610753293968,
+      "new_values": [
+        "actively supporting the non-state actors",
+        "involved in the hostilities",
+        "providing material support to the non-state actors",
+        "harboring the non-state actors"
+      ]
+    }
+  },
+  "4": {
+    "orders": {
+      "CE": 0.001958221512750718,
+      "new_values": [
+        "clear",
+        "explicit",
+        "unclear",
+        "precise"
+      ]
+    },
+    "interpretation": {
+      "CE": 0.001090730626968124,
+      "new_values": [
+        "restriction to specific targets",
+        "withdrawal from the area",
+        "ceasefire",
+        "tactical retreat"
+      ]
+    },
+    "claim": {
+      "CE": 0.006590309752070094,
+      "new_values": [
+        "directly ordered the war crimes",
+        "was unaware of the war crimes",
+        "ordered the attacks but not the war crimes",
+        "was following superior orders"
+      ]
+    }
+  },
+  "41": {
+    "imported dairy products": {
+      "CE": 0.279027096326696,
+      "new_values": [
+        "lower inspection fees",
+        "same inspection fees",
+        "no inspection fees"
+      ]
+    },
+    "domestic dairy products": {
+      "CE": 0.0,
+      "new_values": [
+        "higher inspection fees",
+        "same inspection fees",
+        "lower inspection fees"
+      ]
+    },
+    "country": {
+      "CE": 0.00029499343061393526,
+      "new_values": [
+        "G",
+        "I",
+        "J",
+        "K"
+      ]
+    },
+    "claim": {
+      "CE": 0.06494056355035172,
+      "new_values": [
+        "protects public health",
+        "ensures food safety",
+        "prevents disease",
+        "maintains quality standards"
+      ]
+    }
+  },
+  "112": {
+    "location": {
+      "CE": 0.0007860241692079602,
+      "new_values": [
+        "State A",
+        "State D",
+        "State E"
+      ]
+    },
+    "event": {
+      "CE": 0.009734817729527478,
+      "new_values": [
+        "cyber attack on its military systems",
+        "disruption of its financial systems",
+        "destruction of its communication networks",
+        "infiltration of its government databases"
+      ]
+    },
+    "cause": {
+      "CE": 0.017469246052584132,
+      "new_values": [
+        "physical sabotage",
+        "natural disaster",
+        "accidental failure"
+      ]
+    },
+    "source": {
+      "CE": 0.031708690102036786,
+      "new_values": [
+        "a non-state hacker group",
+        "State D's civilian hackers",
+        "State C's civilian hackers",
+        "State C's intelligence agency"
+      ]
+    },
+    "casualties": {
+      "CE": 0.015152561486792148,
+      "new_values": [
+        "100",
+        "500",
+        "1000"
+      ]
+    },
+    "impact": {
+      "CE": 0.00832762256807525,
+      "new_values": [
+        "casualties",
+        "environmental damage",
+        "government infrastructure damage",
+        "communication disruptions"
+      ]
+    },
+    "consideration": {
+      "CE": 0.021660315326449214,
+      "new_values": [
+        "seeking compensation from the International Court of Justice",
+        "requesting an emergency meeting of the UN Security Council",
+        "issuing a diplomatic protest to State C",
+        "imposing economic sanctions on State C"
+      ]
+    }
+  },
+  "126": {
+    "pollutant source": {
+      "CE": 0.002881640856345391,
+      "new_values": [
+        "Agricultural activities in State A",
+        "Transportation activities in State A",
+        "Mining activities in State A",
+        "Domestic heating activities in State A"
+      ]
+    },
+    "pollutant type": {
+      "CE": 0.0022044648685789446,
+      "new_values": [
+        "waterborne pollutants",
+        "toxic chemicals",
+        "greenhouse gases",
+        "heavy metals"
+      ]
+    },
+    "pollutant destination": {
+      "CE": 0.0018094542920589875,
+      "new_values": [
+        "State C",
+        "State D",
+        "State E",
+        "State F"
+      ]
+    },
+    "pollutant effect": {
+      "CE": 0.0009685019467764307,
+      "new_values": [
+        "smog",
+        "particulate matter",
+        "toxic fumes",
+        "ozone depletion"
+      ]
+    },
+    "damage": {
+      "CE": 0.0005257558361761393,
+      "new_values": [
+        "air quality",
+        "soil",
+        "wildlife",
+        "buildings"
+      ]
+    },
+    "State A's claim": {
+      "CE": 0.046600042845200425,
+      "new_values": [
+        "emissions are not legal under its domestic law",
+        "it has no authority to regulate emissions",
+        "the harm is not significant",
+        "it has taken all reasonable measures to prevent the harm"
+      ]
+    }
+  },
+  "121": {
+    "exporting_state": {
+      "CE": 0.019802163326105855,
+      "new_values": [
+        "State R",
+        "State S",
+        "State T",
+        "State U"
+      ]
+    },
+    "exported_materials": {
+      "CE": 0.005500965494408891,
+      "new_values": [
+        "oil",
+        "agricultural products",
+        "steel",
+        "technology"
+      ]
+    },
+    "importing_state": {
+      "CE": 0.0004132381435720651,
+      "new_values": [
+        "State R",
+        "State S",
+        "State T",
+        "State U"
+      ]
+    },
+    "legal_basis": {
+      "CE": 0.11500758291754905,
+      "new_values": [
+        "GATT Article XX",
+        "GATT Article XIII",
+        "GATT Article XXIV",
+        "GATT Article XXVIII"
+      ]
+    },
+    "challenge_forum": {
+      "CE": 0.005220635576196872,
+      "new_values": [
+        "ICSID",
+        "ICJ",
+        "ITLOS"
+      ]
+    }
+  },
+  "60": {
+    "investor status": {
+      "CE": 0.010997417621652449,
+      "new_values": [
+        "domestic",
+        "state-owned",
+        "regional"
+      ]
+    },
+    "denied right": {
+      "CE": 0.06964794369772107,
+      "new_values": [
+        "fair trial",
+        "due process",
+        "equitable treatment",
+        "just compensation"
+      ]
+    },
+    "judgment characteristic": {
+      "CE": 0.01111604897871408,
+      "new_values": [
+        "arbitrary",
+        "unreasonable",
+        "erroneous",
+        "inconsistent"
+      ]
+    },
+    "location": {
+      "CE": 0.017583477915041383,
+      "new_values": [
+        "neighboring State",
+        "third State",
+        "home State",
+        "regional court"
+      ]
+    },
+    "remedy sought": {
+      "CE": 0.5956157577252414,
+      "new_values": [
+        "domestic court appeal",
+        "diplomatic protection",
+        "compensation claim",
+        "state-to-state arbitration"
+      ]
+    },
+    "alleged violation": {
+      "CE": 0.018993715619677876,
+      "new_values": [
+        "expropriation without compensation",
+        "breach of fair and equitable treatment",
+        "discrimination",
+        "unlawful taking"
+      ]
+    }
+  },
+  "5": {
+    "location": {
+      "CE": 0.13831230790186716,
+      "new_values": [
+        "200 nautical miles of Country B’s coast, outside B’s Exclusive Economic Zone (EEZ)",
+        "12 nautical miles of Country B’s coast, inside B’s territorial sea",
+        "300 nautical miles of Country B’s coast, outside B’s continental shelf"
+      ]
+    },
+    "conduct": {
+      "CE": 0.3354739930187924,
+      "new_values": [
+        "fishing operations",
+        "scientific research",
+        "peaceful passage",
+        "oil drilling"
+      ]
+    },
+    "protest": {
+      "CE": 0.005667701412269088,
+      "new_values": [
+        "Country B remains silent",
+        "Country B issues a warning",
+        "Country B lodges a complaint",
+        "Country B takes no action"
+      ]
+    },
+    "claim": {
+      "CE": 0.0218904268505154,
+      "new_values": [
+        "exercise of freedom of navigation",
+        "unfriendly act",
+        "peaceful use of the sea"
+      ]
+    }
+  },
+  "13": {
+    "dispute_parties": {
+      "CE": 0.001370619334955868,
+      "new_values": [
+        "private investor and a State",
+        "two States",
+        "a multinational corporation and a regional organization"
+      ]
+    },
+    "dispute_subject": {
+      "CE": 0.0002596275142265636,
+      "new_values": [
+        "expropriation of a wind farm",
+        "expropriation of a hydroelectric dam",
+        "expropriation of a mining operation",
+        "expropriation of a natural gas field"
+      ]
+    },
+    "arbitration_mechanism": {
+      "CE": 1.9345892874950847,
+      "new_values": [
+        "UNCITRAL arbitration",
+        "ad hoc arbitration",
+        "ICC arbitration"
+      ]
+    },
+    "State_position": {
+      "CE": 0.013555661787565471,
+      "new_values": [
+        "accepts arbitration but claims the dispute should be resolved by national courts due to public interest",
+        "refuses arbitration, claims the dispute is not covered by the investment treaty",
+        "refuses arbitration, claims the corporation has not exhausted local remedies",
+        "refuses arbitration, claims the dispute is a political question"
+      ]
+    }
+  },
+  "46": {
+    "warship country": {
+      "CE": 0.0029835714788061882,
+      "new_values": [
+        "State L",
+        "State M",
+        "State N",
+        "State P"
+      ]
+    },
+    "territorial sea": {
+      "CE": 0.02063769203196028,
+      "new_values": [
+        "exclusive economic zone",
+        "international waters",
+        "archipelagic waters",
+        "contiguous zone"
+      ]
+    },
+    "prior notice": {
+      "CE": 0.03417003888232955,
+      "new_values": [
+        "with prior notice",
+        "after a request for permission",
+        "with a formal announcement",
+        "following a diplomatic exchange"
+      ]
+    },
+    "conduct": {
+      "CE": 0.27944421166390626,
+      "new_values": [
+        "fishing",
+        "military exercises",
+        "surveillance",
+        "research"
+      ]
+    },
+    "protest": {
+      "CE": 0.022202316769888444,
+      "new_values": [
+        "State L",
+        "State M",
+        "State N",
+        "State P"
+      ]
+    }
+  },
+  "91": {
+    "former head of state": {
+      "CE": 0.0009812026411678972,
+      "new_values": [
+        "N",
+        "P",
+        "R"
+      ]
+    },
+    "accusation": {
+      "CE": 0.008496797924857788,
+      "new_values": [
+        "genocide",
+        "crimes against humanity",
+        "aggression"
+      ]
+    },
+    "conflict type": {
+      "CE": 0.001731882323392287,
+      "new_values": [
+        "international armed conflict",
+        "transnational armed conflict"
+      ]
+    },
+    "travel destination": {
+      "CE": 0.0007435373620048273,
+      "new_values": [
+        "State R",
+        "State S",
+        "State T",
+        "State U"
+      ]
+    },
+    "legal basis": {
+      "CE": 0.07670027247276717,
+      "new_values": [
+        "treaty-based jurisdiction",
+        "territorial jurisdiction",
+        "active personality jurisdiction"
+      ]
+    },
+    "treaty": {
+      "CE": 0.08243657488361247,
+      "new_values": [
+        "Geneva Conventions",
+        "International Covenant on Civil and Political Rights",
+        "Convention against Torture",
+        "International Convention for the Suppression of the Financing of Terrorism"
+      ]
+    },
+    "domestic implementation": {
+      "CE": 0.17858171921510074,
+      "new_values": [
+        "partial",
+        "full"
+      ]
+    },
+    "claim": {
+      "CE": 0.05010738891494163,
+      "new_values": [
+        "immunity ratione materiae",
+        "no immunity",
+        "diplomatic immunity"
+      ]
+    }
+  },
+  "19": {
+    "warship country": {
+      "CE": 0.002245641125660757,
+      "new_values": [
+        "State C",
+        "State D",
+        "State E",
+        "State F"
+      ]
+    },
+    "zone entered": {
+      "CE": 0.2702533108136518,
+      "new_values": [
+        "territorial sea of State B",
+        "exclusive economic zone of State B",
+        "internal waters of State B",
+        "archipelagic waters of State B"
+      ]
+    },
+    "distance from shore": {
+      "CE": 0.31018738289986497,
+      "new_values": [
+        "within 12 nautical miles",
+        "beyond 24 nautical miles",
+        "within 3 nautical miles"
+      ]
+    },
+    "notification given": {
+      "CE": 0.004697083365054293,
+      "new_values": [
+        "yes",
+        "in advance",
+        "with delay"
+      ]
+    },
+    "demand made": {
+      "CE": 0.0028397866404966782,
+      "new_values": [
+        "no",
+        "later",
+        "after warning"
+      ]
+    },
+    "alleged violation": {
+      "CE": 0.014834205666759534,
+      "new_values": [
+        "violation of innocent passage",
+        "violation of environmental regulations",
+        "violation of maritime safety"
+      ]
+    }
+  },
+  "93": {
+    "attack_origin": {
+      "CE": 0.018838480148639737,
+      "new_values": [
+        "servers in State F",
+        "servers in State E and State F",
+        "servers in State D"
+      ]
+    },
+    "attackers_funding": {
+      "CE": 0.0581145837820528,
+      "new_values": [
+        "a private corporation based in State E",
+        "a criminal syndicate operating in State E",
+        "an independent hacktivist group",
+        "a foreign government other than State E"
+      ]
+    },
+    "State_E_denial": {
+      "CE": 0.0312570165403509,
+      "new_values": [
+        "admits involvement",
+        "acknowledges the hackers",
+        "remains silent",
+        "claims the hackers acted independently"
+      ]
+    },
+    "forum": {
+      "CE": 0.0013257273988306374,
+      "new_values": [
+        "Permanent Court of Arbitration",
+        "International Criminal Court",
+        "International Tribunal for the Law of the Sea"
+      ]
+    }
+  },
+  "137": {
+    "contested EEZ": {
+      "CE": 1.574627696967567,
+      "new_values": [
+        "exclusive EEZ of State F",
+        "international waters",
+        "EEZ of State G"
+      ]
+    },
+    "construction": {
+      "CE": 0.010382216276632446,
+      "new_values": [
+        "oil drilling platform",
+        "fishing vessel",
+        "research station",
+        "military base"
+      ]
+    },
+    "protest": {
+      "CE": 0.008971780013881287,
+      "new_values": [
+        "State H",
+        "State I",
+        "State J",
+        "State K"
+      ]
+    },
+    "claim": {
+      "CE": 0.5791772431447773,
+      "new_values": [
+        "State F's right to exploit the EEZ under UNCLOS",
+        "State F's right to develop the EEZ under a bilateral agreement",
+        "State F's right to use the EEZ for scientific research",
+        "State F's right to exploit the EEZ under a regional agreement"
+      ]
+    }
+  },
+  "17": {
+    "role": {
+      "CE": 0.002496124447202008,
+      "new_values": [
+        "lieutenant colonel",
+        "colonel",
+        "major",
+        "captain"
+      ]
+    },
+    "country": {
+      "CE": 0.0003572625867532375,
+      "new_values": [
+        "Country Y",
+        "Country X",
+        "Country W",
+        "Country V"
+      ]
+    },
+    "reports": {
+      "CE": 0.003433470613813299,
+      "new_values": [
+        "unverified reports of mass executions",
+        "reports of a minor skirmish",
+        "reports of a training accident",
+        "reports of a protest"
+      ]
+    },
+    "source of reports": {
+      "CE": 0.00436037424860451,
+      "new_values": [
+        "civilian human rights organization",
+        "international media",
+        "a subordinate officer",
+        "a whistleblower within the military"
+      ]
+    },
+    "action taken": {
+      "CE": 0.028915056597917495,
+      "new_values": [
+        "orders an investigation into the reports",
+        "transfers the battalion to another commander",
+        "issues a public condemnation of the crimes",
+        "reports the crimes to the ICC"
+      ]
+    },
+    "investigation initiated by": {
+      "CE": 0.0026758357738910937,
+      "new_values": [
+        "Country Z",
+        "a regional human rights court",
+        "a UN commission"
+      ]
+    }
+  },
+  "113": {
+    "armed group location": {
+      "CE": 0.012923203403037096,
+      "new_values": [
+        "State Z",
+        "State W",
+        "State V"
+      ]
+    },
+    "target": {
+      "CE": 0.004456603784909901,
+      "new_values": [
+        "State Y’s military bases",
+        "State Y’s government buildings",
+        "State Y’s civilian infrastructure",
+        "State Y’s border checkpoints"
+      ]
+    },
+    "attack method": {
+      "CE": 0.004697718027122727,
+      "new_values": [
+        "missile attacks",
+        "artillery shelling",
+        "sabotage",
+        "cyberattacks"
+      ]
+    },
+    "State Y claim": {
+      "CE": 0.0026832170583923004,
+      "new_values": [
+        "State X is responsible for aiding the group’s actions",
+        "State X is responsible for the group’s actions",
+        "State X is responsible for the group’s presence on its territory",
+        "State X is responsible for the group’s financing"
+      ]
+    },
+    "State X response": {
+      "CE": 0.02184752223227979,
+      "new_values": [
+        "acknowledges the group is based in State X but denies control",
+        "admits providing some support to the group",
+        "claims the group is not based in State X",
+        "asserts the group is a private entity with no state affiliation"
+      ]
+    },
+    "forum": {
+      "CE": 0.010223616093607632,
+      "new_values": [
+        "PCA",
+        "ITLOS",
+        "ECtHR"
+      ]
+    }
+  },
+  "138": {
+    "state with power grid failure": {
+      "CE": 0.036864181400572446,
+      "new_values": [
+        "State C",
+        "State B"
+      ]
+    },
+    "cause of failure": {
+      "CE": 0.07232651359577905,
+      "new_values": [
+        "equipment failure",
+        "natural disaster",
+        "human error",
+        "sabotage"
+      ]
+    },
+    "source of malware": {
+      "CE": 0.006279891175811638,
+      "new_values": [
+        "State B's government",
+        "a non-state actor in State B",
+        "State C's government"
+      ]
+    },
+    "location of hacking group": {
+      "CE": 0.09626786546909609,
+      "new_values": [
+        "State C",
+        "State D",
+        "a non-state actor"
+      ]
+    },
+    "State B's response to allegations": {
+      "CE": 0.04182347659726067,
+      "new_values": [
+        "acknowledges involvement, agrees to investigate",
+        "denies involvement, agrees to investigate",
+        "denies involvement, refuses to extradite",
+        "denies involvement, agrees to extradite"
+      ]
+    },
+    "State A's response": {
+      "CE": 0.03472392883645401,
+      "new_values": [
+        "diplomatic protests",
+        "military strikes",
+        "economic sanctions",
+        "cyber counter-operation"
+      ]
+    },
+    "target of counter-operation": {
+      "CE": 0.007826023487736181,
+      "new_values": [
+        "State B’s financial network",
+        "State B’s power grid",
+        "State B’s communication network"
+      ]
+    },
+    "complaint filed by": {
+      "CE": 0.0011169995412017122,
+      "new_values": [
+        "State D",
+        "State E",
+        "State F",
+        "State G"
+      ]
+    },
+    "complaint recipient": {
+      "CE": 0.002537399716224795,
+      "new_values": [
+        "UN Security Council",
+        "UN General Assembly",
+        "OAS",
+        "ECHR"
+      ]
+    },
+    "allegation": {
+      "CE": 0.012309827723475405,
+      "new_values": [
+        "violation of sovereignty",
+        "breach of the duty of non-intervention",
+        "cyber warfare without declaration"
+      ]
+    }
+  },
+  "37": {
+    "location": {
+      "CE": 0.002617687013366157,
+      "new_values": [
+        "State E",
+        "State F",
+        "State G",
+        "State H"
+      ]
+    },
+    "target": {
+      "CE": 0.059774768448445564,
+      "new_values": [
+        "munitions factory",
+        "bridge",
+        "railway station",
+        "communication hub"
+      ]
+    },
+    "supply": {
+      "CE": 0.053538701049045886,
+      "new_values": [
+        "water to civilian homes",
+        "electricity to military bases",
+        "electricity to industrial facilities",
+        "electricity to government buildings"
+      ]
+    },
+    "status": {
+      "CE": 0.0332036930831017,
+      "new_values": [
+        "peacetime",
+        "internal armed conflict",
+        "occupation"
+      ]
+    },
+    "actor": {
+      "CE": 0.016566680889851016,
+      "new_values": [
+        "State C’s civilians",
+        "State D’s military",
+        "State C’s police",
+        "State C’s rebels"
+      ]
+    }
+  },
+  "106": {
+    "territory_occupied": {
+      "CE": 0.00037190204458006633,
+      "new_values": [
+        "State X",
+        "State W",
+        "State V",
+        "State U"
+      ]
+    },
+    "occupying_state": {
+      "CE": 0.0006341536591565794,
+      "new_values": [
+        "State X",
+        "State W",
+        "State V"
+      ]
+    },
+    "measures_imposed": {
+      "CE": 0.0021194902471531403,
+      "new_values": [
+        "restrictions on freedom of movement",
+        "censorship of media",
+        "detention of suspected dissidents",
+        "prohibition of public demonstrations"
+      ]
+    },
+    "justification": {
+      "CE": 0.00835028044056465,
+      "new_values": [
+        "public health concerns under IHL",
+        "preventing the spread of misinformation under IHL",
+        "counterterrorism measures under IHL",
+        "maintaining public order under IHL"
+      ]
+    },
+    "alleged_violation": {
+      "CE": 0.005037745916093181,
+      "new_values": [
+        "ICESCR",
+        "ICC",
+        "Geneva Conventions"
+      ]
+    }
+  },
+  "14": {
+    "rebel leader's role": {
+      "CE": 0.0073242629797961685,
+      "new_values": [
+        "member of a non-State armed group",
+        "commander of a non-State armed group",
+        "senior official of a non-State armed group"
+      ]
+    },
+    "conduct": {
+      "CE": 0.0018273689906489763,
+      "new_values": [
+        "targeted killings of political dissidents",
+        "widespread destruction of cultural heritage sites",
+        "torture of captured soldiers",
+        "recruitment of child soldiers"
+      ]
+    },
+    "purpose": {
+      "CE": 0.0004912075804194426,
+      "new_values": [
+        "consolidate political power",
+        "eliminate opposition",
+        "secure resources",
+        "punish perceived enemies"
+      ]
+    },
+    "location": {
+      "CE": 0.02027930584260153,
+      "new_values": [
+        "State Party to the Rome Statute",
+        "State not Party to the Rome Statute",
+        "State with a bilateral immunity agreement with the ICC"
+      ]
+    },
+    "referral source": {
+      "CE": 1.6735204805481787,
+      "new_values": [
+        "State Party to the Rome Statute",
+        "ICC Prosecutor"
+      ]
+    }
+  },
+  "135": {
+    "states": {
+      "CE": 0.00012852418097424327,
+      "new_values": [
+        "State X and State Z",
+        "State A and State B",
+        "State Y and State Z"
+      ]
+    },
+    "agreement": {
+      "CE": 0.002108721273711885,
+      "new_values": [
+        "treaty of mutual assistance",
+        "alliance",
+        "cooperation agreement",
+        "security pact"
+      ]
+    },
+    "agreement terms": {
+      "CE": 0.013577411660062783,
+      "new_values": [
+        "allows joint military exercises in third states",
+        "allows mutual defense against external aggression",
+        "allows intelligence sharing about rebel groups in third states",
+        "allows humanitarian interventions in third states"
+      ]
+    },
+    "challenger": {
+      "CE": 0.007530438833082476,
+      "new_values": [
+        "State Z",
+        "a private citizen",
+        "the United Nations"
+      ]
+    },
+    "challenge basis": {
+      "CE": 0.12983927746052548,
+      "new_values": [
+        "violates the principle of state sovereignty",
+        "violates the right to self-determination",
+        "violates the prohibition on the use of force",
+        "violates the duty to respect human rights"
+      ]
+    }
+  },
+  "142": {
+    "regime": {
+      "CE": 0.0005474605608158423,
+      "new_values": [
+        "accused of human rights abuses",
+        "involved in illegal arms trade",
+        "engaged in widespread corruption",
+        "responsible for environmental destruction"
+      ]
+    },
+    "sanctions": {
+      "CE": 0.00023386528442579803,
+      "new_values": [
+        "ban arms sales",
+        "prohibit travel for officials",
+        "seize military equipment",
+        "restrict financial transactions"
+      ]
+    },
+    "result": {
+      "CE": 0.00025241772587614967,
+      "new_values": [
+        "severe economic collapse",
+        "mass displacement",
+        "collapsed healthcare systems",
+        "widespread disease"
+      ]
+    },
+    "court": {
+      "CE": 0.00045305899541307656,
+      "new_values": [
+        "international criminal court",
+        "domestic court",
+        "international human rights court"
+      ]
+    },
+    "violation": {
+      "CE": 0.00024664874716694423,
+      "new_values": [
+        "right to life",
+        "right to health",
+        "right to education",
+        "right to work"
+      ]
+    },
+    "legal principle invoked": {
+      "CE": 0.0041714591383871045,
+      "new_values": [
+        "peremptory norms of international law",
+        "norms of jus cogens",
+        "fundamental principles of international law",
+        "obligations erga omnes"
+      ]
+    }
+  },
+  "132": {
+    "state_actor": {
+      "CE": 0.0006348544570392331,
+      "new_values": [
+        "State P",
+        "State Q",
+        "State R",
+        "State S"
+      ]
+    },
+    "target": {
+      "CE": 0.05605146519291142,
+      "new_values": [
+        "State P",
+        "State Q",
+        "State R",
+        "State S"
+      ]
+    },
+    "object_destroyed": {
+      "CE": 0.1577017762770697,
+      "new_values": [
+        "modern hospital",
+        "school",
+        "cultural center",
+        "mosque"
+      ]
+    },
+    "alleged_use": {
+      "CE": 0.08183257240270772,
+      "new_values": [
+        "military barracks",
+        "hospital",
+        "school",
+        "civilian shelter"
+      ]
+    },
+    "condemnation_source": {
+      "CE": 0.007878434727911474,
+      "new_values": [
+        "Amnesty International",
+        "Human Rights Watch",
+        "The International Committee of the Red Cross",
+        "The United Nations"
+      ]
+    },
+    "condemnation_type": {
+      "CE": 0.007636764095119691,
+      "new_values": [
+        "cultural heritage violation",
+        "human rights violation",
+        "unlawful act"
+      ]
+    }
+  },
+  "32": {
+    "role": {
+      "CE": 0.004298204631418247,
+      "new_values": [
+        "civilian",
+        "medic",
+        "pilot",
+        "commander"
+      ]
+    },
+    "charge": {
+      "CE": 0.039084879493662045,
+      "new_values": [
+        "murder",
+        "treason",
+        "desertion",
+        "theft"
+      ]
+    },
+    "defense": {
+      "CE": 0.13509445242776014,
+      "new_values": [
+        "necessity",
+        "duress",
+        "mistake of fact",
+        "self-defense"
+      ]
+    },
+    "fear": {
+      "CE": 0.021655897504266712,
+      "new_values": [
+        "retaliation from comrades",
+        "loss of rank",
+        "being sent to the front lines",
+        "immediate dismissal"
+      ]
+    }
+  },
+  "23": {
+    "executive role": {
+      "CE": 0.007747998289714915,
+      "new_values": [
+        "military officer",
+        "government official",
+        "private contractor",
+        "humanitarian worker"
+      ]
+    },
+    "support provided": {
+      "CE": 0.11897848830598737,
+      "new_values": [
+        "financial support",
+        "weapons",
+        "intelligence",
+        "medical supplies"
+      ]
+    },
+    "recipient of support": {
+      "CE": 0.008447452417914765,
+      "new_values": [
+        "rebel group",
+        "terrorist organization",
+        "private military company",
+        "foreign government"
+      ]
+    },
+    "regime's actions": {
+      "CE": 0.006417468825856999,
+      "new_values": [
+        "war crimes",
+        "genocide",
+        "aggression",
+        "torture"
+      ]
+    },
+    "executive's knowledge": {
+      "CE": 0.004372202641405081,
+      "new_values": [
+        "unwittingly",
+        "negligently",
+        "intentionally"
+      ]
+    },
+    "executive's involvement": {
+      "CE": 0.001399687921398034,
+      "new_values": [
+        "direct role in planning the attacks",
+        "direct role in executing the attacks",
+        "indirect role in planning the attacks",
+        "indirect role in executing the attacks"
+      ]
+    }
+  },
+  "35": {
+    "country": {
+      "CE": 0.0009689551777326307,
+      "new_values": [
+        "U",
+        "V",
+        "W",
+        "X"
+      ]
+    },
+    "product": {
+      "CE": 0.0013330234427783062,
+      "new_values": [
+        "foreign automobiles",
+        "foreign food products",
+        "foreign textiles",
+        "foreign chemicals"
+      ]
+    },
+    "requirement": {
+      "CE": 0.001987252250441209,
+      "new_values": [
+        "ban on all foreign electronics",
+        "import quota for foreign electronics",
+        "safety inspection requirement for all foreign electronics",
+        "local content requirement for electronics"
+      ]
+    },
+    "purpose": {
+      "CE": 0.0034138501170632943,
+      "new_values": [
+        "national security",
+        "public health",
+        "environmental protection",
+        "cultural preservation"
+      ]
+    },
+    "label design": {
+      "CE": 0.09658418215307152,
+      "new_values": [
+        "standardized internationally",
+        "identical to domestic electronics",
+        "optional for exporters"
+      ]
+    },
+    "cost": {
+      "CE": 0.05474763552743512,
+      "new_values": [
+        "inexpensive reconfiguration by exporters",
+        "moderate reconfiguration by exporters",
+        "no reconfiguration by exporters"
+      ]
+    }
+  },
+  "131": {
+    "country of origin": {
+      "CE": 0.0013196142982621045,
+      "new_values": [
+        "State S",
+        "State T",
+        "State U",
+        "State V"
+      ]
+    },
+    "country of interception": {
+      "CE": 0.40490010139022264,
+      "new_values": [
+        "State P",
+        "State S",
+        "State T",
+        "State U"
+      ]
+    },
+    "asylum seekers": {
+      "CE": 0.003474424301501587,
+      "new_values": [
+        "aircraft",
+        "trucks",
+        "buses",
+        "trains"
+      ]
+    },
+    "action taken": {
+      "CE": 0.15415809564464011,
+      "new_values": [
+        "allowed to land and process claims",
+        "detained for processing",
+        "given temporary shelter",
+        "escorted to a third country"
+      ]
+    },
+    "casualties": {
+      "CE": 0.004225226855638649,
+      "new_values": [
+        "no one drowns during the pushback",
+        "one person drowns during the pushback",
+        "all asylum seekers drown during the pushback"
+      ]
+    }
+  },
+  "136": {
+    "president's status": {
+      "CE": 0.03229915800809338,
+      "new_values": [
+        "former president of State R",
+        "vice president of State R",
+        "prime minister of State R",
+        "foreign minister of State R"
+      ]
+    },
+    "indictment": {
+      "CE": 0.03956659241508411,
+      "new_values": [
+        "war crimes by ICC",
+        "genocide by ICC",
+        "aggression by ICC",
+        "crimes against humanity by a domestic court"
+      ]
+    },
+    "state S's status": {
+      "CE": 2.3376384138934414,
+      "new_values": [
+        "non-Rome Statute member",
+        "Rome Statute signatory but not ratified",
+        "Rome Statute member that has withdrawn"
+      ]
+    },
+    "visit request": {
+      "CE": 0.0983104846623544,
+      "new_values": [
+        "for the president's spouse",
+        "for the president's child",
+        "for the president's advisor",
+        "for the president's delegation"
+      ]
+    },
+    "diplomatic pressure": {
+      "CE": 0.0936906089718304,
+      "new_values": [
+        "to arrest the president upon entry",
+        "to deny entry to the president",
+        "to ignore the ICC indictment",
+        "to provide the president with safe passage"
+      ]
+    }
+  },
+  "128": {
+    "corporation_license_state": {
+      "CE": 0.007910017517258196,
+      "new_values": [
+        "State F",
+        "State G",
+        "State H",
+        "State I"
+      ]
+    },
+    "vessel_destination": {
+      "CE": 0.008765286297181513,
+      "new_values": [
+        "State F’s EEZ",
+        "State D’s EEZ",
+        "State E’s territorial waters",
+        "State E’s continental shelf"
+      ]
+    },
+    "waste_type": {
+      "CE": 0.0033422505677042596,
+      "new_values": [
+        "oil",
+        "chemical waste",
+        "radioactive waste",
+        "plastic waste"
+      ]
+    },
+    "waste_disposal_method": {
+      "CE": 0.011438142859274662,
+      "new_values": [
+        "incineration",
+        "landfill",
+        "storage"
+      ]
+    },
+    "environmental_impact": {
+      "CE": 0.009264168205700637,
+      "new_values": [
+        "minor marine life disturbances",
+        "no observable environmental impact",
+        "significant oil spills",
+        "irreversible damage to coral reefs"
+      ]
+    },
+    "state_responsibility_claim": {
+      "CE": 0.012363335298035884,
+      "new_values": [
+        "acknowledges some international responsibility",
+        "accepts full international responsibility",
+        "asserts that State E is responsible",
+        "claims the vessel is solely responsible"
+      ]
+    }
+  },
+  "44": {
+    "tribunal_establishment": {
+      "CE": 0.0021891208163493615,
+      "new_values": [
+        "5 years after acts of aggression",
+        "1 year after acts of aggression",
+        "10 years after acts of aggression",
+        "20 years after acts of aggression"
+      ]
+    },
+    "accused_claim": {
+      "CE": 0.20713117652892904,
+      "new_values": [
+        "violation of the right to a fair trial",
+        "violation of the principle of legality",
+        "violation of the right to be presumed innocent",
+        "violation of the right to an effective remedy"
+      ]
+    }
+  },
+  "54": {
+    "statute of limitations": {
+      "CE": 0.001432833141854005,
+      "new_values": [
+        "10 years",
+        "20 years",
+        "40 years",
+        "5 years"
+      ]
+    },
+    "charges": {
+      "CE": 0.10412081406103885,
+      "new_values": [
+        "war crimes",
+        "crimes against humanity",
+        "torture",
+        "murder"
+      ]
+    },
+    "action taken": {
+      "CE": 0.050950810683173996,
+      "new_values": [
+        "pursued",
+        "dismissed",
+        "investigated",
+        "postponed"
+      ]
+    },
+    "actor": {
+      "CE": 0.023879101031259547,
+      "new_values": [
+        "judge",
+        "defense attorney",
+        "international tribunal"
+      ]
+    },
+    "legal basis cited": {
+      "CE": 0.10041935915492031,
+      "new_values": [
+        "international statute of limitations",
+        "lack of evidence",
+        "amnesty law",
+        "prescription"
+      ]
+    }
+  },
+  "122": {
+    "company type": {
+      "CE": 0.012600711596306982,
+      "new_values": [
+        "public",
+        "state-owned",
+        "governmental"
+      ]
+    },
+    "company location": {
+      "CE": 0.003875745344074981,
+      "new_values": [
+        "State C",
+        "State D",
+        "State E",
+        "State F"
+      ]
+    },
+    "satellite destination": {
+      "CE": 0.003289151842158772,
+      "new_values": [
+        "State B",
+        "State C",
+        "State D"
+      ]
+    },
+    "satellite event": {
+      "CE": 0.002583815609289984,
+      "new_values": [
+        "explosion in orbit",
+        "collision with debris",
+        "malfunction on launch",
+        "uncontrolled re-entry"
+      ]
+    },
+    "damage location": {
+      "CE": 0.005768313901560311,
+      "new_values": [
+        "State C",
+        "State D",
+        "State E",
+        "State F"
+      ]
+    },
+    "State A's claim": {
+      "CE": 0.0090593445650991,
+      "new_values": [
+        "control over the private operator",
+        "the private operator acted without authorization",
+        "the private operator was acting under its own authority",
+        "the private operator was not its agent"
+      ]
+    }
+  },
+  "2": {
+    "peacekeeper's country": {
+      "CE": 0.0009033376384093962,
+      "new_values": [
+        "Country Y",
+        "Country Z",
+        "Country A",
+        "Country B"
+      ]
+    },
+    "peacekeeper's role": {
+      "CE": 0.35005050255020076,
+      "new_values": [
+        "NATO peacekeeper",
+        "African Union peacekeeper",
+        "EU peacekeeper",
+        "regional peacekeeper"
+      ]
+    },
+    "peacekeeper's conduct": {
+      "CE": 0.14955693068474366,
+      "new_values": [
+        "commits a human rights violation",
+        "commits a traffic violation",
+        "commits a minor offense",
+        "commits a crime against property"
+      ]
+    },
+    "location of conduct": {
+      "CE": 0.459410751347878,
+      "new_values": [
+        "territory of Country Y",
+        "international waters",
+        "Country X"
+      ]
+    },
+    "host state's demand": {
+      "CE": 0.029798273025688864,
+      "new_values": [
+        "extradition to the International Criminal Court",
+        "compensation for damages",
+        "a formal apology",
+        "the peacekeeper's removal from the mission"
+      ]
+    },
+    "UN's claim": {
+      "CE": 0.013279028272882269,
+      "new_values": [
+        "waiver of immunity",
+        "responsibility",
+        "jurisdictional dispute",
+        "diplomatic protection"
+      ]
+    }
+  },
+  "107": {
+    "rebel group": {
+      "CE": 0.00042473015863075714,
+      "new_values": [
+        "controls 30% of State F's territory",
+        "controls 90% of State F's territory",
+        "controls 50% of State F's territory"
+      ]
+    },
+    "recognition status": {
+      "CE": 0.16283941474183625,
+      "new_values": [
+        "not recognized by State L",
+        "recognized as a state by State L",
+        "recognized as a government by State L"
+      ]
+    },
+    "conduct": {
+      "CE": 0.0403616876498909,
+      "new_values": [
+        "engages in peaceful negotiations with State F",
+        "establishes a functioning government in the occupied towns",
+        "withdraws from the occupied towns",
+        "commits acts of terrorism against military targets"
+      ]
+    },
+    "legal action": {
+      "CE": 0.02494264530069127,
+      "new_values": [
+        "State F brings a case against State L at the ICJ for providing military assistance to the rebel group",
+        "State F files a complaint against State L at the ICJ for diplomatic support to the rebel group",
+        "State F initiates proceedings against State L at the ICJ for economic aid to the rebel group",
+        "State F challenges State L at the ICJ for political recognition of the rebel group"
+      ]
+    }
+  },
+  "94": {
+    "installer": {
+      "CE": 0.0700774667563859,
+      "new_values": [
+        "State F",
+        "State I",
+        "State J",
+        "State K"
+      ]
+    },
+    "location": {
+      "CE": 0.1366740080966541,
+      "new_values": [
+        "territorial sea of State H",
+        "international waters",
+        "contiguous zone of State H",
+        "archipelagic waters of State H"
+      ]
+    },
+    "purpose": {
+      "CE": 0.11977002860431202,
+      "new_values": [
+        "military exercises",
+        "environmental monitoring",
+        "scientific research",
+        "search and rescue operations"
+      ]
+    },
+    "notification": {
+      "CE": 0.019025045215418743,
+      "new_values": [
+        "after notifying H",
+        "with the consent of H",
+        "without the consent of H"
+      ]
+    },
+    "protest": {
+      "CE": 0.006449230405845625,
+      "new_values": [
+        "State H remains silent",
+        "State H accepts the installation",
+        "State H files a case with ITLOS",
+        "State H issues a diplomatic note"
+      ]
+    }
+  },
+  "77": {
+    "crimes": {
+      "CE": 0.2131877660380079,
+      "new_values": [
+        "against the Uighurs",
+        "against the Yazidis",
+        "against the Tutsi",
+        "against the Herero"
+      ]
+    },
+    "jurisdiction": {
+      "CE": 0.09744513707473595,
+      "new_values": [
+        "ICJ",
+        "ECCC",
+        "ICTY",
+        "ICTR"
+      ]
+    }
+  },
+  "118": {
+    "installing state": {
+      "CE": 0.9602482422928624,
+      "new_values": [
+        "State G",
+        "State H",
+        "State I",
+        "State J"
+      ]
+    },
+    "objecting state": {
+      "CE": 0.11147927723006025,
+      "new_values": [
+        "State H",
+        "State I",
+        "State J",
+        "State K"
+      ]
+    },
+    "activity": {
+      "CE": 0.039887259256370204,
+      "new_values": [
+        "oil drilling",
+        "military exercises",
+        "fishing operations",
+        "underwater mining"
+      ]
+    },
+    "location": {
+      "CE": 0.07951168687703368,
+      "new_values": [
+        "territorial sea of State F",
+        "continental shelf of State F",
+        "high seas"
+      ]
+    },
+    "objection basis": {
+      "CE": 0.03077255026921416,
+      "new_values": [
+        "violation of environmental regulations",
+        "threat to marine life",
+        "infringement of sovereign rights",
+        "disruption of military exercises"
+      ]
+    },
+    "claimed right by F": {
+      "CE": 0.026450484647965986,
+      "new_values": [
+        "sovereign rights over the continental shelf",
+        "rights to exploit renewable energy resources",
+        "jurisdiction over environmental protection"
+      ]
+    },
+    "claimed right by G": {
+      "CE": 0.015094482440380646,
+      "new_values": [
+        "sovereign immunity",
+        "territorial integrity",
+        "environmental protection"
+      ]
+    }
+  },
+  "120": {
+    "state": {
+      "CE": 0.13947708851614757,
+      "new_values": [
+        "L",
+        "M",
+        "N"
+      ]
+    },
+    "action": {
+      "CE": 0.008809682195563877,
+      "new_values": [
+        "unilateral exploration",
+        "unilateral surveying",
+        "unilateral exploitation"
+      ]
+    },
+    "resource": {
+      "CE": 0.005343508514846595,
+      "new_values": [
+        "fisheries",
+        "natural gas reserves",
+        "mineral deposits",
+        "freshwater sources"
+      ]
+    },
+    "location": {
+      "CE": 0.008541640161655133,
+      "new_values": [
+        "land boundary with State L",
+        "airspace boundary with State L",
+        "territorial boundary with State M"
+      ]
+    },
+    "claim": {
+      "CE": 0.04587479397444519,
+      "new_values": [
+        "field is jointly owned by both states",
+        "field lies within an undelimited zone",
+        "field is within its exclusive economic zone",
+        "field is within its continental shelf"
+      ]
+    },
+    "objection": {
+      "CE": 0.0010553521633095593,
+      "new_values": [
+        "State M",
+        "State N",
+        "State P"
+      ]
+    },
+    "assertion": {
+      "CE": 0.014412127692030579,
+      "new_values": [
+        "is within its sovereign rights pending delimitation",
+        "is a legitimate exercise of its continental shelf rights",
+        "does not require prior agreement",
+        "is necessary for its economic development"
+      ]
+    }
+  },
+  "116": {
+    "pipeline_origin": {
+      "CE": 0.022089168768857834,
+      "new_values": [
+        "State D",
+        "State E",
+        "State F",
+        "State G"
+      ]
+    },
+    "pipeline_destination": {
+      "CE": 0.004741612458043425,
+      "new_values": [
+        "State D",
+        "State E",
+        "State F"
+      ]
+    },
+    "pipeline_route": {
+      "CE": 0.002106179076571661,
+      "new_values": [
+        "State D",
+        "State E",
+        "State F",
+        "State G"
+      ]
+    },
+    "suspension_reason": {
+      "CE": 0.05397142416396278,
+      "new_values": [
+        "technical failure",
+        "environmental concerns",
+        "security threat"
+      ]
+    },
+    "suspension_actor": {
+      "CE": 0.005297170194199299,
+      "new_values": [
+        "State B",
+        "State A"
+      ]
+    },
+    "suspension_effect": {
+      "CE": 0.0014368641133642008,
+      "new_values": [
+        "economic losses in State B",
+        "disruptions in State B",
+        "price spikes in State B",
+        "supply chain issues in State B"
+      ]
+    },
+    "invoked_treaty": {
+      "CE": 0.07729242200082054,
+      "new_values": [
+        "WTO Agreement on Trade in Goods",
+        "UN Charter",
+        "Vienna Convention on the Law of Treaties",
+        "International Covenant on Civil and Political Rights"
+      ]
+    },
+    "accused_violation": {
+      "CE": 0.18392286477028588,
+      "new_values": [
+        "investment protections",
+        "fair and equitable treatment",
+        "expropriation provisions",
+        "dispute settlement rules"
+      ]
+    }
+  },
+  "11": {
+    "country of PMC": {
+      "CE": 0.0007084765227774777,
+      "new_values": [
+        "Country C",
+        "Country D",
+        "Country E"
+      ]
+    },
+    "country hiring PMC": {
+      "CE": 0.05909441175647805,
+      "new_values": [
+        "Country B",
+        "Country C",
+        "Country D"
+      ]
+    },
+    "PMC conduct": {
+      "CE": 0.0066372509702125404,
+      "new_values": [
+        "ground operations",
+        "logistical support",
+        "training exercises"
+      ]
+    },
+    "target": {
+      "CE": 0.0010353280930987597,
+      "new_values": [
+        "unmarked Red Cross convoy",
+        "marked Red Crescent convoy",
+        "civilian hospital",
+        "school"
+      ]
+    },
+    "casualties": {
+      "CE": 0.0011519959374297177,
+      "new_values": [
+        "1 civilian",
+        "10 civilians",
+        "50 civilians",
+        "100 civilians"
+      ]
+    },
+    "PMC CEO claim": {
+      "CE": 0.009958972790177783,
+      "new_values": [
+        "pilots acted under direct orders from the CEO",
+        "pilots acted without any orders or rules of engagement",
+        "pilots were following the CEO’s specific instructions",
+        "pilots were acting under the CEO’s supervision"
+      ]
+    },
+    "complaint filed": {
+      "CE": 0.018003892418536737,
+      "new_values": [
+        "ECHR",
+        "national court",
+        "UN Human Rights Council"
+      ]
+    }
+  },
+  "149": {
+    "military presence": {
+      "CE": 0.001424557163364387,
+      "new_values": [
+        "State X has not maintained a military presence in State Y's territory",
+        "State X has maintained a military presence in part of State Y's territory for only a few months",
+        "State X has maintained a military presence in part of State Y's territory for over a decade, but only in a non-combat role",
+        "State X has maintained a military presence in part of State Y's territory for over a decade, but only with State Y's consent"
+      ]
+    },
+    "autonomous government": {
+      "CE": 0.00814339445965916,
+      "new_values": [
+        "State of Z",
+        "Province of Z",
+        "Region of Z",
+        "Government of Z"
+      ]
+    },
+    "government actions": {
+      "CE": 0.0010125516189941194,
+      "new_values": [
+        "maintains a military base and provides security assistance to State X",
+        "conducts joint military exercises with State X",
+        "receives economic aid from State X",
+        "has no formal agreements with State X"
+      ]
+    },
+    "cyberattacks": {
+      "CE": 0.0008213924502505181,
+      "new_values": [
+        "launched by Republic of Z on State Y’s critical infrastructure",
+        "launched by Republic of Z on State Y’s government systems",
+        "launched by Republic of Z on State Y’s military networks",
+        "launched by Republic of Z on State Y’s healthcare systems"
+      ]
+    },
+    "economic impact": {
+      "CE": 0.0010413848014576552,
+      "new_values": [
+        "minor economic disruption in State Y",
+        "no economic disruption in State Y",
+        "limited economic disruption in State Y",
+        "significant economic disruption in State Y"
+      ]
+    },
+    "claim": {
+      "CE": 0.000916156962994226,
+      "new_values": [
+        "State Y brings a complaint before the ICJ",
+        "State Y brings a petition before the ICJ",
+        "State Y brings a case before the ICJ",
+        "State Y brings a dispute before the ICJ"
+      ]
+    },
+    "defense": {
+      "CE": 0.030758944390546984,
+      "new_values": [
+        "State X asserts Z is autonomous and the attacks were not its fault",
+        "State X asserts Z is autonomous and the attacks were justified",
+        "State X asserts Z is autonomous and the attacks were not attributable to it",
+        "State X asserts Z is autonomous and the attacks were not its responsibility"
+      ]
+    }
+  },
+  "52": {
+    "country": {
+      "CE": 0.000837971429189818,
+      "new_values": [
+        "State U",
+        "State V",
+        "State W",
+        "State X"
+      ]
+    },
+    "weapon": {
+      "CE": 0.08180913854459292,
+      "new_values": [
+        "chemical weapons",
+        "biological weapons",
+        "nuclear weapons",
+        "conventional weapons"
+      ]
+    },
+    "situation": {
+      "CE": 0.0059274988601148715,
+      "new_values": [
+        "peacetime",
+        "internal disturbance",
+        "occupation"
+      ]
+    },
+    "civilian presence": {
+      "CE": 0.08367292631909799,
+      "new_values": [
+        "no",
+        "unknown"
+      ]
+    },
+    "treaty status": {
+      "CE": 0.2977375494313223,
+      "new_values": [
+        "a party to the Convention on Cluster Munitions",
+        "a signatory to the Convention on Cluster Munitions",
+        "not a party to the Geneva Conventions"
+      ]
+    }
+  },
+  "108": {
+    "company": {
+      "CE": 0.00016091327593285683,
+      "new_values": [
+        "domestic company",
+        "local entrepreneur",
+        "regional corporation"
+      ]
+    },
+    "state": {
+      "CE": 4.0316471873053244e-05,
+      "new_values": [
+        "State U",
+        "State V",
+        "State W",
+        "State X"
+      ]
+    },
+    "treaty": {
+      "CE": 0.00019026147446870914,
+      "new_values": [
+        "multilateral investment treaty",
+        "free trade agreement",
+        "regional investment agreement"
+      ]
+    },
+    "action": {
+      "CE": 1.887932941628518e-05,
+      "new_values": [
+        "revoking a mining license",
+        "suspension of a mining license",
+        "amending a mining license",
+        "denying a mining license"
+      ]
+    },
+    "reason for action": {
+      "CE": 0.0006878721042993304,
+      "new_values": [
+        "environmental contamination",
+        "human rights violations",
+        "corruption scandal",
+        "economic crisis"
+      ]
+    },
+    "company's claim": {
+      "CE": 0.00041459600298498383,
+      "new_values": [
+        "breach of contract",
+        "denial of justice",
+        "unlawful expropriation",
+        "discrimination"
+      ]
+    },
+    "state's defense": {
+      "CE": 0.00026467761002934713,
+      "new_values": [
+        "obligation to protect public health",
+        "sovereign right to regulate",
+        "obligation to prevent environmental damage",
+        "obligation to uphold human rights"
+      ]
+    }
+  },
+  "18": {
+    "occupying power": {
+      "CE": 0.010507349405774061,
+      "new_values": [
+        "maintains the existing legal system",
+        "abolishes the existing legal system",
+        "modifies the existing legal system",
+        "suspends the existing legal system"
+      ]
+    },
+    "occupied territory": {
+      "CE": 0.0,
+      "new_values": [
+        "occupied territory",
+        "occupied territory"
+      ]
+    },
+    "local population": {
+      "CE": 0.03460316601010702,
+      "new_values": [
+        "accepts",
+        "remains neutral",
+        "supports",
+        "is divided"
+      ]
+    },
+    "reason for imposition": {
+      "CE": 0.08663827571616867,
+      "new_values": [
+        "ensures public order",
+        "protects human rights",
+        "prevents crime",
+        "supports economic development"
+      ]
+    },
+    "basis for resistance": {
+      "CE": 0.028583598678454863,
+      "new_values": [
+        "cultural erosion",
+        "economic hardship",
+        "loss of sovereignty"
+      ]
+    }
+  },
+  "125": {
+    "disputed maritime zone": {
+      "CE": 0.0004653760216426733,
+      "new_values": [
+        "recently discovered oil fields",
+        "strategic military outposts",
+        "traditional fishing grounds"
+      ]
+    },
+    "state asserting historic claim": {
+      "CE": 0.0007969635116059378,
+      "new_values": [
+        "State A",
+        "State B",
+        "State E"
+      ]
+    },
+    "state asserting UNCLOS EEZ rights": {
+      "CE": 0.00010718968583416132,
+      "new_values": [
+        "State E",
+        "State F",
+        "State G"
+      ]
+    },
+    "arrested fishermen": {
+      "CE": 0.0010372495513205225,
+      "new_values": [
+        "State D’s fishermen",
+        "a third-party state’s fishermen",
+        "State C’s military personnel"
+      ]
+    },
+    "arresting state": {
+      "CE": 0.0009179511110270046,
+      "new_values": [
+        "State E",
+        "State F",
+        "State G"
+      ]
+    }
+  },
+  "12": {
+    "coastal state": {
+      "CE": 0.010560574054191488,
+      "new_values": [
+        "does not extend EEZ claim beyond 200 nautical miles",
+        "extends EEZ claim to 350 nautical miles",
+        "extends EEZ claim to 200 nautical miles"
+      ]
+    },
+    "claimed area": {
+      "CE": 0.0225588757574349,
+      "new_values": [
+        "seabed rich in oil",
+        "seabed rich in natural gas",
+        "seabed rich in fish",
+        "seabed rich in rare earth minerals"
+      ]
+    },
+    "other state": {
+      "CE": 0.01515648905297447,
+      "new_values": [
+        "submits a formal protest to the ISA",
+        "files a case with the International Tribunal for the Law of the Sea",
+        "recognizes the coastal State's claim",
+        "begins commercial mining"
+      ]
+    },
+    "other state's argument": {
+      "CE": 0.03562272810901452,
+      "new_values": [
+        "zone is beyond the outer limits of the continental shelf",
+        "zone is part of the coastal State's continental shelf",
+        "zone is not subject to any State's jurisdiction"
+      ]
+    }
+  },
+  "31": {
+    "employee status": {
+      "CE": 0.014752020342527842,
+      "new_values": [
+        "former employee of an international organization",
+        "independent contractor for an international organization",
+        "employee of a national government"
+      ]
+    },
+    "organization location": {
+      "CE": 0.0005713186226024821,
+      "new_values": [
+        "Country Q",
+        "Country R",
+        "Country S",
+        "Country T"
+      ]
+    },
+    "legal claim": {
+      "CE": 0.001930085141322124,
+      "new_values": [
+        "tort",
+        "criminal offense",
+        "defamation",
+        "unlawful termination"
+      ]
+    },
+    "court type": {
+      "CE": 0.00795873627493079,
+      "new_values": [
+        "international courts",
+        "regional courts",
+        "national courts"
+      ]
+    },
+    "immunity claim": {
+      "CE": 0.08009557301880371,
+      "new_values": [
+        "absolute immunity",
+        "no immunity",
+        "diplomatic immunity"
+      ]
+    },
+    "dispute type": {
+      "CE": 0.1848634912509538,
+      "new_values": [
+        "public dispute",
+        "criminal dispute",
+        "employment dispute"
+      ]
+    }
+  },
+  "30": {
+    "armed force": {
+      "CE": 0.013001823076952804,
+      "new_values": [
+        "unarmed force",
+        "civilian force",
+        "rebel group",
+        "international organization"
+      ]
+    },
+    "target": {
+      "CE": 0.04414812020430747,
+      "new_values": [
+        "military barracks",
+        "empty field",
+        "hospital",
+        "school"
+      ]
+    },
+    "civilians present": {
+      "CE": 0.9803363596702317,
+      "new_values": [
+        "none",
+        "a few",
+        "thousands"
+      ]
+    },
+    "situation": {
+      "CE": 0.012155307673149731,
+      "new_values": [
+        "pursuit",
+        "retreat",
+        "advance",
+        "withdrawal"
+      ]
+    }
+  },
+  "105": {
+    "armed conflict": {
+      "CE": 0.0007326045050705795,
+      "new_values": [
+        "peacetime",
+        "international armed conflict",
+        "non-international armed conflict"
+      ]
+    },
+    "target": {
+      "CE": 0.006532038121221842,
+      "new_values": [
+        "command center",
+        "ammunition storage",
+        "communication hub",
+        "medical supplies depot"
+      ]
+    },
+    "location": {
+      "CE": 0.19437297520259653,
+      "new_values": [
+        "school",
+        "university",
+        "marketplace",
+        "apartment building"
+      ]
+    },
+    "civilian presence": {
+      "CE": 0.0003117849299127765,
+      "new_values": [
+        "staff",
+        "visitors",
+        "medical personnel",
+        "refugees"
+      ]
+    },
+    "casualties": {
+      "CE": 0.025681013067709074,
+      "new_values": [
+        "no civilians",
+        "10 civilians",
+        "over 100 civilians"
+      ]
+    },
+    "claim": {
+      "CE": 0.03576114782019005,
+      "new_values": [
+        "imminent threat",
+        "command center",
+        "active participation",
+        "no military objective"
+      ]
+    }
+  },
+  "117": {
+    "country": {
+      "CE": 0.00427499609232047,
+      "new_values": [
+        "State F",
+        "State G",
+        "State H",
+        "State I"
+      ]
+    },
+    "industry": {
+      "CE": 0.0018197968830418786,
+      "new_values": [
+        "oil",
+        "natural gas",
+        "nuclear",
+        "fossil fuels"
+      ]
+    },
+    "action": {
+      "CE": 0.0020287346746918154,
+      "new_values": [
+        "regulates",
+        "bans",
+        "restricts",
+        "nationalizes"
+      ]
+    },
+    "reason": {
+      "CE": 0.0038555047470694905,
+      "new_values": [
+        "environmental protection laws",
+        "public health concerns",
+        "sustainable development policies",
+        "climate change mitigation"
+      ]
+    },
+    "affected party": {
+      "CE": 0.0006492392856803506,
+      "new_values": [
+        "domestic investor",
+        "state-owned enterprise",
+        "private company"
+      ]
+    },
+    "investor's country": {
+      "CE": 0.0014810421545788956,
+      "new_values": [
+        "State F",
+        "State G",
+        "State H",
+        "State I"
+      ]
+    },
+    "investor's claim": {
+      "CE": 0.010263405343417577,
+      "new_values": [
+        "domestic court",
+        "international court",
+        "mediation",
+        "negotiation"
+      ]
+    },
+    "claim basis": {
+      "CE": 0.002594162186498394,
+      "new_values": [
+        "multilateral investment treaty (MIT)",
+        "free trade agreement (FTA)",
+        "investment contract"
+      ]
+    },
+    "investor's argument": {
+      "CE": 0.008784127084882031,
+      "new_values": [
+        "breach of fair and equitable treatment",
+        "denial of justice",
+        "unlawful expropriation",
+        "violation of most-favored-nation treatment"
+      ]
+    }
+  },
+  "15": {
+    "tariff rate": {
+      "CE": 0.023550834046250572,
+      "new_values": [
+        "50%",
+        "10%",
+        "0%",
+        "300%"
+      ]
+    },
+    "imported goods": {
+      "CE": 0.0020959769539075565,
+      "new_values": [
+        "textiles",
+        "steel",
+        "automobiles",
+        "electronics"
+      ]
+    },
+    "exporting country": {
+      "CE": 0.00024058417062874715,
+      "new_values": [
+        "Country Z",
+        "Country A",
+        "Country B",
+        "Country C"
+      ]
+    },
+    "importing country": {
+      "CE": 0.0008690173021570503,
+      "new_values": [
+        "Country Z",
+        "Country A",
+        "Country B",
+        "Country C"
+      ]
+    },
+    "basis for tariff": {
+      "CE": 0.03184951537866544,
+      "new_values": [
+        "national security concerns",
+        "protection of domestic industry",
+        "environmental protection",
+        "public health concerns"
+      ]
+    },
+    "forum for complaint": {
+      "CE": 0.1048585521024054,
+      "new_values": [
+        "ICJ",
+        "ICSID",
+        "UN Human Rights Council"
+      ]
+    },
+    "alleged violations": {
+      "CE": 0.035924319363183306,
+      "new_values": [
+        "GATT Article XI obligations",
+        "GATT Article III obligations",
+        "GATT Article II obligations",
+        "GATT Article XX exceptions"
+      ]
+    }
+  },
+  "1": {
+    "country_granting_tariff": {
+      "CE": 0.003499874068119253,
+      "new_values": [
+        "Country B",
+        "Country C"
+      ]
+    },
+    "country_receiving_tariff": {
+      "CE": 0.005146742155005315,
+      "new_values": [
+        "Country C",
+        "Country D",
+        "Country E"
+      ]
+    },
+    "tariff_rate": {
+      "CE": 0.004075462883439074,
+      "new_values": [
+        "10%",
+        "0%",
+        "15%"
+      ]
+    },
+    "import_type": {
+      "CE": 0.002659798519595557,
+      "new_values": [
+        "textile imports",
+        "manufactured goods",
+        "automobiles",
+        "steel products"
+      ]
+    },
+    "agreement_type": {
+      "CE": 0.0395331320200331,
+      "new_values": [
+        "multilateral agreement",
+        "preferential trade agreement",
+        "free trade agreement",
+        "regional trade agreement"
+      ]
+    },
+    "claiming_country": {
+      "CE": 0.0007908922495093041,
+      "new_values": [
+        "Country D",
+        "Country E",
+        "Country F",
+        "Country G"
+      ]
+    },
+    "claimed_tariff_rate": {
+      "CE": 0.004075462883439074,
+      "new_values": [
+        "10%",
+        "0%",
+        "15%"
+      ]
+    },
+    "claim_basis": {
+      "CE": 0.02468997660726406,
+      "new_values": [
+        "GSP",
+        "GATT Article XI",
+        "GATT Article XXIV",
+        "GATT Article XX"
+      ]
+    },
+    "refusal_reason": {
+      "CE": 0.03399604510301411,
+      "new_values": [
+        "lack of reciprocity",
+        "insufficient market access",
+        "national security concerns",
+        "economic development priorities"
+      ]
+    }
+  },
+  "40": {
+    "role": {
+      "CE": 0.010562834647586334,
+      "new_values": [
+        "lieutenant",
+        "captain",
+        "sergeant",
+        "soldier"
+      ]
+    },
+    "location": {
+      "CE": 0.0003928667066333518,
+      "new_values": [
+        "State H",
+        "Country X",
+        "Region Z",
+        "Nation Y"
+      ]
+    },
+    "conduct": {
+      "CE": 0.015655179694425807,
+      "new_values": [
+        "ordering the torture",
+        "preventing the torture",
+        "participating in the torture",
+        "reporting the torture"
+      ]
+    },
+    "awareness": {
+      "CE": 0.0023129528264241818,
+      "new_values": [
+        "war crimes by troops",
+        "human rights abuses by troops",
+        "atrocities by troops",
+        "illegal detentions by troops"
+      ]
+    },
+    "claim": {
+      "CE": 0.008282045694971242,
+      "new_values": [
+        "directly involved",
+        "unaware of the torture",
+        "ordered the torture",
+        "not in command at the time"
+      ]
+    }
+  },
+  "22": {
+    "country_closing_airspace": {
+      "CE": 0.0009638044090397906,
+      "new_values": [
+        "Country H",
+        "Country J",
+        "Country K",
+        "Country L"
+      ]
+    },
+    "country_affected": {
+      "CE": 0.0016024557300163029,
+      "new_values": [
+        "Country H",
+        "Country I",
+        "Country J",
+        "Country K"
+      ]
+    },
+    "reason_for_closure": {
+      "CE": 0.0733605257064928,
+      "new_values": [
+        "environmental concerns",
+        "public health crisis",
+        "air traffic congestion",
+        "military exercises"
+      ]
+    },
+    "international_agreement": {
+      "CE": 0.0722301011775991,
+      "new_values": [
+        "Paris Convention",
+        "Montreal Protocol",
+        "Hague Code",
+        "Geneva Convention"
+      ]
+    },
+    "complaint_venue": {
+      "CE": 0.0017049332617828413,
+      "new_values": [
+        "WTO",
+        "UN",
+        "bilateral_negotiations",
+        "regional_air_organization"
+      ]
+    }
+  },
+  "114": {
+    "diplomat's state": {
+      "CE": 0.29098012441174403,
+      "new_values": [
+        "State P",
+        "State Q",
+        "State R",
+        "State S"
+      ]
+    },
+    "host state": {
+      "CE": 0.0022100542222669157,
+      "new_values": [
+        "State P",
+        "State Q",
+        "State R",
+        "State S"
+      ]
+    },
+    "diplomat's role": {
+      "CE": 0.04274774256985641,
+      "new_values": [
+        "consular officer",
+        "international organization representative",
+        "administrative staff"
+      ]
+    },
+    "conduct": {
+      "CE": 0.09294835551464259,
+      "new_values": [
+        "committing espionage",
+        "smuggling weapons",
+        "committing tax evasion",
+        "driving under the influence"
+      ]
+    },
+    "status": {
+      "CE": 0.004514989845826394,
+      "new_values": [
+        "detained",
+        "questioned",
+        "held",
+        "apprehended"
+      ]
+    },
+    "basis for arrest": {
+      "CE": 0.012284434117228439,
+      "new_values": [
+        "a serious crime",
+        "a violation of local laws",
+        "a threat to national security",
+        "a breach of diplomatic norms"
+      ]
+    },
+    "diplomat's claim": {
+      "CE": 0.10527059068857175,
+      "new_values": [
+        "limited diplomatic immunity under the Vienna Convention on Diplomatic Relations (VCDR)",
+        "no diplomatic immunity under the Vienna Convention on Diplomatic Relations (VCDR)",
+        "diplomatic immunity under the Vienna Convention on Consular Relations (VCCR)",
+        "diplomatic immunity under the Vienna Convention on the Law of Treaties (VCLT)"
+      ]
+    }
+  },
+  "26": {
+    "country": {
+      "CE": 0.0027874029662298167,
+      "new_values": [
+        "Country X",
+        "Country Y",
+        "Country Z"
+      ]
+    },
+    "alleged crimes": {
+      "CE": 0.0014481665468332374,
+      "new_values": [
+        "crimes against humanity",
+        "genocide",
+        "aggression",
+        "torture"
+      ]
+    },
+    "alleged perpetrators": {
+      "CE": 0.0023853048740888902,
+      "new_values": [
+        "civilians",
+        "government officials",
+        "militia members",
+        "private security contractors"
+      ]
+    },
+    "domestic investigation status": {
+      "CE": 0.015713259467107575,
+      "new_values": [
+        "closed",
+        "ongoing and active",
+        "not yet opened"
+      ]
+    },
+    "ICC consideration": {
+      "CE": 0.009469759543524511,
+      "new_values": [
+        "has already launched its own investigation",
+        "is not considering any investigation",
+        "is considering a full trial",
+        "is considering a preliminary examination"
+      ]
+    }
+  },
+  "143": {
+    "asylum seeker status": {
+      "CE": 0.052859249884229804,
+      "new_values": [
+        "low-profile",
+        "recognized refugee",
+        "undocumented immigrant"
+      ]
+    },
+    "accusation": {
+      "CE": 0.00916234952550608,
+      "new_values": [
+        "committing war crimes",
+        "spying for a foreign power",
+        "inciting violence",
+        "trafficking illegal weapons"
+      ]
+    },
+    "home country": {
+      "CE": 0.0034649702953280645,
+      "new_values": [
+        "State C",
+        "State D",
+        "State E",
+        "State F"
+      ]
+    },
+    "risk in home country": {
+      "CE": 0.08082680597430665,
+      "new_values": [
+        "imprisonment",
+        "persecution",
+        "death penalty",
+        "forced labor"
+      ]
+    },
+    "State A claim": {
+      "CE": 0.0176766768215946,
+      "new_values": [
+        "public safety requires expulsion",
+        "economic interests require expulsion",
+        "diplomatic relations require expulsion",
+        "judicial efficiency requires expulsion"
+      ]
+    }
+  },
+  "45": {
+    "investor's action": {
+      "CE": 0.010747273499573362,
+      "new_values": [
+        "seeks arbitration under a BIT",
+        "initiates proceedings under a BIT",
+        "files a case under a BIT",
+        "pursues a dispute under a BIT"
+      ]
+    },
+    "local remedies used": {
+      "CE": 0.09563458961665083,
+      "new_values": [
+        "some",
+        "all",
+        "one"
+      ]
+    },
+    "reason for bypassing local remedies": {
+      "CE": 0.0015918542133255462,
+      "new_values": [
+        "prolonged delays",
+        "lack of independence",
+        "inconsistent rulings",
+        "corruption"
+      ]
+    },
+    "investor's argument": {
+      "CE": 0.0692478289690125,
+      "new_values": [
+        "local remedies are not exhausted",
+        "local remedies are not available",
+        "local remedies are not effective",
+        "local remedies are not appropriate"
+      ]
+    }
+  },
+  "3": {
+    "country": {
+      "CE": 0.0009069235674635213,
+      "new_values": [
+        "Country Z",
+        "State X",
+        "Nation A",
+        "Republic B"
+      ]
+    },
+    "violation": {
+      "CE": 0.3520450216883387,
+      "new_values": [
+        "national treatment",
+        "most-favored-nation treatment",
+        "full protection and security",
+        "expropriation"
+      ]
+    },
+    "act": {
+      "CE": 0.0008095091696617264,
+      "new_values": [
+        "gradually banning cryptocurrency exchanges",
+        "imposing strict regulations on cryptocurrency exchanges",
+        "temporarily suspending cryptocurrency exchanges",
+        "requiring licensing for cryptocurrency exchanges"
+      ]
+    },
+    "defense": {
+      "CE": 0.02237075027144182,
+      "new_values": [
+        "necessary for public health",
+        "necessary for national security",
+        "necessary to protect investors",
+        "necessary to prevent fraud"
+      ]
+    }
+  },
+  "51": {
+    "investor's state": {
+      "CE": 0.0017989248037758511,
+      "new_values": [
+        "State S",
+        "State R",
+        "State T"
+      ]
+    },
+    "host state": {
+      "CE": 0.0008947499782253704,
+      "new_values": [
+        "State S",
+        "State T",
+        "State U"
+      ]
+    },
+    "treaty state": {
+      "CE": 0.0007051999984127254,
+      "new_values": [
+        "State T",
+        "State U",
+        "State V",
+        "State W"
+      ]
+    },
+    "arbitration provision absence": {
+      "CE": 0.0022968737178963813,
+      "new_values": [
+        "BIT between State Q and State S",
+        "BIT between State R and State S",
+        "BIT between State Q and State T",
+        "BIT between State R and State T"
+      ]
+    },
+    "invoked principle": {
+      "CE": 0.02379879911249376,
+      "new_values": [
+        "national treatment",
+        "fair and equitable treatment",
+        "umbrella clause",
+        "most-favored-labor"
+      ]
+    }
+  },
+  "141": {
+    "ship flag": {
+      "CE": 0.325408255696969,
+      "new_values": [
+        "State X",
+        "State Y",
+        "State Z"
+      ]
+    },
+    "ship location": {
+      "CE": 0.017731763674409807,
+      "new_values": [
+        "State T's territorial waters",
+        "State U's territorial waters",
+        "State V's territorial waters"
+      ]
+    },
+    "destination": {
+      "CE": 0.0021267573382350025,
+      "new_values": [
+        "State V's port",
+        "State W's port",
+        "State X's port",
+        "State Y's port"
+      ]
+    },
+    "hostages": {
+      "CE": 0.00039783497154336346,
+      "new_values": [
+        "passengers",
+        "captain",
+        "officers"
+      ]
+    },
+    "prosecutor": {
+      "CE": 0.0007475845494071635,
+      "new_values": [
+        "State W",
+        "State X",
+        "State Y",
+        "State Z"
+      ]
+    },
+    "jurisdiction basis": {
+      "CE": 0.059029632368709006,
+      "new_values": [
+        "active personality principle",
+        "protective principle",
+        "passive personality principle",
+        "territoriality principle"
+      ]
+    },
+    "protestor": {
+      "CE": 0.010246757056358741,
+      "new_values": [
+        "State T",
+        "State V",
+        "State W"
+      ]
+    }
+  },
+  "36": {
+    "investor's state": {
+      "CE": 0.0008291323468361668,
+      "new_values": [
+        "State C",
+        "State D",
+        "State E",
+        "State F"
+      ]
+    },
+    "defendant state": {
+      "CE": 0.0003112282334098606,
+      "new_values": [
+        "State C",
+        "State D",
+        "State E",
+        "State F"
+      ]
+    },
+    "forum": {
+      "CE": 0.05790637226345343,
+      "new_values": [
+        "international tribunal",
+        "regional court",
+        "arbitral tribunal"
+      ]
+    },
+    "cause of action": {
+      "CE": 0.006460287898319499,
+      "new_values": [
+        "breach of contract",
+        "denial of justice",
+        "unfair treatment",
+        "discrimination"
+      ]
+    },
+    "duration of case": {
+      "CE": 0.00403300632134719,
+      "new_values": [
+        "1 year",
+        "5 years",
+        "2 years",
+        "15 years"
+      ]
+    },
+    "justification for delay": {
+      "CE": 0.027146513767380493,
+      "new_values": [
+        "administrative backlog",
+        "judicial strike",
+        "lack of judicial resources",
+        "complex legal issues"
+      ]
+    },
+    "arbitration mechanism": {
+      "CE": 0.008869541867868437,
+      "new_values": [
+        "ICSID",
+        "UNCITRAL",
+        "domestic court"
+      ]
+    }
+  },
+  "92": {
+    "state conducting strike": {
+      "CE": 0.0012646851440529516,
+      "new_values": [
+        "State C",
+        "State D",
+        "State E",
+        "State F"
+      ]
+    },
+    "state targeted": {
+      "CE": 0.02278738650985761,
+      "new_values": [
+        "State C",
+        "State D",
+        "State E",
+        "State F"
+      ]
+    },
+    "target": {
+      "CE": 0.006805573180013649,
+      "new_values": [
+        "state-sponsored terrorist group",
+        "foreign military force",
+        "civilian population"
+      ]
+    },
+    "consent of targeted state": {
+      "CE": 0.004131728921181844,
+      "new_values": [
+        "yes",
+        "implied"
+      ]
+    },
+    "basis for strike": {
+      "CE": 0.008890229368824179,
+      "new_values": [
+        "self-defense under customary international law",
+        "consent of State B",
+        "necessity and proportionality",
+        "responsibility to protect"
+      ]
+    }
+  },
+  "148": {
+    "nationality": {
+      "CE": 0.006759306468599079,
+      "new_values": [
+        "national of State A only",
+        "national of State B only",
+        "national of State C"
+      ]
+    },
+    "imprisonment location": {
+      "CE": 0.07831388234226436,
+      "new_values": [
+        "State A",
+        "State C"
+      ]
+    },
+    "treatment": {
+      "CE": 0.002488962361942756,
+      "new_values": [
+        "detained and interrogated",
+        "deported",
+        "denied entry",
+        "subjected to inhuman conditions"
+      ]
+    },
+    "release status": {
+      "CE": 0.0012714011377046909,
+      "new_values": [
+        "not released",
+        "deported",
+        "escaped"
+      ]
+    },
+    "return location": {
+      "CE": 0.05489849975076597,
+      "new_values": [
+        "State C",
+        "State B"
+      ]
+    },
+    "claim type": {
+      "CE": 0.08710494858368956,
+      "new_values": [
+        "extradition",
+        "asylum",
+        "compensation"
+      ]
+    },
+    "defense": {
+      "CE": 0.1609373416413336,
+      "new_values": [
+        "effective link standard",
+        "genuine connection standard",
+        "domicile standard",
+        "habitual residence standard"
+      ]
+    }
+  },
+  "33": {
+    "fishing vessel origin": {
+      "CE": 0.0011278649045329784,
+      "new_values": [
+        "State S",
+        "State T",
+        "State U",
+        "State V"
+      ]
+    },
+    "fishing location": {
+      "CE": 0.1867991591108892,
+      "new_values": [
+        "State R’s territorial sea",
+        "State R’s archipelagic waters",
+        "State R’s internal waters",
+        "State S’s EEZ"
+      ]
+    },
+    "pursuit location": {
+      "CE": 0.038455947044708234,
+      "new_values": [
+        "State R’s EEZ",
+        "State Q’s EEZ"
+      ]
+    },
+    "seizing authority": {
+      "CE": 0.002721680337987257,
+      "new_values": [
+        "State R’s navy",
+        "State R’s customs",
+        "State R’s police",
+        "State R’s maritime authority"
+      ]
+    },
+    "vessel status": {
+      "CE": 0.06497786010029535,
+      "new_values": [
+        "legally fishing",
+        "in distress",
+        "sinking"
+      ]
+    },
+    "protestor": {
+      "CE": 0.015457593852561097,
+      "new_values": [
+        "vessel’s owner",
+        "vessel’s captain",
+        "State Q"
+      ]
+    }
+  }
+}

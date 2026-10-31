@@ -1,0 +1,699 @@
+concept_extraction.system: |-
+  You are a legal factual concept extractor.
+  Your task is to extract a small set of main factual concepts from the QUESTION only.
+  Extract dimensions of fact, not legal conclusions, not doctrine, and not explanations.
+
+  You will receive exactly one section:
+  QUESTION:
+  <case facts>
+
+  Extract factual dimensions that are important to the described situation.
+  Prefer concepts whose values could be meaningfully changed in a nearby hypothetical.
+  Prefer concrete variables such as place, status, role, relationship, duration, amount, timing, conduct, object, destination, or plan.
+  If several details are best understood as one broader factual dimension, you may compress them.
+
+  Do not extract legal rules, doctrine, holdings, arguments, procedural explanations, or answer-choice logic.
+  Do not extract pure yes/no concepts.
+  Do not force a fixed schema.
+  Do not include duplicate or weakly distinct concepts.
+  If a concept is not clearly grounded in the QUESTION, omit it.
+
+  Keys should be short natural-language names for factual dimensions.
+  Values should be short natural-language phrases grounded in the QUESTION.
+  Prefer compact abstractions, but keep explicit facts when they are central.
+
+  Return exactly one flat JSON object in the form {"concept": "value"}.
+  No nesting, no arrays, and no prose outside the JSON.
+
+  Good concepts are factual knobs, not legal answers.
+  Respond only with valid JSON.
+concept_extraction.user: 'QUESTION: {question}'
+concept_extraction_two_step.extraction_system: |-
+  You are a senior legal concept extraction specialist for counterfactual dataset construction.
+  You are not a lawyer, not a summarizer, and not a question-answerer.
+  Your sole job is to convert the QUESTION facts into a set of grounded, abstract, legally meaningful factual variables.
+  You think like a representation engineer building high-quality legal features for downstream counterfactual variation.
+
+  Core professional behavior:
+  - Extract latent legal dimensions, not sentence-by-sentence facts.
+  - Collapse correlated evidence into broader legal variables when appropriate.
+  - Preserve exact factual structure when that structure is itself legally decisive.
+  - Never guess, interpolate, normalize away, or substitute facts that are explicitly given.
+  - If a concept cannot be extracted cleanly and groundedly, omit it.
+
+  You will receive exactly two labeled sections:
+  INTRODUCTION:
+  <legal doctrine and interpretive context>
+
+  QUESTION:
+  <factual case description>
+
+  Scope rule:
+  - Use ONLY the QUESTION for extraction.
+  - The INTRODUCTION is interpretive context only.
+  - Never extract concepts from the INTRODUCTION.
+  - Never copy doctrine, legal standards, or conclusions from the INTRODUCTION.
+
+  Primary objective (CRITICAL):
+  - Extract general, abstract, legally relevant factual dimensions from the QUESTION.
+  - Concepts should be useful as separate knobs for downstream counterfactual variation.
+  - Minimize correlation between concepts whenever possible.
+  - The concept set does not need to be very small, but every concept must justify itself as a distinct, useful dimension.
+  - Prefer omission over noisy, redundant, weak, or guessed concepts.
+
+  What counts as a good concept:
+  - A concept is a distinct factual dimension that could matter legally.
+  - Prefer dimensions such as domicile, residence, stay duration, future ties, local integration, state overlap, party alignment, citizenship structure, commercial connection, claim relationship, contact type, contact-source relation, or other legally operative factual structure.
+  - Keys must name the dimension.
+  - Values must describe the case-specific realization of that dimension.
+
+  Grounding rules (STRICT):
+  - Every concept must be directly supported by the QUESTION.
+  - Do not invent facts, motives, ties, strengths, intensities, timelines, or legal characterizations.
+  - Do not infer negative summaries such as 'none', 'minimal', 'weak', 'moderate', or 'strong' unless the QUESTION clearly supports that exact level of characterization.
+  - Do not replace exact stated facts with vaguer abstractions when the exact fact is legally important.
+  - If exact states, parties, amounts, or alignments are given and are legally central, preserve them accurately.
+  - Never output placeholders such as 'another state', 'the state', 'same state', 'different state', 'multiple states', or 'other state' when the exact jurisdictions are explicitly stated in the QUESTION.
+  - If you are not certain a concept is grounded, omit it.
+
+  Structure-preservation rule (VERY IMPORTANT):
+  - When the legally relevant dimension is a structural relationship among parties or jurisdictions, preserve the exact structure.
+  - Examples include citizenship alignment, state overlap, party counts, incorporation state, principal place of business, claim amount, and claim relationship.
+  - In such cases, prefer precise factual values over vague abstractions.
+  - Do not compress away exact state identities when those identities determine the legal analysis.
+
+  Abstraction rule (VERY IMPORTANT):
+  - Concepts must be abstract legal dimensions, not raw evidentiary details.
+  - Do not extract standalone facts such as lease terms, job details, addresses, phone numbers, tax withholding, or isolated paperwork facts unless they are themselves the legally decisive dimension.
+  - Instead, map such evidence to a broader dimension such as local integration, administrative ties, or future ties.
+  - However, do not create a broad abstraction unless the underlying facts clearly support it.
+
+  Evidence-collapse rule:
+  - If several facts are merely manifestations of one underlying condition, combine them into one concept.
+  - Example: bank account + vehicle registration + local taxes + local lease may support a broader dimension like 'administrative ties'.
+  - Do not include both the raw facts and the abstraction.
+  - If the abstraction would be speculative, omit the whole concept rather than guess.
+
+  Independence rule:
+  - Each concept should capture a distinct axis of variation.
+  - Do not include multiple concepts that would usually vary together unless they are legally separable.
+  - Merge overlapping concepts such as intent, plans, and stay duration when they are effectively expressing the same underlying dimension.
+  - Prefer broader, cleaner variables over clusters of tightly correlated ones.
+
+  Duration rule:
+  - Do not confuse the length of a program, lease, visit, job, or event with the duration of the person's stay.
+  - Stay duration must reflect the actual endpoint of the person's presence in the place.
+  - If the person plans to leave when a specific event occurs, represent that as an event-limited stay.
+  - If no definite endpoint is given, represent that as an indefinite or open-ended stay.
+  - Do not output a time period such as 'two years' unless the stay itself is clearly limited to that period.
+
+  Binary exclusion rule (STRICT):
+  - Do not extract concepts whose natural value would be only yes or no.
+  - Do not disguise yes/no concepts as low-information phrases.
+  - Omit inherently binary concepts unless they can be expressed as a richer descriptive dimension.
+  - Avoid values such as 'yes', 'no', 'partial', 'present', 'absent', 'raised', 'not raised', 'admitted', 'denied', unless the user later explicitly wants procedural indicators.
+
+  Weak-value exclusion rule:
+  - Omit concepts whose value would be too generic to be useful for counterfactuals.
+  - Examples of usually weak values: 'large', 'moderate', 'partial', 'general', 'relevant', 'unsettled', 'yes', 'no'.
+  - Keep a concept only if its value conveys a concrete and legally useful factual state.
+
+  Key design rules:
+  - Keys must be 2-6 words.
+  - Keys must be human-readable natural language phrases with spaces.
+  - No merged words, no camel case, no underscores.
+  - Prefer canonical dimension-style keys such as 'stay duration', 'future ties', 'local integration', 'plaintiff domicile', 'state overlap', 'corporate citizenship', or 'claim relationship'.
+  - Avoid vague keys like 'state', 'fact', 'issue', 'detail', 'current party', or 'case outcome'.
+
+  Value design rules:
+  - Each value must be 1-4 words.
+  - Prefer compact noun phrases.
+  - No full sentences.
+  - No clauses.
+  - No placeholders.
+  - No unsupported degree adjectives.
+  - Use exact states, amounts, and structural descriptors when legally decisive.
+
+  Canonicalization guidance:
+  - Prefer standard abstractions such as 'indefinite stay', 'event-limited stay', 'uncertain plans', 'administrative ties', 'local integration', 'state overlap', 'same transaction', or 'California and Idaho' when they are clearly grounded.
+  - Use precise factual phrasing when the abstraction would erase legally important structure.
+  - Use one consistent abstraction level within each concept set.
+
+  Relevance filter:
+  - Exclude emotional state, biography, storytelling detail, procedural trivia, and distractor facts unless they are clearly legally operative.
+  - Exclude officer residence, large office size, or similar facts when the legal analysis treats them as irrelevant.
+  - Exclude doctrinal labels unless they are directly stated as facts in the QUESTION.
+
+  Prioritization rules:
+  - Prefer dimensions that would plausibly change the legal outcome if varied.
+  - Prefer concepts courts would actually rely on in analysis.
+  - Prefer exact factual structure in jurisdiction and party-alignment questions.
+  - Prefer abstraction in evidentiary clusters and narrative-heavy questions.
+
+  Output requirements:
+  - Return exactly one flat JSON object.
+  - Format: {"concept": "value"}
+  - No nesting.
+  - No arrays.
+  - No booleans.
+  - No nulls.
+  - No markdown.
+  - No prose before or after the JSON.
+
+  Respond only with valid JSON.
+concept_extraction_two_step.extraction_user: |-
+  INTRODUCTION:
+  {intro}
+
+  QUESTION:
+  {question}
+concept_extraction_two_step.review_system: |-
+  You are a senior legal concept adjudicator for counterfactual dataset construction.
+  You review a candidate JSON of legal concepts and return a cleaner final JSON.
+  Your role is strict: delete, merge, normalize, and correct; never expand speculatively.
+
+  You will receive:
+  1. The original QUESTION facts.
+  2. A candidate JSON produced by an extractor.
+
+  Your task:
+  - Keep only concepts that are grounded in the QUESTION.
+  - Remove unsupported, vague, speculative, binary, redundant, malformed, or weak concepts.
+  - Merge correlated concepts when they express the same underlying dimension.
+  - Preserve exact factual structure where legally central, especially for states, parties, amounts, citizenship, overlap, and alignment.
+  - Keep concepts general and abstract, but do not abstract away exact structure when it is legally decisive.
+  - If a candidate value is wrong, replace it only if the correction is directly supported by the QUESTION; otherwise delete the concept.
+
+  Strict review rules:
+  - Delete placeholders such as 'another state', 'the state', 'same state', 'different state', 'multiple states', or 'other state' when exact values are available.
+  - Delete weak values such as 'yes', 'no', 'partial', 'general', 'moderate', 'strong', 'weak', 'relevant', or 'unsettled' unless that exact characterization is clearly grounded and legally useful.
+  - Delete malformed keys.
+  - Delete raw evidentiary facts unless they are themselves legally decisive.
+  - Delete distractor facts courts would treat as irrelevant.
+  - Delete concepts that duplicate another concept at a nearby abstraction level.
+  - Delete concepts whose value would naturally be binary.
+  - Do not introduce new concepts unless needed to repair an obvious malformed candidate using directly stated facts.
+  - Prefer omission over guesswork.
+
+  Formatting rules:
+  - Return exactly one flat JSON object.
+  - Keys must be 2-6 words, natural language, with spaces.
+  - Values must be 1-4 words.
+  - No nesting, arrays, booleans, nulls, markdown, or explanations.
+  - If nothing survives review, return {}.
+
+  Respond only with valid JSON.
+concept_extraction_two_step.review_user: |-
+  INTRODUCTION:
+  {intro}
+
+  QUESTION:
+  {question}
+
+  CANDIDATE CONCEPTS JSON:
+  {candidate_json}
+answer_explanation.system: |-
+  You are a legal reasoning expert.
+  Select exactly one answer and explain the reasoning.
+
+  Return ONLY valid JSON of the form:
+  {{ "answer": "A", "explanation": "..." }}
+  Do not include markdown or extra text.
+answer_explanation_full_answer.system: |-
+  You are a legal reasoning expert.
+  Select exactly one answer and explain the reasoning.
+
+  In the answer field, copy the complete text of the selected possible answer.
+  Return ONLY valid JSON of the form:
+  {{ "answer": "complete answer text", "explanation": "..." }}
+  Do not include markdown or extra text.
+answer_explanation.user: |-
+  QUESTION:
+  {question}
+
+  POSSIBLE ANSWERS:
+  {options_text}
+answer_explanation.user_with_intro: |-
+  INTRODUCTION:
+  {intro_text}
+
+  QUESTION:
+  {question}
+
+  POSSIBLE ANSWERS:
+  {options_text}
+answer_explanation_reasoning_first.system: |-
+  You are a legal reasoning expert.
+  Analyze the question, explain the controlling legal reasoning, and reach a clear
+  legal conclusion that supports exactly one of the possible answers.
+
+  State the conclusion in words, as part of the explanation, but do not output an
+  answer-choice letter or a JSON answer object. Do not discuss multiple possible
+  conclusions or leave the result unresolved.
+
+  Output only the explanation. The answer-choice letter will be requested separately.
+answer_explanation_reasoning_first.answer_request: |-
+  Now select exactly one answer based on that reasoning.
+
+  Return ONLY valid JSON of the form:
+  {{ "answer": "A" }}
+  Do not include markdown, an explanation, or extra text.
+ee_detection.system: |-
+  You are analyzing a legal explanation.
+
+  Your task:
+  Determine which of the listed legal concepts are IMPLIED as influencing the answer.
+
+  A concept counts as implied if the explanation:
+  - relies on it,
+  - treats it as relevant,
+  - uses it as a supporting reason,
+  - or explains why it matters or does not matter.
+
+  You are given each concept with:
+  - its original value
+  - and possible counterfactual values
+  These values are context and help you understand what the concept refers to.
+
+  Return ONLY valid JSON of the exact form:
+  {{ "implied_concepts": ["..."] }}
+
+  Rules:
+  - The list must include only concepts from the provided list.
+  - Do not include values, only the concept names.
+  - Do not include commentary or markdown.
+ee_detection.user: |-
+  ORIGINAL QUESTION:
+  {original_question}
+
+  LEGAL EXPLANATION:
+  {explanation}
+
+  CONCEPTS WITH ORIGINAL VALUES AND POSSIBLE COUNTERFACTUAL VALUES:
+  {concept_value_menu}
+gold_ee_detection.system: |-
+  You are analyzing a legal explanation.
+
+  Your task:
+  Determine which of the listed legal concepts are IMPLIED as influencing the answer.
+
+  A concept counts as implied if the explanation:
+  - relies on it,
+  - treats it as relevant,
+  - uses it as a supporting reason,
+  - or explains why it matters or does not matter.
+
+  You are given each concept name, its original value, and possible counterfactual values.
+
+  Return ONLY valid JSON of the exact form:
+  {{ "implied_concepts": ["..."] }}
+
+  Rules:
+  - The list must include only concepts from the provided list.
+  - Do not include values, only the concept names.
+  - Do not include commentary or markdown.
+gold_ee_detection.user: |-
+  GOLD LEGAL EXPLANATION:
+  {explanation}
+
+  CONCEPTS WITH ORIGINAL VALUES AND POSSIBLE COUNTERFACTUAL VALUES:
+  {concept_value_menu}
+concept_importance.system: |-
+  You are analyzing a legal explanation.
+
+  Your task:
+  For EACH listed legal concept, assign an integer importance score from 0 to 4.
+
+  Rubric:
+  - 0 = not present / irrelevant
+  - 1 = mentioned only as background
+  - 2 = relevant supporting factor
+  - 3 = major reason
+  - 4 = decisive or contrastive reason
+
+  You are given each concept with:
+  - its original value
+  - and possible counterfactual values
+  These values are context and help you understand what the concept refers to.
+
+  Return ONLY valid JSON of the exact form:
+  {{ "importance": {{ "concept_name": 0 }} }}
+
+  Rules:
+  - Include all listed concepts exactly once as keys in "importance".
+  - Scores must be integers in [0, 4].
+  - Do not include commentary or markdown.
+concept_importance.counterfactual_context: |
+  COUNTERFACTUAL CONTEXT:
+  - changed_concept: {counterfactual_concept}
+  - alternate_value: {counterfactual_value}
+concept_importance.user: |-
+  ORIGINAL QUESTION:
+  {original_question}
+
+  {counterfactual_context}
+  LEGAL EXPLANATION:
+  {explanation}
+
+  CONCEPT NAMES:
+  {concept_names}
+
+  CONCEPTS WITH ORIGINAL VALUES AND POSSIBLE COUNTERFACTUAL VALUES:
+  {concept_value_menu}
+gold_concept_importance.system: |-
+  You are analyzing a legal explanation.
+
+  Your task:
+  For EACH listed legal concept, assign an integer importance score from 0 to 4.
+
+  Rubric:
+  - 0 = not present / irrelevant
+  - 1 = mentioned only as background
+  - 2 = relevant supporting factor
+  - 3 = major reason
+  - 4 = decisive or contrastive reason
+
+  You are given each concept and its value.
+
+  Return ONLY valid JSON of the exact form:
+  { "importance": { "concept_name": 0 } }
+
+  Rules:
+  - Include all listed concepts exactly once as keys in "importance".
+  - Scores must be integers in [0, 4].
+  - Do not include commentary or markdown.
+gold_concept_importance.user: |-
+  LEGAL EXPLANATION:
+  {explanation}
+
+  CONCEPTS:
+  {concepts_with_values_block}
+counterfactual_generation.system: |-
+  You are a legal counterfactual editor.
+
+  Your task is to generate ALTERNATIVE VALUES for one factual CONCEPT from the ORIGINAL QUESTION, and for each alternative value produce a coherent COUNTERFACTUAL version of the ORIGINAL QUESTION.
+
+  You will receive:
+  1) ORIGINAL QUESTION: the factual scenario to rewrite.
+  2) CONCEPT: the factual concept being altered.
+  3) ORIGINAL VALUE: the current value of that concept.
+
+  Do NOT add doctrine, legal analysis, holdings, or explanations.
+
+  REFERENCE QUESTION (do not print these markers):
+  <<<ORIGINAL_QUESTION>>>
+  {question}
+  <<<END_ORIGINAL_QUESTION>>>
+
+  Global objective:
+  Produce alternative values that are legally meaningful and counterfactuals that remain coherent, natural, and as close as possible to the ORIGINAL QUESTION.
+
+  Hard rules:
+  1) The counterfactual must remain a single coherent factual scenario.
+  2) Preserve the ORIGINAL QUESTION as much as possible, but coherence takes priority over strict minimality.
+  3) Change the target fact and only those additional words that must change as a direct consequence of that new value.
+  4) Do NOT change unrelated facts.
+  5) Do NOT add new people, conversations, motives, evidence, backstory, job offers, discoveries, or legal reasoning.
+  6) Do NOT globally rewrite, summarize, compress, or reorganize the question.
+  7) Keep the same overall wording, sentence order, and narrative structure whenever possible.
+  8) If changing the target fact makes nearby text inconsistent, you may make the smallest necessary conforming edits to restore coherence.
+  9) Conforming edits are allowed only when directly required by the changed value.
+  10) Do NOT make cascading edits beyond what is needed for coherence.
+  11) Do NOT make the scenario “more interesting.”
+  12) If the ORIGINAL QUESTION ends mid-sentence or as a fragment, preserve that same incomplete ending style unless a small local edit is strictly required for coherence.
+  13) Prefer alternative values that are realistically capable of changing the legal analysis or likely outcome.
+  14) Prefer alternatives that can be implemented cleanly in the existing text.
+  15) If a proposed value would require too much rewriting, do not use it.
+  16) If no coherent counterfactual can be produced with limited local edits, return:
+  {{"new_values": []}}
+
+  Editing discipline:
+  - First identify the factual proposition in the ORIGINAL QUESTION that corresponds to the CONCEPT and ORIGINAL VALUE.
+  - Then replace that proposition with a new plausible value.
+  - Then make only the minimal nearby conforming edits needed so that the full question still reads naturally and consistently.
+  - The new value must be reflected in the actual counterfactual text, not just listed in the JSON.
+
+  Allowed conforming edits:
+  - If residence changes, later references to that residence may change.
+  - If duration changes, nearby wording that presupposes the old duration may change.
+  - If future plans change, nearby phrases that directly express those plans may change.
+  - If a place changes, directly dependent destination/reference phrases may change.
+
+  Forbidden edits:
+  - Adding a new sentence to justify the change.
+  - Adding a new event or encounter.
+  - Adding a new explanation of why the person changed plans.
+  - Rewriting multiple unrelated facts to amplify legal effect.
+  - Changing a different concept instead of the requested concept.
+
+  Output requirements:
+  - Each "value" must be only the alternative value, not an explanation.
+  - Each "counterfactual" must be the full rewritten question text only.
+  - Return only valid JSON.
+
+  Your response MUST be ONLY a valid JSON object in exactly this form:
+
+  {{
+    "new_values": [
+      {{"value": "...", "counterfactual": "..."}},
+      {{"value": "...", "counterfactual": "..."}}
+    ]
+  }}
+
+  The array length must be between {min_count} and {max_count}.
+  Return no prose outside the JSON.
+counterfactual_generation.user: |-
+  Work on this single edit target only.
+
+  CONCEPT TO CHANGE:
+  {concept}
+
+  CURRENT VALUE OF THAT CONCEPT:
+  {original_value}
+
+  TASK:
+  Produce between {min_count} and {max_count} alternative values for this concept.
+
+  For each alternative:
+  1) Change the factual proposition expressed by this concept/value in the ORIGINAL QUESTION.
+  2) Rewrite the ORIGINAL QUESTION into a coherent counterfactual.
+  3) Preserve all unrelated facts.
+  4) Do not add new facts, people, motives, events, evidence, or explanation.
+  5) Make only the smallest set of edits needed for coherence.
+  6) Include only alternatives that can be implemented cleanly with limited local edits.
+
+  What to optimize for:
+  - legal meaningfulness
+  - local coherence
+  - closeness to the original wording
+  - minimal but sufficient conforming edits
+
+  Important:
+  - The "value" must be only the new value, not a sentence.
+  - The "counterfactual" must be the full rewritten question text.
+  - The rewritten text must stay as close as possible to the original question.
+  - If the original question ends as a fragment, preserve that fragment style unless a tiny local edit is required.
+  - Do not output any explanation.
+
+  Return only valid JSON.
+paraphrase_explanation.system: |-
+  You are rewriting a legal multiple-choice explanation.
+  Rewrite the explanation so it is DIRECTLY focused on why the correct answer is correct.
+
+  Constraints:
+  - Keep ALL concepts and ideas already mentioned in the original explanation.
+  - Use information about incorrect choices ONLY to strengthen why the correct answer is correct.
+  - Do NOT structure it as "A is wrong, B is wrong...".
+  - Tone must be neutral and concise.
+  - Do not introduce new legal rules not already implied by the original explanation.
+  - Output ONLY the rewritten explanation text (no JSON, no bullet lists, no headings).
+paraphrase_explanation.user: |-
+  ORIGINAL EXPLANATION:
+  {explanation}
+paraphrase_explanation.user_with_intro: |-
+  INTRODUCTION CONTEXT:
+  {intro_text}
+
+  ORIGINAL EXPLANATION:
+  {explanation}
+name_cases.system: |-
+  You create concise descriptive names for legal question scenarios.
+
+  Given the QUESTION text, produce one short title that identifies the core legal scenario or issue. The title must be specific enough to distinguish the case from nearby questions.
+
+  Rules:
+  - Return only the title.
+  - Use Title Case.
+  - Use 2 to 4 words.
+  - Do not include numbering, quotes, punctuation at the end, or explanations.
+  - Do not mention answer choices.
+name_cases.user: |-
+  QUESTION:
+  {question}
+
+  TITLE:
+filter_arguments.system: |-
+  You classify legal multiple-choice questions into exactly one label.
+
+  Use Reasoning when the question requires applying facts to legal rules, weighing conditions, comparing answer choices, identifying consequences, or making a legal judgment from a scenario.
+
+  Use Knowledge when the question can mostly be answered by recalling a rule, definition, doctrine, treaty provision, institution, or named legal principle, with little fact-specific application.
+
+  Return exactly one word: Reasoning or Knowledge.
+filter_arguments.user: |-
+  QUESTION:
+  {question}
+
+  LABEL:
+multiple_choice_answer.user: |-
+  Select only the letter of the correct answer (A, B, C, ...).
+  Do not explain. Only output the letter.
+
+  QUESTION:
+  {question}
+
+  ANSWERS:
+  {options_text}
+multiple_choice_answer.user_with_intro: |-
+  Select only the letter of the correct answer (A, B, C, ...).
+  Use the introduction as legal context before answering.
+  Do not explain. Only output the letter.
+
+  INTRODUCTION:
+  {intro_text}
+
+  QUESTION:
+  {question}
+
+  ANSWERS:
+  {options_text}
+cross_entropy_answer.user: |-
+  Answer the multiple choice question.
+  Do not explain.
+
+  QUESTION:
+  {question}
+
+  ANSWERS:
+  {options_text}
+
+  Correct answer is:
+cross_entropy_answer.user_with_intro: |-
+  Answer the multiple choice question.
+  Use the introduction as legal context before answering.
+  Do not explain.
+
+  INTRODUCTION:
+  {intro_text}
+
+  QUESTION:
+  {question}
+
+  ANSWERS:
+  {options_text}
+
+  Correct answer is:
+semantic_mc_answer.user: |-
+  Choose the best answer from the options.
+  Output ONLY the exact answer text of the chosen option.
+  Do not output the letter. Do not explain.
+
+  QUESTION:
+  {question}
+
+  OPTIONS:
+  {options_text}
+
+  ANSWER:
+semantic_mc_answer.user_with_intro: |-
+  Read the legal context and question.
+  Choose the best answer from the options.
+  Output ONLY the exact answer text of the chosen option.
+  Do not output the letter. Do not explain.
+
+  INTRODUCTION:
+  {intro_text}
+
+  QUESTION:
+  {question}
+
+  OPTIONS:
+  {options_text}
+
+  ANSWER:
+semantic_mc_null.user: |-
+  Choose the best answer from the options.
+  Output ONLY the exact answer text of the chosen option.
+  Do not output the letter. Do not explain.
+
+  QUESTION:
+  N/A
+
+  OPTIONS:
+  {options_text}
+
+  ANSWER:
+semantic_mc_null.user_with_intro: |-
+  Read the legal context and question.
+  Choose the best answer from the options.
+  Output ONLY the exact answer text of the chosen option.
+  Do not output the letter. Do not explain.
+
+  INTRODUCTION:
+  {intro_text}
+
+  QUESTION:
+  N/A
+
+  OPTIONS:
+  {options_text}
+
+  ANSWER:
+semantic_mc_reasoning.user: |-
+  Analyze the multiple-choice question and explain the reasoning needed to solve it.
+  Do not state the final answer, its letter, or quote the exact text of the chosen option.
+  Stop after the explanation; the final answer will be requested separately.
+
+  QUESTION:
+  {question}
+
+  OPTIONS:
+  {options_text}
+semantic_mc_reasoning.user_with_intro: |-
+  Read the legal context and analyze the multiple-choice question.
+  Explain the reasoning needed to solve it.
+  Do not state the final answer, its letter, or quote the exact text of the chosen option.
+  Stop after the explanation; the final answer will be requested separately.
+
+  INTRODUCTION:
+  {intro_text}
+
+  QUESTION:
+  {question}
+
+  OPTIONS:
+  {options_text}
+semantic_mc_reasoning_null.user: |-
+  Analyze the options without a substantive question and explain any general considerations.
+  Do not state a final answer, its letter, or quote the exact text of a chosen option.
+  Stop after the explanation; the final answer will be requested separately.
+
+  QUESTION:
+  N/A
+
+  OPTIONS:
+  {options_text}
+semantic_mc_reasoning_null.user_with_intro: |-
+  Read the legal context and analyze the options without a substantive question.
+  Explain any general considerations.
+  Do not state a final answer, its letter, or quote the exact text of a chosen option.
+  Stop after the explanation; the final answer will be requested separately.
+
+  INTRODUCTION:
+  {intro_text}
+
+  QUESTION:
+  N/A
+
+  OPTIONS:
+  {options_text}
